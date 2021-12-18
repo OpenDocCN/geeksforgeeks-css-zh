@@ -6,7 +6,7 @@
 
 Bootstrap 主要在我们的布局、网格系统和组件的源 Sass 文件中使用以下媒体查询范围或断点。
 
-```
+```html
 // Extra small devices (portrait phones, less than 576px)
 // No media query since this is the default in Bootstrap
 
@@ -28,7 +28,7 @@ Bootstrap 主要在我们的布局、网格系统和组件的源 Sass 文件中�
 复制下面的代码并保存。htm 扩展和调整浏览器窗口大小查看效果
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>

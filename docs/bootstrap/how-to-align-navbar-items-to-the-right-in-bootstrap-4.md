@@ -8,7 +8,7 @@
 
 *   **程序:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -63,7 +63,7 @@
 
 *   **程序:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 

@@ -14,7 +14,7 @@
 
 **在 HTML 元素中添加工具提示标记–**
 
-```
+```html
 <a href="#" data-toggle="tooltip" 
     title="Some Information or Hint">
     Hover over me
@@ -23,7 +23,7 @@
 
 **将 jQuery 添加到** [**<脚本>标记**](https://www.geeksforgeeks.org/html-script-tag/) **以触发工具提示–**
 
-```
+```html
 <script>
     $(document).ready(function () {
           $('[data-toggle="tooltip"]').tooltip();
@@ -35,7 +35,7 @@
 
 默认情况下，引导工具提示插件总是出现在元素的顶部。但是我们可以使用数据放置属性来改变工具提示插件的位置，这样我们就可以将工具提示放置在元素的顶部、底部、左侧或右侧。
 
-```
+```html
 <a href="#" data-toggle="tooltip" 
     data-placement="top" 
     title="Tooltip on top">
@@ -63,7 +63,7 @@
 
 我们还可以通过 JavaScript 定位工具提示:
 
-```
+```html
 <script>
     $(document).ready(function () {
 
@@ -83,7 +83,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

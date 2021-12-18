@@ -8,7 +8,7 @@ Bootstrap 4 支持自定义浏览器的默认表单和控件布局。可以使�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -82,7 +82,7 @@ Bootstrap 4 支持自定义浏览器的默认表单和控件布局。可以使�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -147,7 +147,7 @@ Bootstrap 4 支持自定义浏览器的默认表单和控件布局。可以使�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -212,7 +212,7 @@ Bootstrap 4 支持自定义浏览器的默认表单和控件布局。可以使�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -291,7 +291,7 @@ Bootstrap 4 支持自定义浏览器的默认表单和控件布局。可以使�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -348,7 +348,7 @@ Bootstrap 4 支持自定义浏览器的默认表单和控件布局。可以使�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -419,7 +419,7 @@ Bootstrap 4 支持自定义浏览器的默认表单和控件布局。可以使�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -487,7 +487,7 @@ Bootstrap 4 支持自定义浏览器的默认表单和控件布局。可以使�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

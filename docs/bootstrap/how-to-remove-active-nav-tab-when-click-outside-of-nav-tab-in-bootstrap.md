@@ -6,7 +6,7 @@ Bootstrap 有一个名为**“折叠导航条-折叠”**的类，当用户改�
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -11,7 +11,7 @@ Twitter Bootstrap 广泛使用**特定类**来实现所有各种各样的功能�
 
 **基本方法:**假设我们想要隐藏一个特定的 div。我们所需要做的就是*根据我们的需求*将那个 div 应用到我们需要的特定类。上面列出了类名。
 
-```
+```html
 <div class="d-sm-none">hide on small screens</div>
 <div class="d-xs-none">hide on extra small screens</div>
 <div class="d-md-none">hide on medium screens</div>
@@ -27,7 +27,7 @@ Twitter Bootstrap 广泛使用**特定类**来实现所有各种各样的功能�
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

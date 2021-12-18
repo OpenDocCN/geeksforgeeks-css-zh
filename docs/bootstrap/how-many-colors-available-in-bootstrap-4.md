@@ -21,7 +21,7 @@ Bootstrap 4 [](https://www.geeksforgeeks.org/bootstrap-tutorials/)支持 10 种�
 
 ## 超文本标记语言
 
-```
+```html
 <html>
 <head>
     <link rel="stylesheet"
@@ -107,7 +107,7 @@ Bootstrap 4 [](https://www.geeksforgeeks.org/bootstrap-tutorials/)支持 10 种�
 
 ## 超文本标记语言
 
-```
+```html
 <html>
 <head>
     <link rel="stylesheet"

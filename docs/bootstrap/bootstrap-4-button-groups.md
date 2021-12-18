@@ -10,7 +10,7 @@ Bootstrap 提供的类允许沿着同一条线，水平或垂直分组按钮。�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en"> 
 <head> 
@@ -65,7 +65,7 @@ Bootstrap 提供的类允许沿着同一条线，水平或垂直分组按钮。�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en"> 
 <head> 
@@ -120,7 +120,7 @@ Bootstrap 提供的类允许沿着同一条线，水平或垂直分组按钮。�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en"> 
 <head> 
@@ -209,7 +209,7 @@ Bootstrap 提供的类允许沿着同一条线，水平或垂直分组按钮。�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en"> 
 <head> 
@@ -273,7 +273,7 @@ Bootstrap 提供的类允许沿着同一条线，水平或垂直分组按钮。�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en"> 
 <head> 
@@ -341,7 +341,7 @@ Bootstrap 提供的类允许沿着同一条线，水平或垂直分组按钮。�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en"> 
 <head> 

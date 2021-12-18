@@ -41,25 +41,25 @@ Bootstrap 有许多工具类可以轻松地为 HTML 中的元素设置样式。�
 
 *   对于断点–xs:
 
-```
+```html
 <div class="mt-4">
 ```
 
 *   对于断点–MD:
 
-```
+```html
 <div class="mt-md-4">
 ```
 
 *   对于断点–LG:
 
-```
+```html
 <div class="mt-lg-4">
 ```
 
 *   对于断点–XL:
 
-```
+```html
 <div class="mt-xl-4">
 ```
 
@@ -82,7 +82,7 @@ Bootstrap 有许多工具类可以轻松地为 HTML 中的元素设置样式。�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -133,7 +133,7 @@ Bootstrap 有许多工具类可以轻松地为 HTML 中的元素设置样式。�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -175,7 +175,7 @@ Bootstrap 有许多工具类可以轻松地为 HTML 中的元素设置样式。�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>

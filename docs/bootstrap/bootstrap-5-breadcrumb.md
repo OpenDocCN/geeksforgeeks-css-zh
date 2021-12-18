@@ -6,7 +6,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 **语法:**
 
-```
+```html
 <ol class="breadcrumb">
   <li class="breadcrumb-item"> Content .. </li>
 </ol>
@@ -14,7 +14,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 **示例 1:** 该示例用于显示 Bootstrap 5 中面包屑的工作方式。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -59,7 +59,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 **示例 2:** 本示例使用 Bootstrap 5 展示面包屑的工作方式。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -104,7 +104,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 **示例 3:** 本示例使用 Bootstrap 5 展示面包屑的工作方式。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

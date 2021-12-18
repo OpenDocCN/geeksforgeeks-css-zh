@@ -5,7 +5,7 @@
 您可以使用 Bootstrap 的 Javascript Modal 插件来创建用户通知、灯箱或自定义内容框。
 **例:**
 
-```
+```html
 <html>
 <head> 
 <title>Modal example</title> 
@@ -68,7 +68,7 @@ aria-labelledby="practiseModalLabel" aria-hidden="true">
 **垂直居中的模态:**
 要垂直居中一个模态，你应该在有“模态对话框”类的 div 中添加一个“模态对话框居中”类。
 
-```
+```html
 <!DOCTYPE html> 
 <head> 
 <title>Modal example</title> 
@@ -133,7 +133,7 @@ crossorigin="anonymous"></script>
 
 **源代码:**
 
-```
+```html
 <!DOCTYPE html> 
 <head> 
 <title>Modal example</title> 

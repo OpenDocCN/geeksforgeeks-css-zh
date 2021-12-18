@@ -51,7 +51,7 @@
 
 **第三步:将下面的代码包含在<正文>中，接受用户的时间。**
 
-```
+```html
 <div class="container" style="margin: 50px">  
    <div style="position: relative">  
        <input class="form-control" type="text" id="time"/>  
@@ -63,7 +63,7 @@
 
 **第四步:在<正文>标签后添加<脚本>标签中的以下 JavaScript，指定“HH:mm:ss”格式为 DateTimePicker。**
 
-```
+```html
 $('#time').datetimepicker({
     format: 'yyyy-mm-dd'
 });
@@ -75,7 +75,7 @@ $('#time').datetimepicker({
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

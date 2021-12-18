@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -62,7 +62,7 @@ class = " alignone size-medium WP-image-843349 "/>
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -89,7 +89,7 @@ class = " alignone size-medium WP-image-843349 "/>
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -119,7 +119,7 @@ class = " alignone size-medium WP-image-843349 "/>
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -148,7 +148,7 @@ class = " alignone size-medium WP-image-843349 "/>
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -176,7 +176,7 @@ class = " alignone size-medium WP-image-843349 "/>
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -202,7 +202,7 @@ class = " alignone size-medium WP-image-843349 "/>
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -236,7 +236,7 @@ class = " alignone size-medium WP-image-844239 "/>
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>

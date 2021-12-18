@@ -6,13 +6,13 @@
 
 *   **步骤 1:** 转到您的项目，打开您的终端或命令行，然后键入命令。基本上，这个命令把这个项目置于 npm 的控制之下。
 
-    ```
+    ```html
     $ npm init -y
     ```
 
 *   **步骤 2:** 使用命令安装模块/包。此后，您将看到一个名为 node_modules 的新文件夹，在该文件夹中，将有一个引导文件夹，在该文件夹中，您将看到一个名为 SASS 的文件夹。
 
-    ```
+    ```html
     $ npm install bootstrap--save 
     ```
 
@@ -20,13 +20,13 @@
 
 *   **步骤 3:** 创建自己的自定义 sass 文件。让我们创建一个名为 main.scss 的文件。然后使用命令导入 main.scss 文件中的所有引导 scss 文件
 
-    ```
+    ```html
     @import "node_modules/bootstrap/scss/bootstrap";
     ```
 
     现在从你的终端键入命令来执行你的文件。
 
-    ```
+    ```html
     $ sass main.scss main.css;
     ```
 
@@ -34,7 +34,7 @@
 
 *   **第 4 步:**现在你可以简单地在 main.scss 文件中重写你的默认值，你所要做的就是写命令，比如
 
-    ```
+    ```html
     $theme-colors: (
       "primary": #521751,
       "danger": #b80c03
@@ -43,13 +43,13 @@
 
     在跨 Sass 文件进行覆盖时，必须在导入引导数据库的 Sass 文件之前进行覆盖。因此，我们必须在
 
-    ```
+    ```html
     @import "node_modules/bootstrap/scss/bootstrap"; 
     ```
 
     现在，当我们在导入的 Bootstrap Sass 文件上编写代码时，我们可以重新执行。一旦完成，你就能看到变化。
 
-    ```
+    ```html
     $ sass main.scss main.css;
     ```
 
@@ -57,7 +57,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -81,7 +81,7 @@
 
 ## main . scss
 
-```
+```html
 $theme-colors: (
   "primary": #521751,
   "danger": #b80c03
@@ -97,7 +97,7 @@ $theme-colors: (
 
 *   进行更改和重新剪辑后:
 
-    ```
+    ```html
     $ sass main.scss main.css;
     ```
 

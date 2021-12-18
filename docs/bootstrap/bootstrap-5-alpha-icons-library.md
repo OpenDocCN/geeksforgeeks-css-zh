@@ -12,7 +12,7 @@ bootstrap 第一次有了自己的图标库，它是为 Bootstrap 组件和文�
 
 **使用 npm 通过命令行安装引导图标。**
 
-```
+```html
 npm install bootstrap-icons
 ```
 
@@ -30,7 +30,7 @@ npm install bootstrap-icons
 
 *   **将 SVG 复制粘贴为嵌入的 HTML :** 将图标嵌入到页面的 HTML 中(相对于外部图像文件)。这里我们使用了自定义的宽度和高度。
 
-    ```
+    ```html
     <svg class="bi bi-chevron-right " 
          width="64" height="64" 
          viewBox="0 0 20 20" fill="currentColor" 
@@ -45,7 +45,7 @@ npm install bootstrap-icons
 
     **示例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
         <head>
@@ -86,7 +86,7 @@ npm install bootstrap-icons
 
     **示例:**
 
-    ```
+    ```html
     <svg class="bi" width="40" 
          height="40" fill="currentColor">
       <use xlink:href=
@@ -112,7 +112,7 @@ npm install bootstrap-icons
 
     **示例:**
 
-    ```
+    ```html
     <img src="/Icons/img/bootstrap.svg" 
          alt="" width="40"
          height="40" title="Icons">
@@ -128,7 +128,7 @@ npm install bootstrap-icons
 
     **示例:**
 
-    ```
+    ```html
     <svg class="bi bi-alert-triangle text-success " 
          width="40" height="40" 
          viewBox="0 0 20 20"

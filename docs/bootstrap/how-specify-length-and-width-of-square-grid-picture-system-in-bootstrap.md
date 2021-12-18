@@ -15,7 +15,7 @@ Bootstrap 中有五个类可以改变长度和宽度，使用这个基本概念�
 **例 1:** 这里你会看到三个网格宽度相同的图像，但是如果屏幕变小，那么第三个网格会改变行，变得比其他两个更宽。
 T3】例:
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -71,7 +71,7 @@ href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 **示例 2:** 在这里，您将看到包含图像的网格的三种不同宽度。
 T3】例:
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

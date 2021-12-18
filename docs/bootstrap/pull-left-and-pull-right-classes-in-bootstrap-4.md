@@ -12,7 +12,7 @@ Bootstrap 4 中的**.Pull-Left**和**.Pull-Right**类已替换为**.Float-Left**
 
 **示例：**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -61,7 +61,7 @@ Bootstrap 4 中的**.Pull-Left**和**.Pull-Right**类已替换为**.Float-Left**
 
 **示例：**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -115,7 +115,7 @@ Bootstrap 4 中的**.Pull-Left**和**.Pull-Right**类已替换为**.Float-Left**
 
 **示例：**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

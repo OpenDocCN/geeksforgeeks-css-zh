@@ -22,7 +22,7 @@
 
 **解决方案:**
 
-```
+```html
 <!-- Here, you are provided button 'Toggle' to hide & show content 
 to help you understand how sticky footer with flex is working. -->
 

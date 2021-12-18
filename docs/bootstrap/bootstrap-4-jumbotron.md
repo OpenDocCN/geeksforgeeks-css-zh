@@ -11,7 +11,7 @@
 
 **语法:**
 
-```
+```html
 <div class="jumbtron"> Contents... <div>
 ```
 
@@ -19,7 +19,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -67,7 +67,7 @@
 **全宽大屏幕:***。混杂流体*和*。容器*或*。container-fluid* 类用于创建一个没有圆角边框的全幅大屏幕。
 **语法:**
 
-```
+```html
 <div class="jumbotron jumbotron-fluid">
     <div class="container"> Contents... <div>
 <div>
@@ -77,7 +77,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

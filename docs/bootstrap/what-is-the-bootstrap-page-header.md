@@ -14,7 +14,7 @@
 
 **第三步:**要使用页眉，请将您的页眉包装在一个<分区>中，该分区的等级为**。页首**。
 
-```
+```html
 <div class = "page-header"> </div>
 
 ```
@@ -23,7 +23,7 @@
 
 ## index.html
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -74,7 +74,7 @@
 
 ## index.html
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

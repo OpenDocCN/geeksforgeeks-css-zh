@@ -61,7 +61,7 @@ Bootstrap 是一个免费的开源工具集合，用于创建响应性网站和�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -8,7 +8,7 @@ Bootstrap 为制作 [popovers](https://www.geeksforgeeks.org/popovers-in-bootstr
 
 *   **程序:**
 
-    ```
+    ```html
     <!-- Using jQuery initialization only -->
     <!DOCTYPE html>
     <html>
@@ -59,7 +59,7 @@ Bootstrap 为制作 [popovers](https://www.geeksforgeeks.org/popovers-in-bootstr
 
 *   **程序:**
 
-    ```
+    ```html
     <!-- Using data-trigger attribute -->
     <!DOCTYPE html>
     <html>

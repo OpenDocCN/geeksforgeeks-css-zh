@@ -9,7 +9,7 @@
 以下是一些示例，解释了 BootStrap 中的大小调整和可用的类:
 **示例 1:**
 
-```
+```html
 <html>
     <head>
         <title>GeeksForGeeks</title>
@@ -47,7 +47,7 @@
 
 **例 2:**
 
-```
+```html
 <html>
     <head>
         <title>GeeksForGeeks</title>
@@ -96,7 +96,7 @@ We can also adjust the size of input elements in bootstrap by the use of classes
 
 **例 1:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -184,7 +184,7 @@ We can also adjust the size of input elements in bootstrap by the use of classes
 
 **例 2:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

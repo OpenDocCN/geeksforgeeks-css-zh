@@ -9,7 +9,7 @@
 
 **语法:**
 
-```
+```html
 <code>
     <!--inline code goes here-->
 </code>
@@ -19,7 +19,7 @@
 
 **语法:**
 
-```
+```html
 <pre>
     <!-- code block goes here -->
 </pre>
@@ -33,7 +33,7 @@
 
 **第二步:**添加 **<代码>** 标签显示内联代码， **<前置>** 标签显示代码块。
 
-```
+```html
 <code>&lt;html&gt;&lt;/html&gt;</code> are 
 wrapped as an inline elements.
 
@@ -50,7 +50,7 @@ wrapped as an inline elements.
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

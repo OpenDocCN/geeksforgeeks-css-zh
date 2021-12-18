@@ -18,7 +18,7 @@
 
 **语法:**
 
-```
+```html
 <div class="media-left">
     <img src="...">
 </div>
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -119,7 +119,7 @@
 
 **语法:**
 
-```
+```html
 <div class="media-top">
     <img src="...">
 </div>
@@ -132,7 +132,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -269,7 +269,7 @@
 
 **语法:**
 
-```
+```html
 <div class="media-left">
     <img src="...">
     <div class="media-left">
@@ -282,7 +282,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -368,7 +368,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>

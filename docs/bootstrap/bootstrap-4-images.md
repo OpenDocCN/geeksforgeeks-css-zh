@@ -7,7 +7,7 @@ Bootstrap 中可用于映像的不同类别如下所述:
 **响应映像:**T4。在< img >标签中使用 img-fluid 类来创建响应图像。响应图像用于将图像自动调整到指定的框中。
 **语法:**
 
-```
+```html
 <img src="image_source" class="img-fluid" ...>
 ```
 
@@ -15,7 +15,7 @@ Bootstrap 中可用于映像的不同类别如下所述:
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -65,7 +65,7 @@ Bootstrap 中可用于映像的不同类别如下所述:
 **圆角图像:***。圆角*类用于创建圆角图像。该类与< img >标签一起使用。
 **语法:**
 
-```
+```html
 <img src="image_source" class="rounded" ...>
 ```
 
@@ -73,7 +73,7 @@ Bootstrap 中可用于映像的不同类别如下所述:
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -123,7 +123,7 @@ Bootstrap 中可用于映像的不同类别如下所述:
 **圆形图像:***。圆形*类用于创建圆形图像。
 **语法:**
 
-```
+```html
 <img src="image_source" class="rounded-circle" ...>
 ```
 
@@ -131,7 +131,7 @@ Bootstrap 中可用于映像的不同类别如下所述:
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -181,7 +181,7 @@ Bootstrap 中可用于映像的不同类别如下所述:
 **缩略图:**T2。img-thumbnail 类用于创建缩略图(带边框)图像。
 **语法:**
 
-```
+```html
 <img src="image_source" class="img-thumbnail" ...>
 ```
 
@@ -189,7 +189,7 @@ Bootstrap 中可用于映像的不同类别如下所述:
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -239,7 +239,7 @@ Bootstrap 中可用于映像的不同类别如下所述:
 **对齐图像:***。向左浮动*和*。浮动-右*类用于设置图像的左右对齐。
 **语法:**
 
-```
+```html
 <img src="image_source" class="float-left/float-right" ...>
 ```
 
@@ -247,7 +247,7 @@ Bootstrap 中可用于映像的不同类别如下所述:
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -303,7 +303,7 @@ Bootstrap 中可用于映像的不同类别如下所述:
 **中心图像:***。mx-auto* (保证金:自动)和*。d-block* (显示:block)类用于将图像设置为居中。
 **语法:**
 
-```
+```html
 <img src="image_source" class="mx-auto d-block" ...>
 ```
 
@@ -311,7 +311,7 @@ Bootstrap 中可用于映像的不同类别如下所述:
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

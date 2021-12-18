@@ -23,7 +23,7 @@
 
 *   。容器-流体- 100%宽度
 
-```
+```html
 <div class="container-fluid">
 
         <!-- Content here -->
@@ -35,7 +35,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -116,7 +116,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>

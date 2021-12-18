@@ -9,7 +9,7 @@
 
 **示例 1:** 下面的示例说明了如何使用 css 属性设置 Bootstrap 4 滚动到长棍侧边栏的底部。
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

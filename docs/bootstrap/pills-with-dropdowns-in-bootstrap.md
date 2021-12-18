@@ -16,7 +16,7 @@
 
 步骤 2：在<ul>标记中的*.nav*类之后添加*.nav-pilles*类
 
-```
+```html
 <ul class="nav nav-pills">
     <li class="active"><a href="#">Home</a></li>
     <li class="dropdown">
@@ -40,7 +40,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

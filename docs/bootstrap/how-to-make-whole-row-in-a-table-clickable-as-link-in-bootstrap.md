@@ -16,7 +16,7 @@ Bootstrap 中的表可以使用传统的标签或者使用内置的‘网格’�
 
 在这种情况下，示例表的标记如下所示:
 
-```
+```html
 <table>
   <tr>
     <th>IDE</th>
@@ -31,7 +31,7 @@ Bootstrap 中的表可以使用传统的标签或者使用内置的‘网格’�
 
 **例:1**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -95,7 +95,7 @@ href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" />
 *   **点击行前:**
     ![](img/dcaae981d859119f0659c79870f75a89.png)*   **点击该行后:**
 
-    ```
+    ```html
     GeeksforGeeks IDE will open
     ```
 
@@ -107,7 +107,7 @@ href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" />
 
 可以使用 Bootstrap 重新设计前面示例中完全相同的表，如下所示:
 
-```
+```html
 <div class="row">
    <div class="col-6"><b>IDE</b></div>
    <div class="col-6"><b>Link</b></div>
@@ -119,7 +119,7 @@ href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" />
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -181,6 +181,6 @@ href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" />
 *   **点击行前:**
     ![](img/da0a3aa2010fa43a84d5cd9eb2f52901.png)*   **点击后排:**
 
-    ```
+    ```html
     GeeksforGeeks IDE will open
     ```

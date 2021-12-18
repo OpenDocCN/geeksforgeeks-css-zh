@@ -6,7 +6,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 **语法:**
 
-```
+```html
 <div class="card"> Card Content ... <div>
 ```
 
@@ -15,7 +15,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -70,7 +70,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -124,7 +124,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -188,7 +188,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -254,7 +254,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -318,7 +318,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -392,7 +392,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -507,7 +507,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 ## 超文本标记语言
 
-```
+```html
 <html lang="en">
     <head>
         <title>Bootstrap Card</title>
@@ -566,7 +566,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 ## 超文本标记语言
 
-```
+```html
 <html lang="en">
     <head>
         <title>Bootstrap Card</title>
@@ -631,7 +631,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 ## 超文本标记语言
 
-```
+```html
 <html lang="en">
     <head>
         <title>Bootstrap Card</title>
@@ -707,7 +707,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 ## 超文本标记语言
 
-```
+```html
 <html lang="en">
     <head>
         <title>Bootstrap Card</title>
@@ -802,7 +802,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 ## 超文本标记语言
 
-```
+```html
 <html lang="en">
 
 <head>
@@ -859,7 +859,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 #### 语法:
 
-```
+```html
 <div class="card text-white bg-primary"></div>
 ```
 
@@ -867,7 +867,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 ## 超文本标记语言
 
-```
+```html
 <html lang="en">
 
 <head>
@@ -943,7 +943,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 #### 语法:
 
-```
+```html
 <div class="card border-primary"></div>
 ```
 
@@ -951,7 +951,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 ## 超文本标记语言
 
-```
+```html
 <html lang="en">
 
 <head>

@@ -8,7 +8,7 @@ Bootstrap 是最流行的、免费的、开源的 HTML、CSS 框架，用来制�
 
 **语法:**
 
-```
+```html
 <div class="card" style="width: 20rem">
     <img class="card-img-top" src="..." 
             alt="Card image cap">
@@ -28,7 +28,7 @@ Bootstrap 是最流行的、免费的、开源的 HTML、CSS 框架，用来制�
 
 **示例 1:** 本示例使用 bootstrap 的网格制作一行并将其划分。
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -133,7 +133,7 @@ Bootstrap 是最流行的、免费的、开源的 HTML、CSS 框架，用来制�
 
 **示例 2:** 要创建宽度和高度相等的牌，还可以使用一类 Bootstrap 牌组。
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

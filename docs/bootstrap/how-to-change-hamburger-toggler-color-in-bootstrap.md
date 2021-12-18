@@ -15,7 +15,7 @@ hamburger toggler 颜色由两个用于更改导航栏中内容颜色的内置�
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -120,7 +120,7 @@ Bootstrap 使用一个 SVG 图像来表示 toggler。可以在图标内的线条
 
 通过指定具有所需颜色的**边框颜色**属性来设置网格线的边框颜色。
 
-```
+```html
 /* Set the border color to the desired color */
 .custom-toggler.navbar-toggler {
     border-color: lightgreen;
@@ -129,7 +129,7 @@ Bootstrap 使用一个 SVG 图像来表示 toggler。可以在图标内的线条
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

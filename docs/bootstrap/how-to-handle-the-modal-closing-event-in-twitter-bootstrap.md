@@ -17,7 +17,7 @@ Twitter Bootstrap 的模态类提供了一些在标准 Bootstrap **模态类中�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

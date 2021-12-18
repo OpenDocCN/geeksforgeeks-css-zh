@@ -14,13 +14,13 @@ A **Navbar** 是放置在页面顶部的导航标题，这有助于使其更加�
 
 *   用*添加 [<u><导航></u>](https://www.geeksforgeeks.org/html-nav-tag/) 标签。navbar* 和*。**nav bar-expand-LG nav bar-dark BG-dark*类中<体>标记。
 
-```
+```html
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark"></nav>
 ```
 
 *   要添加品牌标识，我们需要一个*。navbar-brand* 类，将包含图像和 *alt* 属性，如果图像没有正确加载，那么将显示文本。
 
-```
+```html
 <a class="navbar-brand" href="#">
 ```
 
@@ -31,13 +31,13 @@ A **Navbar** 是放置在页面顶部的导航标题，这有助于使其更加�
 
 *   **HTML 导航元素:**HTML 导航元素是一个类似于 HTML div 元素的容器元素。我们使用 HTML 导航元素给我们的网站添加一个导航栏。
 
-```
+```html
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark"></nav>
 ```
 
 *   **导航条内的导航项目:**使用以下语法在导航条内添加导航项目:-
 
-```
+```html
 <a class="nav-link active" href="#">
     Home
     <span class="sr-only">(current)</span>
@@ -52,7 +52,7 @@ A **Navbar** 是放置在页面顶部的导航标题，这有助于使其更加�
 
 *   **导航链接:**使用以下语法在网页中添加链接:-
 
-```
+```html
 <a class="nav-link" href="#">About Us</a>
 ```
 
@@ -60,7 +60,7 @@ A **Navbar** 是放置在页面顶部的导航标题，这有助于使其更加�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

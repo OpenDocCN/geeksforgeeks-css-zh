@@ -10,7 +10,7 @@
 
 **示例**:使用**。图**类带样本图像。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -34,7 +34,7 @@
 
 **示例**:使用**。图-标题**类在图像下方显示标题。此类与 **< figcaption >** 标签一起使用。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>

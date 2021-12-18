@@ -17,7 +17,7 @@ T5【之前包含 **tether.min.js** 现在让我们看一个工具提示的例�
 
 ## Java 语言(一种计算机语言，尤用于创建网站)
 
-```
+```html
 <!-- Tooltip on a header -->
 <h3 data-toggle="tooltip" title="Hey! Tooltip here!">
     Hover Over me to see a tooltip
@@ -29,7 +29,7 @@ T5【之前包含 **tether.min.js** 现在让我们看一个工具提示的例�
 
 ## Java 语言(一种计算机语言，尤用于创建网站)
 
-```
+```html
 <script>
 // jQuery code for initializing a tooltip
 $(document).ready(function () 
@@ -53,7 +53,7 @@ $(document).ready(function () 
 
 ## Java 语言(一种计算机语言，尤用于创建网站)
 
-```
+```html
 <!-- Tooltips on simple buttons -->
 <!-- Placement of tooltips -->
 <div class="row" style="margin:30px">
@@ -99,7 +99,7 @@ $(document).ready(function () 
 
 ## Java 语言(一种计算机语言，尤用于创建网站)
 
-```
+```html
 <!-- Tooltip with html -->
 <div class="row" style="margin:40px">
     <button type="button" class="btn btn-warning" 
@@ -123,7 +123,7 @@ $(document).ready(function () 
 
 ## Java 语言(一种计算机语言，尤用于创建网站)
 
-```
+```html
 <div class="row" style="margin:40px">
     <button type="button" class="btn btn-warning" 
      data-toggle="tooltip" data-placement="right" 
@@ -143,7 +143,7 @@ $(document).ready(function () 
 
 ## Java 语言(一种计算机语言，尤用于创建网站)
 
-```
+```html
 <!-- Removing animation from the tooltip -->
 <div class="row" style="margin:40px">
     <button type="button" class="btn btn-warning" 
@@ -163,7 +163,7 @@ $(document).ready(function () 
 
 ## Java 语言(一种计算机语言，尤用于创建网站)
 
-```
+```html
 <!-- Delay in tooltip -->
 <div class="row" style="margin:40px">
     <button type="button" class="btn btn-warning" 
@@ -181,7 +181,7 @@ $(document).ready(function () 
 
 ## Java 语言(一种计算机语言，尤用于创建网站)
 
-```
+```html
 <!-- Delay in tooltip -->
 <div class="row" style="margin:40px">
     <button type="button" class="btn btn-warning" 
@@ -197,7 +197,7 @@ html 代码没有变化。
 
 ## Java 语言(一种计算机语言，尤用于创建网站)
 
-```
+```html
 <script>
     $(document).ready(function () 
     {
@@ -213,7 +213,7 @@ html 代码没有变化。
 
 ## Java 语言(一种计算机语言，尤用于创建网站)
 
-```
+```html
 <!-- triggering the  tooltip -->
 <div class="row" style="margin:40px">
     <button type="button" class="btn btn-warning" 

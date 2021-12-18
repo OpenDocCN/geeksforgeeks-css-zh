@@ -15,7 +15,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -61,13 +61,13 @@
 
 Glyphicons 是一个由精确准备的单色图标和符号组成的库，创建时强调简单和易于定位。我们可以像这样在 span 标签中使用 Glyphicons:
 
-```
+```html
 <span class="Name of the glyphicon"> </span>
 ```
 
 图形也可以用在这样的按钮中:
 
-```
+```html
 <a href="" class="btn btn-default"><span class="Name of the glyphicon"> </span> </a>
 ```
 
@@ -77,7 +77,7 @@ Glyphicons 是一个由精确准备的单色图标和符号组成的库，创建
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -133,7 +133,7 @@ Glyphicons 是一个由精确准备的单色图标和符号组成的库，创建
 
 | / | Mark to represent the actual data unit. In the table tab, we can add different classes, which can make our table look better. Some table classes can be table striped, table bounded, table hovering, table compressed and so on. You can find all the table classes here. The basic structure of the table is: |
 
-```
+```html
 <table class="table-striped">
    <tr>
       <td>First Column</td>
@@ -150,7 +150,7 @@ Glyphicons 是一个由精确准备的单色图标和符号组成的库，创建
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

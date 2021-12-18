@@ -12,7 +12,7 @@
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>

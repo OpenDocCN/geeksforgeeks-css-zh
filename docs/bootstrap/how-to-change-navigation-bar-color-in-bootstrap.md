@@ -28,7 +28,7 @@ Bootstrap 4 有几个内置的类，适用于任何背景的颜色。这些可�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -106,7 +106,7 @@ Bootstrap 4 有几个内置的类，适用于任何背景的颜色。这些可�
 
 ## 超文本标记语言
 
-```
+```html
 /* Modify the background color */
 .navbar-custom {
     background-color: lightgreen;
@@ -117,7 +117,7 @@ Bootstrap 4 有几个内置的类，适用于任何背景的颜色。这些可�
 
 ## 超文本标记语言
 
-```
+```html
 /* Modify brand and text color */
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-text {
@@ -129,7 +129,7 @@ Bootstrap 4 有几个内置的类，适用于任何背景的颜色。这些可�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

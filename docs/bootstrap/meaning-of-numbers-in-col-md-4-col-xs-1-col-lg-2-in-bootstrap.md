@@ -26,7 +26,7 @@ Bootstrap 每行提供 12 列，在 Column 类中提供。因此，您可以通�
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

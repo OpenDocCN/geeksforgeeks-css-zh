@@ -8,7 +8,7 @@
 *   **卡片图像叠加:**卡片-img-叠加用于将图像设置为卡片的背景图像，并在图像上添加文本。
     **语法:**用于卡片叠加
 
-    ```
+    ```html
     <div class="card">
      <img src="..."/>
      <div class="card-img-overlay">
@@ -21,7 +21,7 @@
 
 **CSS 代码:**把这个放在<风格>标签里面。
 
-```
+```html
 .card-link 
     { 
     position:relative; 
@@ -35,7 +35,7 @@
 
 *   **程序:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 
@@ -134,7 +134,7 @@
 
 *   **程序:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 

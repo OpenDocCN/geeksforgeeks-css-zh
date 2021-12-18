@@ -24,7 +24,7 @@
 
 **语法:**
 
-```
+```html
 <div class="col-md-x">Content</div>
 ```
 
@@ -43,7 +43,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -90,7 +90,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

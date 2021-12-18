@@ -6,13 +6,13 @@ Bootstrap Modals 提供了一个轻量级的、多用途的 JavaScript 弹出窗
 
 **语法:**
 
-```
+```html
 class | tabindex | role | aria-labelledby
 ```
 
 **方式:**显示弹出菜单，有表头、表体、表尾，有关闭提交按钮。
 
-```
+```html
 <div class="modal fade" 
      id="exampleModal" 
      tabindex="-1" 
@@ -28,7 +28,7 @@ class | tabindex | role | aria-labelledby
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -96,7 +96,7 @@ class | tabindex | role | aria-labelledby
 </html>
 ```
 
-```
+```html
 $('#myModal').on('shown.bs.modal', function () {
   $('#myInput').trigger('focus')
 })

@@ -7,7 +7,7 @@ Bootstrap 提供了一系列类，可用于对表格应用各种样式，如更�
 
 **语法:**
 
-```
+```html
 <table class="table"> Table Contents... <table>
 ```
 
@@ -15,7 +15,7 @@ Bootstrap 提供了一系列类，可用于对表格应用各种样式，如更�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -92,7 +92,7 @@ Bootstrap 提供了一系列类，可用于对表格应用各种样式，如更�
 **扒排:***。表剥离*类用于创建交替的暗行和亮行。使用<表>标签中的表和表剥离类的组合来创建剥离表。
 **语法:**
 
-```
+```html
 <table class="table table-stripped"> Table Contents... <table>
 ```
 
@@ -100,7 +100,7 @@ Bootstrap 提供了一系列类，可用于对表格应用各种样式，如更�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -177,7 +177,7 @@ Bootstrap 提供了一系列类，可用于对表格应用各种样式，如更�
 **带边框的桌子:***。表格边框*类用于在表格和单元格的所有边上添加边框。使用<表格>标签中表格和表格边框类的组合来创建边框表格。
 **语法:**
 
-```
+```html
 <table class="table table-bordered"> Table Contents... <table>
 ```
 
@@ -185,7 +185,7 @@ Bootstrap 提供了一系列类，可用于对表格应用各种样式，如更�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -262,7 +262,7 @@ Bootstrap 提供了一系列类，可用于对表格应用各种样式，如更�
 **悬停行表:***。table-hover* 类用于在表格行上添加悬停效果(鼠标移动到上方时背景颜色变为灰色)。使用<表格>标签中表格和表格悬停类的组合来创建悬停行表格。
 **语法:**
 
-```
+```html
 <table class="table table-hover"> Table Contents... <table>
 ```
 
@@ -270,7 +270,7 @@ Bootstrap 提供了一系列类，可用于对表格应用各种样式，如更�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -347,7 +347,7 @@ Bootstrap 提供了一系列类，可用于对表格应用各种样式，如更�
 **黑/暗桌:***。表格-深色*类用于添加表格的黑色背景颜色。使用<表>标签中的表和表暗类的组合来创建暗表。
 **语法:**
 
-```
+```html
 <table class="table table-dark"> Table Contents... <table>
 ```
 
@@ -355,7 +355,7 @@ Bootstrap 提供了一系列类，可用于对表格应用各种样式，如更�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -432,7 +432,7 @@ Bootstrap 提供了一系列类，可用于对表格应用各种样式，如更�
 **暗扒桌:***。暗台*和*。表剥离*类用于创建暗剥离表。使用<表>标签中的表、表暗和表剥离类的组合来创建暗剥离表。
 **语法:**
 
-```
+```html
 <table class="table table-dark table-stripped"> Table Contents... <table>
 ```
 
@@ -440,7 +440,7 @@ Bootstrap 提供了一系列类，可用于对表格应用各种样式，如更�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -517,7 +517,7 @@ Bootstrap 提供了一系列类，可用于对表格应用各种样式，如更�
 **黑暗悬浮桌:**T2。暗台和*。table-悬停*类用于在表格行上添加悬停效果(当鼠标移动到上方时，将背景颜色更改为深灰色)。使用<表格>标签中表格、表格-深色和表格-悬停类的组合来创建深色悬停效果表格。
 **语法:**
 
-```
+```html
 <table class="table table-dark table-hover"> Table Contents... <table>
 ```
 
@@ -525,7 +525,7 @@ Bootstrap 提供了一系列类，可用于对表格应用各种样式，如更�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -602,7 +602,7 @@ Bootstrap 提供了一系列类，可用于对表格应用各种样式，如更�
 **无边界表:***。表格-无边框*用于从表格中移除边框。使用<表格>标签中表格和无表格边界类的组合来创建无边界表格。
 **语法:**
 
-```
+```html
 <table class="table table-borderless"> Table Contents... <table>
 ```
 
@@ -610,7 +610,7 @@ Bootstrap 提供了一系列类，可用于对表格应用各种样式，如更�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -698,7 +698,7 @@ Bootstrap 提供了一系列类，可用于对表格应用各种样式，如更�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -777,7 +777,7 @@ T3】例:
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -854,7 +854,7 @@ T3】例:
 **小桌子:***。table-sm* 类用于通过减少单元格填充来创建小表格。使用<表格>标签中表格、表格边框和表格 sm 类的组合来创建一个有边框的小表格。
 **语法:**
 
-```
+```html
 <table class="table table-bordered table-sm"> Table Contents... <table>
 ```
 
@@ -862,7 +862,7 @@ T3】例:
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -951,7 +951,7 @@ T3】例:
 
 **语法:**
 
-```
+```html
 <div class="table-responsive"> Table <div>
 ```
 
@@ -959,7 +959,7 @@ T3】例:
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

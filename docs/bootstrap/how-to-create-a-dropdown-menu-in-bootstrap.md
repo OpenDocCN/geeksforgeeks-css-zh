@@ -14,7 +14,7 @@
 
 **步骤 3:** 并确保将下拉菜单包含在*中。下拉*类，**内的按钮或主选项** *。btn btn-primary* *下拉-切换*类，以及*内的备选列表。下拉菜单*分类如下。
 
-```
+```html
 <div class="dropdown">  
    <button class="btn btn-primary dropdown-toggle" 
            type="button" data-toggle="dropdown">
@@ -35,7 +35,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

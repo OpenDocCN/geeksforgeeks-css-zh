@@ -23,7 +23,7 @@ BootStrap 文章:
 
 **带标签的默认进度条代码。**
 
-```
+```html
 <div class="progress">
     <div class="progress-bar" role="progressbar" aria-valuenow="50"
           aria-valuemin="0" aria-valuemax="100" style="width:50%">
@@ -37,7 +37,7 @@ BootStrap 文章:
 
 To remove the label from the progress bar, remove the span tag from the code.**Code for progress bar without label**
 
-```
+```html
 <div class="progress">
     <div class="progress-bar" role="progressbar" aria-valuenow="50"
     aria-valuemin="0" aria-valuemax="100" style="width:50%">
@@ -57,7 +57,7 @@ To remove the label from the progress bar, remove the span tag from the code.**C
 使用 div 元素中的这些类为进度条
 **着色代码为彩色进度条**
 
-```
+```html
 <div class="progress">
      <div class="progress-bar progress-bar-success" role="progressbar"
 aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:50%">
@@ -78,7 +78,7 @@ Jumbotron 是一个灰色的大方框，用来指示一些需要额外注意的�
 3.  CLose the div element with class jumbotron.
     **Code for a jumbotron**
 
-    ```
+    ```html
     <div class="container">
       <div class="jumbotron">
         <h1>Jumbotron</h1>

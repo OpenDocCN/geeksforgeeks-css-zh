@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 <div class="progress"> Contents <div>
 ```
 
@@ -22,7 +22,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -69,7 +69,7 @@
 
 **步骤 2:** 将类声明为容器，值为*。进展*在外<区>。
 
-```
+```html
 <div class="progress">
     <div></div>
     <div></div>
@@ -78,7 +78,7 @@
 
 **第三步:**添加*。进度条*类到内部< div >容器。要指定进度条的宽度，我们可以使用预定义的引导类来设置进度条的宽度。例如 *w-25 p-3* 将设置 25%的宽度， *w-50 p-3* 将设置 50%的宽度&以此类推。
 
-```
+```html
 <div class="progress">
     <div class="progress-bar bg-success w-25 p-3">
         Progress 1
@@ -96,7 +96,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -12,7 +12,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <link rel="stylesheet"
@@ -44,7 +44,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <link rel="stylesheet" 

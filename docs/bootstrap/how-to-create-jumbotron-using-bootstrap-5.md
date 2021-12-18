@@ -19,7 +19,7 @@ Bootstrap Jumbotron 是一个响应组件，其主要目标是吸引访问者的
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -52,7 +52,7 @@ Bootstrap Jumbotron 是一个响应组件，其主要目标是吸引访问者的
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>   
 <html>
 
@@ -88,7 +88,7 @@ Bootstrap Jumbotron 是一个响应组件，其主要目标是吸引访问者的
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

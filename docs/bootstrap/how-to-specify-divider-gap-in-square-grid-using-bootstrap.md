@@ -8,13 +8,13 @@
 
 *   **CSS 网格-列-间隙属性**
 
-    ```
+    ```html
     grid-column-gap: none|length|percentage|initial|inherit;
     ```
 
 *   **CSS 网格-行-间隙属性**
 
-    ```
+    ```html
     grid-row-gap: length|percentage|global-values;
     ```
 
@@ -24,7 +24,7 @@
 *   指定该类的网格间距属性值。
 *   例:
 
-    ```
+    ```html
     .container {
         grid-column-gap: <line-size>;
         grid-row-gap: <line-size>;
@@ -33,7 +33,7 @@
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

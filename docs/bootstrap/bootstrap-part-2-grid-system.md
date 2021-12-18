@@ -36,7 +36,7 @@
 
     ## 超文本标记语言
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
       <head>
@@ -96,7 +96,7 @@
 
     ## 超文本标记语言
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
       <head>
@@ -183,7 +183,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -271,7 +271,7 @@
 
 因此，我们可以使用多种列选择来构建更加动态和强大的布局。假设我们定义了 4 列的属性，如下所示。
 
-```
+```html
 <div class="col-xs-2 col-sm-6 col-md-4 col-lg-5 col-xl-6">
 <div class="col-xs-2 col-sm-6 col-md-4 col-lg-5 col-xl-6">
 <div class="col-xs-2 col-sm-6 col-md-4 col-lg-5 col-xl-6">
@@ -284,7 +284,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

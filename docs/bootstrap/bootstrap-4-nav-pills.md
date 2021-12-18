@@ -13,7 +13,7 @@
     **示例 1:**
     下面的示例说明了如何使用 Bootstrap 4 使用类导航填充或导航对齐来调整导航药丸。
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 
@@ -99,7 +99,7 @@
     **示例 2:**
     下面的示例说明了如何使用 flex 证明 Bootstrap 4 导航药丸的合理性。
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 

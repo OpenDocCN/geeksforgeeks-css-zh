@@ -30,7 +30,7 @@ Bootstrap 是一个免费的开源工具集合，用于创建网站和网络应�
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -54,7 +54,7 @@ Bootstrap 是一个免费的开源工具集合，用于创建网站和网络应�
 
 *   **第二步:**复制<链接>粘贴到 HTML 代码的头部。
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
       <head>
@@ -114,7 +114,7 @@ Bootstrap 是一个免费的开源工具集合，用于创建网站和网络应�
     > <src = " js/bootstrap . min . js "></script><src =
     > 脚本 https://Ajax . Google APIs . com/Ajax/libs/jquery/2 . 1 . 3/jquery . min . js】【t】
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 

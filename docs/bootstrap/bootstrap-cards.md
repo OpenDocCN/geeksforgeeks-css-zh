@@ -11,7 +11,7 @@ A **卡**是一个灵活可扩展的内容容器。它包括页眉和页脚选�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -52,7 +52,7 @@ href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -86,7 +86,7 @@ href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -129,7 +129,7 @@ href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -177,7 +177,7 @@ href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -224,7 +224,7 @@ href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -275,7 +275,7 @@ href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -329,7 +329,7 @@ href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 
 ## 超文本标记语言
 
-```
+```html
 <html lang="en">
 <head>
   <title>Bootstrap Card</title>
@@ -372,7 +372,7 @@ href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 
 ## 超文本标记语言
 
-```
+```html
 <html lang="en">
 <head>
   <title>Bootstrap Card</title>
@@ -418,7 +418,7 @@ href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 
 ## 超文本标记语言
 
-```
+```html
 <html lang="en">
 <head>
   <title>Bootstrap Card</title>
@@ -474,7 +474,7 @@ href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 
 ## 超文本标记语言
 
-```
+```html
 <html lang="en">
 <head>
   <title>Bootstrap Card</title>

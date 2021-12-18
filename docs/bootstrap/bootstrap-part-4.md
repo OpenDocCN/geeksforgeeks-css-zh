@@ -23,7 +23,7 @@ Bootstrap 提供 3 种表单布局，分别是:
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -93,7 +93,7 @@ Bootstrap 提供 3 种表单布局，分别是:
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -169,7 +169,7 @@ Bootstrap 提供 3 种表单布局，分别是:
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

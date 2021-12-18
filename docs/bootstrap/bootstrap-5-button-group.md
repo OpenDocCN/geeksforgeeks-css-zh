@@ -6,7 +6,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 **语法:**
 
-```
+```html
 <div class="btn-group"> Buttons... <div>
 ```
 
@@ -27,7 +27,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 *   **示例:**本示例用于展示 Bootstrap 5 中水平排列的按钮组的工作情况。
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -91,7 +91,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
     **示例:**该示例用于显示 Bootstrap 5 中垂直排列的按钮组的工作情况。
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -146,7 +146,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
     **示例:**该示例使用 Bootstrap 5 中的按钮组显示按钮大小的工作方式。
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -242,7 +242,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
     **单按钮下拉:**
     **示例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -319,7 +319,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 *   **Split button dropdown:**
     **Example:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -403,7 +403,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 *   Bootstrap 5 also supports **Split Button Vertical Dropdown**.
     **Example:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 

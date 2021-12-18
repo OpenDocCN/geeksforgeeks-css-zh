@@ -6,13 +6,13 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 **语法:**
 
-```
+```html
 <div class="dropdown"> Contents... <div>
 ```
 
 **示例 1:** 该示例使用 Bootstrap 5 中的按钮显示下拉菜单的工作方式。
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -71,7 +71,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 **下拉分隔线:**该。dropdown-divider 类用于通过使用细水平线来划分下拉菜单列表。此示例显示了 Bootstrap 5 中可折叠卡的工作方式。
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -137,7 +137,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 **下拉标题:**该。dropdown-header 类用于在下拉列表中添加标题部分。
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -210,7 +210,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 **禁用和激活项目:***。激活*类用于添加高亮显示的列表项。*。禁用*类用于禁用物品列表。
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -269,7 +269,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 **下拉位置:***。右移*和*。dropleft* 类用于设置下拉列表在左右两侧的位置。
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -329,7 +329,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 **例 2:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -390,7 +390,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 **下拉菜单右对齐:***。下拉菜单-右*类用于设置下拉菜单的右对齐。
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -449,7 +449,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 **下降:**T2。使用 dropup 类代替*。下拉*类以 upwords 展开菜单列表。
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -511,7 +511,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 **下拉文本:***。下拉-项目-文本*类用于在下拉菜单列表中添加纯文本。
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -569,7 +569,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 **下拉分组按钮:***。btn-group* 类用于创建一组按钮和*。下拉菜单*类用于创建下拉列表。
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -635,7 +635,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 **分离按钮下拉菜单:***。下拉-切换-拆分*类用于拆分下拉按钮。
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -744,7 +744,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 **垂直按钮组下拉列表:***。btn-group-vertical* 类用于创建带有 fropdown 列表的垂直按钮组。
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

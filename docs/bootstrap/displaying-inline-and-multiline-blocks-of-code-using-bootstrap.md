@@ -9,7 +9,7 @@ Bootstrap 提供了许多用于显示内联和多行代码块的类。
 
 下面是一个在 Bootstrap 中使用 **<代码>** 标签显示内联代码的示例:
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -39,7 +39,7 @@ Bootstrap 提供了许多用于显示内联和多行代码块的类。
 
 下面是显示代码块的示例:
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -88,7 +88,7 @@ Bootstrap 提供了许多用于显示内联和多行代码块的类。
 
 **指示样本输出**:如果需要显示任何编译程序的输出，在这种情况下，为了指示程序的输出，可以使用`<samp>`标签包装输出。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -117,7 +117,7 @@ Bootstrap 提供了许多用于显示内联和多行代码块的类。
 
 **表示变量**:变量可以用`<var>`标记来表示。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -142,7 +142,7 @@ Bootstrap 提供了许多用于显示内联和多行代码块的类。
 
 **用户输入**:用户输入可以使用如下程序所示的`<kbd>`标签进行设置。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>

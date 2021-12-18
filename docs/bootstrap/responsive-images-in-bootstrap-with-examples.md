@@ -9,7 +9,7 @@ Bootstrap 中可用于映像的不同类别解释如下:
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -51,7 +51,7 @@ Bootstrap 中可用于映像的不同类别解释如下:
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -91,7 +91,7 @@ Bootstrap 中可用于映像的不同类别解释如下:
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -129,7 +129,7 @@ Bootstrap 中可用于映像的不同类别解释如下:
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -166,7 +166,7 @@ Bootstrap 中可用于映像的不同类别解释如下:
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

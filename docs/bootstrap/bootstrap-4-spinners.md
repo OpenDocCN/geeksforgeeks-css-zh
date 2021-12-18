@@ -8,7 +8,7 @@ Bootstrap 提供了不同的类来创建不同风格的“微调器”来显示�
 *   **边框微调器:**我们可以使用*创建轻量级边框微调器。旋转边框*等级如下。
     **语法:**
 
-```
+```html
 <div class="spinner-border" role="status"> 
     <span class="sr-only">Loading</span>
 </div> 
@@ -18,7 +18,7 @@ Bootstrap 提供了不同的类来创建不同风格的“微调器”来显示�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -69,7 +69,7 @@ Bootstrap 提供了不同的类来创建不同风格的“微调器”来显示�
 *   **彩色微调器:**我们可以使用 Bootstrap 的文本颜色实用程序类以及*来更改边框微调器的颜色。旋转边框*等级如下。
     **语法:**
 
-```
+```html
 <div class="spinner-border text-primary" role="status">
     <span class="sr-only">Loading</span>
 </div> 
@@ -79,7 +79,7 @@ Bootstrap 提供了不同的类来创建不同风格的“微调器”来显示�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -167,7 +167,7 @@ Bootstrap 提供了不同的类来创建不同风格的“微调器”来显示�
 *   **生长微调器:**我们可以使用*来创建生长微调器。旋转生长*类自举。它显示为反复增长。
     **语法:**
 
-```
+```html
 
 <div class="spinner-grow" role="status"> 
      <span class="sr-only">Loading</span>
@@ -178,7 +178,7 @@ Bootstrap 提供了不同的类来创建不同风格的“微调器”来显示�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -230,7 +230,7 @@ Bootstrap 提供了不同的类来创建不同风格的“微调器”来显示�
 *   **彩色生长微调器:**我们可以通过使用**文本颜色工具**类的 Bootstrap 和*来更改**生长微调器**的颜色。旋转-生长*类如下。
     **语法:**
 
-```
+```html
 <div class="spinner-grow text-primary" role="status"> 
     <span class="sr-only">Loading</span>
 </div> 
@@ -240,7 +240,7 @@ Bootstrap 提供了不同的类来创建不同风格的“微调器”来显示�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -326,7 +326,7 @@ Bootstrap 提供了不同的类来创建不同风格的“微调器”来显示�
 *   **带边框微调器的按钮:**我们可以使用*将边框微调器放置在带文本或不带文本的按钮内。在<跨度>标签内的旋转边界*类。
     **语法:**
 
-```
+```html
 <button type="button" class="btn btn-primary" disabled> 
     <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"> 
     </span> 
@@ -338,7 +338,7 @@ Bootstrap 提供了不同的类来创建不同风格的“微调器”来显示�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -401,7 +401,7 @@ Bootstrap 提供了不同的类来创建不同风格的“微调器”来显示�
 *   **带生长微调器的按钮:**我们可以使用*将生长微调器放置在带文本或不带文本的按钮内。旋转器-在<跨度>标签内生长*类。
     **语法:**
 
-```
+```html
 <button type="button" class="btn btn-primary" disabled> 
     <span class="spinner-grow spinner-grow-sm" role="status" aria-hidden="true"></span>  
     text
@@ -412,7 +412,7 @@ Bootstrap 提供了不同的类来创建不同风格的“微调器”来显示�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -484,7 +484,7 @@ Bootstrap 提供了不同的类来创建不同风格的“微调器”来显示�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -546,7 +546,7 @@ Bootstrap 提供了不同的类来创建不同风格的“微调器”来显示�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -599,7 +599,7 @@ Bootstrap 提供了不同的类来创建不同风格的“微调器”来显示�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -653,7 +653,7 @@ Bootstrap 提供了不同的类来创建不同风格的“微调器”来显示�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -9,13 +9,13 @@ Bootstrap 为用户提供了几个内置功能。这使得开发更快更流畅�
 
 *   修正了列不可滚动的问题。
 
-    ```
+    ```html
     <div class="col-sm-6 col-2 fixed-top one">
     ```
 
 *   使列可滚动。
 
-    ```
+    ```html
     <div class="col-sm-6 offset-sm-6 two">
     ```
 
@@ -23,7 +23,7 @@ Bootstrap 为用户提供了几个内置功能。这使得开发更快更流畅�
 
 **示例:**您可以通过点击运行按钮来运行代码，这样您就可以看到右边的列是可滚动的，但是左边是不可滚动的。
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

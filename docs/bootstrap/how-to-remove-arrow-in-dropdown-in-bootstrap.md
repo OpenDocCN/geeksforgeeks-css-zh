@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 .my-dropdown-toggle::after {
     content: none;
 }
@@ -18,7 +18,7 @@
 您可以使用此功能在顶部导航栏中创建导航菜单。这里有一个完整的例子来说明如何做到这一点。
 **例 1:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -88,7 +88,7 @@
 
 **示例 2:** 删除下拉箭头，并对**类名**进行一些更改。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

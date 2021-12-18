@@ -6,7 +6,7 @@ Bootstrap 4 是一个 CSS，一个由 Twitter 开发的前端网络开发库，�
 
 下面一行显示了在网页中插入简单图像的语法
 
-```
+```html
 <img src="image-path" alt="Show this text if image does not appear" />
 ```
 
@@ -20,7 +20,7 @@ Bootstrap 4 是一个 CSS，一个由 Twitter 开发的前端网络开发库，�
 
 1.  **By providing a border to the image.**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -54,7 +54,7 @@ Bootstrap 4 是一个 CSS，一个由 Twitter 开发的前端网络开发库，�
 
 2.  **By using custom css**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -107,7 +107,7 @@ Bootstrap 4 是一个 CSS，一个由 Twitter 开发的前端网络开发库，�
 
 3.  Using bootstrap 4 css: We will be using the pre-defined class known as **cards** to make image appear inside a box.
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 

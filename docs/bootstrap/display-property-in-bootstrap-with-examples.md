@@ -10,21 +10,21 @@ bootstrap 的显示属性类有助于直接设置元素的 [CSS 显示属性](ht
 
 *   **。d-block** :这个类和一个元素一起使用时，设置它**显示**属性为 *block* 。将这个类与一个元素一起使用相当于下面的样式:
 
-    ```
+    ```html
     style = "display: block;"
 
     ```
 
 *   **。d-inline** :这个类和一个元素一起使用时，设置它**显示**属性为 *inline* 。将这个类与一个元素一起使用相当于下面的样式:
 
-    ```
+    ```html
     style = "display: inline;"
 
     ```
 
 *   **。d-内联块**:这个类和一个元素一起使用时，设置它**显示**属性为*内联块*。将这个类与一个元素一起使用相当于下面的样式:
 
-    ```
+    ```html
     style = "display: inline-block;"
 
     ```
@@ -39,7 +39,7 @@ bootstrap 的显示属性类有助于直接设置元素的 [CSS 显示属性](ht
 
 **例 1:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -73,7 +73,7 @@ bootstrap 的显示属性类有助于直接设置元素的 [CSS 显示属性](ht
 
 **例 2:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -109,7 +109,7 @@ bootstrap 的显示属性类有助于直接设置元素的 [CSS 显示属性](ht
 
 **例 3:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

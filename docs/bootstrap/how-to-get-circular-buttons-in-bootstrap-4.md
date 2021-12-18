@@ -7,7 +7,7 @@ Bootstrap 默认不提供任何圆形按钮。如果我们想在网页中包含�
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

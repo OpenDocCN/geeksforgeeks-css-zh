@@ -6,13 +6,13 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 **语法:**
 
-```
+```html
 <div class="collapse"> Contents... <div>
 ```
 
 **示例 1:** 该示例使用 Bootstrap 5 中的按钮和链接显示可折叠 div 的工作方式。
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -73,7 +73,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 **示例 2:** 此示例用于显示 Bootstrap 5 中可折叠卡片的工作方式。
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -143,7 +143,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 **示例 3:** 此示例用于显示 Bootstrap 5 中多个可折叠凹坑的工作情况。
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

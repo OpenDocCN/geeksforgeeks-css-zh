@@ -6,13 +6,13 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 **语法:**
 
-```
+```html
 <div class="list-group"> Contents... <div>
 ```
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -60,7 +60,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 **活动列表项:***。激活*类用于高亮当前项目。
 **例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -109,7 +109,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 **列出带有链接项目的组:**使用< div >和< a >标签代替< ul >和< li >创建带有链接项目的组列表。*。列表-组-项目-动作*类用于设置悬停效果将背景颜色改为灰色。
 **例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -171,7 +171,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 **禁用项目:***。禁用*类用于禁用文本内容。这个类将文本颜色设置为浅色。当在链接上使用时，它将移除悬停效果。
 **例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -230,7 +230,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 **清除/移除边框:***。list-group-flush* 类用来去除一些边框和圆角。
 **例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -292,7 +292,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 **横向列表组:***。列表-组-水平*类用于水平显示项目列表，而不是垂直显示。
 **例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -355,7 +355,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -422,7 +422,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 **用上下文类链接项目:**上下文类可以与项目列表一起使用。
 T3】例:
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -486,7 +486,7 @@ T3】例:
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

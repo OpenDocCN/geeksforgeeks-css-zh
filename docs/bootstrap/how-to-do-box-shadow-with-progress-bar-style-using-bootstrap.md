@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 <td style="box-shadow: px px px px rgba()"></td> 
 ```
 
@@ -14,7 +14,7 @@
 
 **例 1:**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -80,7 +80,7 @@
 
 **例 2:**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

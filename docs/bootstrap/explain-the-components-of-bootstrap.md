@@ -37,7 +37,7 @@ Bootstrap 4 提供了各种可定制和可重用的组件，这使得开发更�
 
 ## ****超文本标记语言****
 
-```
+```html
 **<!DOCTYPE html>
 <html>
   <head>
@@ -164,7 +164,7 @@ Bootstrap 4 提供了各种可定制和可重用的组件，这使得开发更�
 
 ## ****超文本标记语言****
 
-```
+```html
 **<!DOCTYPE html>
 <html lang="en">
   <head>
@@ -210,7 +210,7 @@ Bootstrap 4 提供了各种可定制和可重用的组件，这使得开发更�
 
 ## ****超文本标记语言****
 
-```
+```html
 **<!DOCTYPE html>
 <html lang="en">
   <head>

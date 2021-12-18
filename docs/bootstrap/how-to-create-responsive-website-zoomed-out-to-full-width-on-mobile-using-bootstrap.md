@@ -9,13 +9,13 @@
 **CONTAINER:** 当网页的内容被包含在具有 CONTAINER 类的 div 元素中时，div 中包含的所有元素不会被填充到设备的整个宽度。相反，对于每个标准屏幕大小的断点，都有预定义的媒体查询。
 例如:
 
-*   ```
+*   ```html
     @media (min-width: 1200px)
     .container {
         max-width: 1140px;}
     ```
 
-*   ```
+*   ```html
     @media (min-width: 992px)
     .container {
         max-width: 960px;
@@ -34,7 +34,7 @@
 
 **示例:**以下示例是适应设备屏幕宽度的响应网页。
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

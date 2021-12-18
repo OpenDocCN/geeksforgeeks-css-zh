@@ -9,7 +9,7 @@ Bootstrap 为我们提供了各种类来创建不同样式的**微调器**来指
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -62,7 +62,7 @@ Bootstrap 为我们提供了各种类来创建不同样式的**微调器**来指
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -146,7 +146,7 @@ Bootstrap 为我们提供了各种类来创建不同样式的**微调器**来指
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -196,7 +196,7 @@ Bootstrap 为我们提供了各种类来创建不同样式的**微调器**来指
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

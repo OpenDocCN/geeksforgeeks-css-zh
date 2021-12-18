@@ -6,7 +6,7 @@ Bootstrap 4 中默认提供的各种实用程序和布局，使用动态 Bootstr
 
 **方法 1:** 使用 CSS 属性将溢出文本隐藏为省略号。
 
-```
+```html
 <style>
 selector {
     overflow: hidden;
@@ -20,7 +20,7 @@ selector {
 
 *   **示例 1:** 下面的程序演示了如何使用 CSS 属性和 Flex 使用动态引导列将溢出文本隐藏为省略号。
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 
@@ -104,7 +104,7 @@ selector {
 
 *   **示例 2:** 下面的程序演示了如何使用 Bootstrap4 实用程序和 jQuery 使用动态引导列将溢出文本隐藏为省略号。
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 

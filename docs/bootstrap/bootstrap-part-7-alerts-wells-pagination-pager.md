@@ -24,7 +24,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <div class="alert alert-success">
   <strong>Success!</strong>
 </div>
@@ -50,7 +50,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <div class="alert alert-success alert-dismissable">
 <a href="#" class="close" c aria-label="close">×</a>
   <strong>Success!</strong>
@@ -80,7 +80,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <div class="alert alert-success">
   <strong>Success!</strong>
 <a href="#" class="alert-link">read this message</a>
@@ -113,7 +113,7 @@ A **嗯**类就是简单的用来在一些有圆角和填充的文字周围加�
 
 ## 超文本标记语言
 
-```
+```html
 <div class="well">This is a Well</div>
 ```
 
@@ -125,7 +125,7 @@ A **嗯**类就是简单的用来在一些有圆角和填充的文字周围加�
 
 ## 超文本标记语言
 
-```
+```html
 <div class="well well-lg">This is a large Well</div>
 <div class="well well-sm">This is a small Well</div>
 ```
@@ -142,7 +142,7 @@ A **嗯**类就是简单的用来在一些有圆角和填充的文字周围加�
 
 ## 超文本标记语言
 
-```
+```html
 <ul class="pagination">
   <li><a href="#">1</a></li>
   <li><a href="#">2</a></li>
@@ -160,7 +160,7 @@ A **嗯**类就是简单的用来在一些有圆角和填充的文字周围加�
 
 ## 超文本标记语言
 
-```
+```html
 <ul class="pagination">
   <li><a href="#">1</a></li>
   <li class="active"><a href="#">2</a></li>
@@ -178,7 +178,7 @@ A **嗯**类就是简单的用来在一些有圆角和填充的文字周围加�
 
 ## 超文本标记语言
 
-```
+```html
 <ul class="pagination">
   <li><a href="#">1</a></li>
   <li class="disabled"><a href="#">2</a></li>
@@ -199,7 +199,7 @@ A **嗯**类就是简单的用来在一些有圆角和填充的文字周围加�
 
 ## 超文本标记语言
 
-```
+```html
 <ul class = "pager">
    <li><a href = "#">Previous</a></li>
    <li><a href = "#">Next</a></li>
@@ -214,7 +214,7 @@ A **嗯**类就是简单的用来在一些有圆角和填充的文字周围加�
 
 ## 超文本标记语言
 
-```
+```html
 <ul class="pager">
   <li class="previous"><a href="#">Previous</a></li>
   <li class="next"><a href="#">Next</a></li>

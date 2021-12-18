@@ -6,7 +6,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，他们已经修改了用户界
 
 **语法:**
 
-```
+```html
 <div class="badge bg-type"> Contents... <div>
 ```
 
@@ -25,7 +25,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，他们已经修改了用户界
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -86,7 +86,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，他们已经修改了用户界
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -145,7 +145,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，他们已经修改了用户界
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -183,7 +183,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，他们已经修改了用户界
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

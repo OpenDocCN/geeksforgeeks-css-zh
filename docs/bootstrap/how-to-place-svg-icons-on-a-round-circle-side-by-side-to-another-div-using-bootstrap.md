@@ -10,7 +10,7 @@
 
 **语法:**
 
-```
+```html
 <img class = "rounded-circle" src = "..." alt = "image">
 ```
 
@@ -22,7 +22,7 @@
 
 **示例:**将此< img >标签放入< div >标签中，如下所示:
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

@@ -10,7 +10,7 @@ Bootstrap 是 web 开发人员构建交互式网页设计的流行选择。Boots
 
 **代码实现**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -83,7 +83,7 @@ Bootstrap 是 web 开发人员构建交互式网页设计的流行选择。Boots
 
 **代码实现**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

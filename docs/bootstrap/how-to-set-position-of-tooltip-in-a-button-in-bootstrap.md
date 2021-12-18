@@ -12,7 +12,7 @@
 
 **第二步:**在 HTML 的按钮控件中实现工具提示，应用*数据-切换*属性，如下图:
 
-```
+```html
 <button type="button" data-toggle="tooltip" 
         data-placement="bottom" title="title of the button">
     Hover over me
@@ -21,7 +21,7 @@
 
 **步骤 3:** 要在 bootstrap 中实现工具提示，只需遵循代码脚本部分的语法即可。
 
-```
+```html
 $(function(){
     $('[data-toggle="tooltip"]').tooltip();
 })
@@ -31,7 +31,7 @@ $(function(){
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -88,7 +88,7 @@ $(function(){
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

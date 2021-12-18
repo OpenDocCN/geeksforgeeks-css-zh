@@ -9,7 +9,7 @@
 1.  在 Bootstrap 4 中，通过基于便利性在内部或外部添加 CSS 属性，Navbar 中的全宽下拉列表是可能的。只关注类下拉菜单和下拉菜单。
 2.  首先聚焦下拉菜单的父类下拉菜单，然后使其在位置上保持静态，如下所示:
 
-    ```
+    ```html
     <style>
     .dropdown {
         position:static !important;
@@ -20,7 +20,7 @@
 3.  现在，使下拉菜单的上边距为零像素，宽度增加到 100%。
 4.  然后添加框阴影以突出显示下拉菜单(装饰目的)，如下所示:
 
-    ```
+    ```html
     <style>
     .dropdown-menu {
         box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15)!important;
@@ -34,7 +34,7 @@
 
 **示例 1:** 下面的示例说明了如何使用 CSS 属性在导航栏中制作 Bootstrap 4 全宽下拉列表。
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -181,20 +181,20 @@
 2.  类似于方法 1，只关注类下拉菜单和下拉菜单。
 3.  添加类位置-静态连同下拉类，下拉类是下拉菜单的父类，如下:
 
-    ```
+    ```html
     <li class="nav-item dropdown position-static">
     ```
 
 4.  现在，添加 w-100，mt-0 类以及下拉菜单类如下:
 
-    ```
+    ```html
     <div class="dropdown-menu mt-0 w-100 shadow border-outline-success" 
     aria-labelledby="navbarDropdown">
     ```
 
 **示例 2:** 下面的示例说明了如何使用 Bootstrap 4 实用程序在导航栏中制作 Bootstrap 4 全宽下拉列表。
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

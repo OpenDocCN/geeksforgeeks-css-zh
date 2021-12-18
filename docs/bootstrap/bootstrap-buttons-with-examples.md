@@ -18,7 +18,7 @@ Bootstrap 为我们提供了不同的类，可以使用不同的标签，如 **<
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -88,7 +88,7 @@ Bootstrap 为我们提供了一系列类，当我们需要在项目中使用轮�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -150,7 +150,7 @@ Bootstrap 为我们提供了不同的类，允许改变按钮的大小。这些�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -205,7 +205,7 @@ Bootstrap 为我们提供了不同的类，允许改变按钮的大小。这些�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -259,7 +259,7 @@ Bootstrap 为我们提供了不同的类，允许改变按钮的大小。这些�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -317,7 +317,7 @@ Bootstrap 为我们提供了“激活”和“禁用”类来改变按钮的状�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -372,7 +372,7 @@ Bootstrap 为我们提供了“激活”和“禁用”类来改变按钮的状�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -429,7 +429,7 @@ Bootstrap 为我们提供了“激活”和“禁用”类来改变按钮的状�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -487,7 +487,7 @@ Bootstrap 为我们提供了“激活”和“禁用”类来改变按钮的状�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -553,7 +553,7 @@ Bootstrap 为我们提供了“激活”和“禁用”类来改变按钮的状�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>

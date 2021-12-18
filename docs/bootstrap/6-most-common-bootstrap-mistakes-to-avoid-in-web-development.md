@@ -102,7 +102,7 @@ Bootstrap 提供了许多功能。它提供了许多用户界面组件、用 HTM
 
 在 HTML 头部的元标签中，你必须正确描述 IE 没有在兼容模式下运行。这看起来像下面这样。
 
-```
+```html
 <head>
  ...
  <meta http-equiv="X-UA-Compatible" content="IE=edge">

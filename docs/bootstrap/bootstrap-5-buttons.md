@@ -6,7 +6,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 **语法:**
 
-```
+```html
 <button class="badge bg-type"> Button Text <button>
 ```
 
@@ -25,7 +25,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 **示例 1:** 此示例用于显示 Bootstrap 5 中前五种按钮的工作方式。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -73,7 +73,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 **示例 2:** 此示例用于显示 Bootstrap 5 中最后四种类型按钮的工作情况。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -119,7 +119,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 **示例 3:** 该示例使用 Bootstrap 5 中的按钮来显示不同元素的工作方式。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -170,7 +170,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 **示例:**该示例用于显示 Bootstrap 5 中不同轮廓按钮的工作情况。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -249,7 +249,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 **示例:**此示例用于显示 Bootstrap 5 中不同按钮大小的工作情况。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -304,7 +304,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 **示例:**该示例用于显示 Bootstrap 5 中按钮活动状态的工作情况。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -355,7 +355,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 **示例:**此示例用于显示 Bootstrap 5 中按钮禁用状态的工作情况。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -405,7 +405,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 **示例:**该示例显示了 Bootstrap 5 中块级按钮的工作情况。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -456,7 +456,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 **示例:**该示例显示了 Bootstrap 5 中微调按钮的工作方式。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

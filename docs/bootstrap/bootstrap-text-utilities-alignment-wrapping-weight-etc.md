@@ -18,7 +18,7 @@
 *   **文本对齐:**顾名思义，该类用于将文本对齐设置为对齐状态。
     T3】例:
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -76,7 +76,7 @@
 
     **示例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
       <head>
@@ -134,7 +134,7 @@
 
     **示例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
       <head>
@@ -191,7 +191,7 @@
 
     **示例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
       <head>
@@ -260,7 +260,7 @@
 
     **示例:** text-sm-right
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
       <head>
@@ -319,7 +319,7 @@
 
     *   **text-wrap:** It sets text wrapping on the applied element.
 
-        ```
+        ```html
         <!DOCTYPE html>
         <html>
           <head>
@@ -374,7 +374,7 @@
 
     *   **text-nowrap:** It removes text wrapping on the applied element.
 
-        ```
+        ```html
         <!DOCTYPE html>
         <html>
           <head>
@@ -429,7 +429,7 @@
 
     *   **text-truncate:** It sets truncation on the applied element with ellipses.
 
-        ```
+        ```html
         <!DOCTYPE html>
         <html>
           <head>
@@ -486,7 +486,7 @@
 
 *   **font-weight-bold:** It is used to set font text to bold face.
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
       <head>
@@ -541,7 +541,7 @@
 
 *   **font-weight-bolder:** It is used to set font weight bolder than its parent element.
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
       <head>
@@ -596,7 +596,7 @@
 
 *   **font-weight-normal:** It is used to set normal font weight.
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
       <head>
@@ -651,7 +651,7 @@
 
 *   **font-weight-light:** It is used to set light font weight to the text.
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
       <head>
@@ -706,7 +706,7 @@
 
 *   **font-weight-lighter:** It is used to set font weight lighter than its parent element.
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
       <head>
@@ -761,7 +761,7 @@
 
 *   **font-italics:** It is used to set the style of the font to italics.
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
       <head>
@@ -818,7 +818,7 @@
 
 *   **text-monospace:** It is used to change the text font to monospace.
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
       <head>
@@ -876,7 +876,7 @@
 
 *   **text-reset:** It is used to remove the font color from the text to font color inherited from its parent element.
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
       <head>
@@ -934,7 +934,7 @@
 
 *   **text-decoration-none:** It is used to remove all the text decoration from the text.
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
       <head>

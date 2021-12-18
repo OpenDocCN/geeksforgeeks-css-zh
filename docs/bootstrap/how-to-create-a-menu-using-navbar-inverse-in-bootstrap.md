@@ -23,7 +23,7 @@ Bootstrap 中的导航栏包含许多类，例如:
 
 **第二步:**在你的<身体>里面添加<导航>标签，里面有导航栏和导航栏-默认类。
 
-```
+```html
 <nav class="navbar navbar-default ">
     <!-- content  -->
 </nav>
@@ -31,7 +31,7 @@ Bootstrap 中的导航栏包含许多类，例如:
 
 **第三步:**创建一个< nav >标签，类名为 *navbar navbar-default，* &在< nav >标签内部，我们将创建一个< div >，类名为“*容器-流体*”。现在，为了使用品牌标志或名称，我们将添加一个类作为 *navbar-brand，*，并在其中创建一个< ul >标签，该标签的类名为“*nav bar-nav*，后面是使用< li >标签的项目列表。
 
-```
+```html
 <nav class="navbar navbar-default">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">GeekforGeeks</a>
@@ -52,7 +52,7 @@ Bootstrap 中的导航栏包含许多类，例如:
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -98,7 +98,7 @@ Bootstrap 中的导航栏包含许多类，例如:
 
 从上面的输出中，我们可以看到菜单栏有一个白色背景，如果我们需要将背景更改为黑色，并将其他文本内容更改为白色，我们可以简单地添加“*”。导航栏-反向<导航>标签中的*类，如下所示。
 
-```
+```html
 <nav class="navbar navbar-default navbar-inverse">
    <!-- Content  -->
 </nav>
@@ -108,7 +108,7 @@ Bootstrap 中的导航栏包含许多类，例如:
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -155,7 +155,7 @@ Bootstrap 中的导航栏包含许多类，例如:
 
 为了制作一个下拉菜单，我们将使用下面的代码:
 
-```
+```html
 <div class="dropdown">
  <button
    class="btn btn-default dropdown-toggle"
@@ -178,7 +178,7 @@ Bootstrap 中的导航栏包含许多类，例如:
 
 为了将搜索选项放在导航栏的右侧，我们将使用下面的代码片段:
 
-```
+```html
 <form class="navbar-form navbar-right" role="search">
   <div class="form-group">
     <input type="text" class="form-control" 
@@ -196,7 +196,7 @@ Bootstrap 中的导航栏包含许多类，例如:
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

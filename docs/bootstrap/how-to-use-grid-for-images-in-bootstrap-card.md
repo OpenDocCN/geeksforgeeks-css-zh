@@ -10,7 +10,7 @@
 
 **例 1:**2 列图像网格，即 2×2 图像网格。
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -88,7 +88,7 @@
 
 **例 2:**3 列图像网格，即 3×3 图像网格。
 
-```
+```html
 <!DOCTYPE html> 
 <html lang="en"> 
 

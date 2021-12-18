@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```html
 $("#*modalID*").modal("dispose");
 ```
 
 **示例:**此示例说明了的使用。modal('dispose ')方法。当点击*处置按钮*时，模态组件的 jQuery 实例被删除。因此，单击按钮后，其他模态函数都不起作用。
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -93,7 +93,7 @@ $("#*modalID*").modal("dispose");
 
 **注意:**要在使用 dispose 函数后关闭 modal，我们可以修改上面的代码来隐藏 modal，并在销毁它的同时删除 fade 类。
 
-```
+```html
 $("#disposeBtn").click(function(){
      $("#myModal").removeClass('fade').modal('hide');
      $("#myModal").modal("dispose");

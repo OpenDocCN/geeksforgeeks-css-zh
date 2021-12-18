@@ -8,7 +8,7 @@
 
 **增加一行一列:**
 
-```
+```html
 <div class="row flex-column-reverse flex-md-row">
 
         <div class="col-xs-12 col-sm-6 pull-right">
@@ -35,7 +35,7 @@
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

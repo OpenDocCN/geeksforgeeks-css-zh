@@ -17,7 +17,7 @@ Bootstrap 还提供了一些修改器类来调整元素的纵横比:
 
 下面的程序说明了**嵌入式响应**类:
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>

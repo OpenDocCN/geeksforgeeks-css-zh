@@ -10,7 +10,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -139,7 +139,7 @@
 
     ## java 描述语言
 
-    ```
+    ```html
     // Contents for test.js
     // Represents JSON of the data
 
@@ -157,7 +157,7 @@
 
     ## 超文本标记语言
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
     <head>

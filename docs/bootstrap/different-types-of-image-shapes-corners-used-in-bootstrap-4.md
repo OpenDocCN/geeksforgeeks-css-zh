@@ -31,7 +31,7 @@
 
 **语法:**
 
-```
+```html
 <img src="image_source" class="rounded" alt="description">
 ```
 
@@ -39,7 +39,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -74,7 +74,7 @@
 
 **语法:**
 
-```
+```html
 <img src="image_source" class="rounded-circle" alt="description"> 
 ```
 
@@ -82,7 +82,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -122,7 +122,7 @@
 
 **语法:**
 
-```
+```html
 <img src="image_source" class="img-thumbnail" 
                         alt="description"> 
 ```
@@ -131,7 +131,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -172,7 +172,7 @@
 
 **语法:**
 
-```
+```html
 <img src="image_source" class="float-left/float-right" 
                         alt="description">
 ```
@@ -181,7 +181,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

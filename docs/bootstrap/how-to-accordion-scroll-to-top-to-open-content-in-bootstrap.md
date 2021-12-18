@@ -8,13 +8,13 @@ Bootstrap 手风琴在实际操作中非常吸引人，但是当手风琴上下�
 
 *   它返回 scrollTop 属性。
 
-    ```
+    ```html
     element.scrollTop
     ```
 
 *   用于设置滚动顶部属性
 
-    ```
+    ```html
     element.scrollTop = value
     ```
 
@@ -22,7 +22,7 @@ Bootstrap 手风琴在实际操作中非常吸引人，但是当手风琴上下�
 
 *   **JavaScript 代码:**你所要做的就是创建一个普通的 Bootstrap Accordion 并粘贴下面的 JavaScript 代码 int script 标签，然后动作就开始了。
 
-    ```
+    ```html
     <script>
     $('#accordion').on('shown.bs.collapse', function () {
 
@@ -38,7 +38,7 @@ Bootstrap 手风琴在实际操作中非常吸引人，但是当手风琴上下�
 
 *   **程序:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 

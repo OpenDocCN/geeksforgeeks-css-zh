@@ -6,7 +6,7 @@ popover 是 bootstrap 的一个属性，可以用来使任何网站看起来更�
 data-toggle =“popover”属性用于创建 popover，title =“popover-title”属性用于添加 popover 的标题，data-content =“popover-content”用于添加 popover 内容。
 **语法:**
 
-```
+```html
 <element data-toggle="popover" title="popover-title" 
                  data-content="popover-content">
     popover element
@@ -17,7 +17,7 @@ data-toggle =“popover”属性用于创建 popover，title =“popover-title�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -71,7 +71,7 @@ data-toggle =“popover”属性用于创建 popover，title =“popover-title�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -146,7 +146,7 @@ data-toggle =“popover”属性用于创建 popover，title =“popover-title�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -200,7 +200,7 @@ data-toggle =“popover”属性用于创建 popover，title =“popover-title�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

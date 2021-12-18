@@ -10,7 +10,7 @@
 
 *   **程序:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -32,7 +32,7 @@
 
 *   **输出:**
 
-    ```
+    ```html
      GeeskforGeeks  
      A Computer Science Portal
               For Geeks
@@ -44,7 +44,7 @@
 
 *   **程序:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -69,7 +69,7 @@
 
 *   **输出:**
 
-    ```
+    ```html
     GeeksforGeeks
     This paragraph is on remove margin
     introduced in pre tag in bootstrap 4

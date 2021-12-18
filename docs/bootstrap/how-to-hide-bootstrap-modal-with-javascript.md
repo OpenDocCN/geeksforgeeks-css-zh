@@ -8,13 +8,13 @@
 当引导模式即将被**隐藏**或**隐藏**引导模式时，将使用以下语法。
 **语法:**
 
-```
+```html
 hide.bs.modal
 ```
 
 **例:**本例展示了 **hide.bs.modal** 的用法。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

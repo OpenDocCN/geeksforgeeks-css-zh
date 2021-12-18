@@ -6,7 +6,7 @@ Bootstrap 5 提供了 Carousel，这是一个循环播放元素的幻灯片组�
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -112,7 +112,7 @@ Bootstrap 5 提供了 Carousel，这是一个循环播放元素的幻灯片组�
 **给幻灯片添加标题:**使用*。旋转木马-标题*内的*。转盘-项目*类用于向幻灯片添加标题。
 **例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

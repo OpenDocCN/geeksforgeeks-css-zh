@@ -6,13 +6,13 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 **语法:**
 
-```
+```html
 <div class="progress"> Contents... <div>
 ```
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -57,7 +57,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 **进度条高度:**我们可以使用 CSS 属性改变进度条的高度。默认进度高度为 16px。进度和进度条容器的高度必须相同。
 T3】例:
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -104,7 +104,7 @@ T3】例:
 **标注进度条:**标注进度条用于显示进度条内部的文本，以显示任务完成百分比。
 T3】例:
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -154,7 +154,7 @@ T3】例:
 
 **例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -237,7 +237,7 @@ T3】例:
 
 **例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -314,7 +314,7 @@ T3】例:
 **动画进度条:***。进度条-动画*类用于创建动画进度条。使用*的组合。进度条*、*。进度条条纹*和*。进度条-动画*创建动画进度条。
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -402,7 +402,7 @@ T3】例:
 **多个进度条:**可以堆叠多个进度条，以显示不同颜色的进度条。
 T3】例:
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

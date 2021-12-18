@@ -8,7 +8,7 @@
 
     **语法:**
 
-    ```
+    ```html
     $(selector).hover(Function_in, Function_out);
     ```
 
@@ -21,7 +21,7 @@
 
     **示例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 
@@ -126,7 +126,7 @@
 2.  **Using the CSS property**
     Section of code to be used in the program
 
-    ```
+    ```html
     .dropdown:hover .dropdown-menu {
       display: block;
     }
@@ -134,7 +134,7 @@
 
     **示例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 

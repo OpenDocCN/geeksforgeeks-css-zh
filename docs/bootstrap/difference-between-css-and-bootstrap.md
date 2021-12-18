@@ -12,7 +12,7 @@
 
 **示例:**这个示例描述了简单 CSS 属性的使用。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -43,7 +43,7 @@
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html> 
 <html lang="en"> 
 

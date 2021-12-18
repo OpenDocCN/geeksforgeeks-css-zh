@@ -14,7 +14,7 @@
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -83,7 +83,7 @@
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -144,7 +144,7 @@
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -209,7 +209,7 @@
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -316,7 +316,7 @@
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>

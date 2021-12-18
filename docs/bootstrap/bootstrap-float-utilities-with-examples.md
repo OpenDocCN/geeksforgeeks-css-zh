@@ -17,7 +17,7 @@ Bootstrap 为我们提供了一系列的 float 实用程序类，允许一个元
 
     **示例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
       <head>   
@@ -79,7 +79,7 @@ Bootstrap 为我们提供了一系列的 float 实用程序类，允许一个元
 
     **示例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
 
     <html>
@@ -141,7 +141,7 @@ Bootstrap 为我们提供了一系列的 float 实用程序类，允许一个元
 *   **float-none:** It makes the element not to float across all viewport sizes.
     **Example:**
 
-    ```
+    ```html
     <!DOCTYPE html>
 
     <html>
@@ -218,7 +218,7 @@ Bootstrap 为我们提供了一系列的 float 实用程序类，允许一个元
 
 **示例:** float-md-right。
 
-```
+```html
 <!DOCTYPE html>
 
 <html>
@@ -280,7 +280,7 @@ Bootstrap 为我们提供了一系列的 float 实用程序类，允许一个元
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 
 <html>

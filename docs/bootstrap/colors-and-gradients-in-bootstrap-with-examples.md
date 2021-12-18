@@ -7,7 +7,7 @@ Bootstrap 提供了各种类来将颜色属性应用于各种元素。
 
 ## 超文本标记语言
 
-```
+```html
 <!doctype html>
 <html lang="en">
   <head>
@@ -49,7 +49,7 @@ crossorigin="anonymous"></script>
 
 ## 超文本标记语言
 
-```
+```html
 <p class="text-primary">.text-primary</p>
 
 <p class="text-secondary">.text-secondary</p>
@@ -86,7 +86,7 @@ crossorigin="anonymous"></script>
 
 ## 超文本标记语言
 
-```
+```html
 <div class="p-3 mb-2 bg-primary text-white">.bg-primary</div>
 <div class="p-3 mb-2 bg-secondary text-white">.bg-secondary</div>
 <div class="p-3 mb-2 bg-success text-white">.bg-success</div>
@@ -108,7 +108,7 @@ crossorigin="anonymous"></script>
 
 ## 超文本标记语言
 
-```
+```html
 <div class="p-3 mb-2 bg-gradient-primary text-white">.bg-primary</div>
 <div class="p-3 mb-2 bg-gradient-secondary text-white">.bg-secondary</div>
 <div class="p-3 mb-2 bg-gradient-success text-white">.bg-success</div>

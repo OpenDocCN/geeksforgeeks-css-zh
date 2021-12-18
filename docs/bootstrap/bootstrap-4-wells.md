@@ -9,7 +9,7 @@ T3】基本井: The。井类用于创建基本井。
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -56,7 +56,7 @@ T3】基本井: The。井类用于创建基本井。
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -106,7 +106,7 @@ T3】基本井: The。井类用于创建基本井。
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

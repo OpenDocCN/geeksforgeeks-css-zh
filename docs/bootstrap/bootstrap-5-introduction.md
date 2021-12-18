@@ -26,7 +26,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <div class="card-deck">
   <div class="card">
     <img class="card-img-top" src="..." alt="Card image cap">
@@ -73,7 +73,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <div class="form-check">
   <input class="form-check-input"
     type="checkbox" value=""

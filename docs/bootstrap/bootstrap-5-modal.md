@@ -6,13 +6,13 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 
 **语法:**
 
-```
+```html
 <div class="modal"> Contents... <div>
 ```
 
 **示例:**该示例用于显示 Bootstrap 5 中一个模态的工作情况。
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -95,7 +95,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，他们修改
 **工具提示:**可以添加到模态内部。当模态关闭时，内的工具提示也会自动消失。
 T3】例:
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -189,7 +189,7 @@ T3】例:
 **Popovers:** 可以加在情态里面。当模态关闭时，内的波波头也会自动消失。
 T3】例:
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -285,7 +285,7 @@ T3】例:
 **使用网格:**我们可以通过嵌套*在一个模型中使用 Bootstrap 网格系统。*内的容器-流体*。模体*。然后，像在其他地方一样使用普通的网格系统类。
 **例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -380,7 +380,7 @@ T3】例:
 **变化的模态内容:**我们可以用下面给出的不同数据触发相同的模态。
 T3】例:
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -516,7 +516,7 @@ T3】例:
 **模态-xl:** 这提供了最大的模态尺寸，最大宽度为 1140px。
 T3】例:
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -595,7 +595,7 @@ T3】例:
 **模态-lg:** 这提供了最大宽度为 800px 的大模态尺寸。
 T3】例:
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -674,7 +674,7 @@ T3】例:
 **模态 sm:** 这提供了最大的模态尺寸，最大宽度为 300px。
 T3】例:
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

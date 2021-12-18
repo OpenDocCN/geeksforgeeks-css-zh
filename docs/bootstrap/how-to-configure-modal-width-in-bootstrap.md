@@ -13,7 +13,7 @@ Bootstrap 具有预定义的类，用于更改模式维度属性，以便与包�
 
 ## 超文本标记语言
 
-```
+```html
 <!-- Small Bootstrap Modal Example -->
 <!DOCTYPE html>
 <html lang="en">
@@ -94,7 +94,7 @@ Bootstrap 具有预定义的类，用于更改模式维度属性，以便与包�
 
 ## 超文本标记语言
 
-```
+```html
 <!-- Changing CSS properties for the div 
 containing '.modal-dialog' class -->
 <!DOCTYPE html>

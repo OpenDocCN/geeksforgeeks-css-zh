@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 <button class="btn btn-className">Submit</button>
 ```
 
@@ -37,7 +37,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -97,7 +97,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -168,7 +168,7 @@
 
 **步骤 2:** 将类声明为容器，值为*。btn-group-lg* 在外<区>。
 
-```
+```html
 <div class="btn-group-lg">
     <button></button>
     <button></button>
@@ -177,7 +177,7 @@
 
 **第三步:**现在，给内部 HTML **<按钮>** 标签添加不同的预定义按钮类。比如 ***。btn btn-success*** 会将按钮的样式设置为 bootstrap success 类，也就是绿色按钮，像这样，你也可以使用不同的类。
 
-```
+```html
 <div class="btn-group btn-group-lg">
     <!-- Here basic Bootstrap Button Declared -->
     <button type="button" class="btn btn-success">
@@ -194,7 +194,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -253,7 +253,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

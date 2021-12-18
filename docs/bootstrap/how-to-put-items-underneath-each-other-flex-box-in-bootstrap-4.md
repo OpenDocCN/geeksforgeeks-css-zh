@@ -10,13 +10,13 @@
 
 **例 1:** 使用。**伸缩柱**类将物品放在彼此下方。
 
-```
+```html
 <div class="d-flex flex-column"></div>
 ```
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -57,7 +57,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -100,7 +100,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

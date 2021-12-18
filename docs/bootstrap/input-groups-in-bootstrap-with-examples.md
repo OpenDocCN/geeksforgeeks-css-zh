@@ -13,7 +13,7 @@ Bootstrap 中的输入组用于通过在文本输入、自定义文件选择器�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 
 <html>
@@ -99,7 +99,7 @@ Bootstrap 中的输入组用于通过在文本输入、自定义文件选择器�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 
 <html>
@@ -167,7 +167,7 @@ Bootstrap 中的输入组用于通过在文本输入、自定义文件选择器�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 
 <html>
@@ -209,7 +209,7 @@ Bootstrap 中的输入组用于通过在文本输入、自定义文件选择器�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 
 <html>
@@ -266,7 +266,7 @@ Bootstrap 中的输入组用于通过在文本输入、自定义文件选择器�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 
 <html>
@@ -352,7 +352,7 @@ Bootstrap 中的输入组用于通过在文本输入、自定义文件选择器�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -408,7 +408,7 @@ Bootstrap 中的输入组用于通过在文本输入、自定义文件选择器�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

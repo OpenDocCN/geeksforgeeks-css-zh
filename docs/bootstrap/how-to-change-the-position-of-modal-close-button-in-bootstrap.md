@@ -8,7 +8,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -93,7 +93,7 @@
 
 **进场:**在上图中，可以观察到模态表头内有一个 class =“close”的按钮。该按钮用于关闭模态元素。**数据-消除**属性用于切换模态元素的显示样式。
 
-```
+```html
 <button type="button" class="close" data-dismiss="modal">
       &times;
 </button>
@@ -109,7 +109,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -202,7 +202,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

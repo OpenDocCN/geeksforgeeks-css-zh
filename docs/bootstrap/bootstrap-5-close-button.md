@@ -6,7 +6,7 @@ Bootstrap 5 提供了一个新的组件，它是一个关闭按钮，可以用�
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

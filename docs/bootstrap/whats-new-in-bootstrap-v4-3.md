@@ -37,7 +37,7 @@ Bootstrap 是一个开源框架，建立在 HTML、CSS、Less(v3)、Sass(v4)和 
 
 **可滚动对话框示例**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

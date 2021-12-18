@@ -7,7 +7,7 @@ flex 类用于控制 flexbox 组件的布局。
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -61,7 +61,7 @@ flex 类用于控制 flexbox 组件的布局。
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -115,7 +115,7 @@ flex 类用于控制 flexbox 组件的布局。
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -177,7 +177,7 @@ flex 类用于控制 flexbox 组件的布局。
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -239,7 +239,7 @@ flex 类用于控制 flexbox 组件的布局。
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -327,7 +327,7 @@ flex 类用于控制 flexbox 组件的布局。
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -383,7 +383,7 @@ flex 类用于控制 flexbox 组件的布局。
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -438,7 +438,7 @@ flex 类用于控制 flexbox 组件的布局。
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -498,7 +498,7 @@ flex 类用于控制 flexbox 组件的布局。
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -570,7 +570,7 @@ flex 类用于控制 flexbox 组件的布局。
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -698,7 +698,7 @@ flex 类用于控制 flexbox 组件的布局。
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -826,7 +826,7 @@ flex 类用于控制 flexbox 组件的布局。
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -954,7 +954,7 @@ flex 类用于控制 flexbox 组件的布局。
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

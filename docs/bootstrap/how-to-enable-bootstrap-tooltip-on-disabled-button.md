@@ -13,7 +13,7 @@
 *   默认情况下，工具提示通过选择指定的元素并使用 jQuery 调用*工具提示()*方法来初始化。然后向指定的元素添加一个标题属性，该元素包含要在工具提示中显示的文本。
 *   要定位工具提示数据，必须将放置属性添加到指定的元素中，并将顶部/底部/右侧/左侧作为其值。
 
-```
+```html
 // Initializing the tooltip
 $(document).ready(function() { 
     $('[data-toggle="tooltip"]').tooltip();    
@@ -30,7 +30,7 @@ $(document).ready(function() {
 
 **示例:**该示例通过在 div 和 span 标签内包装禁用按钮来说明触发工具提示。
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -107,7 +107,7 @@ $(document).ready(function() {
 
 **示例 2:** 本示例使用 HTML 在任何禁用的按钮上显示关于内容的工具提示信息。为此，只需禁用按钮并在其上添加标题属性。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -144,7 +144,7 @@ $(document).ready(function() {
 
 **示例 3:** 使用 CSS 禁用引导按钮的跳跳虎工具提示。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <title>Disabled Button Tooltip</title>

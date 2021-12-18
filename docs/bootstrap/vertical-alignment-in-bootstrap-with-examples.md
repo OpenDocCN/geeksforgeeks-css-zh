@@ -17,7 +17,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!-- BootStrap Vertical alignment classes
     for inline elements -->
 
@@ -63,7 +63,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <html>
 <head>
     <title>GeeksForGeeks</title>

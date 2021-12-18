@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $(document).ready(function() {
     $('selector').click(function() {
         $('selector.active').removeClass("active");
@@ -20,7 +20,7 @@ $(document).ready(function() {
 
 **示例 1:** 下面的示例说明了如何使用 jQuery through for loop 在自定义列表组中的点击事件上添加活动类。
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -141,7 +141,7 @@ https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
 
 **示例 2:** 下面的示例说明了如何使用 jQuery 以及 jQuery 类属性操作的 addClass 和 removeClass 在自定义列表组中添加点击事件的活动类。
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

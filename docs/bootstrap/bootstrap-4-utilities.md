@@ -14,7 +14,7 @@ Bootstrap 还让您能够轻松创建响应性设计。
     *   They are used to convey meaning through colors with a handful of color utility classes. Bootstrap 4 includes support for styling links with hover states (state when you move cursor over item) too.
         **Example 1:**
 
-        ```
+        ```html
         <!DOCTYPE html>
         <html lang="en">
 
@@ -50,7 +50,7 @@ Bootstrap 还让您能够轻松创建响应性设计。
     *   上下文文本类也可以用于链接，这将增加一个更深的悬停颜色。
         **例 2:**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -109,7 +109,7 @@ Bootstrap 还让您能够轻松创建响应性设计。
     We can also add 50% opacity for black or white text with the *.text-black-50* or *.text-white-50* classes, as shown below:
     **Example 3:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 
@@ -145,7 +145,7 @@ Bootstrap 还让您能够轻松创建响应性设计。
 
     **示例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 
@@ -196,7 +196,7 @@ Bootstrap 还让您能够轻松创建响应性设计。
     1.  **Additive Borders:** Use to ‘add’ borders.
         **Example:**
 
-        ```
+        ```html
         <!DOCTYPE html>
         <html lang="en">
 
@@ -237,7 +237,7 @@ Bootstrap 还让您能够轻松创建响应性设计。
     2.  **减法边框:**用于*【移除】*边框:
         **示例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 
@@ -280,7 +280,7 @@ Bootstrap 还让您能够轻松创建响应性设计。
     8.  **Border colour:** Use to give a particular colour to the border.
         **Example:**
 
-        ```
+        ```html
         <!DOCTYPE html>
         <html lang="en">
 
@@ -334,7 +334,7 @@ Bootstrap 还让您能够轻松创建响应性设计。
     9.  **Border radius:** Use to give a particular radius type: (like being circular edged)
         **Example:**
 
-        ```
+        ```html
         <!DOCTYPE html>
         <html lang="en">
 
@@ -391,7 +391,7 @@ Bootstrap 还让您能够轻松创建响应性设计。
     1.  **Text Alignment:** For left, right, and center alignment, responsive classes are available that use the same viewport width breakpoints as the grid system.
         **Example:**
 
-        ```
+        ```html
         <!DOCTYPE html>
         <html>
 
@@ -443,7 +443,7 @@ Bootstrap 还让您能够轻松创建响应性设计。
     2.  **Text Transform:** We can transform text in components with text capitalization classes.
         **Example:**
 
-        ```
+        ```html
         <!DOCTYPE html>
         <html>
 
@@ -471,7 +471,7 @@ Bootstrap 还让您能够轻松创建响应性设计。
     3.  **Font Weight/Italics:** We can change the weight/boldness of text or italicize text.
         **Example:**
 
-        ```
+        ```html
         <!DOCTYPE html>
         <html lang="en">
 
@@ -510,7 +510,7 @@ Bootstrap 还让您能够轻松创建响应性设计。
     我们可以用*将一个元素向右浮动。与*类似，向右浮动*级或向左浮动。向左浮动*级。
     **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -546,7 +546,7 @@ Bootstrap 还让您能够轻松创建响应性设计。
 
     **示例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 
@@ -600,7 +600,7 @@ Bootstrap 还让您能够轻松创建响应性设计。
     1.  **Width:** Set the width of an element with the w-* classes (.w-25, .w-50, .w-75, .w-100, .mw-100).
         **Example:**
 
-        ```
+        ```html
         <!DOCTYPE html>
         <html lang="en">
 
@@ -640,7 +640,7 @@ Bootstrap 还让您能够轻松创建响应性设计。
     2.  **Height:** Set the height of an element with the h-* classes (.h-25, .h-50, .h-75, .h-100, .mh-100).
         **Example:**
 
-        ```
+        ```html
         <!DOCTYPE html>
         <html lang="en">
 
@@ -713,7 +713,7 @@ Bootstrap 还让您能够轻松创建响应性设计。
 
     **示例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 
@@ -766,7 +766,7 @@ Bootstrap 还让您能够轻松创建响应性设计。
     **阴影:**使用*阴影类*为元素添加阴影。
     **例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 
@@ -805,7 +805,7 @@ Bootstrap 还让您能够轻松创建响应性设计。
     **例如:**
     1.  **Vertical Align with inline-elements:**
 
-        ```
+        ```html
         <!DOCTYPE html>
         <html lang="en">
 
@@ -847,7 +847,7 @@ Bootstrap 还让您能够轻松创建响应性设计。
 
     2.  **Vertical Align with table-cells:**
 
-        ```
+        ```html
         <!DOCTYPE html>
         <html lang="en">
 
@@ -896,7 +896,7 @@ Bootstrap 还让您能够轻松创建响应性设计。
     Bootstrap 4 enables us to create responsive video or slideshow embeds based on the width of the parent by creating an intrinsic ratio that scales on any device. We simply need to add the *.embed-responsive-item* to any embed elements in a parent element with *.embed-responsive* and an aspect ratio of our choice.
     **Example:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 
@@ -963,7 +963,7 @@ Bootstrap 还让您能够轻松创建响应性设计。
     Simply use the *.visible* or *.invisible* classes to control the visibility of elements.
     **Example:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 
@@ -997,7 +997,7 @@ Bootstrap 还让您能够轻松创建响应性设计。
     **示例:**
     (关闭时显示为空白/白色)
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 
@@ -1028,7 +1028,7 @@ Bootstrap 还让您能够轻松创建响应性设计。
     We can use screenreader utility (*.sr-only*) to hide elements on all devices except screen readers.
     **Example:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 
@@ -1060,7 +1060,7 @@ Bootstrap 还让您能够轻松创建响应性设计。
     To make an element into a block element, add the *.d-block* class. We can use any of the *d-*-block* classes to control **when** the element should be a block element on a specific screen width.
     **Example:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 
@@ -1105,7 +1105,7 @@ Bootstrap 还让您能够轻松创建响应性设计。
 
         **示例:**
 
-        ```
+        ```html
         <!DOCTYPE html>
         <html lang="en">
 
@@ -1138,7 +1138,7 @@ Bootstrap 还让您能够轻松创建响应性设计。
         使用*。柔排*设置水平方向(浏览器默认)或*。弯曲-行-反转*从对面开始水平方向。
         **示例:**
 
-        ```
+        ```html
         <!DOCTYPE html>
         <html lang="en">
 
@@ -1186,7 +1186,7 @@ Bootstrap 还让您能够轻松创建响应性设计。
     2.  Likewise, we can use *.flex-column* to set a vertical direction, or *.flex-column-reverse* to start the vertical direction from the opposite side.
         **Example:**
 
-        ```
+        ```html
         <!DOCTYPE html>
         <html lang="en">
 
@@ -1235,7 +1235,7 @@ Bootstrap 还让您能够轻松创建响应性设计。
         We can use justify-content utilities on flexbox containers to change the alignment of flex items on the main axis (the x-axis to start, y-axis if flex-direction: column). Choose from start (browser default), end, center, between, or around.
         **Examples:**
 
-        ```
+        ```html
         <!DOCTYPE html>
         <html lang="en">
 
@@ -1315,7 +1315,7 @@ Bootstrap 还让您能够轻松创建响应性设计。
         我们还可以用少量的订单实用程序来更改特定 flex 项目的视觉顺序。我们只提供了让一个项目成为第一个或最后一个的选项，以及使用 DOM 顺序的重置。当 order 取任何整数值(例如 5)时，为任何需要的附加值添加自定义 CSS。
         **例:**
 
-        ```
+        ```html
         <!DOCTYPE html>
         <html lang="en">
 
@@ -1367,7 +1367,7 @@ Bootstrap 还让您能够轻松创建响应性设计。
 
         **示例:**
 
-        ```
+        ```html
         <!DOCTYPE html>
         <html lang="en">
 
@@ -1392,7 +1392,7 @@ Bootstrap 还让您能够轻松创建响应性设计。
         **输出:**
         ![](img/6e047d4faa93fe327eac73fccce686b7.png)
 
-        ```
+        ```html
         <!DOCTYPE html>
         <html lang="en">
 

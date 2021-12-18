@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 <span class="label label-primary">Content</span>
 ```
 
@@ -35,7 +35,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -85,7 +85,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -117,7 +117,7 @@
 
 **语法:**
 
-```
+```html
 <div class="badge bg-type"> Contents... <div>
 ```
 
@@ -147,7 +147,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -188,7 +188,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 
 <head>

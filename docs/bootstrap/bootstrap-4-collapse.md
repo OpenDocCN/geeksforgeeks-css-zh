@@ -12,7 +12,7 @@ Bootstrap 4 为创建可折叠元素提供了不同的类。可折叠元素用�
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>  
 <html lang="en">  
 <head>  
@@ -87,7 +87,7 @@ Bootstrap 4 为创建可折叠元素提供了不同的类。可折叠元素用�
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>  
 <html lang="en">  
 <head>  
@@ -168,7 +168,7 @@ Bootstrap 4 为创建可折叠元素提供了不同的类。可折叠元素用�
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>  
 <html lang="en">  
 <head>  

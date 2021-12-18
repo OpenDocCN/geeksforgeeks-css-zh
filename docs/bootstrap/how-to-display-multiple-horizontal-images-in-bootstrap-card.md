@@ -15,7 +15,7 @@
 
 **示例:**本示例在 Bootstrap 卡中水平插入多个图像。
 
-```
+```html
 <!DOCTYPE html> 
 <html lang="en"> 
 <head> 

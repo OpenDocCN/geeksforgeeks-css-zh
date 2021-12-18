@@ -10,7 +10,7 @@
 
     **语法:**
 
-    ```
+    ```html
     class="text-left"|"text-center"|"text-right"
 
     ```
@@ -19,7 +19,7 @@
 
     **示例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -78,7 +78,7 @@
     通过选择其中的一个，可以实现以下模式。
     **例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -142,7 +142,7 @@
 
     **示例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 

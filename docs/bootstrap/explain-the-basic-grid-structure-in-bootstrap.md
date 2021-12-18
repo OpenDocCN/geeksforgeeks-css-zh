@@ -24,7 +24,7 @@
 
 **对于 3 个等宽的等列，即 4 个横跨网页–**
 
-```
+```html
 <div class="container">
  <div class="row">
      <div class="col-sm-4">Col-1 width-4</div>
@@ -40,7 +40,7 @@
 
 **对于网页上宽度不等的 3 列–**
 
-```
+```html
 <div class="container">
     <div class="row">
           <div class="col-sm-4">Col-1 width-4</div>
@@ -58,7 +58,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

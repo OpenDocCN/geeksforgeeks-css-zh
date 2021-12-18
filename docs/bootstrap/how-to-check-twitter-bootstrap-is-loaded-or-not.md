@@ -8,7 +8,7 @@
 
 ****语法:****
 
-```
+```html
 var bootstrap = (typeof $()."Bootstrap-specific method" == 'function');
 ```
 
@@ -16,7 +16,7 @@ var bootstrap = (typeof $()."Bootstrap-specific method" == 'function');
 
 *   ****程序:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 

@@ -12,7 +12,7 @@
 
 **示例 1:** 下面的示例说明了如何移除特定 div 的檐槽空间。
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -74,7 +74,7 @@
 
 **示例 2:** 下面的示例说明了如何仅为特定 div 移除檐槽空间。
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

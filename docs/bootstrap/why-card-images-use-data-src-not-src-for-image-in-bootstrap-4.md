@@ -18,7 +18,7 @@ Bootstrap 4 card images 使用图像标签中的 src 来提供要加载到给定
 
 *   使用 src 属性:
 
-    ```
+    ```html
     <img id="img1" src="abc.jpg">
 
     <script>
@@ -28,7 +28,7 @@ Bootstrap 4 card images 使用图像标签中的 src 来提供要加载到给定
 
 *   使用数据-src 属性:
 
-    ```
+    ```html
     <img id="img1" src="xyz.jpg" data-src="abc.jpg
     <script>
         var ele = document.getElementById("img1");
@@ -43,7 +43,7 @@ Bootstrap 4 card images 使用图像标签中的 src 来提供要加载到给定
 
 **示例:**下面的代码可以看到如何使用 **src** 属性提供到图像的链接，以及如何使用**数据-src** 向 JavaScript 提供附加信息，就像这里使用**数据-src** 属性中的一个来更改图像的原始 src 链接一样。
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

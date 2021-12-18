@@ -13,7 +13,7 @@ Bootstrap CDN 是公共内容交付网络，使用户能够从其服务器远程
 
 **示例:**用于将网页分成三列的示例代码，在这三列中直接使用引导程序，而无需创建官方网站上提供的新方法。(来源:[https://getbootstrap . com/docs/4.4/入门/简介/](https://getbootstrap.com/docs/4.4/getting-started/introduction/) )
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -59,7 +59,7 @@ Bootstrap CDN 是公共内容交付网络，使用户能够从其服务器远程
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

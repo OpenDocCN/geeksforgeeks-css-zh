@@ -6,7 +6,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，用户界面
 
 **语法:**
 
-```
+```html
 <div class="alert alert-type"> Contents of the alert... <div>
 ```
 
@@ -25,7 +25,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，用户界面
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -75,7 +75,7 @@ Bootstrap 5 是 Bootstrap 的最新主要版本，在该版本中，用户界面
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

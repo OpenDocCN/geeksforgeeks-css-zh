@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 <div class="progress">
    <div class="progress-bar" style="width:x%"></div>
 <div>
@@ -16,7 +16,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -76,7 +76,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -6,7 +6,7 @@
 *。警报*类后跟上下文类用于在网站上显示警报消息。预警类别为:*。警戒-成功*、*。警报信息*、*。警报-警告*、*。警戒-危险*，*。警报-主要*、*。警报-二级*、*。警示灯*和。警惕-黑暗。
 **语法:**
 
-```
+```html
 <div class="alert> Contents... <div>
 ```
 
@@ -14,7 +14,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -89,7 +89,7 @@
 **关闭警报:***。*中使用了可解除警戒的*等级。容器*类关闭报警消息。然后使用 **class="close"** 和**data-discover = " alert "**链接一个按钮元素。
 **语法:**
 
-```
+```html
 <div class="alert alert_type alert-dismissible">
     <button type="button" class="close" data-dismiss="alert">x</button>
     Alert message
@@ -100,7 +100,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -199,7 +199,7 @@
 **动画提醒:***。淡化*和*。show* 类用于在关闭提醒消息时添加动画的淡入淡出效果。
 **语法:**
 
-```
+```html
 <div class="alert alert_type alert-dismissible fade show">
     <button type="button" class="close" data-dismiss="alert">x</button>
     Alert message
@@ -210,7 +210,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

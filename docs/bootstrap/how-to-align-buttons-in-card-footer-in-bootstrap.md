@@ -16,7 +16,7 @@
 
 **示例:**使用左浮动、右浮动和右浮动来对齐卡片上的按钮。
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -99,7 +99,7 @@
 
 **例 2:**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

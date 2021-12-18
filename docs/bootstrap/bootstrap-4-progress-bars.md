@@ -5,7 +5,7 @@
 进度条用于显示计算机上进程的进度。进度条显示流程完成了多少，还剩下多少。您可以使用预定义的引导类在网页上添加进度条。Bootstrap 提供了许多类型的进度条。
 **语法:**
 
-```
+```html
 <div class="progress">
     <div class="progress-bar" style="width:x%"></div>
 <div>
@@ -15,7 +15,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -62,7 +62,7 @@
 **进度条高度:**使用 CSS 属性更改进度条高度。默认进度高度为 16px。进度和进度条容器的高度必须相同。
 **语法:**
 
-```
+```html
 <div class="progress" style="height:30px;">
     <div class="progress-bar" style="width:x%";height30px;></div>
 <div>
@@ -72,7 +72,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -121,7 +121,7 @@
 **标注进度条:**标注进度条用于显示进度条内部的文本，以显示任务完成百分比。
 **语法:**
 
-```
+```html
 <div class="progress">
     <div class="progress-bar" style="width:x%">x%</div>
 <div>
@@ -131,7 +131,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -180,7 +180,7 @@
 **彩色进度条:**使用 Bootstrap 4 上下文背景类设置进度条的颜色。进度条的默认颜色是蓝色。
 **语法:**
 
-```
+```html
 <div class="progress">
     <div class="progress-bar bg-*" style="width:x%">x%</div>
 <div>
@@ -190,7 +190,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -263,7 +263,7 @@
 **剥离进度条:***。进度条剥离*类用于给进度条添加条纹。使用*的组合。进度条*和*。进度条-剥离*类创建剥离进度条。使用 Bootstrap 4 上下文背景类来设置进度条的颜色。
 **语法:**
 
-```
+```html
 <div class="progress">
     <div class="progress-bar progress-bar-stripped" style="width:x%">
          x%
@@ -275,7 +275,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -343,7 +343,7 @@
 **动画进度条:**的。进度条动画类用于创建动画进度条。使用的组合。进度条，进度条剥离和进度条动画创建一个动画进度条。
 **语法:**
 
-```
+```html
 <div class="progress">
     <div class="progress-bar progress-bar-stripped progress-bar-animated" 
             style="width:x%">
@@ -356,7 +356,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -426,7 +426,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

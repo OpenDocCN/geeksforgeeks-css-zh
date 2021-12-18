@@ -18,7 +18,7 @@
 
 **Example:**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -130,7 +130,7 @@
 
         **示例:**
 
-        ```
+        ```html
         <!DOCTYPE html>
         <html lang="en">
 
@@ -255,19 +255,19 @@
 
     *   **小情态:**
 
-        ```
+        ```html
         <div class="modal-dialog modal-sm">
         ```
 
     *   **大情态:**
 
-        ```
+        ```html
         <div class="modal-dialog modal-lg">
         ```
 
     *   **超大情态:**
 
-        ```
+        ```html
         <div class="modal-dialog modal-xl">
         ```
 
@@ -277,7 +277,7 @@
 
     **class:**
 
-    ```
+    ```html
     <div class="<div class="modal-dialog modal-dialog-centered">
     ```
 
@@ -285,6 +285,6 @@
 
     **class:**
 
-    ```
+    ```html
     <div class="modal-dialog modal-dialog-scrollable">
     ```

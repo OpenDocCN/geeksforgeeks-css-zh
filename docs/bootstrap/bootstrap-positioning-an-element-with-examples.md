@@ -10,7 +10,7 @@ bootstrap 框架为我们提供了一系列允许我们改变元素位置的类�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
    <head>
@@ -71,7 +71,7 @@ bootstrap 框架为我们提供了一系列允许我们改变元素位置的类�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
    <head>
@@ -135,7 +135,7 @@ bootstrap 框架为我们提供了一系列允许我们改变元素位置的类�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
    <head>
@@ -199,7 +199,7 @@ bootstrap 框架为我们提供了一系列允许我们改变元素位置的类�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
    <head>
@@ -261,7 +261,7 @@ bootstrap 框架为我们提供了一系列允许我们改变元素位置的类�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
    <head>
@@ -326,7 +326,7 @@ bootstrap 框架为我们提供了一系列允许我们改变元素位置的类�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
    <head>
@@ -389,7 +389,7 @@ bootstrap 框架为我们提供了一系列允许我们改变元素位置的类�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
    <head>
@@ -458,7 +458,7 @@ bootstrap 框架为我们提供了一系列允许我们改变元素位置的类�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
    <head>

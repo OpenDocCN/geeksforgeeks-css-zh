@@ -20,7 +20,7 @@
 
     **示例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
         <head>
@@ -89,7 +89,7 @@
 
     **示例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
         <head>
@@ -196,7 +196,7 @@
 
     **示例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
         <head>

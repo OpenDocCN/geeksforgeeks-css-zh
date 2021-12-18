@@ -17,7 +17,7 @@
 
     **文本对齐**属性指定元素中文本的水平对齐方式。因此，在我们的 CSS 代码中，我们只需将 tds 的 text-align 属性设置为中心，表格文本就会放在中心。
 
-    ```
+    ```html
     .table td {
     text-align: center;
     } 
@@ -26,7 +26,7 @@
 
     **示例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
     <head>
@@ -70,14 +70,14 @@
 
     我们可以使用 bootstrap 3 的“文本中心”类来对元素进行中心对齐。因此，在我们的 td 中，当我们添加“文本中心”类时，我们的表格文本就位于中心。
 
-    ```
+    ```html
     <td class="text-center">.......</td>
 
     ```
 
     **示例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
     <head>

@@ -10,7 +10,7 @@
 
     **语法:**
 
-    ```
+    ```html
     <div class="table-responsive">
       <table class="table">
         ...
@@ -21,7 +21,7 @@
 
     **示例:**该示例描述了“表响应”类。
 
-    ```
+    ```html
     <!DOCTYPE html> 
     <html lang="en"> 
     <head> 
@@ -158,7 +158,7 @@
 
     **语法:**
 
-    ```
+    ```html
     <div class="table-responsive-sm">
       <table class="table">
         ...
@@ -169,7 +169,7 @@
 
     **示例:**该示例描述了“表响应 sm”类。
 
-    ```
+    ```html
     <!DOCTYPE html> 
     <html lang="en"> 
     <head> 

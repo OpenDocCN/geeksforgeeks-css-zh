@@ -6,7 +6,7 @@ Bootstrap popover 是 bootstrap 中的一个属性，可以用来使任何网站
 使用 Bootstrap 在网站上实现弹出窗口很容易，因为您只需要定义元素的几个属性，如下所述：
 **语法**：*
 
-```
+```html
 data-toggle="popover" 
 title="Popover Header" 
 data-content="Some content inside the box"
@@ -17,7 +17,7 @@ data-content="Some content inside the box"
 
 ## JavaScript
 
-```
+```html
 <script>
 $(document).ready(function(){
   $('[data-toggle="popover"]').popover();
@@ -29,7 +29,7 @@ $(document).ready(function(){
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -69,7 +69,7 @@ $(document).ready(function(){
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -112,7 +112,7 @@ $(document).ready(function(){
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -155,7 +155,7 @@ $(document).ready(function(){
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -198,7 +198,7 @@ $(document).ready(function(){
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>

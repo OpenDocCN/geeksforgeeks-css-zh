@@ -14,7 +14,7 @@
 
 ***第二步:**我们将添加类型为*按钮*并添加类 *btn、btn-primary、btn-lg* 和 *btn-block* 。然后我们将写下按钮上的文字。*
 
-```
+```html
 *<button type="button" class="btn 
     btn-primary btn-lg btn-block">
   Click Here
@@ -25,7 +25,7 @@
 
 ## *超文本标记语言*
 
-```
+```html
 *<!DOCTYPE html>
 <html>
 

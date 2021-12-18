@@ -8,7 +8,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <ul class="nav nav-tabs">
     <li class="active"><a data-toggle="tab" href="#home">Algo</a></li>
     <li><a data-toggle="tab" href="#menu1">DS</a></li>
@@ -21,7 +21,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <ul class="nav nav-tabs">
     <li class="active"><a data-toggle="tab" href="#home">Algo</a></li>
     <li><a href="#menu1">DS</a></li>
@@ -35,7 +35,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

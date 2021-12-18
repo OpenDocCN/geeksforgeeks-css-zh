@@ -8,7 +8,7 @@ Bootstrap 提供了不同的类，可以使用不同的标签，如<button>、</
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -62,7 +62,7 @@ Bootstrap 提供了不同的类，可以使用不同的标签，如<button>、</
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -117,7 +117,7 @@ Bootstrap 提供了不同的类，可以使用不同的标签，如<button>、</
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -196,7 +196,7 @@ Bootstrap 提供了不同的类，可以使用不同的标签，如<button>、</
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -256,7 +256,7 @@ Bootstrap 提供了不同的类，可以使用不同的标签，如<button>、</
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -312,7 +312,7 @@ Bootstrap 提供了不同的类，可以使用不同的标签，如<button>、</
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -368,7 +368,7 @@ Bootstrap 提供了不同的类，可以使用不同的标签，如<button>、</
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -423,7 +423,7 @@ Bootstrap 提供了不同的类，可以使用不同的标签，如<button>、</
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

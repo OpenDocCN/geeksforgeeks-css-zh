@@ -7,7 +7,7 @@
 1.  The easiest way to do this, Set **“pull-right”** in button class.
     **Example:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 
@@ -54,7 +54,7 @@
     The **button group** is optional if you’re only using a single button.
     **Example:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 

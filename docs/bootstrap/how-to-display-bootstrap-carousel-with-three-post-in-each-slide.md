@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 <div class="container"> Bootstrap image contents... <div>
 ```
 
@@ -14,7 +14,7 @@
 
 1.  在头部包含引导 Javascript、CSS 和 JQuery 库文件，这些文件是预加载和预编译的
 
-    ```
+    ```html
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css”>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js">
     <script src="https://netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js">
@@ -22,7 +22,7 @@
 
 2.  应用 CSS 来调整。使用下面的代码段旋转引导卡主体。
 
-    ```
+    ```html
     <style>
      .carousel {
      width:200px;
@@ -33,14 +33,14 @@
 
 3.  在主体部分中，使用下面的语法
 
-    ```
+    ```html
     <div id=”carousel-demo” class=”carousel slide” data-ride=”carousel”>
     ```
 
     创建一个带有转盘滑块的分部类
 4.  在此步骤中，滑动图像在分割标签中定义如下。
 
-    ```
+    ```html
     <div class=”carousel-inner”>
     <div class=”item”>
     <img src=”..URL of image”>
@@ -48,7 +48,7 @@
 
 5.  最后一步是使用如下的 carousel-control 类向幻灯片图像添加控件。
 
-    ```
+    ```html
     <a class="left carousel-control" href="#carousel-demo2" data-slide="prev">
         <span class="icon-prev"></span>
     </a>
@@ -62,7 +62,7 @@
 
 **示例 1:** 让我们实现上述方法，首先使用 HTML、CSS、带有图像滑块的 Js 创建 Bootstrap 卡，然后在下一个示例中进一步移动以添加多行多列。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -138,7 +138,7 @@
 **示例 2:** 现在我们扩展示例 1 的实现，以在引导转盘中同时显示多个图像，滑块位于末端。
 下面是一个样式化的 HTML 代码片段的实现。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -242,7 +242,7 @@
 我们在引导转盘中显示多个帖子，也就是说，我们使用矩阵表显示多个图像。
 下面是一个样式化的 HTML 代码片段的实现。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

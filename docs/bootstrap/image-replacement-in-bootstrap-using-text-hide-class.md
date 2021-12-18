@@ -6,7 +6,7 @@ Bootstrap 允许我们用背景图像替换任何文本元素的文本，比如�
 
 **语法:**
 
-```
+```html
 <element class = "text-hide" 
          style = "background-image: url('Specify URL of image here');">
 </element>
@@ -17,7 +17,7 @@ Bootstrap 允许我们用背景图像替换任何文本元素的文本，比如�
 
 **示例:**
 
-```
+```html
 <html>
 <head>
     <!-- Link Bootstrap CSS and JS -->

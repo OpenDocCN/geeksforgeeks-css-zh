@@ -8,7 +8,7 @@ Bootstrap 为我们提供了不同的类来创建不同风格的微调器来指�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -71,7 +71,7 @@ Bootstrap 为我们提供了不同的类来创建不同风格的微调器来指�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -124,7 +124,7 @@ Bootstrap 为我们提供了不同的类来创建不同风格的微调器来指�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -179,7 +179,7 @@ Bootstrap 为我们提供了不同的类来创建不同风格的微调器来指�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -230,7 +230,7 @@ Bootstrap 为我们提供了不同的类来创建不同风格的微调器来指�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -280,7 +280,7 @@ Bootstrap 为我们提供了不同的类来创建不同风格的微调器来指�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

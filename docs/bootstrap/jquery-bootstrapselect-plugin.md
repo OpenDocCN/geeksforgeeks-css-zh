@@ -18,7 +18,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -168,7 +168,7 @@ https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
 
 ## 超文本标记语言
 
-```
+```html
    <!DOCTYPE html>
 <html>
 

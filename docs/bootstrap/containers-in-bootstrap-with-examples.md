@@ -15,7 +15,7 @@ bootstrap 中有两个容器类:
 
 ## 超文本标记语言
 
-```
+```html
 <!-- Bootstrap container class -->
 <html>
 <head>
@@ -50,7 +50,7 @@ bootstrap 中有两个容器类:
 
 ## 超文本标记语言
 
-```
+```html
 <!-- Bootstrap container-fluid class -->
 <html>
 <head>

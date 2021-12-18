@@ -8,7 +8,7 @@ Bootstrap 允许我们使用名为 **clearfix** 的类，该类用于清除任�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -53,7 +53,7 @@ Clearfix 属性清除应用它的元素的所有浮动内容。它也用于清�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>

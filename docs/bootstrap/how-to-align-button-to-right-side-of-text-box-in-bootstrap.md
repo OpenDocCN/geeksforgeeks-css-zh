@@ -5,7 +5,7 @@
 Bootstrap 允许我们通过使用实用程序类**浮动**来对齐元素。当我们想要将按钮与文本框的右侧对齐时，我们必须使用**右浮动**类。
 **语法:**
 
-```
+```html
 <button class="btn btn-success btn-lg float-right" type="submit">Submit</button>
 ```
 
@@ -13,7 +13,7 @@ Bootstrap 允许我们通过使用实用程序类**浮动**来对齐元素。当
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

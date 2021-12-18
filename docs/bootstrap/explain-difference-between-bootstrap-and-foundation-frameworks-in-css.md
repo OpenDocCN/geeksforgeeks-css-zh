@@ -10,7 +10,7 @@
 
 **语法:**
 
-```
+```html
 <section class="callout large primary">
     <h1>Hello Geeks</h1>
 </section>
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html class="no-js" lang="en">
 
@@ -137,7 +137,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html class="no-js" lang="en">
 
