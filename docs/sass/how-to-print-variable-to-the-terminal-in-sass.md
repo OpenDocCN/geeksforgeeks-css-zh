@@ -12,7 +12,7 @@ SASS 有三种在用户终端或控制台上提供输出的方法。
 
     **示例:**
 
-    ```
+    ```css
     @mixin reflexive-position($property, $value) {
       @if $property != top and $property != bottom {
         @error "Property #{$property} must be either top or bottom.";
@@ -36,7 +36,7 @@ SASS 有三种在用户终端或控制台上提供输出的方法。
 
     这是编译器在 Dart CSS 中的样子:
 
-    ```
+    ```css
     Error: "Property left must be either top or bottom."
       ?
     3 ?     @error "Property #{$property} must be either top or bottom.";
@@ -52,7 +52,7 @@ SASS 有三种在用户终端或控制台上提供输出的方法。
 
     **示例:** SASS 文件
 
-    ```
+    ```css
     $known-properties: webkit, hd;
 
     @mixin property($character, $value, $properties) {
@@ -73,7 +73,7 @@ SASS 有三种在用户终端或控制台上提供输出的方法。
 
     **输出:** CSS 文件
 
-    ```
+    ```css
     .tilt {
       -webkit-transform: rotate(30deg);
       -hd-transform: rotate(30deg);
@@ -84,7 +84,7 @@ SASS 有三种在用户终端或控制台上提供输出的方法。
 
     这是编译器在 Dart CSS 中的样子:
 
-    ```
+    ```css
     Warning: Unknown property webkit.
         example.scss 6:7   property()
         example.scss 16:3  root stylesheet
@@ -95,7 +95,7 @@ SASS 有三种在用户终端或控制台上提供输出的方法。
 
     **示例:** SASS
 
-    ```
+    ```css
     @mixin inset-divider-offset($offset, $padding) {
       $divider-offset: (2 * $padding) + $offset;
       @debug "divider offset: #{$divider-offset}";
@@ -107,7 +107,7 @@ SASS 有三种在用户终端或控制台上提供输出的方法。
 
     这是编译器在 Dart CSS 中的样子:
 
-    ```
+    ```css
     test.scss:3 Debug: divider offset: 132px
 
     ```

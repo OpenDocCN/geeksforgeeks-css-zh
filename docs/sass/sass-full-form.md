@@ -21,7 +21,7 @@ SASS 代表**语法上非常棒的样式表**。它由汉普顿·卡特林设计
 
 **示例:** CSS
 
-```
+```css
 //CSS
 .header {
   width: 100%;
@@ -43,7 +43,7 @@ SASS 代表**语法上非常棒的样式表**。它由汉普顿·卡特林设计
 
 **示例:** SASS
 
-```
+```css
 //SASS
 //The above css can be written in sass without repetition
 .header
@@ -65,7 +65,7 @@ width:100%;
 }
 ```
 
-```
+```css
 //html
 <div class="header">
 <ul>

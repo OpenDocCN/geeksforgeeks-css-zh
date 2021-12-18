@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```css
 @import path_of_file
 ```
 
@@ -16,7 +16,7 @@
 
 **语法:**
 
-```
+```css
 @import file1, file2, file3
 ```
 
@@ -24,7 +24,7 @@
 
 **文件名:style1.sass**
 
-```
+```css
 .btn1
     background-color: blue
     font-size: 2em
@@ -33,7 +33,7 @@
 
 **文件名:style2.sass**
 
-```
+```css
 .btn2
     color: blue
     background-color: aqua
@@ -42,7 +42,7 @@
 
 **文件名:style.sass**
 
-```
+```css
 @import style4, style3
 ```
 
@@ -50,7 +50,7 @@
 
 ## CSS
 
-```
+```css
 .btn1 {
   background-color: blue;
   font-size: 2em;

@@ -6,7 +6,7 @@
 
     **语法:**
 
-    ```
+    ```css
     /* importing name and file path is /_file.scss */
     @import 'file';
 
@@ -14,7 +14,7 @@
 
     *   **Approach 1:** Import multiple Sass partials
         *   要使用@import 导入多个 sass 部分，请添加@import，后跟引号内的第一个文件名，然后逗号(，)，再后跟以分号结尾的引号内的第二个文件名
-        *   ```
+        *   ```css
             /* importing name and file path is /_file1.scss and  /_file2.scss */
             @import 'file1', 'file2' ;
 
@@ -23,7 +23,7 @@
         **示例 1:** 以下示例说明了上述方法。
         T3】SASS 文件
 
-        ```
+        ```css
         /* _colors.scss */
         $primary:#00ff40;
         $secondary: #f44336;
@@ -76,7 +76,7 @@
 
         **编译后的 CSS 文件:** style.css
 
-        ```
+        ```css
         html,
         body,
         ul,
@@ -115,7 +115,7 @@
         *   通过以下方式用@import 加载普通 CSS:
         *   @import 后跟扩展名为的 CSS 文件的路径。双引号内的 css。
         *   如果是网址路径，请填写在网址(" ")中指定的网址；
-        *   ```
+        *   ```css
             /* importing plain CSS*/
             @import "mytheme.css";
             @import "http://fonts.googleapis.com/css?family=Droid+Sans";
@@ -128,7 +128,7 @@
         **示例 2:** 以下示例说明了上述方法。
         T3】SASS 文件: style.scss
 
-        ```
+        ```css
         @mixin google-font($family) {
           @import url("http://fonts.googleapis.com/css?family=#{$family}");
         }
@@ -138,7 +138,7 @@
 
         **编译后的 CSS 文件:** style.css
 
-        ```
+        ```css
         @import url("http://fonts.googleapis.com/css?family=Serif Sans");
         ```
 
@@ -148,7 +148,7 @@
         *   _ filename.scss 导入为仅导入文件
             filename . import . SCS 作为
 
-            ```
+            ```css
             @forward "filename" as filename-*;
 
             ```
@@ -160,7 +160,7 @@
         下面的示例说明了上面的方法。
         T4【SASS 文件】
 
-        ```
+        ```css
         /*_libray.scss */
 
         $purple:Purple;
@@ -184,7 +184,7 @@
 
         **编译后的 CSS 文件:style.css**
 
-        ```
+        ```css
         button{
              color: white;
              border-color:indigo;

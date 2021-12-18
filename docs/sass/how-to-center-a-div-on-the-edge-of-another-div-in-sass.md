@@ -11,7 +11,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -38,7 +38,7 @@
 
 ## 厚颜无耻
 
-```
+```css
 // For properties of both div
 @mixin prop ($height, $width, $bg, $pos) {
     height: $height;
@@ -71,7 +71,7 @@
 
 ## 厚颜无耻
 
-```
+```css
 #inner-div {
     @include prop(70px, 70px, #8ebf42, absolute);
     left: 0;
@@ -93,7 +93,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -117,7 +117,7 @@
 
 ## 厚颜无耻
 
-```
+```css
 // Mixin for Common  properties of all div
 @mixin prop($height, $width, $bg, $pos) {
     height: $height;

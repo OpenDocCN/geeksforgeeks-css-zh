@@ -12,7 +12,7 @@ SASS 提供了许多内置模块，包含各种有用的功能和一些混合，
 
     **语法:**
 
-    ```
+    ```css
     list.append($list, $val, $separator: auto)
     append($list, $val, $separator: auto)
     ```
@@ -21,7 +21,7 @@ SASS 提供了许多内置模块，包含各种有用的功能和一些混合，
 
     **示例:**
 
-    ```
+    ```css
     @debug list.append(10px 20px, 30px); 
     @debug list.append((geeks, for), geeks); 
     @debug list.append(10px 20px, 30px 40px); 
@@ -31,7 +31,7 @@ SASS 提供了许多内置模块，包含各种有用的功能和一些混合，
 
     **输出:**
 
-    ```
+    ```css
     10px 20px 30px
     geeks, for, geeks
     10px 20px (30px 40px)
@@ -44,7 +44,7 @@ SASS 提供了许多内置模块，包含各种有用的功能和一些混合，
 
     **语法:**
 
-    ```
+    ```css
     list.index($list, $value)
     index($list, $value)
     ```
@@ -53,7 +53,7 @@ SASS 提供了许多内置模块，包含各种有用的功能和一些混合，
 
     **示例:**
 
-    ```
+    ```css
     @debug list.index(geeks for geeks, geeks); 
     @debug list.index(geeks for geeks, for); 
     @debug list.index(geeks for geeks, slash_it);  
@@ -61,7 +61,7 @@ SASS 提供了许多内置模块，包含各种有用的功能和一些混合，
 
     **输出:**
 
-    ```
+    ```css
     1
     2
     null
@@ -72,7 +72,7 @@ SASS 提供了许多内置模块，包含各种有用的功能和一些混合，
 
     **语法:**
 
-    ```
+    ```css
     list.join($list1, $list2, 
         $separator: auto, $bracketed: auto)
     join($list1, $list2, 
@@ -83,7 +83,7 @@ SASS 提供了许多内置模块，包含各种有用的功能和一些混合，
 
     **示例:**
 
-    ```
+    ```css
     @debug list.join(10px 20px, 30px 40px); 
     @debug list.join((geeks, for), (geeks, gfg)); 
     @debug list.join(10px, 20px); 
@@ -96,7 +96,7 @@ SASS 提供了许多内置模块，包含各种有用的功能和一些混合，
 
     **输出:**
 
-    ```
+    ```css
     10px 20px 30px 40px
     geeks, for, geeks, gfg
     10px 20px
@@ -111,7 +111,7 @@ SASS 提供了许多内置模块，包含各种有用的功能和一些混合，
 
     **语法:**
 
-    ```
+    ```css
     list.length($list)
     length($list)
     ```
@@ -120,7 +120,7 @@ SASS 提供了许多内置模块，包含各种有用的功能和一些混合，
 
     **示例:**
 
-    ```
+    ```css
     @debug list.length(geeks);
     @debug list.length(geeks for geeks);
     @debug list.length((gfg: geeksforgeeks, 
@@ -129,7 +129,7 @@ SASS 提供了许多内置模块，包含各种有用的功能和一些混合，
 
     **输出:**
 
-    ```
+    ```css
     1
     3
     2
@@ -140,7 +140,7 @@ SASS 提供了许多内置模块，包含各种有用的功能和一些混合，
 
     **语法:**
 
-    ```
+    ```css
     list.nth($list, $n)
     nth($list, $n)
     ```
@@ -149,14 +149,14 @@ SASS 提供了许多内置模块，包含各种有用的功能和一些混合，
 
     **示例:**
 
-    ```
+    ```css
     @debug list.nth(geeks for geeks, 2);
     @debug list.nth([geeks for geeks], 3);
     ```
 
     **输出:**
 
-    ```
+    ```css
     for
     geeks
 

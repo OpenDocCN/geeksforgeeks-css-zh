@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 @for <variable> from <expression> to <expression> {
     ... 
 }
@@ -14,7 +14,7 @@
 
 **和**
 
-```
+```css
 @for <variable> from <expression> through <expression> {
     ... 
 }
@@ -22,7 +22,7 @@
 
 **例:**
 
-```
+```css
 $gfg: green;
 
 @for $i from 1 through 5 {
@@ -34,7 +34,7 @@ $gfg: green;
 
 **输出:**
 
-```
+```css
 ul:nth-child(2n+1) {
   background-color: #006700;
 }
@@ -61,7 +61,7 @@ ul:nth-child(2n+5) {
 
 **语法:**
 
-```
+```css
 @while <expression> { 
     ... 
 }
@@ -69,7 +69,7 @@ ul:nth-child(2n+5) {
 
 **例:**
 
-```
+```css
 @function scale-below($value, $base, $ratio: 2) {
   @while $value > $base {
     $value: $value / $ratio;
@@ -85,7 +85,7 @@ gfg {
 
 **输出:**
 
-```
+```css
 gfg {
   font-size: 10px;
 }

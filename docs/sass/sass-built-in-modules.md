@@ -7,7 +7,7 @@
 
 **示例:**
 
-```
+```css
 @use "sass:color"
 .button
   color: green
@@ -16,7 +16,7 @@
 
 这将导致以下 CSS 输出:
 
-```
+```css
 .button {
   color: green
   border: 2px solid #20b2aa;

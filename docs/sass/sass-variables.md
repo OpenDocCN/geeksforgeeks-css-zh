@@ -14,7 +14,7 @@
 1.  **在 SASS 中变量的声明:**在 SASS 中，可以通过在变量名称的开头使用$符号，然后是其值来定义变量。
     *   ****SCSS 文件:****
 
-        ```
+        ```css
         $textcolor: blue;
         $size: 10px;
         $border_changes: 1px solid rgba(255,153,153,0.2);
@@ -39,7 +39,7 @@
 
     *   ****编译的 CSS 文件:****
 
-        ```
+        ```css
         #para1 {
           color: blue;
           font-size: 10px;
@@ -56,7 +56,7 @@
 2.  **了解变量的范围:**在使用前，可以在文档中的任何地方声明 SASS 变量。
     *   ****SASS 文件:****
 
-        ```
+        ```css
         $global: #FF0000;
 
         #para1 {

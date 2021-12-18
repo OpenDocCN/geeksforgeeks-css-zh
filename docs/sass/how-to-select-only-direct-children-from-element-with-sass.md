@@ -15,7 +15,7 @@ Sass 是一种编译成层叠样式表(CSS)的脚本语言。它是一种预处�
 
 **app.component.html:**
 
-```
+```css
 <h1>Welcome to My GeeksForGeeks</h1>
 
 <div>
@@ -35,7 +35,7 @@ company interview</p>
 
 **app.component.scss:**
 
-```
+```css
 div {
     & > p {
        background-color: yellow;
@@ -45,7 +45,7 @@ div {
 
 **app.module.ts:**
 
-```
+```css
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { FormsModule } from '@angular/forms';

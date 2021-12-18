@@ -18,7 +18,7 @@
 
 以下是 **style.scss** 文件的代码:
 
-```
+```css
 div {
     white-space: nowrap;
     overflow: hidden; 
@@ -29,7 +29,7 @@ div {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 

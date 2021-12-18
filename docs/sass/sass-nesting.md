@@ -7,7 +7,7 @@ SASS 嵌套使我们的工作非常高效，我们不必一次又一次地重复
 见下例:
 **SASS 文件:**
 
-```
+```css
 ul {
     list-style-type: none;
 
@@ -27,7 +27,7 @@ ul {
 
 **编译后的 CSS 文件:**
 
-```
+```css
 ul {
     list-style-type: none;
 }
@@ -50,7 +50,7 @@ SASS 还允许选择器嵌套不同的组合符。您可以将组合符放在内
 见下例:
 **SASS 文件:**
 
-```
+```css
 ul { 
     + li {
         display: inline-block;
@@ -76,7 +76,7 @@ p ~ {
 
 **编译后的 CSS 文件:**
 
-```
+```css
 
 ul + li {
     display: inline-block;

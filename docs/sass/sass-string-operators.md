@@ -10,43 +10,43 @@ Sass 支持一些可用于生成字符串的运算符。
 
 **示例:**
 
-```
+```css
 @debug "Geeks" + "forGeeks" 
 ```
 
 **输出:**
 
-```
+```css
 "GeeksforGeeks"
 ```
 
-```
+```css
 @debug Geeks + forGeeks
 ```
 
 **输出:**
 
-```
+```css
 GeeksforGeeks
 ```
 
-```
+```css
 @debug #{20px + 10px} / 50px
 ```
 
 **输出:**
 
-```
+```css
 30px/50px
 ```
 
-```
+```css
 @debug Geeks - for - Geeks
 ```
 
 **输出:**
 
-```
+```css
 Geeks-for-Geeks
 ```
 
@@ -55,23 +55,23 @@ Geeks-for-Geeks
 *   数字不能用作等式的左数值，因为它们有自己的运算符。
 *   颜色不能用作等式中的左边值，因为它们曾经有自己的运算符。
 
-```
+```css
 @debug "Elapsed time: " + 40s
 ```
 
 **输出:**
 
-```
+```css
 "Elapsed time: 40s"
 ```
 
-```
+```css
 @debug true + " is a boolean value"
 ```
 
 **输出:**
 
-```
+```css
 "true is a boolean value"
 ```
 
@@ -83,22 +83,22 @@ Geeks-for-Geeks
 *   **/** <表达式>返回一个不带引号的字符串，以/开头，后跟表达式的值。
 *   **–**<表达式>返回一个不带引号的字符串，以–开头，后跟表达式的值。
 
-```
+```css
 @debug / geeks
 ```
 
 **输出:**
 
-```
+```css
 /geeks
 ```
 
-```
+```css
 @debug - geeks
 ```
 
 **输出:**
 
-```
+```css
 -geeks
 ```

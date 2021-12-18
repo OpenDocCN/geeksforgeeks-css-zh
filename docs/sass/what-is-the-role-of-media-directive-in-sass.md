@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```css
 .element {
     @media screen and (...) {
 
@@ -22,7 +22,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 
@@ -40,7 +40,7 @@
 
 ## 厚颜无耻
 
-```
+```css
 body {
     background-color: rgb(95, 95, 207);
     font-size: 5rem;

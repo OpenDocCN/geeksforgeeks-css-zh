@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```css
 ......#{$variable_name}........
 ```
 
@@ -17,7 +17,7 @@
 请看下面的例子来获得更多的理解:
 **SASS 文件:**
 
-```
+```css
 @mixin interpolation($changeable, $val, $val2, $prop1, $prop2)
 {
     background-#{$changeable}: $val;
@@ -38,7 +38,7 @@
 
 **编译后的 CSS 文件:**
 
-```
+```css
 .blockarea {
     background-image: url("img.png");
     position: absolute;

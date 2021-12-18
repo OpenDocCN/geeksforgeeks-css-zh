@@ -10,7 +10,7 @@
 
 *   **Example:**
 
-    ```
+    ```css
     .class{
         height: calc(30px + 50px);
     } 
@@ -18,7 +18,7 @@
 
     **编译文件:**
 
-    ```
+    ```css
     .class {
       height: calc(30px + 50px);
     }
@@ -29,7 +29,7 @@
 
 *   **Example:**
 
-    ```
+    ```css
     .class {
         width: calc(50% + 30px);
     }
@@ -37,7 +37,7 @@
 
     **编译文件:**
 
-    ```
+    ```css
     .class {
       width: calc(50% + 30px);
     }
@@ -47,7 +47,7 @@
 
 *   **Example:**
 
-    ```
+    ```css
     .class {
         height: calc(50% - 20px);
     }
@@ -55,7 +55,7 @@
 
     **编译文件:**
 
-    ```
+    ```css
     .class {
       height: calc(50% - 20px);
     }
@@ -65,7 +65,7 @@
 
 *   **Example:**
 
-    ```
+    ```css
     $x: 50%;
     $y: 20px;
 
@@ -76,7 +76,7 @@
 
     **编译文件:**
 
-    ```
+    ```css
     .class {
       height: calc(50% - 20px);
     }
@@ -86,7 +86,7 @@
 
 **例:**
 
-```
+```css
 .class {
     width: calc(50vmax + 3rem);
     padding: calc(1vw + 1em);
@@ -98,7 +98,7 @@
 
 **编译文件:**
 
-```
+```css
 .class {
   width: calc(50vmax + 3rem);
   padding: calc(1vw + 1em);

@@ -46,7 +46,7 @@ CMD 输出
 
 **语法:**
 
-```
+```css
 npm install -g sass
 ```
 
@@ -72,13 +72,13 @@ VS 扩展
 
 **语法:**
 
-```
+```css
 choco install sass
 ```
 
 对于 mac，我们有下面给出的代码。
 
-```
+```css
 brew install sass/sass/sass
 ```
 

@@ -13,13 +13,13 @@ SASS 列表功能用于修改新列表。需要在圆形括号内创建列表，
 
 ## 半铸钢ˌ钢性铸铁(Cast Semi-Steel)
 
-```
+```css
 list-separator((1, 2, 3))
 ```
 
 *   **输出:**
 
-```
+```css
 "comma"
 ```
 
@@ -27,6 +27,6 @@ list-separator((1, 2, 3))
 
 ## 半铸钢ˌ钢性铸铁(Cast Semi-Steel)
 
-```
+```css
 list-separator((1 2 3))
 ```

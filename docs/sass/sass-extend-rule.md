@@ -6,7 +6,7 @@ Sass **@extend** 规则可以在一个类需要拥有另一个类的样式，以
 
 **语法:**
 
-```
+```css
 @extend <selector>
 ```
 
@@ -14,7 +14,7 @@ Sass **@extend** 规则可以在一个类需要拥有另一个类的样式，以
 
 ## SASS
 
-```
+```css
 .gfg
   border: 1px green
   background-color: black
@@ -27,7 +27,7 @@ Sass **@extend** 规则可以在一个类需要拥有另一个类的样式，以
 
 **输出:**
 
-```
+```css
 .gfg, .gfg--geeks {
   border: 1px green;
   background-color: black;
@@ -45,7 +45,7 @@ Sass **@extend** 规则可以在一个类需要拥有另一个类的样式，以
 
 ## SASS
 
-```
+```css
 .gfg:hover
   border: 1px green
   background-color: black
@@ -58,7 +58,7 @@ Sass **@extend** 规则可以在一个类需要拥有另一个类的样式，以
 
 **输出:**
 
-```
+```css
 .gfg:hover, .gfg--geeks:hover {
   border: 1px green;
   background-color: black;
@@ -78,7 +78,7 @@ Sass **@extend** 规则可以在一个类需要拥有另一个类的样式，以
 
 ## CSS
 
-```
+```css
 .content nav.sidebar
   @extend .gfg
 
@@ -108,7 +108,7 @@ main.content .gfg
 
 **输出:**
 
-```
+```css
 p.gfg {
   background-color: green;
   color: white;

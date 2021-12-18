@@ -11,13 +11,13 @@
 
 ## 半铸钢ˌ钢性铸铁(Cast Semi-Steel)
 
-```
+```css
 quote(GeeksforGeeks);
 ```
 
 *   **输出:**
 
-```
+```css
 "GeeksforGeeks"
 ```
 
@@ -27,6 +27,6 @@ quote(GeeksforGeeks);
 
 ## 半铸钢ˌ钢性铸铁(Cast Semi-Steel)
 
-```
+```css
 str-index("Geeksforgeeks", "G");
 ```

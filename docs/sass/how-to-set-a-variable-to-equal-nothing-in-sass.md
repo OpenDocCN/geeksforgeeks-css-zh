@@ -15,7 +15,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <nav>
   <ul class="navigation">
      <li><a href="#">About us </a></li>
@@ -33,7 +33,7 @@
 
 ## 半铸钢ˌ钢性铸铁(Cast Semi-Steel)
 
-```
+```css
 *
   margin:0
   padding:0
@@ -49,7 +49,7 @@ nav
 
 ## 半铸钢ˌ钢性铸铁(Cast Semi-Steel)
 
-```
+```css
 *{
   margin: 0;
   padding: 0;
@@ -64,7 +64,7 @@ nav {
 
 ## 半铸钢ˌ钢性铸铁(Cast Semi-Steel)
 
-```
+```css
 *
   margin:0
   padding:0
@@ -80,7 +80,7 @@ nav
 
 ## 半铸钢ˌ钢性铸铁(Cast Semi-Steel)
 
-```
+```css
 * {
   margin: 0;
   padding: 0;

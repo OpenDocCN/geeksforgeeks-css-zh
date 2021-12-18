@@ -6,7 +6,7 @@ SASS 是一种强大的预处理语言，可以帮助我们以简单明了的方
 在 sass 文件中编译更改的最简单方法可以在**节点包管理器(NPM)的帮助下完成。**
 为此，你需要安装最新版本的 Node.js 或者拥有稳定的 LTS 版本的 Node。要检查系统中是否正确安装了 Node.js，请在终端/命令提示符下运行以下命令:
 
-```
+```css
 node -v 
 
 npm -v 
@@ -17,14 +17,14 @@ npm -v
 
 *   **Initialize NPM in your root directory using the terminal.**
 
-    ```
+    ```css
     npm init
     ```
 
     `npm init`命令会询问一些问题，以便在您的项目中生成一个 package.json 文件。该文件包含有关已安装依赖项的信息。
     **为了绕过这些问题，您可以键入以下命令:**
 
-    ```
+    ```css
     npm init -y
     ```
 
@@ -32,7 +32,7 @@ npm -v
 
 *   **Install node-sass.**
 
-    ```
+    ```css
     npm install node-sass --save-dev
 
     ```
@@ -41,7 +41,7 @@ npm -v
 
 *   **In the package.json file, you need to make changes to the scripts field.**
 
-    ```
+    ```css
     "scripts" :{
       "compile:sass": "node-sass sass/main.scss css/style.css -w"
     }
@@ -51,7 +51,7 @@ npm -v
 
 *   **在你的终端运行命令:**打开终端运行命令:
 
-    ```
+    ```css
     npm run compile:sass
 
     ```

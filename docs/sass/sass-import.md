@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
  @import 'Relative path to the file1', 'Relative path to the file2', ...; 
 ```
 
@@ -19,7 +19,7 @@
     这样做的主要优势是，我们可以使用@import 组合多个文件，然后编译主文件。因此，我们将只有一个 CSS 文件，因此浏览器不必发出多个 HTTP 请求来加载不同的 CSS 文件。
     T4
 
-    ```
+    ```css
     #aside_list {
 
         list-style-type: none;
@@ -43,14 +43,14 @@
 
     **输入. SCS**
 
-    ```
+    ```css
     @import "aside_list";
 
     ```
 
     **输入. scss:输出. css 的编译文件**
 
-    ```
+    ```css
     #aside_list {
       list-style-type: none;
     }
@@ -74,7 +74,7 @@
 
     **段落. css**
 
-    ```
+    ```css
     p {
       color: red;
       font-size: 20px;
@@ -83,13 +83,13 @@
 
     **输入. SCS**
 
-    ```
+    ```css
     @import 'paragraph';
     ```
 
     **输入. scss:输出. css 的编译文件**
 
-    ```
+    ```css
     p {
       color: red;
       font-size: 20px;

@@ -11,7 +11,7 @@
 
     ## 半铸钢ˌ钢性铸铁(铸造半钢)
 
-    ```
+    ```css
     $style: (
         color: #00FF00
     );
@@ -25,7 +25,7 @@
 
 *   以下命令将开始监视 SASS 文件中的更改，并自动生成相应的 CSS 文件。
 
-    ```
+    ```css
     sass --watch debug.scss:debug.css
     ```
 
@@ -37,7 +37,7 @@
 
 ## 半铸钢ˌ钢性铸铁(Cast Semi-Steel)
 
-```
+```css
 $width: 350px;
 $colors: (
     IndianRed: #CD5C5C,

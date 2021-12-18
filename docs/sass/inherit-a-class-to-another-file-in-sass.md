@@ -15,7 +15,7 @@ SCSS 使用*。scss* 的语法和它非常类似于普通的 css。SCSS 完全�
 
 **示例:**
 
-```
+```css
 $heading-color: #e94e1b; //Using Sass Variables
 h4 {
     color: $heading-color;
@@ -28,7 +28,7 @@ h4 {
 
 **例**
 
-```
+```css
 $heading-color: #e94e1b; 
 h4
   color: $heading-color
@@ -42,7 +42,7 @@ h4
 
 **语法:**
 
-```
+```css
 @import 'file-name';
 @import url('url of the stylesheet')
 
@@ -50,7 +50,7 @@ h4
 
 **例**
 
-```
+```css
 @import './buttons.scss';
 @import url('https://example.com/css/breadcrumbs.scss');
 ```
@@ -76,13 +76,13 @@ h4
 
 **语法:**
 
-```
+```css
 @use 'file-name';
 ```
 
 **示例:**
 
-```
+```css
 @use 'buttons';
 
 .card {
@@ -92,7 +92,7 @@ h4
 
 **编译 CSS:**
 
-```
+```css
 .btn-large {
   border-radius: 3rem;
   border: 4px solid black;
@@ -112,7 +112,7 @@ h4
 
 **示例:**
 
-```
+```css
 @use 'buttons' as btn;
 
 .card {
@@ -132,7 +132,7 @@ h4
 
 **按钮. scss 文件**
 
-```
+```css
 /* buttons.scss file */
 .btn {
   color: red;
@@ -142,7 +142,7 @@ h4
 
 **style . SCS 档案**
 
-```
+```css
 /*style.scss file
 where the style is to be inherited */
 @use 'buttons';
@@ -158,7 +158,7 @@ where the style is to be inherited */
 
 **编译好的 CSS**
 
-```
+```css
 /* style.css */
 .btn, .new-btn {
   color: red;

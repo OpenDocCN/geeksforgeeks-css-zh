@@ -19,13 +19,13 @@
 *   之后，你要创建 **package.json** 文件。它管理我们项目的依赖关系。
 *   使用下面写的命令，询问用户选择的包名和描述。还有一些手续，只需按回车键，您的 **package.json** 文件将被创建。
 
-    ```
+    ```css
     npm init
     ```
 
 **步骤 2:** 现在要安装 SASS，只需使用一个简单的命令:
 
-```
+```css
 npm install node-sass --save
 ```
 
@@ -35,7 +35,7 @@ npm install node-sass --save
 **第三步:**要使用 SASS，请转到项目中的 package.json 文件，即如果您正在使用 VSC，请在那里打开您的项目，然后打开 package.json 文件。
 你会得到这样的包. json 文件:
 
-```
+```css
 {
     "name": "sass-ex",
     "version": "1.0.0",
@@ -54,7 +54,7 @@ npm install node-sass --save
 
 package.json 应该如下所示:
 
-```
+```css
 {
     "name": "sass-ex",
     "version": "1.0.0",
@@ -70,20 +70,20 @@ package.json 应该如下所示:
 
 现在返回命令提示符并运行命令
 
-```
+```css
 npm rum compile:sass
 ```
 
 或者像这样添加 node-sass 脚本:
 在您选择的文本编辑器中打开 package.json 文件，并在“scripts”对象内添加以下行:
 
-```
+```css
 "scss": "node-sass --watch assets/scss -o assets/css"
 ```
 
 package.json 文件如下所示:
 
-```
+```css
 {
     "name": "sass-ex",
     "version": "1.0.0",
@@ -101,7 +101,7 @@ package.json 文件如下所示:
 
 保存文件并关闭它。现在在项目目录的根目录下，运行下面给出的命令，开始监视对的任何更改。scss 文件。
 
-```
+```css
 npm run scss
 ```
 
@@ -109,12 +109,12 @@ npm run scss
 
 **安装 node-sass:** 一旦安装了 npm，就该安装 node-sass 了。您可以通过在终端中运行此命令来全局安装软件包。
 
-```
+```css
 npm install -g node-sass
 ```
 
 或者，您可以在没有 **-g** 标志的情况下运行上述命令，以便仅安装到您的当前目录，如下所示。
 
-```
+```css
 npm install node-sass
 ```

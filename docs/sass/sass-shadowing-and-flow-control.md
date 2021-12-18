@@ -9,7 +9,7 @@
 
     **SASS 文件:**
 
-    ```
+    ```css
     $global_local: global-value;
 
     ul {
@@ -25,7 +25,7 @@
 
     **编译后的 CSS 文件:**
 
-    ```
+    ```css
     ul {
       width: local-value;
     }
@@ -40,7 +40,7 @@
 
     **SASS 文件:**
 
-    ```
+    ```css
     $global_local: global-value;
 
     ul {
@@ -56,7 +56,7 @@
 
     **编译后的 CSS 文件:**
 
-    ```
+    ```css
     ul {
       width: local-value;
     }
@@ -75,7 +75,7 @@
 
     **SASS 文件:**
 
-    ```
+    ```css
     // This is default mode
     $background-color-alpha: 0.5;
 
@@ -102,7 +102,7 @@
 
     **编译后的 CSS 文件:**
 
-    ```
+    ```css
     .button {
       background-color: #fa0064; // rgba(250, 0, 100, 1);
       display: block;

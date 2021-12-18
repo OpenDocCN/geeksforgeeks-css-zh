@@ -8,13 +8,13 @@
 
     **语法:**
 
-    ```
+    ```css
     @if <conditional_expression> { ... }
     ```
 
     **示例 1:** SASS 文件
 
-    ```
+    ```css
     @mixin button-format( $round-button, $size ) {
         color: white;
         background-color: blue;
@@ -34,7 +34,7 @@
 
     **示例 1:** 编译后的 CSS 文件
 
-    ```
+    ```css
     .mybutton {
       color: white;
       background-color: blue;
@@ -45,7 +45,7 @@
 
     **示例 2:** SASS 文件
 
-    ```
+    ```css
     @mixin button-format( $round-button, $size ) {
         color: white;
         background-color: blue;
@@ -65,7 +65,7 @@
 
     **示例 2:** 编译后的 CSS 文件
 
-    ```
+    ```css
     .mybutton {
         color: white;
         background-color: blue;
@@ -80,13 +80,13 @@
 
     **语法:**
 
-    ```
+    ```css
     @else { ... }
     ```
 
     **SASS 文件:**
 
-    ```
+    ```css
     @mixin theme ($theme-decide, $r, $g, $b) {
         // light background
         @if $theme-decide {
@@ -107,7 +107,7 @@
 
     **编译后的 CSS 文件:**
 
-    ```
+    ```css
     .myblock {
         background-color: red;
         // if true value is passed then rgba(255, 0, 0, 0.5);
@@ -119,13 +119,13 @@
 
     **语法:**
 
-    ```
+    ```css
     @else if <conditional_expression> { ... }
     ```
 
     **SASS 文件:**
 
-    ```
+    ```css
     @mixin theme ($theme-decide, $r, $g, $b) {
         // light background
         @if $theme-decide == 1 {
@@ -150,7 +150,7 @@
 
     **编译后的 CSS 文件:**
 
-    ```
+    ```css
     .myblock {
       background-color: rgba(0, 255, 0, 0.7);
     }

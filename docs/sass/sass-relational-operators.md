@@ -11,43 +11,43 @@
 
 **示例:**
 
-```
+```css
 @debug 100 > 50 
 ```
 
 **输出:**
 
-```
+```css
 true
 ```
 
-```
+```css
 @debug 10px > 17px 
 ```
 
 **输出:**
 
-```
+```css
 false
 ```
 
-```
+```css
 @debug 96px >= 1in  
 ```
 
 **输出:**
 
-```
+```css
 true
 ```
 
-```
+```css
 @debug 1001ms <= 1s 
 ```
 
 **输出:**
 
-```
+```css
 false
 ```
 
@@ -55,23 +55,23 @@ false
 
 **示例:**
 
-```
+```css
 @debug 100 > 50px 
 ```
 
 **输出:**
 
-```
+```css
 true
 ```
 
-```
+```css
 @debug 10px > 17  
 ```
 
 **输出:**
 
-```
+```css
 false
 ```
 
@@ -79,12 +79,12 @@ false
 
 **示例:**
 
-```
+```css
 @debug 100px > 10s
 ```
 
 **输出:**
 
-```
+```css
 *Error: Incompatible units px and s.*
 ```

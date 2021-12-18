@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```css
 @at-root <selector> { ... }
 ```
 
 **示例:**
 
-```
+```css
 @use "sass:selector"
 
 @mixin geeks($gfg)
@@ -29,7 +29,7 @@
 
 这将导致以下输出:
 
-```
+```css
 .block input.font {
   times new roman;
 }
@@ -46,7 +46,7 @@
 根处@规则摆脱了样式规则。默认情况下，只包括像@media 这样的 at 规则。但如果需要，可以控制结果中包含什么和不包含什么。
 **例:**
 
-```
+```css
 @media geeks
   .gfg
     color: green
@@ -60,7 +60,7 @@
 
 这将导致以下输出:
 
-```
+```css
 @media geeks {
   .gfg {
     color: green

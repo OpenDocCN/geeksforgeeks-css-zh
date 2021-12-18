@@ -15,7 +15,7 @@ Mixins 有两种使用方式:**无参数和有参数。**
     *   定义 mixin:@ mixin name _ of _ mixin {…}
     *   在当前块中使用 mixin:@ include _ of _ mixin；。
 
-    ```
+    ```css
     @mixin block-name{
         property-1: value;
         property-2: value;
@@ -31,7 +31,7 @@ Mixins 有两种使用方式:**无参数和有参数。**
 
     ### **SCSS 文件:**
 
-    ```
+    ```css
     @mixin first-mixin {
         width: 100%;
         overflow: hidden;
@@ -65,7 +65,7 @@ Mixins 有两种使用方式:**无参数和有参数。**
 
     ### **编译后的 CSS 文件:**
 
-    ```
+    ```css
     navigationbar {
         width: 100%;
         overflow: hidden;
@@ -95,7 +95,7 @@ Mixins 有两种使用方式:**无参数和有参数。**
     *   定义 mixin:@ mixin _ name of _ mixin(参数…) {…}
     *   Use mixin: @ includname _ of _ mixin (parameter …) in the current block;
 
-    ```
+    ```css
     // Here default values are optional
 
     @mixin block-name($parameter1, $parameter2: default, ...) {
@@ -114,7 +114,7 @@ Mixins 有两种使用方式:**无参数和有参数。**
 
     ### **SASS 文件:**
 
-    ```
+    ```css
      // Here blue is default value of $three
 
     @mixin first-mixin($one, $two, $three: blue) {
@@ -152,7 +152,7 @@ Mixins 有两种使用方式:**无参数和有参数。**
 
     ### **编译后的 CSS 文件:**
 
-    ```
+    ```css
     navigationbar {
       width: 100%;
       overflow: hidden;
