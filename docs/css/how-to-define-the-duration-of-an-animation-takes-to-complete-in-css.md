@@ -8,7 +8,7 @@
 
 **语法:**
 
-```css
+```html
 animation-duration: (time in seconds);
 ```
 
@@ -18,7 +18,7 @@ animation-duration: (time in seconds);
 
 ## index.html
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
@@ -41,7 +41,7 @@ animation-duration: (time in seconds);
 
 ## style.css
 
-```css
+```html
 #mainh1{
   animation-name: change;
   animation-duration: 5s;
@@ -62,7 +62,7 @@ animation-duration: (time in seconds);
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 

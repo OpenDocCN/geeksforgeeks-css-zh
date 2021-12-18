@@ -18,7 +18,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="Font-Variant-Numeric">...</element>
 ```
 
@@ -26,7 +26,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <head> 
     <link href=

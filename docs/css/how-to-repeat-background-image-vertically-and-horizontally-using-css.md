@@ -10,7 +10,7 @@ CSS 中的 **[背景-重复属性](https://www.geeksforgeeks.org/css-background-
 
 **语法**
 
-```css
+```html
 background-repeat: repeat|repeat-x|repeat-y|
 no-repeat|initial|inherit;
 ```
@@ -21,7 +21,7 @@ no-repeat|initial|inherit;
 
 **语法:**
 
-```css
+```html
 element {
    background-repeat: repeat-x;
 }
@@ -29,7 +29,7 @@ element {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -58,7 +58,7 @@ T3】
 
 **语法:**
 
-```css
+```html
 element {
    background-repeat: repeat-y;
 }
@@ -66,7 +66,7 @@ element {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```css
+```html
 setInterval(function, milliseconds);
 ```
 
@@ -21,7 +21,7 @@ setInterval(function, milliseconds);
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

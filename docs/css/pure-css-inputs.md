@@ -16,7 +16,7 @@
 
 **语法：**
 
-```css
+```html
 <form class="pure-form">  
     <input type="…" placeholder="……" required>  
 </form>
@@ -26,7 +26,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -63,7 +63,7 @@
 
 **语法：**
 
-```css
+```html
 <form class="pure-form">
     <input type="…" placeholder="……" disabled="">
 </form>
@@ -73,7 +73,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -109,7 +109,7 @@
 
 **语法：**
 
-```css
+```html
 <form class="pure-form">  
     <input type="…" value="……" readonly>  
 </form>
@@ -119,7 +119,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -154,7 +154,7 @@
 
 **语法：**
 
-```css
+```html
 <form class="pure-form">  
     <input type="…" class="pure-input-rounded">  
 </form>
@@ -164,7 +164,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -203,7 +203,7 @@
 
 **语法：**
 
-```css
+```html
 Checkbox:
 <label for="..." class="pure-checkbox">  
     <input id="…" type="checkbox" value="">  
@@ -221,7 +221,7 @@ Radio-button:
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

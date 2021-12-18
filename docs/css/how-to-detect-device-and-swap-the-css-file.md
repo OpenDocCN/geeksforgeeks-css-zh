@@ -9,7 +9,7 @@
 
 媒体查询可以添加到 CSS 的链接部分，如下所示
 
-```css
+```html
 <link rel="stylesheet" media="media query properties" href="stylesheet.css">
 ```
 
@@ -38,7 +38,7 @@
 
 ## index.html
 
-```css
+```html
 <doctype html="html">
     <html lang="en" dir="ltr">
         <head>
@@ -70,7 +70,7 @@
 
     ## master.css
 
-    ```css
+    ```html
     // master.css
 
     body {
@@ -84,7 +84,7 @@
 
     ## 小屏幕. css
 
-    ```css
+    ```html
     // small-screen.css
 
     body {
@@ -97,7 +97,7 @@
 
     ## 大屏幕. css
 
-    ```css
+    ```html
     // large-screen.css
 
     body {

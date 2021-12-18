@@ -13,7 +13,7 @@ CSS 有能力让屏幕看起来像开发者的选择。如果没有正确对齐�
 
 **语法:**
 
-```css
+```html
 #inputBox {
     position: absolute;
     top: 0px;
@@ -24,7 +24,7 @@ CSS 有能力让屏幕看起来像开发者的选择。如果没有正确对齐�
 
 或者
 
-```css
+```html
 #inputBox {
     position: relative;
     top: -top margin px;
@@ -37,7 +37,7 @@ CSS 有能力让屏幕看起来像开发者的选择。如果没有正确对齐�
 
 **语法:**
 
-```css
+```html
 position: relative;
 top: -top margin px;
 left: -left margin px;
@@ -48,7 +48,7 @@ left: -left margin px;
 
 在上面显示的图像中，我们将把这些值作为-28px 和-10px 来管理语法中的坐标。
 
-```css
+```html
 #inputBox {
     position: relative;
     top: -28px;
@@ -59,7 +59,7 @@ left: -left margin px;
 
 或者
 
-```css
+```html
 position: relative;
 top: -28px;
 left: -10px;
@@ -71,7 +71,7 @@ left: -10px;
 
 **完整代码:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

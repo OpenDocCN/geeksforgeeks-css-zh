@@ -6,7 +6,7 @@ CSS 中的**背景位置**属性主要用于设置背景图像 ie 的初始位�
 
 **语法:**
 
-```css
+```html
 background-position: value;
 ```
 
@@ -20,7 +20,7 @@ background-position: value;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -51,7 +51,7 @@ background-position: value;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -81,7 +81,7 @@ background-position: value;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -111,7 +111,7 @@ background-position: value;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -141,7 +141,7 @@ background-position: value;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -171,7 +171,7 @@ background-position: value;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -201,7 +201,7 @@ background-position: value;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -231,7 +231,7 @@ background-position: value;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -261,7 +261,7 @@ background-position: value;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -293,7 +293,7 @@ background-position: value;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -325,7 +325,7 @@ background-position: value;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>

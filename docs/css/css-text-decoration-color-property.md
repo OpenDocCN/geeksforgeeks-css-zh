@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 text-decoration-color: color|initial|inherit;
 
 ```
@@ -16,14 +16,14 @@ text-decoration-color: color|initial|inherit;
 *   **color:** Sets the color of the text-decoration.
     **Syntax:**
 
-    ```css
+    ```html
     text-decoration-color: color;
 
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html lang="en" dir="ltr">
 
@@ -110,14 +110,14 @@ text-decoration-color: color|initial|inherit;
 *   **initial:** Sets this property to its default value.
     **Syntax:**
 
-    ```css
+    ```html
     text-decoration-color: initial;
 
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html lang="en" dir="ltr">
 

@@ -5,7 +5,7 @@
 CSS 中的**动画定时功能**属性用于指定动画如何通过关键帧进行过渡。也就是说，它用于指定过渡期间动画的运动。
 **语法:**
 
-```css
+```html
 animation-timing-function: linear | ease | ease-in | ease-out | 
 ease-in-out | step-start | step-end|steps(int, start | end) | 
 cubic-bezier(n, n, n, n) | initial | inherit;
@@ -23,7 +23,7 @@ cubic-bezier(n, n, n, n) | initial | inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

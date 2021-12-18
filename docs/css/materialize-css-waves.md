@@ -6,13 +6,13 @@
 
 有几种方法可以对波进行分类。它可以通过预先创建的类或创建一个不同颜色的新类来完成。
 
-```css
+```html
 <a class="waves-effect waves-light btn-large" href="#">Wave</a>
 ```
 
 **示例:**
 
-```css
+```html
 
 <!DOCTYPE html>
     <html>

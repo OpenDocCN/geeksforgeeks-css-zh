@@ -21,7 +21,7 @@
 
 **语法：↔**
 
-```css
+```html
 <div class="pure-menu">
     <ul class="pure-menu-list">
         <li class="pure-menu-heading">
@@ -40,7 +40,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -101,7 +101,7 @@
 
 ****语法：****
 
-```css
+```html
 <div class="pure-menu pure-menu-horizontal">
     <ul class="pure-menu-list">
         <li class="pure-menu-heading">Some Text Here</li>
@@ -118,7 +118,7 @@
 
 ## **超文本标记语言**
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -175,7 +175,7 @@
 
 ****语法：****
 
-```css
+```html
 <li class="pure-menu-item pure-menu-disabled">
     Inner Elements
 </li>
@@ -188,7 +188,7 @@
 
 ## **超文本标记语言**
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -245,7 +245,7 @@
 
 ****语法：****
 
-```css
+```html
 <li class="pure-menu-item 
     pure-menu-has-children pure-menu-allow-hover">
     Some Inner Elements
@@ -261,7 +261,7 @@
 
 ## **超文本标记语言**
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -337,7 +337,7 @@
 
 ****语法：****
 
-```css
+```html
 <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
     Some Inner Elements
     <ul class="pure-menu-children">
@@ -352,7 +352,7 @@
 
 ## **超文本标记语言**
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 

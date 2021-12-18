@@ -14,7 +14,7 @@
 
 **HTML 代码:**在本节中，我们将设计车身的基本结构。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -48,7 +48,7 @@
 
 **CSS 代码:**在本节中，我们使用一些 CSS 属性来设计背景动画。我们使用[线性渐变()](https://www.geeksforgeeks.org/css-linear-gradient-function/)方法和[动画](https://www.geeksforgeeks.org/css-animations/)属性来设计背景。
 
-```css
+```html
 <style>
     body
     {
@@ -166,7 +166,7 @@
 
 **组合代码:**在本节中，我们将结合 HTML 和 CSS 代码制作一个背景动画。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

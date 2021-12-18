@@ -16,7 +16,7 @@
 
 **语法:**
 
-```css
+```html
 <div class="bg-fixed ...">
     ...
 </div>
@@ -26,7 +26,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -65,7 +65,7 @@ BG-固定
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -103,7 +103,7 @@ BG-本地
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

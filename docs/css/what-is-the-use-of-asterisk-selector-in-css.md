@@ -5,7 +5,7 @@
 星号(*)被称为 **CSS 通用选择器**。它可以用来选择 HTML 页面中的任何和所有类型的元素。使用选择子对象时，星号后面还可以跟一个选择器。当我们想要选择页面上的所有元素时，这个选择器非常有用。
 例如:
 
-```css
+```html
 * {
     property : value;
  }
@@ -13,7 +13,7 @@
 
 在选择元素时，如果我们只使用星号(*)，那么 HTML 页面的所有元素都会被选中，而不管父子关系如何。如果我们在选择特定父代的子代时使用星号(*)，那么我们可以通过以下方式选择该父代的所有子代:
 
-```css
+```html
 parent * {
            property : value;
  }
@@ -21,7 +21,7 @@ parent * {
 
 我们可以使用星号(*)作为中间级别，同时通过以下方式选择元素:
 
-```css
+```html
 grand_parent * grand_child{
            property : value;
  }
@@ -29,7 +29,7 @@ grand_parent * grand_child{
 
 **示例:**
 
-```css
+```html
 Input:  * { color : green; }
 Output:  The text in all the elements become green
 
@@ -39,7 +39,7 @@ Output:  The text inside those  which are direct children of any elements of HTM
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

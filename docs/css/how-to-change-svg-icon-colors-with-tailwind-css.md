@@ -8,7 +8,7 @@
 
 **语法:**
 
-```css
+```html
 <svg class=" text-color bg-color" viewBox="0 0 24 24">
     <path d=" "/>
 </svg>
@@ -20,7 +20,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -75,13 +75,13 @@
 
 **语法:**
 
-```css
+```html
 <svg class="stroke-current stroke-current stroke-1">...</svg>
 ```
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>

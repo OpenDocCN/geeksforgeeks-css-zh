@@ -12,7 +12,7 @@
 
 **示例 1:** 本示例使用 CSS 设置图标的大小、颜色和阴影。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -63,7 +63,7 @@
 
 **示例:2** 本示例通过在图标名称后使用 fa-spin 使图标旋转和脉动。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

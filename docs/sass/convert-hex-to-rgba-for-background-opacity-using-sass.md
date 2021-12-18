@@ -10,7 +10,7 @@
 
 *   使用背景色属性:
 
-    ```css
+    ```html
     element {
         background-color: rgba(hex_value, opacity_value);
     }
@@ -18,7 +18,7 @@
 
 *   使用[混合](https://www.geeksforgeeks.org/sass-mixin-and-include/)的背景色属性，提供十六进制回退:
 
-    ```css
+    ```html
     @mixin background-opacity($color, $opacity) {
         background: $color;  /*Fallback */
         background: rgba($color, $opacity);
@@ -33,7 +33,7 @@
 
 **示例 1:** 给十六进制代码添加 70%的不透明度
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -47,7 +47,7 @@
 
 *   **SASS 代码:**
 
-    ```css
+    ```html
     @mixin background-opacity($color, $opacity) {
         background: $color;
         background: rgba($color, $opacity);
@@ -60,7 +60,7 @@
 
 *   **转换后的 CSS 代码:**
 
-    ```css
+    ```html
     body {
       background: #32DF07;
       background: rgba(50, 223, 7, 0.7);
@@ -72,7 +72,7 @@
 
 **示例 2:** 给十六进制代码添加 50%的不透明度
 
-```css
+```html
 <!DOCTYPE html>
     <html>
      <head>
@@ -88,7 +88,7 @@ Converting Hex to RGBA for background opacity
 
 *   **SASS 代码:**
 
-    ```css
+    ```html
     @mixin background-opacity($color, $opacity) {
         background: $color;
         background: rgba($color, $opacity);
@@ -101,7 +101,7 @@ Converting Hex to RGBA for background opacity
 
 *   **转换后的 CSS 代码:**
 
-    ```css
+    ```html
     body {
       background: #32DF07;
       background: rgba(50, 223, 7, 0.5);

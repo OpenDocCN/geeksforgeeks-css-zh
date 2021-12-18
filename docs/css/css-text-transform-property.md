@@ -5,7 +5,7 @@
 **文本转换**属性用于控制文本的大小写。
 **语法:**
 
-```css
+```html
 text-transform: none|capitalize|uppercase|lowercase|initial|inherit; 
 ```
 
@@ -14,7 +14,7 @@ text-transform: none|capitalize|uppercase|lowercase|initial|inherit;
 *   **无:**有默认值。它没有大写。
     **语法:**
 
-```css
+```html
 text-transform: none;
 ```
 
@@ -22,7 +22,7 @@ text-transform: none;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -64,7 +64,7 @@ text-transform: none;
 *   **大写:**用于将每个单词的第一个字符转换为大写。
     **语法:**
 
-```css
+```html
 text-transform:capitalize;
 ```
 
@@ -72,7 +72,7 @@ text-transform:capitalize;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -114,7 +114,7 @@ text-transform:capitalize;
 *   **大写:**用于将每个单词中的所有字符转换或变换为大写。
     **语法:**
 
-```css
+```html
 text-transform:uppercase;
 ```
 
@@ -122,7 +122,7 @@ text-transform:uppercase;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -164,7 +164,7 @@ text-transform:uppercase;
 *   **小写:**用于将每个单词中的所有字符转换或变换为 alowercase。
     **语法:**
 
-```css
+```html
 text-transform:lowercase;
 ```
 
@@ -172,7 +172,7 @@ text-transform:lowercase;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -214,7 +214,7 @@ text-transform:lowercase;
 *   **初始值:**将属性设置为默认值。
     **语法:**
 
-```css
+```html
 text-transform:initial;
 ```
 
@@ -222,7 +222,7 @@ text-transform:initial;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

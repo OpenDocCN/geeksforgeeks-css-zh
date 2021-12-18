@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 object.getPropertyPriority(propertyname)
 
 ```
@@ -19,7 +19,7 @@ object.getPropertyPriority(propertyname)
 
 **示例:**展示 **getPropertyPriority()** 方法的工作原理:
 
-```css
+```html
 <html>
 
 <head>

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 break-after: Generic break values;
 /* Or */
 break-after: Page break values;
@@ -32,7 +32,7 @@ break-after: Global values;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 
 <html lang="en">

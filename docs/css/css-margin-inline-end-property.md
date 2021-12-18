@@ -5,7 +5,7 @@
 **边距内联结束属性**用于定义元素的逻辑内联结束边距。此属性有助于根据元素的书写模式、方向和文本方向来放置边距。
 **语法:**
 
-```css
+```html
 margin-inline-end: length | auto | initial | inherit | unset;
 ```
 
@@ -22,7 +22,7 @@ margin-inline-end: length | auto | initial | inherit | unset;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -69,7 +69,7 @@ margin-inline-end: length | auto | initial | inherit | unset;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

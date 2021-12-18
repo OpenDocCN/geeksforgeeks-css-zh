@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 richnes: number;
 ```
 
@@ -18,7 +18,7 @@ richnes: number;
 
 ## HTML
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

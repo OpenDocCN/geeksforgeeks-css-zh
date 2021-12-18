@@ -7,7 +7,7 @@ HTML [**< hr >**](https://www.geeksforgeeks.org/html-hr-tag/) 标签用于在 HT
 
 **语法:**
 
-```css
+```html
 <hr property: value;> ...
 ```
 
@@ -25,7 +25,7 @@ HTML [**< hr >**](https://www.geeksforgeeks.org/html-hr-tag/) 标签用于在 HT
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -75,7 +75,7 @@ HTML [**< hr >**](https://www.geeksforgeeks.org/html-hr-tag/) 标签用于在 HT
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 rgba( red, green, blue, alpha )
 ```
 
@@ -21,7 +21,7 @@ rgba( red, green, blue, alpha )
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>

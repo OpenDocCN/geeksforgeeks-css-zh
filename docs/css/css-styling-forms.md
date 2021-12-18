@@ -11,7 +11,7 @@ CSS 表单用于为用户创建交互式表单。它提供了许多设置样式�
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -41,7 +41,7 @@ CSS 表单用于为用户创建交互式表单。它提供了许多设置样式�
 
     考虑另一个输入类型只是文本的例子:
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <head>
@@ -69,7 +69,7 @@ CSS 表单用于为用户创建交互式表单。它提供了许多设置样式�
 
 *   **Styling the Width of Input**: The **width** property is used to set the width of the input field. Consider the below example where the width is set to be 10% of the entire screen.
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <head>
@@ -101,7 +101,7 @@ CSS 表单用于为用户创建交互式表单。它提供了许多设置样式�
 
 *   **Add Padding in Inputs**: The **padding** property is used to add spaces inside the text field. Consider the below example:
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <head>
@@ -133,7 +133,7 @@ CSS 表单用于为用户创建交互式表单。它提供了许多设置样式�
 
 *   **Set Margin for Inputs**: The **margin** property is used to add space outside the input field. It is helpful when there are many inputs. Consider the example below with two inputs and observe the space (margin) between them.
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <head>
@@ -169,7 +169,7 @@ CSS 表单用于为用户创建交互式表单。它提供了许多设置样式�
 
     考虑下面的例子，其中 **2px** **纯红**边框被创建，其边框半径为 **4px** 。
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <head>
@@ -208,7 +208,7 @@ CSS 表单用于为用户创建交互式表单。它提供了许多设置样式�
 
     **注意:**用户还可以在任何特定的一侧有边框，并移除其他边框或拥有不同颜色的所有边框。考虑下面的例子，其中用户只想要顶部(蓝色)和底部(红色)的边框。
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <head>
@@ -250,7 +250,7 @@ CSS 表单用于为用户创建交互式表单。它提供了许多设置样式�
 
     考虑以下示例，其中文本颜色为黑色，背景颜色设置为绿色。
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <head>
@@ -292,7 +292,7 @@ CSS 表单用于为用户创建交互式表单。它提供了许多设置样式�
 
     考虑下面的例子，用户想要一个 3px 的红色轮廓和绿色背景。
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <head>
@@ -337,7 +337,7 @@ CSS 表单用于为用户创建交互式表单。它提供了许多设置样式�
 
     考虑下面的例子，图像在无重复模式的背景中。
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <head>
@@ -374,7 +374,7 @@ CSS 表单用于为用户创建交互式表单。它提供了许多设置样式�
 
     考虑下面的例子，其中松弛的输入场宽度为 15%，当聚焦时在 1 秒内变为 30%。
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <head>

@@ -8,7 +8,7 @@
 
 **缩小前 CSS:**
 
-```css
+```html
 .card-list {
     width: 85vw;
     margin: 0 auto;
@@ -42,20 +42,20 @@
 1.  **css-minify npm**
     *   首先，使用
 
-        ```css
+        ```html
         npm install css-minify -g
         ```
 
         安装工具
     *   要缩小单个 CSS 文件，请键入以下命令:
 
-        ```css
+        ```html
         css-minify -f filename
         ```
 
     *   To minify all the css files of a directory, type:
 
-        ```css
+        ```html
         css-minify -d sourcedir
         ```
 

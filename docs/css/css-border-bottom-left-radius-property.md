@@ -5,7 +5,7 @@
 边框左下角半径属性用于定义边框左下角的半径，即它使边框左下角变圆。
 **语法:**
 
-```css
+```html
 border-bottom-left-radius: length|% [length|%]|initial|inherit;
 ```
 
@@ -17,7 +17,7 @@ border-bottom-left-radius: length|% [length|%]|initial|inherit;
 
 *   **语法:**
 
-```css
+```html
 border-bottom-left-radius: 20px 50px;
 ```
 
@@ -25,7 +25,7 @@ border-bottom-left-radius: 20px 50px;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -66,7 +66,7 @@ border-bottom-left-radius: 20px 50px;
 
 *   **语法:**
 
-```css
+```html
 border-bottom-left-radius: % [length|%];
 ```
 
@@ -74,7 +74,7 @@ border-bottom-left-radius: % [length|%];
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -115,7 +115,7 @@ border-bottom-left-radius: % [length|%];
 
 *   **语法:**
 
-```css
+```html
 border-bottom-left-radius: initial;
 ```
 
@@ -123,7 +123,7 @@ border-bottom-left-radius: initial;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -164,7 +164,7 @@ border-bottom-left-radius: initial;
 
 *   **语法:**
 
-```css
+```html
 border-bottom-left-radius: inherit;
 ```
 

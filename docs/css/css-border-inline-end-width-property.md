@@ -6,7 +6,7 @@ CSS 中的**边框内联结束宽度**属性用于在样式表中的一个位置
 
 **语法:**
 
-```css
+```html
 border-inline-end-width: border-width;
 ```
 
@@ -18,7 +18,7 @@ border-inline-end-width: border-width;
 
 **例 1:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -59,7 +59,7 @@ border-inline-end-width: border-width;
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

@@ -8,7 +8,7 @@ W3。CSS 提供了一个单一的类来管理图像并使它们具有响应性�
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -54,7 +54,7 @@ W3。CSS 提供了一个单一的类来管理图像并使它们具有响应性�
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -97,7 +97,7 @@ W3。CSS 提供了一个单一的类来管理图像并使它们具有响应性�
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

@@ -5,7 +5,7 @@
 :第一个子元素选择器用于选择那些作为第一个子元素的元素。对于:第一子选择器必须为 IE8 和更早版本声明。
 **语法:**
 
-```css
+```html
 :first-child {
     // CSS property
 } 
@@ -15,7 +15,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -62,7 +62,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

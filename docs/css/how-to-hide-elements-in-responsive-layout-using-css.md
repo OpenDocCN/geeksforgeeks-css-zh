@@ -10,7 +10,7 @@ CSS 可以用来隐藏或显示页面的元素。这可以用于响应性网站�
 
 **语法:**
 
-```css
+```html
 // Check if the height is at least 600px
 @media only screen and (min-width: 600px) {
     .large {
@@ -21,7 +21,7 @@ CSS 可以用来隐藏或显示页面的元素。这可以用于响应性网站�
 
 在本例中，通过将“显示”属性设置为“无”来隐藏元素。媒体查询包含将**显示属性**设置为**块示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

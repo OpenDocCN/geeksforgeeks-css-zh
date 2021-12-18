@@ -8,7 +8,7 @@
 
 **HTML 代码:**在本节中，我们将创建加载页面屏幕骨架的基本结构。为了创建一个加载页面框架，我们需要使用< div >元素来显示内容。我们将为卡片内的每个元素添加一个`loading`类，当加载内容时，我们将移除该类。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -32,7 +32,7 @@
 
 **CSS 代码:**在本节中，我们将使用一些 CSS 属性来创建加载页面屏幕骨架。
 
-```css
+```html
 <style>
 
     /* Card styles */
@@ -123,7 +123,7 @@
 
 **JavaScript 代码:**现在，当加载内容时，我们可以从每个元素中移除`loading`类，并将内容添加到适当的位置。
 
-```css
+```html
 <script>
     const title = document.querySelector(".card__title");
     const description = document.querySelector(".card__description");
@@ -145,7 +145,7 @@
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

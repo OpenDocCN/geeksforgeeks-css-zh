@@ -6,7 +6,7 @@ CSS 中的缩放属性用于放大或缩小内容。此属性是在其他一些�
 
 **语法:**
 
-```css
+```html
 zoom: percentage | number | normal;
 ```
 
@@ -18,7 +18,7 @@ zoom: percentage | number | normal;
 
 **示例:**本示例使用 CSS 缩放属性调整图像大小。
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
 

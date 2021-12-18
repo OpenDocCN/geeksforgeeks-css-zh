@@ -20,7 +20,7 @@
 
 **示例:**
 
-```css
+```html
 /* Define fonts using variables */
 $font_1: Algerian;
 $font_2: Times New Roman;
@@ -32,7 +32,7 @@ $font_2: Times New Roman;
 
 这将导致以下 CSS 输出:
 
-```css
+```html
 /* Define fonts using variables */
 .main {
     font: Algerian;
@@ -51,7 +51,7 @@ $font_2: Times New Roman;
 **萨斯的一个基本例子。**假设一个网站基本上有 3 种字体。如果不得不一次又一次地写同样的字体风格，那就乱套了。您可以一次又一次地使用下面的 Sass，而不是编写字体值。
 T3】例:
 
-```css
+```html
 $font_1: Algerian;
 $font_2: Times New Roman;
 $font_3: Serif;
@@ -71,7 +71,7 @@ $font_3: Serif;
 
 这将导致以下 CSS 输出:
 
-```css
+```html
 .main {
     font: Algerian;
 }

@@ -7,7 +7,7 @@
 
 **语法:**
 
-```css
+```html
 scrollbar-color: auto | color | dark | light | initial | inherit
 ```
 
@@ -17,7 +17,7 @@ scrollbar-color: auto | color | dark | light | initial | inherit
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <head>
@@ -67,7 +67,7 @@ scrollbar-color: auto | color | dark | light | initial | inherit
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <head>
@@ -118,7 +118,7 @@ scrollbar-color: auto | color | dark | light | initial | inherit
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <head>
@@ -168,7 +168,7 @@ scrollbar-color: auto | color | dark | light | initial | inherit
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <head>

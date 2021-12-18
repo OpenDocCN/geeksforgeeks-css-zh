@@ -7,7 +7,7 @@
 
 有 3 种方法可以将标签更改为类似于带有 CSS 的
 
-```css
+```html
 标签:
 ```
 
@@ -16,7 +16,7 @@
 通过改变跨度的一些 CSS 属性，我们可以让它看起来像< pre >标签。
 下面的例子说明了如何使用内嵌 CSS 将< span >标签更改为类似于< pre >。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <body>
@@ -39,7 +39,7 @@
 内部 CSS 是通过在页面的<头>部分声明<样式>元素来设置 HTML 页面的样式。
 下图是使用内部 CSS 将< span >标签更改为类似于< pre >标签的示例:
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -73,7 +73,7 @@
 下图是使用外部 CSS 将< span >标记更改为类似于< pre >标记:
 **HTML 文件:**的示例
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -94,7 +94,7 @@
 
 **样式. css (CSS 文件):**
 
-```css
+```html
 span {
     white-space: pre;
     font-family: monospace;

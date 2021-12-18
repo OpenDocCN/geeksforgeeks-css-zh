@@ -16,7 +16,7 @@ W3 中的表单控件类列表。CSS 如下:
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -90,7 +90,7 @@ W3 中的表单控件类列表。CSS 如下:
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -172,7 +172,7 @@ W3 中的表单控件类列表。CSS 如下:
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -243,7 +243,7 @@ W3 中的表单控件类列表。CSS 如下:
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -298,7 +298,7 @@ W3 中的表单控件类列表。CSS 如下:
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -354,7 +354,7 @@ W3 中的表单控件类列表。CSS 如下:
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>

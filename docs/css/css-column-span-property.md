@@ -5,7 +5,7 @@
 CSS 的**列跨度属性**设置一个元素可以跨越的列数。其值可以是 none | all | initial | inherit
 **语法:**
 
-```css
+```html
 column-span: none|all|initial|inherit;
 ```
 
@@ -16,7 +16,7 @@ column-span: none|all|initial|inherit;
 *   **全部**:允许在所有列中均等跨越。
     **语法:**
 
-```css
+```html
  column-span: all;
 ```
 
@@ -24,7 +24,7 @@ column-span: none|all|initial|inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -96,7 +96,7 @@ column-span: none|all|initial|inherit;
 *   **无:**该值杀死跨越元素并将其设置为无。
     **语法:**
 
-```css
+```html
  column-span: none;
 ```
 
@@ -104,7 +104,7 @@ column-span: none|all|initial|inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -176,7 +176,7 @@ column-span: none|all|initial|inherit;
 *   **初始值:**该值使该属性设置为默认值。
     **语法:**
 
-```css
+```html
  column-span: initial;
 ```
 
@@ -184,7 +184,7 @@ column-span: none|all|initial|inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -255,7 +255,7 @@ column-span: none|all|initial|inherit;
 *   **inherit:** 关联元素采用其父元素的指定列跨度属性的评估值，即它将采用父元素的继承属性。CSS 的列跨度属性不支持这种情况。
     **语法:**
 
-```css
+```html
  column-span: inherit;
 ```
 
@@ -263,7 +263,7 @@ column-span: none|all|initial|inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

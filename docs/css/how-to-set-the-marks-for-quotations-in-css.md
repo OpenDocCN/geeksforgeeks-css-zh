@@ -8,7 +8,7 @@
 
 **语法:**
 
-```css
+```html
 quotes:values;
 ```
 
@@ -31,7 +31,7 @@ quotes:values;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
   <head>

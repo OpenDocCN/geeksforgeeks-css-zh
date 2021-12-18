@@ -6,7 +6,7 @@ CSS 中的**内容** **属性**用于动态生成内容(在运行时)即。，�
 
 **语法:**
 
-```css
+```html
 content: normal|none|counter|attr|string|open-quote|close-quote|
 no-open-quote|no-close-quote|url|initial|inherit;
 ```
@@ -17,7 +17,7 @@ no-open-quote|no-close-quote|url|initial|inherit;
 
 **语法:**
 
-```css
+```html
 Element::before|after { 
     content: normal;
 }
@@ -27,7 +27,7 @@ Element::before|after {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -54,7 +54,7 @@ Element::before|after {
 
 **输出:**
 
-```css
+```html
 Welcome to GeeksforGeeks
 Welcome you
 ```
@@ -63,7 +63,7 @@ Welcome you
 
 **语法:**
 
-```css
+```html
 Element::before|after { 
     content: none;
 }
@@ -73,7 +73,7 @@ Element::before|after {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -100,7 +100,7 @@ Element::before|after {
 
 **输出:**
 
-```css
+```html
 Hello GeeksforGeeks!
 Welcome to GeeksforGeeks!
 ```
@@ -109,7 +109,7 @@ Welcome to GeeksforGeeks!
 
 **语法:**
 
-```css
+```html
 Element::before|after {
     content: initial;
 }
@@ -119,7 +119,7 @@ Element::before|after {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -146,7 +146,7 @@ Element::before|after {
 
 **输出:**
 
-```css
+```html
 Hello GeeksforGeeks!
 Hello Welcomes to GeeksforGeeks!
 ```
@@ -155,7 +155,7 @@ Hello Welcomes to GeeksforGeeks!
 
 **语法:**
 
-```css
+```html
 Element::before|after { 
     content:attr(href); 
 }
@@ -165,7 +165,7 @@ Element::before|after {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -188,7 +188,7 @@ Element::before|after {
 
 **输出:**
 
-```css
+```html
 Click Here! https://www.geeksforgeeks.org/html-style-attribute/
 ```
 
@@ -196,7 +196,7 @@ Click Here! https://www.geeksforgeeks.org/html-style-attribute/
 
 **语法:**
 
-```css
+```html
 Element::before|after { 
     content: string;
 }
@@ -206,7 +206,7 @@ Element::before|after {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -229,7 +229,7 @@ Element::before|after {
 
 **输出:**
 
-```css
+```html
 Hello GeeksforGeeks!
 ```
 
@@ -237,7 +237,7 @@ Hello GeeksforGeeks!
 
 **语法:**
 
-```css
+```html
 Element::before|after { 
     content: open-quote;
 }
@@ -247,7 +247,7 @@ Element::before|after {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -267,7 +267,7 @@ Element::before|after {
 
 **输出:**
 
-```css
+```html
 "Welcome to GeeksforGeeks!
 ```
 
@@ -275,7 +275,7 @@ Element::before|after {
 
 **语法:**
 
-```css
+```html
 Element::before|after { 
     content: close-quote;
 }
@@ -285,7 +285,7 @@ Element::before|after {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -308,7 +308,7 @@ Element::before|after {
 
 **输出:**
 
-```css
+```html
 "Welcome to GeeksforGeeks!"
 ```
 
@@ -316,7 +316,7 @@ Element::before|after {
 
 **语法:**
 
-```css
+```html
 Element::before|after { 
     content: no-open-quote;
 }
@@ -326,7 +326,7 @@ Element::before|after {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -350,7 +350,7 @@ Element::before|after {
 
 **输出:**
 
-```css
+```html
 Welcome to GeeksforGeeks!
 ```
 
@@ -358,7 +358,7 @@ Welcome to GeeksforGeeks!
 
 **语法:**
 
-```css
+```html
 Element::before|after { 
     content: no-close-quote;
 }
@@ -368,7 +368,7 @@ Element::before|after {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -390,7 +390,7 @@ Element::before|after {
 
 **输出:**
 
-```css
+```html
 "Welcome to GeeksforGeeks!
 ```
 
@@ -398,7 +398,7 @@ Element::before|after {
 
 **语法:**
 
-```css
+```html
 Element::before|after { 
     content: inherit;
 }

@@ -6,14 +6,14 @@
 
 **语法:**
 
-```css
+```html
 @forward "<url>"
 ```
 
 上面的代码加载了给定网址上可用的模块。它使加载模块的公共成员对模块的用户可用，就像它们是直接在模块中定义的一样。如果需要，这些成员在模块中不可用，也可能使用 **@use** 规则。它只处理模块一次。如果**@前进**和**@使用**都是为同一个文件中的同一个模块编写的，那么总是先写**@前进**。通过这种方式，如果用户想要配置转发模块，该配置将在@use 处理它之前应用于@forward，而无需任何配置。
 **示例:**
 
-```css
+```html
 // gfg/_list.css
 @mixin geeks 
   font-family: times new roman
@@ -31,7 +31,7 @@ gfg1 
 
 这将导致以下 CSS 输出:
 
-```css
+```html
 gfg1 {
   font-family: times new roman
   font-size: 4px
@@ -44,14 +44,14 @@ gfg1 {
 有时，名称在定义它们的模块之外可能不正确，因此，@forward 可以选择为它所指向的所有成员添加额外的前缀。
 **语法:**
 
-```css
+```html
 @forward "<url>" as <prefix>-*
 ```
 
 这会将给定的前缀添加到模块指向的每个 mixin、函数和变量名的开头。
 **例:**
 
-```css
+```html
 // gfg/_list.css
 @mixin forgeeks
   font-family: times new roman
@@ -69,7 +69,7 @@ gfg1 
 
 这将导致以下 CSS 输出:
 
-```css
+```html
 gfg1 {
   font-family: times new roman
   font-size: 4px
@@ -82,7 +82,7 @@ gfg1 {
 使用@forward 规则也可以处理具有配置的模块。@转发规则的配置也可以用！其配置中的默认标志。这允许模块更改上游样式表的默认值，同时也允许下游样式表覆盖它们。
 **例:**
 
-```css
+```html
 // _gfg.sass
 $green: #000 !default
 $border-radius: 2px !default
@@ -102,7 +102,7 @@ geeks
 
 这将导致以下 CSS 输出:
 
-```css
+```html
 geeks {
   border-radius: 4px;
   box-shadow: 0 2px 1px rgba(51, 51, 51, 1);

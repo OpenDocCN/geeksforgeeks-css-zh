@@ -30,7 +30,7 @@ CSS 中的**柔性盒**或柔性盒模型是一种一维布局模型，它具有
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -86,25 +86,25 @@ CSS 中的**柔性盒**或柔性盒模型是一种一维布局模型，它具有
 
 **从左到右:**
 
-```css
+```html
 flex-direction: row;
 ```
 
 **从右向左:**
 
-```css
+```html
 flex-direction: row-reverse;
 ```
 
 **从上到下:**
 
-```css
+```html
 flex-direction: column;
 ```
 
 **自下而上:**
 
-```css
+```html
 flex-direction: column;
 ```
 

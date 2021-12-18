@@ -9,7 +9,7 @@
 
 **语法:**
 
-```css
+```html
 div {color: red}
 p {color: red;}
 ```
@@ -20,7 +20,7 @@ p {color: red;}
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -70,7 +70,7 @@ p {color: red;}
 
 **语法:**
 
-```css
+```html
 div p{color: green;}
 ```
 
@@ -78,7 +78,7 @@ div p{color: green;}
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

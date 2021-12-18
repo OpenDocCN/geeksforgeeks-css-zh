@@ -13,7 +13,7 @@
 
 **示例 1:** 使用单个背景属性指定多个背景图像。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -60,7 +60,7 @@ url(https://media.geeksforgeeks.org/wp-content/uploads/backgroundimage-1.png);
 
 **示例 2:** 使用背景速记属性指定多个背景图像。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

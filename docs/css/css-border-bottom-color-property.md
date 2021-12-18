@@ -6,7 +6,7 @@ CSS **边框-下边框颜色**属性用于设置元素下边框的颜色。在�
 元素的当前值是该属性的默认颜色。CSS 边框-底部属性是可动画化的，但不能被继承。
 **语法**
 
-```css
+```html
 border-bottom-color: color|transparent|initial|inherit;
 ```
 
@@ -23,7 +23,7 @@ border-bottom-color: color|transparent|initial|inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>

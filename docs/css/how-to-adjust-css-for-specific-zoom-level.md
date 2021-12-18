@@ -12,13 +12,13 @@
 
 **语法:**(这里的缩放设置为 100%。相应地改变它。)
 
-```css
+```html
 <button onclick="sampleDiv.style.zoom='100%'">Zoom 100%</button>
 ```
 
 **示例:**本示例展示了如何针对特定缩放级别调整 CSS。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 background-size: auto|length|cover|contain|initial|inherit;
 ```
 
@@ -15,7 +15,7 @@ background-size: auto|length|cover|contain|initial|inherit;
 
 **示例 1:** 本示例在 x 和 y 方向拉伸背景图像。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
    <head>
@@ -82,7 +82,7 @@ https://media.geeksforgeeks.org/wp-content/uploads/Screenshot-45-8.png);
 
 **示例 2:** 本示例缩放背景图像。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
    <head>

@@ -6,7 +6,7 @@
 
 **语法：**
 
-```css
+```html
 <tag disabled></tag>
 ```
 
@@ -14,7 +14,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -54,7 +54,7 @@
 
 **语法：**
 
-```css
+```html
 <button class="pure-button pure-button-disabled">
   Disabled Button1
 </button>  
@@ -68,7 +68,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -108,7 +108,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

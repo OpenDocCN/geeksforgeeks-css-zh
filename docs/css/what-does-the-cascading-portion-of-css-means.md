@@ -12,7 +12,7 @@ CSS 通过分离网页文档的样式信息，包括字体大小、字体颜色�
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 

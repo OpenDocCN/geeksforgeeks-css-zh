@@ -6,7 +6,7 @@
 
 *   ) label. To show the effect, use CSS for the components in the structure. CSS is a very simple attribute for creating drop-down menus.
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -35,7 +35,7 @@
 
 **示例:**在 HTML 结构中添加 CSS 属性，创建交互式下拉结构。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -125,7 +125,7 @@
 
 **右对齐下拉菜单:**右对齐下拉菜单是一个浮动值向右的下拉菜单，用于在右侧屏幕上显示下拉内容。将浮动右添加到包含内容的 div。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -198,7 +198,7 @@
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -247,7 +247,7 @@
 **点击下拉:**这需要对 JavaScript 有基本的了解，因为它是用来运行一些函数来使点击的下拉工作的。
 T3】例:
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

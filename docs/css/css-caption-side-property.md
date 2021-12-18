@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 caption-side: top|bottom|initial|inherit;
 ```
 
@@ -20,7 +20,7 @@ caption-side: top|bottom|initial|inherit;
 
 **语法:**
 
-```css
+```html
 caption-side:top;
 ```
 
@@ -28,7 +28,7 @@ caption-side:top;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -84,7 +84,7 @@ caption-side:top;
 
 **语法:**
 
-```css
+```html
 caption-side:bottom;
 ```
 
@@ -92,7 +92,7 @@ caption-side:bottom;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -148,7 +148,7 @@ caption-side:bottom;
 
 **语法:**
 
-```css
+```html
 captipn-side:initial
 ```
 
@@ -156,7 +156,7 @@ captipn-side:initial
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

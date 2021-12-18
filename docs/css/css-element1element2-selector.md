@@ -6,7 +6,7 @@ CSS 中的 element1~element2 选择器用于匹配 element2 后跟 element1 的�
 
 **语法:**
 
-```css
+```html
 element1 ~ element2 {
     // CSS Property
 }
@@ -14,7 +14,7 @@ element1 ~ element2 {
 
 **示例 1:** 在此示例中，两个元素具有相同的父元素(主体)。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -57,7 +57,7 @@ element1 ~ element2 {
 
 **示例 2:** 在此示例中，两个元素没有相同的父元素。所以 CSS 属性不适用。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

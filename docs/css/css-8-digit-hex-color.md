@@ -7,7 +7,7 @@
 
 **语法:**
 
-```css
+```html
 #RRGGBBAA
 ```
 
@@ -15,7 +15,7 @@
 
 **例 1:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -53,7 +53,7 @@
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

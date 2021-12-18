@@ -8,7 +8,7 @@
 
 **示例:**
 
-```css
+```html
 @mixin hover($duration) {
   $name: inline-#{unique-id()};
 
@@ -31,7 +31,7 @@
 
 这将导致以下 CSS:
 
-```css
+```html
 .gfg {
   animation-name: inline-uf1ia36;
   animation-duration: 2s;
@@ -52,7 +52,7 @@
 
 **示例:**
 
-```css
+```html
 @mixin hover($duration)
   $name: inline-#{unique-id()}
 
@@ -73,7 +73,7 @@
 
 这将导致以下 CSS:
 
-```css
+```html
 .gfg {
   animation-name: inline-uf1ia36;
   animation-duration: 2s;

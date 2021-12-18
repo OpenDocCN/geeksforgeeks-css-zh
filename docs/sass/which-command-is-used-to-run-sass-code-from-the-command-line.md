@@ -8,7 +8,7 @@
 
 **语法:**
 
-```css
+```html
 npm install sass -g
 ```
 
@@ -16,7 +16,7 @@ npm install sass -g
 
 如果 SASS 仍然没有安装使用，请使用下面的命令。
 
-```css
+```html
 sudo npm install sass -g
 ```
 
@@ -28,7 +28,7 @@ sudo npm install sass -g
 
 **语法:**
 
-```css
+```html
 sass <source> [destination]
 ```
 
@@ -39,13 +39,13 @@ sass <source> [destination]
 
 **例 1:** 如果我们在当前的工作目录中有一个文件 style . SCS，我们想把它编译成一个 css 文件，作为同一个目录中的 style.css。我们使用以下命令:
 
-```css
+```html
 sass style.scss style.css
 ```
 
 ## style . scss
 
-```css
+```html
 $color: green;
 $font: "Times New Roman";
 .container1 {
@@ -60,7 +60,7 @@ $font: "Times New Roman";
 
 ## style.css
 
-```css
+```html
 .container1 {
     font-family: "Times New Roman";
 }
@@ -71,13 +71,13 @@ $font: "Times New Roman";
 
 **示例 2:** 如果我们在另一个目录中有一个文件 style . SCS(在这种情况下，它在“D:\Geeksforgeeks”中)，而不是在当前目录中，并且我们希望在同一个目录中将它编译成一个作为 style.css 的 css 文件，我们可以使用以下命令:
 
-```css
+```html
 sass D:\Geeksforgeeks\style.scss D:\Geeksforgeeks\style.css
 ```
 
 ## style . scss
 
-```css
+```html
 $color1: blue;
 $color2: red;
 $font: 20px;
@@ -93,7 +93,7 @@ body {
 
 ## style.css
 
-```css
+```html
 body {
     background-color: blue;
     color: red;

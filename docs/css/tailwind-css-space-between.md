@@ -21,7 +21,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="space-y-0">...</element>
 ```
 
@@ -29,7 +29,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -65,7 +65,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="space-y-reverse">...</element>
 ```
 
@@ -73,7 +73,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -106,7 +106,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="-space-y-0">...</element>
 ```
 
@@ -114,7 +114,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -150,7 +150,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="space-y-0">...</element>
 ```
 
@@ -158,7 +158,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -190,7 +190,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="space-y-reverse">...</element>
 ```
 
@@ -198,7 +198,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -231,7 +231,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="-space-y-0">...</element>
 ```
 
@@ -239,7 +239,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <head> 
     <link href=

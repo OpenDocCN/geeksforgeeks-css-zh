@@ -6,7 +6,7 @@
 **方法:**我们将要使用的技巧是通过使用 [**边框-底部样式的**](https://www.geeksforgeeks.org/css-border-bottom-style-property/) 和 [**填充-底部**](https://www.geeksforgeeks.org/css-padding-bottom-property/) 属性来实现这一点。而不是使用内置的 [*文字装饰*](https://www.geeksforgeeks.org/css-text-decoration-property/) *:下划线；*我们将使用[边框-底部样式的](https://www.geeksforgeeks.org/css-border-bottom-style-property/)属性创建我们自己的下划线，然后我们可以添加[填充-底部](https://www.geeksforgeeks.org/css-padding-bottom-property/)来根据我们的需要将其推开。
 **语法:**
 
-```css
+```html
 .class_name {
     padding-bottom: value;
     border-bottom-style: solid;
@@ -17,7 +17,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

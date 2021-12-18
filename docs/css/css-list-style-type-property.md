@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 list-style-type: disc|circle|square|decimal|lower-roman|upper-roman|
 lower-greek|lower-latin|upper-latin|lower-alpha|upper-alpha|none|
 inherit;
@@ -18,13 +18,13 @@ inherit;
 *   **盘:**这是默认值。标记是一个实心圆。
     **语法:**
 
-```css
+```html
 list-style-type: disc;
 ```
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -56,13 +56,13 @@ list-style-type: disc;
 *   **circle:**The marker is a hollow circle.
     **Syntax:**
 
-    ```css
+    ```html
     list-style-type: circle;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -94,13 +94,13 @@ list-style-type: disc;
     *   **square:**The marker is a square.
     **Syntax:**
 
-    ```css
+    ```html
     list-style-type: square;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -132,13 +132,13 @@ list-style-type: disc;
     *   **decimal:**The marker is a decimal numbers, beginning with 1.
     **Syntax:**
 
-    ```css
+    ```html
     list-style-type: decimal;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -171,13 +171,13 @@ list-style-type: disc;
 
     **语法:**
 
-    ```css
+    ```html
     list-style-type: lower-roman;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -210,13 +210,13 @@ list-style-type: disc;
 
     **语法:**
 
-    ```css
+    ```html
     list-style-type: upper-roman;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -249,13 +249,13 @@ list-style-type: disc;
 
     **语法:**
 
-    ```css
+    ```html
     list-style-type: lower-greek;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -288,13 +288,13 @@ list-style-type: disc;
 
     **语法:**
 
-    ```css
+    ```html
     list-style-type: lower-latin;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -327,13 +327,13 @@ list-style-type: disc;
 
     **语法:**
 
-    ```css
+    ```html
     list-style-type: upper-latin;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -365,13 +365,13 @@ list-style-type: disc;
     *   **none:**No marker is shown in this mode.
     **Syntax:**
 
-    ```css
+    ```html
     list-style-type: none;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>

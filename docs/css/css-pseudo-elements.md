@@ -10,7 +10,7 @@ CSS 伪元素是添加到选择器中的关键字，它允许您为所选元素�
 
 **语法:**
 
-```css
+```html
 selector::pseudo-element {
  property: value;
 }
@@ -24,7 +24,7 @@ CSS 中有很多伪元素，但最常用的如下:
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -65,7 +65,7 @@ CSS 中有很多伪元素，但最常用的如下:
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -107,7 +107,7 @@ CSS 中有很多伪元素，但最常用的如下:
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -147,7 +147,7 @@ CSS 中有很多伪元素，但最常用的如下:
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -187,7 +187,7 @@ CSS 中有很多伪元素，但最常用的如下:
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -229,7 +229,7 @@ CSS 中有很多伪元素，但最常用的如下:
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

@@ -6,7 +6,7 @@ CSS 中的**边框内联结束颜色**属性用于在样式表中的一个位置
 
 **语法:**
 
-```css
+```html
 border-inline-end-color: border-color;
 ```
 
@@ -18,7 +18,7 @@ border-inline-end-color: border-color;
 
 **例 1:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -59,7 +59,7 @@ border-inline-end-color: border-color;
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

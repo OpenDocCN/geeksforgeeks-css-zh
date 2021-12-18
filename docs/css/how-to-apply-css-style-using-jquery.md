@@ -8,7 +8,7 @@
 
 ****语法:****
 
-```css
+```html
 $().css(propertyname, value);
 $().css(properties);
 ```
@@ -21,7 +21,7 @@ $().css(properties);
 
 ## **超文本标记语言**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

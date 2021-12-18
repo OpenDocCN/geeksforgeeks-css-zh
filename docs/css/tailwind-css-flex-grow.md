@@ -13,7 +13,7 @@ CSS [flexbox](https://www.geeksforgeeks.org/introduction-to-css-flexbox/) 是开
 
 **语法:**
 
-```css
+```html
 <element class="flex-grow-0"> Contents... </element>
 ```
 
@@ -21,7 +21,7 @@ CSS [flexbox](https://www.geeksforgeeks.org/introduction-to-css-flexbox/) 是开
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <html>
 
@@ -62,7 +62,7 @@ CSS [flexbox](https://www.geeksforgeeks.org/introduction-to-css-flexbox/) 是开
 
 **语法:**
 
-```css
+```html
 <element class="flex-grow"> Contents... </element>
 ```
 
@@ -70,7 +70,7 @@ CSS [flexbox](https://www.geeksforgeeks.org/introduction-to-css-flexbox/) 是开
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

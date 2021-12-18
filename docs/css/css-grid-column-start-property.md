@@ -6,7 +6,7 @@ grid-column-start 属性定义将从哪个列行项目开始。grid-column-start
 
 **语法:**
 
-```css
+```html
 grid-column-start: auto|span n|column-line;
 ```
 
@@ -20,7 +20,7 @@ grid-column-start: auto|span n|column-line;
 
 *   **语法:**
 
-```css
+```html
 grid-column-start: auto; 
 ```
 
@@ -28,7 +28,7 @@ grid-column-start: auto;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -101,7 +101,7 @@ grid-column-start: auto;
 
 *   **语法:**
 
-```css
+```html
 grid-column-start: span n; 
 ```
 
@@ -109,7 +109,7 @@ grid-column-start: span n;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -181,7 +181,7 @@ grid-column-start: span n;
 
 *   **语法:**
 
-```css
+```html
 grid-column-start: column-line; 
 ```
 
@@ -189,7 +189,7 @@ grid-column-start: column-line;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

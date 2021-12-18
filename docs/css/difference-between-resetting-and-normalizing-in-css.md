@@ -18,7 +18,7 @@
 
 例如，为了将所有元素设置为具有相同的字体粗细和样式，我们使用:
 
-```css
+```html
 font-weight: inherit;
 font-style:  inherit;
 font-family: inherit;
@@ -32,7 +32,7 @@ font-family: inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -80,7 +80,7 @@ font-family: inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 

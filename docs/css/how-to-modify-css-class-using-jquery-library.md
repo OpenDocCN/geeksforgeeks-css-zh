@@ -10,7 +10,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE HTML>
 <html lang='en'>
 
@@ -90,7 +90,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE HTML>
 <html lang='en'>
 
@@ -193,7 +193,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE HTML>
 <html lang='en'>
 

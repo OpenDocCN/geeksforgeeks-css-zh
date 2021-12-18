@@ -23,7 +23,7 @@
 
 **语法:**
 
-```css
+```html
 border-image-slice= value;
 ```
 
@@ -54,7 +54,7 @@ border-image-slice= value;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

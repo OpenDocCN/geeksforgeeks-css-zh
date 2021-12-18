@@ -8,7 +8,7 @@
 
 **语法:**
 
-```css
+```html
 border-image-outset: value;
 
 ```
@@ -24,7 +24,7 @@ border-image-outset: value;
 
 **示例程序:**
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
     <head> 

@@ -10,7 +10,7 @@ CSS 伪元素是添加到选择器中的关键字，它允许您设置所选元�
 
 ## HTML
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 

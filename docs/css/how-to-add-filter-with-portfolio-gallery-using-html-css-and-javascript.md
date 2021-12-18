@@ -11,7 +11,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -150,7 +150,7 @@
 
 ## 半铸钢ˌ钢性铸铁(Cast Semi-Steel)
 
-```css
+```html
 <style>
 
     /* Wildcard styling */
@@ -267,7 +267,7 @@
 
 ## java 描述语言
 
-```css
+```html
 <script>
     geeksportal("all")
 
@@ -333,7 +333,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

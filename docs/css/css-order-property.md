@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 order: number|initial|inherit;
 ```
 
@@ -16,7 +16,7 @@ order: number|initial|inherit;
 
 **语法:**
 
-```css
+```html
 order:number;
 ```
 
@@ -24,7 +24,7 @@ order:number;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -102,7 +102,7 @@ order:number;
 
 **语法:**
 
-```css
+```html
 order:initial;
 ```
 
@@ -110,7 +110,7 @@ order:initial;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

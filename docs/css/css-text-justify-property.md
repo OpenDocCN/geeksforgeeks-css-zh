@@ -6,7 +6,7 @@ CSS 中的文本对齐属性用于将文本对齐设置为对齐。它将单词�
 
 **语法:**
 
-```css
+```html
 text-justify: auto|inter-word|inter-character|none:initial|inherit;
 ```
 
@@ -16,13 +16,13 @@ text-justify: auto|inter-word|inter-character|none:initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     text-justify: auto;
     ```
 
     **例:**
 
-    ```css
+    ```html
     <!DOCTYPE html> 
     <html> 
         <head> 
@@ -69,13 +69,13 @@ text-justify: auto|inter-word|inter-character|none:initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     text-justify: inter-word;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html> 
     <html> 
         <head> 
@@ -122,13 +122,13 @@ text-justify: auto|inter-word|inter-character|none:initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     text-justify: inter-character;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html> 
     <html> 
         <head> 
@@ -175,13 +175,13 @@ text-justify: auto|inter-word|inter-character|none:initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     text-justify: auto;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html> 
     <html> 
         <head> 

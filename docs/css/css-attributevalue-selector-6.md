@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 [attribute^=value] {
     // CSS Property
 }
@@ -15,7 +15,7 @@
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
     <head> 

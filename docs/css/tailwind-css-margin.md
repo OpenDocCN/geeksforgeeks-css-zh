@@ -27,7 +27,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="m-0">...</element>
 ```
 
@@ -35,7 +35,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -69,7 +69,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="-m-0">...</element>
 ```
 
@@ -77,7 +77,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -111,7 +111,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="my-0">...</element>
 ```
 
@@ -119,7 +119,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -153,7 +153,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="-my-0">...</element>
 ```
 
@@ -161,7 +161,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -195,7 +195,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="mx-0">...</element>
 ```
 
@@ -203,7 +203,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -237,7 +237,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="-mx-0">...</element>
 ```
 
@@ -245,7 +245,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -279,7 +279,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="mt-0">...</element>
 ```
 
@@ -287,7 +287,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -321,7 +321,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="-mt-0">...</element>
 ```
 
@@ -329,7 +329,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <head> 
     <link href=

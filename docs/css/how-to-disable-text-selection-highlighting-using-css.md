@@ -12,7 +12,7 @@
 
 **代码**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>

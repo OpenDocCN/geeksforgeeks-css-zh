@@ -8,13 +8,13 @@
 
 *   选择所有子元素。
 
-    ```css
+    ```html
     element > element
     ```
 
 *   如果子元素递归选择，则使用以下语法。
 
-    ```css
+    ```html
     div.class > * {
         // CSS Property
     }
@@ -22,7 +22,7 @@
 
 **示例 1:** 本示例选择所有子元素。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -59,7 +59,7 @@
 
 **示例 2:** 本示例递归选择所有子元素。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

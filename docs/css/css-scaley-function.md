@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 scaleY( y )
 ```
 
@@ -16,7 +16,7 @@ scaleY( y )
 
 **例 1:**
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
 
@@ -53,7 +53,7 @@ scaleY( y )
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
 

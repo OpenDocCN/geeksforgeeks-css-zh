@@ -11,7 +11,7 @@
 
 **示例:**以下示例使用 HTML 控件和基于 CSS 的**marquemenu**插件演示了给定菜单的字幕效果。插件的“base.css”文件的“marquee”、“marquee _ _ inner”、“menu _ item-link”等不同类被附加到如下所示的 HTML 标记上，以获得预期的输出。
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en" class="no-js">
 

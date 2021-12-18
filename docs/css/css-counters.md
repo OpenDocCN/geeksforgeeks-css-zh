@@ -14,7 +14,7 @@ CSS 中的计数器基本上是可以用于编号的变量，CSS 计数器的值
 **初始化 CSS 计数器:**要使用 CSS 计数器属性，首先必须使用计数器重置属性创建它，第一步是重置计数器。默认情况下，myCounter 使用计数器重置属性初始化为值 0(零)。
 **语法:**
 
-```css
+```html
 counter-reset: myCounter;
 
 ```
@@ -22,7 +22,7 @@ counter-reset: myCounter;
 **递增和使用 CSS 计数器:**要递增计数器，请使用 CSS 计数器递增属性。
 **语法:**
 
-```css
+```html
 counter-increment: myCounter;
 
 ```
@@ -30,14 +30,14 @@ counter-increment: myCounter;
 内容中的 counter()或 counters()函数用于以特定顺序显示内容。
 **语法:**
 
-```css
+```html
 content: counter(myCounter);
 
 ```
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -81,7 +81,7 @@ content: counter(myCounter);
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

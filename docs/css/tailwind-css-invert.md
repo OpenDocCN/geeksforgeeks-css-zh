@@ -11,7 +11,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="filter invert | invert-0">..</element>
 ```
 
@@ -19,7 +19,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

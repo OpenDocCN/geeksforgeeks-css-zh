@@ -11,7 +11,7 @@
 **使用*****flexbox*****:**在这个方法中，我们将使用 flexbox。为此，我们将使用 CSS 显示属性结合*对齐项*属性。我们需要创建一个包含图像和文本的父元素。使用*将父元素声明为 flexbox 后显示:flex*我们可以使用*对齐-项目:中心，将项目对齐到中心；*。
 **语法:**
 
-```css
+```html
 .class_name { 
     display: flex;
     align-items:center;
@@ -22,7 +22,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -64,7 +64,7 @@
 **使用** ***垂直对齐*** **CSS 属性:**在这种方法中，我们不需要将元素包装在父元素中，而使用*垂直对齐*属性直接垂直对齐元素。
 **语法:**
 
-```css
+```html
 .class_name { vertical-align: middle; } 
 ```
 
@@ -72,7 +72,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE hyml>
 <html>
 

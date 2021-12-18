@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 grid-area: grid-row-start|grid-column-start|grid-row-end|
 grid-column-end|itemname;
 ```
@@ -21,7 +21,7 @@ grid-column-end|itemname;
 
 **例 1:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -69,7 +69,7 @@ grid-column-end|itemname;
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>

@@ -13,7 +13,7 @@ CSS 中的 [**悬挂-标点符号**](https://en.wikipedia.org/wiki/Hanging_punct
 
 *   **语法:**为关键字值
 
-```css
+```html
 ohanging-punctuation: none;
 hanging-punctuation: first;
 hanging-punctuation: last;
@@ -23,7 +23,7 @@ hanging-punctuation: allow-end;
 
 *   **语法:**为*两个关键字值*
 
-```css
+```html
 hanging-punctuation: first force-end;
 hanging-punctuation: first allow-end;
 hanging-punctuation: first last;
@@ -33,14 +33,14 @@ hanging-punctuation: last allow-end;
 
 *   **语法:**代表*三个关键词值*
 
-```css
+```html
 hanging-punctuation: first force-end last;
 hanging-punctuation: first allow-end last;
 ```
 
 *   **语法:**代表*全球价值观*代表
 
-```css
+```html
 hanging-punctuation: inherit;
 hanging-punctuation: initial;
 hanging-punctuation: unset;
@@ -69,7 +69,7 @@ hanging-punctuation: unset;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE HTML>
 <html>
     <head>

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```css
+```html
 empty-cells: hide;
 ```
 
@@ -16,7 +16,7 @@ empty-cells: hide;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 

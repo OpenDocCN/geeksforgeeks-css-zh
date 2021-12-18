@@ -13,7 +13,7 @@
 **rotateX()方法:**该旋转用于以给定的角度围绕 X 轴旋转元素。
 T3】例:
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -69,7 +69,7 @@ T3】例:
 **rotateY()方法:**此方法用于以给定的角度围绕 Y 轴旋转元素。
 T3】例:
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -124,7 +124,7 @@ T3】例:
 **rotateZ()方法:**此方法用于以给定的角度围绕 Z 轴旋转元素。
 T3】例:
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 display: inline; 
 ```
 
@@ -14,7 +14,7 @@ display: inline;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

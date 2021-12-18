@@ -5,7 +5,7 @@
 calc()函数是 CSS 中的一个内置函数，用于根据 CSS 属性执行计算。
 **语法:**
 
-```css
+```html
 calc( Expression )
 ```
 
@@ -15,7 +15,7 @@ calc( Expression )
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -63,7 +63,7 @@ CSS 中的 calc()函数根据其父元素的值或用户在计算过程中提供
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -116,7 +116,7 @@ CSS 中的 calc()函数根据其父元素的值或用户在计算过程中提供
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -9,7 +9,7 @@
 
 **语法:**
 
-```css
+```html
 <tag_name class="class_1 class_2">
 ```
 
@@ -18,7 +18,7 @@
 **单独设置样式:**以下示例中的两个类都是单独设置样式的。
 **语法:**
 
-```css
+```html
 <style>
     .class_1{
         /* some styles */
@@ -34,7 +34,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -81,7 +81,7 @@
 **注意:**在 CSS 选择器中，类名之间没有空格。
 **语法:**
 
-```css
+```html
 <style>
     .class_1.class_2{
         /* some styles */
@@ -93,7 +93,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -145,7 +145,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 

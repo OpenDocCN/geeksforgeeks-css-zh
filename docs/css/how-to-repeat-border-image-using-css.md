@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 border-image-repeat: stretch|repeat|round|initial|inherit
 ```
 
@@ -16,7 +16,7 @@ border-image-repeat: stretch|repeat|round|initial|inherit
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -60,7 +60,7 @@ https://media.geeksforgeeks.org/wp-content/uploads/border1-2.png);
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -111,7 +111,7 @@ https://media.geeksforgeeks.org/wp-content/uploads/border1-2.png);
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

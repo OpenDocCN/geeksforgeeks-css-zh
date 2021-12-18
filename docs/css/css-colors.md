@@ -16,7 +16,7 @@ CSS 颜色属性用于设置 HTML 元素的颜色。该属性用于设置字体�
 **内置颜色:**这些是一组预定义的颜色，按其名称使用。例如:红色、蓝色、绿色等。
 **语法:**
 
-```css
+```html
 h1 {
     color: color-name;
 }
@@ -25,7 +25,7 @@ h1 {
 
 **示例:**
 
-```css
+```html
 <html>
     <head>
         <title>CSS color property</title>
@@ -50,7 +50,7 @@ h1 {
 **RGB 格式:**RGB(红、绿、蓝)格式用于通过指定 0 到 255 之间的 R、G、B 值来定义 HTML 元素的颜色。例如:红色的 RGB 值为(255，0，0)，绿色为(0，255，0)，蓝色为(0，0，255)等。
 **语法:**
 
-```css
+```html
 h1 {
     color: rgb(R, G, B);
 }
@@ -59,7 +59,7 @@ h1 {
 
 **示例:**
 
-```css
+```html
 <html>
     <head>
         <title>CSS color property</title>
@@ -84,7 +84,7 @@ h1 {
 **RGBA 格式:**RGBA 格式类似于 RGB，但不同的是 RGBA 包含指定元素透明度的 A (Alpha)。α的值介于 0.0 到 1.0 之间，其中 0.0。表示完全透明，1.0 表示不透明。
 **语法:**
 
-```css
+```html
 h1 {
     color:rgba(R, G, B, A);
 }
@@ -93,7 +93,7 @@ h1 {
 
 **示例:**
 
-```css
+```html
 <html>
     <head>
         <title>CSS RGBA color property</title>
@@ -118,7 +118,7 @@ h1 {
 **十六进制记数法:**十六进制记数法以#符号开头，后跟 6 个字符，每个字符的范围从 0 到 f。例如:红色#FF0000，绿色#00FF00，蓝色#0000FF 等。
 **语法:**
 
-```css
+```html
 h1 {
     color:#(0-F)(0-F)(0-F)(0-F)(0-F)(0-F);
 }
@@ -127,7 +127,7 @@ h1 {
 
 **示例:**
 
-```css
+```html
 <html>
     <head>
         <title>CSS hex property</title>
@@ -157,7 +157,7 @@ h1 {
 
 **语法:**
 
-```css
+```html
 h1 {
     color:hsl(H, S, L);
 }
@@ -166,7 +166,7 @@ h1 {
 
 **示例:**
 
-```css
+```html
 <html>
     <head>
         <title>CSS hsl color property</title>
@@ -191,7 +191,7 @@ h1 {
 **HSLA:**HSLA 颜色属性与 HSL 属性相似，不同的是 HSLA 包含指定元素透明度的 A (Alpha)。α的值介于 0.0 到 1.0 之间，其中 0.0。表示完全透明，1.0 表示不透明。
 **语法:**
 
-```css
+```html
 h1 {
     color:hsla(H, S, L, A);
 }
@@ -200,7 +200,7 @@ h1 {
 
 **示例:**
 
-```css
+```html
 <html>
     <head>
         <title>CSS hsla color property</title>
@@ -225,7 +225,7 @@ h1 {
 **文字颜色:**用于设置文字的颜色。
 **语法:**
 
-```css
+```html
 h1 {
     color:color_name;
 }
@@ -234,7 +234,7 @@ h1 {
 
 **示例:**
 
-```css
+```html
 <html>
     <head>
         <title>CSS text color property</title>
@@ -259,7 +259,7 @@ h1 {
 **背景色:**用于设置一个 HTML 元素的背景色。
 **语法:**
 
-```css
+```html
 h1 {
     background-color:color_name;
 }
@@ -268,7 +268,7 @@ h1 {
 
 **示例:**
 
-```css
+```html
 <html>
     <head>
         <title>CSS background color property</title>
@@ -293,7 +293,7 @@ h1 {
 **边框颜色:**用于设置元素的边框颜色。边框样式用于设置边框类型。
 **语法:**
 
-```css
+```html
 h1 {
     border-style:solid/dashed/dotted
     border-color:color_name;
@@ -303,7 +303,7 @@ h1 {
 
 **示例:**
 
-```css
+```html
 <html>
     <head>
         <title>CSS border color</title>

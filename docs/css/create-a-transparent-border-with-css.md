@@ -13,7 +13,7 @@
 
 **示例 1:** 使用上述方法在 CSS 中创建透明边框。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -67,7 +67,7 @@
 
 **示例 2:** 使用上面讨论的替代方法在 CSS 中创建透明边框。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

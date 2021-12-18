@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 contrast( amount )
 ```
 
@@ -16,7 +16,7 @@ contrast( amount )
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
 

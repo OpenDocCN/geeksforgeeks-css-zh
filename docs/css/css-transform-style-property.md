@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 transform-style: flat|preserve-3d|initial|inherit;
 ```
 
@@ -16,7 +16,7 @@ transform-style: flat|preserve-3d|initial|inherit;
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -65,7 +65,7 @@ transform-style: flat|preserve-3d|initial|inherit;
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -115,7 +115,7 @@ transform-style: flat|preserve-3d|initial|inherit;
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -165,7 +165,7 @@ transform-style: flat|preserve-3d|initial|inherit;
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 

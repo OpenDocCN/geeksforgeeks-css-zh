@@ -8,7 +8,7 @@
 
 **语法:**
 
-```css
+```html
 <ul class="pagination">
   <li class="disabled">
     <a href="#!">
@@ -41,7 +41,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <html>
 
 <head>

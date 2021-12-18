@@ -6,7 +6,7 @@ CSS 的**元素()**功能用于将页面中另一个元素的图像放入一个�
 
 **语法:**
 
-```css
+```html
 element(id)
 ```
 
@@ -16,7 +16,7 @@ element(id)
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

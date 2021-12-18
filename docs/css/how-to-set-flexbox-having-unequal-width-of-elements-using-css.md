@@ -7,7 +7,7 @@ CSS 中的**伸缩属性**是*伸缩-增长*、*伸缩*和*伸缩-基础属性*�
 
 **语法:**
 
-```css
+```html
 flex: number;
 ```
 
@@ -15,7 +15,7 @@ flex: number;
 
 **例 1:** 这里你会看到两种类型的宽度 flexbox 都是用 CSS 设计的。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -70,7 +70,7 @@ flex: number;
 
 **示例 2:** 在此示例中，您将看到 4 个项目，每个项目的宽度彼此不相等。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

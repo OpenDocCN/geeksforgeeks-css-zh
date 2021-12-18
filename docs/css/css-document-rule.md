@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 @document url("") {
     // Style your defined URLs page
 }
@@ -24,7 +24,7 @@
 
 **示例 1:** 本示例中定义的样式将适用于所提到的网址、域和正则表达式。
 
-```css
+```html
 <style> 
 @document url("https://auth.geeksforgeeks.org/user/skyridetim/articles"),
 url-prefix("https://www.geeksforgeeks.org/"),

@@ -6,7 +6,7 @@ CSS 的**间隙**属性用于设置行和列之间的间距。就像分别使用
 
 **语法:**
 
-```css
+```html
 gap: <row-gap> <column-gap>
 
 ```
@@ -20,7 +20,7 @@ gap: <row-gap> <column-gap>
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -84,7 +84,7 @@ gap: <row-gap> <column-gap>
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -22,13 +22,13 @@
 
 **步骤 1:** 使用以下命令创建一个反应应用程序:
 
-```css
+```html
 npx create-react-app 
 ```
 
 **步骤 2:** 现在，通过在命令提示符终端中编写以下命令，导航到“表单”文件夹。
 
-```css
+```html
 cd foldername
 ```
 
@@ -38,7 +38,7 @@ cd foldername
 
 **步骤 3:** 键入以下命令，在浏览器 localhost: 3000 上运行您的项目
 
-```css
+```html
 npm start
 ```
 
@@ -46,7 +46,7 @@ npm start
 
 **步骤 1:** 在您的终端中使用以下命令安装所需的库:
 
-```css
+```html
 // with npm
 npm install styled-components
 
@@ -59,7 +59,7 @@ yarn add styled-components
 
 ## App.js
 
-```css
+```html
 import React from 'react';
 import styled from 'styled-components;
 
@@ -116,7 +116,7 @@ return(
 
 **第三步:**在终端运行下面的代码
 
-```css
+```html
 npm start
 or
 yarn start
@@ -130,7 +130,7 @@ yarn start
 
 **步骤 1:** 在您的终端中使用以下命令安装所需的库:
 
-```css
+```html
 // with  npm
 npm install --save react-jss
 
@@ -143,7 +143,7 @@ yarn add react-jss
 
 ## App.js
 
-```css
+```html
 import React from 'react';
 import {createUseStyles} from 'react-jss'
 
@@ -179,7 +179,7 @@ export default App;
 
 **第三步:**在终端运行下面的代码
 
-```css
+```html
 npm start
 or
 yarn start
@@ -193,7 +193,7 @@ yarn start
 
 **步骤 1:** 在您的终端中使用以下命令安装所需的库:
 
-```css
+```html
 // with npm
 npm install @emotion/styled @emotion/react
 
@@ -207,7 +207,7 @@ yarn add @emotion/styled @emotion/react
 
 ## App.js
 
-```css
+```html
 /** @jsx jsx */
 import React from 'react';
 import { jsx, css } from '@emotion/react';
@@ -256,7 +256,7 @@ return(
 
 **第三步:**在终端运行下面的代码
 
-```css
+```html
 npm start
 or
 yarn start
@@ -266,7 +266,7 @@ yarn start
 
 **注意:**如果不在文件行顶部包含此注释，情感将不会运行:
 
-```css
+```html
 /** @jsx jsx */
 ```
 
@@ -278,7 +278,7 @@ yarn start
 
 **步骤 1:** 在您的终端中使用以下命令安装所需的库:
 
-```css
+```html
 // with npm
 npm install aphrodite
 ```
@@ -287,7 +287,7 @@ npm install aphrodite
 
 ## App.js
 
-```css
+```html
 import React, { Component } from 'react';
 import { StyleSheet, css } from 'aphrodite';
 
@@ -353,7 +353,7 @@ class App extends Component {
 
 **第三步:**在终端运行下面的代码
 
-```css
+```html
 npm start
 or
 yarn start

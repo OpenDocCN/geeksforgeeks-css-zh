@@ -10,7 +10,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -83,7 +83,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -158,7 +158,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -231,7 +231,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -305,7 +305,7 @@ src="https://code.jquery.com/jquery-2.1.1.min.js">
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -395,7 +395,7 @@ src="https://code.jquery.com/jquery-2.1.1.min.js">
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -507,7 +507,7 @@ src="https://code.jquery.com/jquery-2.1.1.min.js">
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -580,7 +580,7 @@ src="https://code.jquery.com/jquery-2.1.1.min.js">
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

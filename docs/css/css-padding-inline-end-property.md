@@ -5,7 +5,7 @@
 CSS 中的**填充行内结束属性**用于定义元素的逻辑块结束填充。此属性有助于根据元素的书写模式、方向和文本方向放置填充。
 **语法:**
 
-```css
+```html
 padding-inline-end: length|percentage|auto|inherit|initial|unset;
 ```
 
@@ -23,7 +23,7 @@ padding-inline-end: length|percentage|auto|inherit|initial|unset;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -68,7 +68,7 @@ padding-inline-end: length|percentage|auto|inherit|initial|unset;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

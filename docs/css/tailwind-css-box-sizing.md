@@ -13,7 +13,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="box-border">..</element>
 ```
 
@@ -21,7 +21,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <head> 
     <title>Tailwind box-border Class</title> 
@@ -54,7 +54,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="box-content">..</element>
 ```
 
@@ -62,7 +62,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <head> 
     <title>Tailwind box-content Class</title> 

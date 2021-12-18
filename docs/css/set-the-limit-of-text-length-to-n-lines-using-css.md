@@ -10,7 +10,7 @@
 
 *   **Truncating text after 1 line**: If you need to truncate text after 1 line then the **text-overflow** property of CSS can be used. It creates ellipses and gracefully cut off words.
 
-    ```css
+    ```html
     div{
       white-space: nowrap; 
       overflow: hidden;
@@ -21,7 +21,7 @@
 
     下面的代码演示了 CSS 的**文本溢出**属性:
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <head>
@@ -54,7 +54,7 @@
     2.  它有时会切断单词的最后几个字母，因此它不会只在空格处断开。
     3.  在网络工具包中，省略号没有替代选项，也就是说，除了省略号之外，您不能在截断行的末尾使用任何东西。
 
-    ```css
+    ```html
     .text{
         overflow: hidden;
         text-overflow: ellipsis;
@@ -71,7 +71,7 @@
 
     下面的代码演示了使用 WebKit 截断 N 行:
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <head>
@@ -117,7 +117,7 @@
 
     Opera 网络浏览器有自己的方式来处理这种情况。它在文本被截断的那一行应用省略号。
 
-    ```css
+    ```html
     .text{
         overflow: hidden;
         white-space: normal;
@@ -127,7 +127,7 @@
 
     ```
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <head>

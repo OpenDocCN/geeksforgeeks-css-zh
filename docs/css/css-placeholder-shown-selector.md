@@ -6,7 +6,7 @@ CSS *:占位符显示的*伪类选择具有占位符文本的输入元素或文�
 
 **语法:**
 
-```css
+```html
 :placeholder-shown
 {
    /* CSS Property */ 
@@ -18,7 +18,7 @@ CSS *:占位符显示的*伪类选择具有占位符文本的输入元素或文�
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -53,7 +53,7 @@ CSS *:占位符显示的*伪类选择具有占位符文本的输入元素或文�
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 

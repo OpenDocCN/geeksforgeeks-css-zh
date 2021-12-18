@@ -8,7 +8,7 @@
 
 *   **基本:**在本例中，**区**或 **ul** 集装箱为一个集合，而 **a** 或 **li** 物品为一个集合物品。
 
-```css
+```html
     <ul class="collection">
             <li class="collection-item">Title</li>
             <li class="collection-item">Title</li>
@@ -19,7 +19,7 @@
 
 *   **链接:**用于将**一**或**里**项显示为活动收藏项。
 
-```css
+```html
     <div class="collection">
             <a href="#!" class="collection-item">Title</a>
             <a href="#!" class="collection-item active green">Title</a>
@@ -30,7 +30,7 @@
 
 *   **表头:**是用来让集合有一个表头。
 
-```css
+```html
     <ul class="collection with-header">
             <li class="collection-header">
                 <h4>First Names</h4></li>
@@ -43,7 +43,7 @@
 
 *   **次要内容:**用于将 **a** 或 **li** 项设置为收藏表头。
 
-```css
+```html
     <ul class="collection with-header">
             <li class="collection-header"><h4>First Names</h4></li>
             <li class="collection-item"><div>Title
@@ -67,7 +67,7 @@
 
 *   **头像内容:**用于将 **a** 或 **li** 项目设置为头像项目。
 
-```css
+```html
     <ul class="collection">
           <li class="collection-item avatar">
             <img src="gfg_200X200.png" alt="" class="circle">
@@ -114,7 +114,7 @@
 
 *   **可剔除内容:**用于将收藏物品剔除。它仅用于触摸屏设备。
 
-```css
+```html
     <ul class = "collection">  
            <li class = "collection-item dismissable">Title</li>  
            <li class = "collection-item dismissable">Title</li>  
@@ -125,7 +125,7 @@
 
 **例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

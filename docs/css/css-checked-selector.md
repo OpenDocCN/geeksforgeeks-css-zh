@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 :checked {
     // CSS property
 } 
@@ -15,7 +15,7 @@
 
 **例 1:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -56,7 +56,7 @@
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

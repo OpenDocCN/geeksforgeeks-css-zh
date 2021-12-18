@@ -8,7 +8,7 @@
 **HTML 代码:**
 HTML 代码是一个简单的结构，它包含一个包装器，其中跨度标签被包装在锚标签中。
 
-```css
+```html
 <html>
   <head></head>
   <body>
@@ -23,7 +23,7 @@ HTML 代码是一个简单的结构，它包含一个包装器，其中跨度标
 
 *   添加背景色等基本样式，定位按钮并设置按钮的宽度和高度。*   使用标识符为 wave 的动画属性。*   Now use keyframes to animate each frame according to their angle by using the transform property.
 
-    ```css
+    ```html
     <style>
 
     @import url("https://fonts.googleapis.com/css?family=Noto+Sans");
@@ -95,7 +95,7 @@ HTML 代码是一个简单的结构，它包含一个包装器，其中跨度标
 
     **完整代码:**
 
-    ```css
+    ```html
     <html>
       <head>
         <style>

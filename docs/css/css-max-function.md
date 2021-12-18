@@ -6,7 +6,7 @@ CSS 中的 **max()** 功能用于设置给定数字的最大值。它用于从�
 
 **语法:**
 
-```css
+```html
 max(value1, value2...);
 ```
 
@@ -20,7 +20,7 @@ max(value1, value2...);
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -64,7 +64,7 @@ max(value1, value2...);
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 

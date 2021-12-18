@@ -8,7 +8,7 @@
 
 **语法:**
 
-```css
+```html
 [href$=" .file_extention "]::after {
   content: " " url( path_of_icon );
 }
@@ -18,7 +18,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

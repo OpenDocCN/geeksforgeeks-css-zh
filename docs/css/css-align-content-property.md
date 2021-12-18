@@ -19,7 +19,7 @@ align-content 属性更改 flex-wrap 属性的行为。它对齐伸缩线。它�
 
 *   **语法:**
 
-    ```css
+    ```html
     align-content:center;
 
     ```
@@ -28,7 +28,7 @@ align-content 属性更改 flex-wrap 属性的行为。它对齐伸缩线。它�
 
     ## Hypertext Markup Language
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -86,7 +86,7 @@ align-content 属性更改 flex-wrap 属性的行为。它对齐伸缩线。它�
 
     *   **语法:**
 
-        ```css
+        ```html
         align-content: stretch;
 
         ```
@@ -95,7 +95,7 @@ align-content 属性更改 flex-wrap 属性的行为。它对齐伸缩线。它�
 
         ## Hypertext Markup Language
 
-        ```css
+        ```html
         <!DOCTYPE html>
         <html>
             <head>
@@ -153,7 +153,7 @@ align-content 属性更改 flex-wrap 属性的行为。它对齐伸缩线。它�
 
     *   **语法:**
 
-        ```css
+        ```html
         align-content: flex-start;
 
         ```
@@ -162,7 +162,7 @@ align-content 属性更改 flex-wrap 属性的行为。它对齐伸缩线。它�
 
         ## Hypertext Markup Language
 
-        ```css
+        ```html
         <!DOCTYPE html>
         <html>
             <head>
@@ -220,7 +220,7 @@ align-content 属性更改 flex-wrap 属性的行为。它对齐伸缩线。它�
 
     *   **语法:**
 
-        ```css
+        ```html
         align-content: flex-end;
 
         ```
@@ -229,7 +229,7 @@ align-content 属性更改 flex-wrap 属性的行为。它对齐伸缩线。它�
 
         ## Hypertext Markup Language
 
-        ```css
+        ```html
         <!DOCTYPE html>
         <html>
             <head>
@@ -287,7 +287,7 @@ align-content 属性更改 flex-wrap 属性的行为。它对齐伸缩线。它�
 
     *   **语法:**
 
-        ```css
+        ```html
         align-content: space-around;
 
         ```
@@ -296,7 +296,7 @@ align-content 属性更改 flex-wrap 属性的行为。它对齐伸缩线。它�
 
         ## Hypertext Markup Language
 
-        ```css
+        ```html
         <!DOCTYPE html>
         <html>
             <head>
@@ -354,7 +354,7 @@ align-content 属性更改 flex-wrap 属性的行为。它对齐伸缩线。它�
 
     *   **语法:**
 
-        ```css
+        ```html
         align-content: space-between;
 
         ```
@@ -363,7 +363,7 @@ align-content 属性更改 flex-wrap 属性的行为。它对齐伸缩线。它�
 
         ## Hypertext Markup Language
 
-        ```css
+        ```html
         <!DOCTYPE html>
         <html>
             <head>

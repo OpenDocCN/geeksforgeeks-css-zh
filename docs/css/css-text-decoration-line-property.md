@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 text-decoration-line: none| underline| overline| line-through| initial| inherit; 
 ```
 
@@ -18,7 +18,7 @@ text-decoration-line: none| underline| overline| line-through| initial| inherit;
 
 **语法:**
 
-```css
+```html
 text-decoration-line: none;
 ```
 
@@ -26,7 +26,7 @@ text-decoration-line: none;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -65,7 +65,7 @@ text-decoration-line: none;
 
 **语法:**
 
-```css
+```html
 text-decoration-line: underline;
 ```
 
@@ -73,7 +73,7 @@ text-decoration-line: underline;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -112,7 +112,7 @@ text-decoration-line: underline;
 
 **语法:**
 
-```css
+```html
 text-decoration-line: overline;
 ```
 
@@ -120,7 +120,7 @@ text-decoration-line: overline;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -159,7 +159,7 @@ text-decoration-line: overline;
 
 **语法:**
 
-```css
+```html
 text-decoration-line: line through;
 ```
 
@@ -167,7 +167,7 @@ text-decoration-line: line through;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -205,7 +205,7 @@ text-decoration-line: line through;
 
 ****语法:****
 
-```css
+```html
 text-decoration-line: initial;
 ```
 
@@ -213,7 +213,7 @@ text-decoration-line: initial;
 
 ## **超文本标记语言**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>

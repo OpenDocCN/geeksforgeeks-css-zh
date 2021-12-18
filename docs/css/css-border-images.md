@@ -12,7 +12,7 @@ border-image 属性用于将图像分割成九个部分，就像井字游戏棋�
 
 **语法:**
 
-```css
+```html
 element {
     border-image: url(border.png);
 }
@@ -28,7 +28,7 @@ element {
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

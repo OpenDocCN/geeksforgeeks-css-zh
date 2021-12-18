@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 place-items: align-items property value justify-items property value
 
 ```
@@ -31,7 +31,7 @@ place-items: align-items property value justify-items property value
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -101,7 +101,7 @@ place-items: align-items property value justify-items property value
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

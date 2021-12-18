@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 mask-origin: Keyword values
 /* Or */
 mask-origin: Multiple values
@@ -25,7 +25,7 @@ mask-origin: Global values
 
 **示例 1:** 以下是使用*边框框*T6:说明**遮罩来源**属性的示例
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -62,7 +62,7 @@ mask-origin: Global values
 
 **示例 2:** 以下是使用*内容框*说明**遮罩来源**属性的示例:
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

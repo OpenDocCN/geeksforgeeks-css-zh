@@ -8,7 +8,7 @@
 
 **语法:**
 
-```css
+```html
 scroll-margin: length
 
 /* Or */
@@ -28,7 +28,7 @@ scroll-margin: Global_Values
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 

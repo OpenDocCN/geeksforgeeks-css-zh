@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 columns: column-width columns-count | auto | initial | inherit;
 
 ```
@@ -17,14 +17,14 @@ columns: column-width columns-count | auto | initial | inherit;
 
     **语法:**
 
-    ```css
+    ```html
     columns: auto auto;
 
     ```
 
     **示例 1:** 使用*自动*作为值。
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -120,14 +120,14 @@ columns: column-width columns-count | auto | initial | inherit;
 
     **语法:**
 
-    ```css
+    ```html
     columns: column-width column-count;
 
     ```
 
     **例 2:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -221,14 +221,14 @@ columns: column-width columns-count | auto | initial | inherit;
 
     **语法:**
 
-    ```css
+    ```html
     columns: initial initial;
 
     ```
 
     **例 3:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -322,14 +322,14 @@ columns: column-width columns-count | auto | initial | inherit;
 
     **语法:**
 
-    ```css
+    ```html
     columns: inherit inherit;
 
     ```
 
     **例 4:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 

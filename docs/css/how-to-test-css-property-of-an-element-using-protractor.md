@@ -14,7 +14,7 @@
 
     ## conf . js:
 
-```css
+```html
 exports.config = {
 
     // Capabilities to be passed to 

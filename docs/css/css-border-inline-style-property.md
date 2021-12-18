@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 border-inline-style: style;
 ```
 
@@ -17,7 +17,7 @@ border-inline-style: style;
 以下示例说明了 CSS 中的**边框内联样式属性**:
 **示例 1:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -59,7 +59,7 @@ border-inline-style: style;
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

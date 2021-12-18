@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 mask-composite: Keyword values
 /* Or */
 mask-composite: Global values
@@ -19,7 +19,7 @@ mask-composite: Global values
 
 **示例 1:** 以下示例使用*添加*来说明**遮罩复合**属性:
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -55,7 +55,7 @@ mask-composite: Global values
 
 **示例 2:** 以下示例使用*减去*来说明**遮罩复合**属性:
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

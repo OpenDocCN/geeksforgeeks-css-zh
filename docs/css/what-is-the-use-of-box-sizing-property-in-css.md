@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 box-sizing: content-box|border-box;
 ```
 
@@ -17,13 +17,13 @@ box-sizing: content-box|border-box;
 
 **语法:**
 
-```css
+```html
 box-sizing: border-box;
 ```
 
 元素的尺寸计算如下:
 
-```css
+```html
 width = border + padding + width of the content  
 height = border + padding + height of the content
 ```
@@ -32,7 +32,7 @@ height = border + padding + height of the content
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

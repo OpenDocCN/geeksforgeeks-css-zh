@@ -15,7 +15,7 @@ Flex 具有以下预定义属性，以便更改 flex 项目的大小。
 
 **语法:**
 
-```css
+```html
 flex-item: order | flex-grow | flex-shrink | 
            flex-basis | auto | align-self | 
            flex | initial | inherit;
@@ -25,7 +25,7 @@ flex-item: order | flex-grow | flex-shrink |
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -69,7 +69,7 @@ flex-item: order | flex-grow | flex-shrink |
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -113,7 +113,7 @@ flex-item: order | flex-grow | flex-shrink |
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -157,7 +157,7 @@ flex-item: order | flex-grow | flex-shrink |
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -205,7 +205,7 @@ flex-item: order | flex-grow | flex-shrink |
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -249,7 +249,7 @@ flex-item: order | flex-grow | flex-shrink |
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -293,7 +293,7 @@ flex-item: order | flex-grow | flex-shrink |
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

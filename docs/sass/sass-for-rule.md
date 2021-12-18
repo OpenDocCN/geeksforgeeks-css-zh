@@ -8,7 +8,7 @@ SASS 中规则的**@用于从一个数字到另一个数字的递增或递减计
 
 **语法:**
 
-```css
+```html
 @for <variable> from <expression> through <expression> {
 
     /* Body of loop that will be executed 
@@ -18,7 +18,7 @@ SASS 中规则的**@用于从一个数字到另一个数字的递增或递减计
 
 **示例:**在本例中，我们将使用 through 语法。#{$i}部分是将变量(I)与文本组合成字符串的语法。
 
-```css
+```html
 @for $i from 1 through 3 {
     .col-#{$i} { width: 100%/3 * $i; }
 }
@@ -26,7 +26,7 @@ SASS 中规则的**@用于从一个数字到另一个数字的递增或递减计
 
 **输出:**
 
-```css
+```html
 .col-1 {
   width: 33.3333333333%;
 }
@@ -44,7 +44,7 @@ SASS 中规则的**@用于从一个数字到另一个数字的递增或递减计
 
 **语法:**
 
-```css
+```html
 @for <variable> from <expression> to <expression> {
 
     /* Body of loop that will be executed 
@@ -54,7 +54,7 @@ SASS 中规则的**@用于从一个数字到另一个数字的递增或递减计
 
 **例:**
 
-```css
+```html
 @for $i from 1 to 5 {
   .column-#{$i} { width: 100%/4 * $i; }
 }
@@ -62,7 +62,7 @@ SASS 中规则的**@用于从一个数字到另一个数字的递增或递减计
 
 **输出:**
 
-```css
+```html
 .column-1 {
   width: 25%;
 }

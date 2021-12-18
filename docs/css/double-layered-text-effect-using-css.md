@@ -8,7 +8,7 @@
 
 **HTML 代码:**在这一节中，我们将每个字母表包装在一个跨度中，数据标题属性的值与字母表的值相同。
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -46,7 +46,7 @@
 
 **注意:**仔细选择您的角度旋转和过渡值。您可以使用浏览器控制台来获得完美的值。
 
-```css
+```html
 <style>
     body {
         background: black;
@@ -86,7 +86,7 @@
 
 **完整代码:**是上面两段代码的组合。
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 

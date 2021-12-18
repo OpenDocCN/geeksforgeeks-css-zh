@@ -25,7 +25,7 @@
 
 然后，我们添加 CSS 来设计我们的旋转木马，并使旋转木马对所有屏幕尺寸都有响应。
 
-```css
+```html
 NOTE: We will use "rem" and "%" units 
 as much as possible to achieve responsiveness 
 easily.
@@ -37,7 +37,7 @@ easily.
 
 ## index.html
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

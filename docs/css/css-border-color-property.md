@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 border-color: color-value;
 ```
 
@@ -34,7 +34,7 @@ border-color: color-value;
 
 **语法:**
 
-```css
+```html
 border-color: blue;
 ```
 
@@ -42,7 +42,7 @@ border-color: blue;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -89,7 +89,7 @@ border-color: blue;
 
 **语法:**
 
-```css
+```html
 border-color: #0000ff;
 ```
 
@@ -97,7 +97,7 @@ border-color: #0000ff;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -137,7 +137,7 @@ border-color: #0000ff;
 
 **语法:**
 
-```css
+```html
 border-color: rgb(0, 0, 255);
 ```
 
@@ -145,7 +145,7 @@ border-color: rgb(0, 0, 255);
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -188,7 +188,7 @@ border-color: rgb(0, 0, 255);
 
 **语法:**
 
-```css
+```html
 border-color: transparent;
 ```
 
@@ -196,7 +196,7 @@ border-color: transparent;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>

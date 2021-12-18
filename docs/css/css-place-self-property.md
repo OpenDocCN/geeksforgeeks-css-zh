@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 place-self: align-self-property-value justify-self-property-value
 ```
 
@@ -30,7 +30,7 @@ place-self: align-self-property-value justify-self-property-value
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -97,7 +97,7 @@ place-self: align-self-property-value justify-self-property-value
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

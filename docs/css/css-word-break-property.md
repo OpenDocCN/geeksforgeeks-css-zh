@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 word-break: normal|break-all|keep-all|break-word|initial|inherit;
 ```
 
@@ -23,7 +23,7 @@ word-break: normal|break-all|keep-all|break-word|initial|inherit;
 **正常:**该属性使用默认的换行规则。
 **语法:**
 
-```css
+```html
 word-break: normal (default value)
 ```
 
@@ -31,7 +31,7 @@ word-break: normal (default value)
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -68,7 +68,7 @@ word-break: normal (default value)
 **断字:**用于任意字符处断字，防止溢出。
 **语法:**
 
-```css
+```html
 break-word: break-all
 ```
 
@@ -76,7 +76,7 @@ break-word: break-all
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -114,7 +114,7 @@ break-word: break-all
 **注:**不宜用于中/日/韩文文本。
 **语法:**
 
-```css
+```html
 word-break: Keep-all;
 ```
 
@@ -122,7 +122,7 @@ word-break: Keep-all;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -159,7 +159,7 @@ word-break: Keep-all;
 **断字:**用于任意点断字，防止溢出。
 **语法:**
 
-```css
+```html
 word-break: break-word;
 ```
 
@@ -167,7 +167,7 @@ word-break: break-word;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -204,7 +204,7 @@ word-break: break-word;
 **初始值:**将属性设置为默认值。
 **语法:**
 
-```css
+```html
 word-break:initial;
 ```
 
@@ -212,7 +212,7 @@ word-break:initial;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

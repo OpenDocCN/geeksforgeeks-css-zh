@@ -6,7 +6,7 @@ CSS 中的**边框块开始颜色属性**用于在样式表的一个地方定义
 
 **语法:**
 
-```css
+```html
 border-block-start-color: border-color;
 ```
 
@@ -18,7 +18,7 @@ border-block-start-color: border-color;
 
 **例 1:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -59,7 +59,7 @@ border-block-start-color: border-color;
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

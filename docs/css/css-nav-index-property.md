@@ -5,7 +5,7 @@
 CSS **导航索引**定义了每个元素的顺序导航顺序。与其他 nav 属性相同，不包含目标名称属性。CSS **导航索引**只有 Opera 12.0 支持。
 **语法:**
 
-```css
+```html
  nav-index: auto | number | initial | inherit;
 ```
 
@@ -19,7 +19,7 @@ CSS **导航索引**定义了每个元素的顺序导航顺序。与其他 nav �
 以下示例说明了导航索引属性:
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

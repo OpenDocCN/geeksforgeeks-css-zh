@@ -6,7 +6,7 @@
 
 Flexbox 用于构造 html，以便页脚始终位于页面底部。重要的是将页面的结构保持在三个 HTML5 标签 **<页眉><主>** 和**T8】页脚>** 内，如下图所示。
 
-```css
+```html
 <body>
     <header></header>
     <main></main>
@@ -18,7 +18,7 @@ Flexbox 用于构造 html，以便页脚始终位于页面底部。重要的是�
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -93,7 +93,7 @@ Flexbox 用于构造 html，以便页脚始终位于页面底部。重要的是�
 
 **粘性页脚:** A **粘性页脚**总是停留在页面底部，不管页面上的内容有多少。但是这个页脚如果内容多就会被下推，所以和固定页脚不一样。将以下代码添加到您的 CSS 文件中。
 
-```css
+```html
   body {
     display: flex;
     min-height: 100vh;
@@ -109,7 +109,7 @@ Flexbox 用于构造 html，以便页脚始终位于页面底部。重要的是�
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

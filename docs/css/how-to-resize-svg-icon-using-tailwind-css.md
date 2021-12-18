@@ -8,7 +8,7 @@ SVG 代表**可缩放矢量图形**，是一种基于 XML 的(可编辑的)矢�
 
 **语法:**
 
-```css
+```html
 <svg class="h-30 w-30" viewBox="0 0 24 24">
     <path d=" "/>
 </svg>
@@ -20,7 +20,7 @@ SVG 代表**可缩放矢量图形**，是一种基于 XML 的(可编辑的)矢�
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -73,7 +73,7 @@ SVG 代表**可缩放矢量图形**，是一种基于 XML 的(可编辑的)矢�
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

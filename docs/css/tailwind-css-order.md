@@ -24,7 +24,7 @@
 
 **语法:**
 
-```css
+```html
 <element order- number | string >
 ```
 
@@ -37,7 +37,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

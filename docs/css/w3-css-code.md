@@ -12,7 +12,7 @@ W3。CSS 提供了几个用于显示内联和多行代码块的类。
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -65,7 +65,7 @@ W3。CSS 提供了几个用于显示内联和多行代码块的类。
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 cue-after: url | none ;
 
 ```
@@ -20,7 +20,7 @@ cue-after: url | none ;
 
 ## HTML
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

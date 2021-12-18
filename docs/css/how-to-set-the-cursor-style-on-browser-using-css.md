@@ -6,7 +6,7 @@ CSS 中的[**光标**](https://www.geeksforgeeks.org/css-cursor-property/) 属�
 
 **语法:**
 
-```css
+```html
 cursor: value;
 ```
 
@@ -16,7 +16,7 @@ cursor: value;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 

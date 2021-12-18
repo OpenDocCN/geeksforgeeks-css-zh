@@ -13,7 +13,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!-- Dropdown Trigger -->
 <h5>
   <a class='dropdown-button btn green' 
@@ -36,7 +36,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

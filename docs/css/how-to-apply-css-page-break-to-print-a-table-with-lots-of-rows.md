@@ -16,13 +16,13 @@ CSS 属性有助于定义页面上的元素在打印时的外观。这使得文�
 
 **语法:**
 
-```css
+```html
 name_of_the_element { name_of_the_property: value;}
 ```
 
 **示例:**
 
-```css
+```html
 table {page-break-before: always;}
 ```
 
@@ -36,7 +36,7 @@ table {page-break-before: always;}
 
 **程序 1:** 当表格开始时获取新页面的程序
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -74,7 +74,7 @@ table {page-break-before: always;}
 
 **程序 2:** 当表格开始时以及当打印行时需要新页面但不在行与行之间时，获取新页面的程序。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>

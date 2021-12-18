@@ -16,7 +16,7 @@
 
 **语法:**
 
-```css
+```html
 a img {
     border: 4px dashed darkgreen;
 }
@@ -24,7 +24,7 @@ a img {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -64,7 +64,7 @@ a img {
 
 **语法:**
 
-```css
+```html
 a img {
     border: none;
     /* border-width: 0; */
@@ -74,7 +74,7 @@ a img {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 

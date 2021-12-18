@@ -8,7 +8,7 @@
 
 **HTML 代码:**在本节中，我们将设计身体的基本结构。
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -47,7 +47,7 @@ CSS *文本-阴影*属性适用于为文本创建阴影。它接受由逗号分�
 
 **CSS 代码:**
 
-```css
+```html
 <style>
     html, body {
         width: 100%;
@@ -131,7 +131,7 @@ CSS *文本-阴影*属性适用于为文本创建阴影。它接受由逗号分�
 
 **完整代码:**是以上两个代码段的组合。
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 

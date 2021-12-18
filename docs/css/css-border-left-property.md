@@ -5,7 +5,7 @@
 CSS 中的**左边框**属性用于设置一行中所有的左下属性。它用于设置左边框的宽度、样式和颜色。
 **语法:**
 
-```css
+```html
 border-left: border-width border-style border-color|initial|
 inherit; 
 ```
@@ -23,7 +23,7 @@ inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

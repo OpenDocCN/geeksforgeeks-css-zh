@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 @media not|only mediatype and (media feature and|or|not mediafeature) 
 {
     // CSS Property
@@ -68,7 +68,7 @@
 
 ## **超文本标记语言**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

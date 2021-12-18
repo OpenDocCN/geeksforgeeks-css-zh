@@ -6,7 +6,7 @@ CSS 中的**列表样式位置**属性指定了标记框相对于主块框的位
 
 **语法:**
 
-```css
+```html
 list-style-position: outside|inside|initial|inherit;
 
 ```
@@ -19,7 +19,7 @@ list-style-position: outside|inside|initial|inherit;
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

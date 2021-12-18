@@ -6,7 +6,7 @@ CSS 中的 **-webkit-appearance** 属性被基于 webkit 的浏览器如 Safari 
 
 **语法:**
 
-```css
+```html
 element{
     webkit-appearance:values;
 }
@@ -40,7 +40,7 @@ element{
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -102,7 +102,7 @@ element{
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -15,7 +15,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="translate-{axis}-{amount}">...</element>
 ```
 
@@ -23,7 +23,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
 <head> 

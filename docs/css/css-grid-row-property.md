@@ -7,7 +7,7 @@ CSS 中的网格行属性用于指定网格布局中的大小和位置。它是�
 
 **语法:**
 
-```css
+```html
 grid-row: grid-row-start|grid-row-end;
 ```
 
@@ -17,7 +17,7 @@ grid-row: grid-row-start|grid-row-end;
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -67,7 +67,7 @@ grid-row: grid-row-start|grid-row-end;
 *   **grid-row-end** It is used to specify the row-line on which to stop displaying the item or specify how many rows an item will span.
     **Example:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>

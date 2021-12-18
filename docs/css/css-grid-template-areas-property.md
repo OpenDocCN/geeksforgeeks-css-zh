@@ -6,7 +6,7 @@ CSS 中的网格模板区域属性用于指定网格布局中的区域。命名�
 
 **语法:**
 
-```css
+```html
 grid-template-areas: none|itemnames;
 ```
 
@@ -24,7 +24,7 @@ grid-template-areas: none|itemnames;
 
 **示例 1:** 本示例显示网格模板区域属性。
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
     <head> 
@@ -71,7 +71,7 @@ grid-template-areas: none|itemnames;
 
 **示例 2:** 本示例显示网格模板区域属性。
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
     <head> 

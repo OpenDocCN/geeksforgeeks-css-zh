@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 -webkit-line-clamp: none | integer | initial | inherit
 ```
 
@@ -16,7 +16,7 @@
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <head>
@@ -79,7 +79,7 @@
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <head>
@@ -139,7 +139,7 @@
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <head>

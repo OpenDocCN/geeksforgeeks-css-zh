@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 empty-cells: show|hide|initial|inherit;
 ```
 
@@ -20,7 +20,7 @@ empty-cells: show|hide|initial|inherit;
 
 *   **语法:**
 
-    ```css
+    ```html
     empty-cell: show;
     ```
 
@@ -28,7 +28,7 @@ empty-cells: show|hide|initial|inherit;
 
     ## Hypertext Markup Language
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -79,7 +79,7 @@ empty-cells: show|hide|initial|inherit;
 
 *   **语法:**
 
-    ```css
+    ```html
     empty-cell: hide;
     ```
 
@@ -87,7 +87,7 @@ empty-cells: show|hide|initial|inherit;
 
     ## Hypertext Markup Language
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -138,7 +138,7 @@ empty-cells: show|hide|initial|inherit;
 
 *   **语法:**
 
-    ```css
+    ```html
     empty-cell: initial;
     ```
 
@@ -146,7 +146,7 @@ empty-cells: show|hide|initial|inherit;
 
     ## Hypertext Markup Language
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -197,7 +197,7 @@ empty-cells: show|hide|initial|inherit;
 
 *   **语法:**
 
-    ```css
+    ```html
     empty-cell: inherit;
     ```
 
@@ -205,7 +205,7 @@ empty-cells: show|hide|initial|inherit;
 
     ## Hypertext Markup Language
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>

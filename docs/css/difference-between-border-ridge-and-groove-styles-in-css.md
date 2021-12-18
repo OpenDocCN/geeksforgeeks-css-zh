@@ -15,7 +15,7 @@
 
 #### 语法:
 
-```css
+```html
 /* Keyword values */
 border-style: groove;
 border-style: ridge;
@@ -41,7 +41,7 @@ border-style: unset;
 
 **语法:**
 
-```css
+```html
 border-style: ridge; 
 ```
 
@@ -49,7 +49,7 @@ border-style: ridge;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -81,7 +81,7 @@ border-style: ridge;
 
 **语法:**
 
-```css
+```html
 border-style: groove;
 ```
 
@@ -89,7 +89,7 @@ border-style: groove;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

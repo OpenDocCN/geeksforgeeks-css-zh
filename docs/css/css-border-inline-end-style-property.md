@@ -6,7 +6,7 @@ CSS 中的**边框内联结束样式**属性用于在样式表中的一个位置
 
 **语法:**
 
-```css
+```html
 border-inline-end-style: border-style;
 ```
 
@@ -18,7 +18,7 @@ border-inline-end-style: border-style;
 
 **例 1:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -59,7 +59,7 @@ border-inline-end-style: border-style;
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

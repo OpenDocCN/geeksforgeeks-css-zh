@@ -6,7 +6,7 @@ CSS 中的**灰度()**函数是一个内置函数，用于对图像应用滤镜�
 
 **语法:**
 
-```css
+```html
 grayscale( amount )
 ```
 
@@ -16,7 +16,7 @@ grayscale( amount )
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

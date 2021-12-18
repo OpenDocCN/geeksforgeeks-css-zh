@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 background-image: repeating-linear-gradient( angle | to side-or-corner, color-stop1,
 color-stop2, ...); 
 ```
@@ -21,7 +21,7 @@ color-stop2, ...);
 
 **例 1:**
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
     <head> 
@@ -59,7 +59,7 @@ color-stop2, ...);
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
     <head> 

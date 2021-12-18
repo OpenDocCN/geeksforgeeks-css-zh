@@ -7,7 +7,7 @@
 
 **语法:**
 
-```css
+```html
 $(selector).css(property)
 ```
 
@@ -15,7 +15,7 @@ $(selector).css(property)
 
 **例 1:**
 
-```css
+```html
 Input: $("p").css("color");
 Output: Output of the above input will return the 
 rgb() value of the element.
@@ -25,7 +25,7 @@ rgb() value of the element.
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 
 <head>
@@ -73,7 +73,7 @@ rgb() value of the element.
 
 **语法:**
 
-```css
+```html
 $(selector).css(property, value)
 ```
 
@@ -81,7 +81,7 @@ $(selector).css(property, value)
 
 **例 2:**
 
-```css
+```html
 Input: $("p").css("color", "red");
 Output: Output of the "p" element becomes red 
 whatever may be the color previously.
@@ -91,7 +91,7 @@ whatever may be the color previously.
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 
 <head>
@@ -140,7 +140,7 @@ whatever may be the color previously.
 
 **语法:**
 
-```css
+```html
 $(selector).css(property, function(index, currentvalue))
 ```
 
@@ -148,7 +148,7 @@ $(selector).css(property, function(index, currentvalue))
 
 **例 3:**
 
-```css
+```html
 Input: $("p").css("padding", function(i){ return i+20;});
 Output: Output will get is the paragraph with padding value
  increases to "25px" whatever be the initial value.
@@ -158,7 +158,7 @@ Output: Output will get is the paragraph with padding value
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 
 <head>
@@ -205,7 +205,7 @@ Output: Output will get is the paragraph with padding value
 
 **语法:**
 
-```css
+```html
 $(selector).css({property:value, property:value, ...})
 ```
 
@@ -213,7 +213,7 @@ $(selector).css({property:value, property:value, ...})
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>

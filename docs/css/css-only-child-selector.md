@@ -6,7 +6,7 @@ CSS 中的:独生子选择器用于匹配作为其父元素的唯一子元素的
 
 **语法:**
 
-```css
+```html
 :only-child {
     // CSS property
 } 
@@ -15,7 +15,7 @@ CSS 中的:独生子选择器用于匹配作为其父元素的唯一子元素的
 
 **例 1:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -62,7 +62,7 @@ CSS 中的:独生子选择器用于匹配作为其父元素的唯一子元素的
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

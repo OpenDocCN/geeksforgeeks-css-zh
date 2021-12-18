@@ -8,7 +8,7 @@
 
 **语法:**
 
-```css
+```html
 $("Selector:nth-child(even)")
 ```
 
@@ -18,7 +18,7 @@ $("Selector:nth-child(even)")
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

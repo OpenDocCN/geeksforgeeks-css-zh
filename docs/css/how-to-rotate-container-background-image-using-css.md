@@ -8,13 +8,13 @@ CSS **[背景图像属性](https://www.geeksforgeeks.org/css-background-image-pr
 
 **语法:**
 
-```css
+```html
 .class_name { transform: value } 
 ```
 
 **示例:**我们可以使用 CSS 变换属性来修复这个问题，并进行如下旋转:
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

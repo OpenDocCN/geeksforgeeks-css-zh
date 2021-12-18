@@ -18,33 +18,33 @@ Dart Sass 完全兼容使用相等运算符，而 LibSass 和旧版 Ruby Sass(4 
 
 **示例:**
 
-```css
+```html
 @debug 2px == 2px 
 ```
 
 **输出:**
 
-```css
+```html
 true
 ```
 
-```css
+```html
 @debug 1px == 1em 
 ```
 
 **输出:**
 
-```css
+```html
 false
 ```
 
-```css
+```html
 @debug 96px == 1in 
 ```
 
 **输出:**
 
-```css
+```html
 true
 ```
 
@@ -52,23 +52,23 @@ true
 
 **示例:**
 
-```css
+```html
 @debug geeksforgeeks == "geeksforgeeks"
 ```
 
 **输出:**
 
-```css
+```html
 true
 ```
 
-```css
+```html
 @debug geeksforgeeks == GFG
 ```
 
 **输出:**
 
-```css
+```html
 false
 ```
 
@@ -76,23 +76,23 @@ false
 
 **示例:**
 
-```css
+```html
 @debug hsl(120, 72%, 80%) == #1ba61b
 ```
 
 **输出:**
 
-```css
+```html
 true
 ```
 
-```css
+```html
 @debug rgba(120\. 236, 135, 0.1) == rgba(120, 236, 135, 0.5)
 ```
 
 **输出:**
 
-```css
+```html
 false
 ```
 
@@ -100,33 +100,33 @@ false
 
 **示例:**
 
-```css
+```html
 @debug (2, 4, 6) == (2, 4, 6)
 ```
 
 **输出:**
 
-```css
+```html
 true
 ```
 
-```css
+```html
 @debug (2 4 6) == (2, 4, 6)
 ```
 
 **输出:**
 
-```css
+```html
 false
 ```
 
-```css
+```html
 @debug (2 4 6) == [2 4 6]
 ```
 
 **输出:**
 
-```css
+```html
 false
 ```
 
@@ -134,23 +134,23 @@ false
 
 **示例:**
 
-```css
+```html
 $gradient: ("green" : abc, "cyan" : def)
 ```
 
 **输出:**
 
-```css
+```html
 true
 ```
 
-```css
+```html
 @debug $gradient == ("green" : abc, "blue" : ghi)
 ```
 
 **输出:**
 
-```css
+```html
 true
 ```
 
@@ -158,23 +158,23 @@ true
 
 **示例:**
 
-```css
+```html
 @debug true == true
 ```
 
 **输出:**
 
-```css
+```html
 true
 ```
 
-```css
+```html
 @debug false == null
 ```
 
 **输出:**
 
-```css
+```html
 false
 ```
 
@@ -182,22 +182,22 @@ false
 
 **示例:**
 
-```css
+```html
 @debug solve(24) == solve(24)
 ```
 
 **输出:**
 
-```css
+```html
 true
 ```
 
-```css
+```html
 @debug solve(24) == solve("geeksforgeeks")
 ```
 
 **输出:**
 
-```css
+```html
 false
 ```

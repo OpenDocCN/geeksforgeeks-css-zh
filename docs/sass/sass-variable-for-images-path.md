@@ -7,20 +7,20 @@
 **声明变量**
 **语法:**
 
-```css
+```html
 $assetPath :"path";
 ```
 
 **在图像路径中添加变量**
 **语法:**
 
-```css
+```html
 background: url(#{$assetPath}/gfg.gif);
 ```
 
 **示例 1:** SASS 文件
 
-```css
+```html
 $assetPath :"/assets/images";
 body {
   margin: 0 auto;
@@ -31,7 +31,7 @@ body {
 
 **输出:**编译后的 CSS 文件
 
-```css
+```html
 body {
   margin: 0 auto;
   background: url(/assets/images/gfg.gif);
@@ -43,13 +43,13 @@ body {
 
 **语法:**
 
-```css
+```html
 background: url(#{$variable1}/#{$variable2}/#{$variable3});
 ```
 
 **示例 2:** SASS 文件
 
-```css
+```html
 $assetsPath :"/assets/images";
 $project :"project2";
 body {
@@ -61,7 +61,7 @@ body {
 
 **输出:**编译后的 CSS 文件
 
-```css
+```html
 body {
   margin: 0 auto;
   background: url(/assets/images/project/gfg.gif);

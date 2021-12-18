@@ -6,7 +6,7 @@ CSS 中的**背景色属性**用于指定元素的背景色。背景覆盖有填
 
 **语法:**
 
-```css
+```html
 element {
     background-color property
 }
@@ -20,7 +20,7 @@ element {
 
 *   **语法:**
 
-    ```css
+    ```html
     element {
         background-color: color_name;
     }
@@ -28,7 +28,7 @@ element {
 
 *   **例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -62,7 +62,7 @@ element {
 
 *   **语法:**
 
-    ```css
+    ```html
     element {
         background-color:transparent;
     }
@@ -70,7 +70,7 @@ element {
 
 *   **例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -102,7 +102,7 @@ element {
 
 *   **语法:**
 
-    ```css
+    ```html
     element {
         background-color: initial;
     }

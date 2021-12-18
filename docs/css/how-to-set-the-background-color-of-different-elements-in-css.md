@@ -8,7 +8,7 @@
 
 **语法:**
 
-```css
+```html
 background-color: color_name;
 ```
 
@@ -18,7 +18,7 @@ background-color: color_name;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -63,7 +63,7 @@ background-color: color_name;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

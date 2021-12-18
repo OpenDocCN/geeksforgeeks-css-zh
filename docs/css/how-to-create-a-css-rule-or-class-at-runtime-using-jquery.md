@@ -11,7 +11,7 @@ CSS 规则一旦被编写，就可以存储在一个变量中，并在任何需�
 
 **例 1:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -59,7 +59,7 @@ crossorigin="anonymous">
 
 **示例 2:** 它还有一个替代方案，可以直接使用类似 CSS 的样式代码，而不是类似 JavaScript 的样式。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

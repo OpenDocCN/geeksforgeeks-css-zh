@@ -16,7 +16,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!-- HTML code to detect a touch
     screen device  -->
 <!DOCTYPE html>

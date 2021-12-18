@@ -6,7 +6,7 @@
 
 **示例:**本示例使用 CSS 属性创建和管理爆炸。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -92,7 +92,7 @@
 
 **示例 2:** 本示例使用 CSS 属性创建和管理爆炸。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

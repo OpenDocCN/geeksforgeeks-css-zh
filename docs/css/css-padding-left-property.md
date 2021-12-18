@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 padding-left: length|percentage|initial|inherit;
 ```
 
@@ -16,13 +16,13 @@ padding-left: length|percentage|initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     padding-left: length;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -62,13 +62,13 @@ padding-left: length|percentage|initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     padding-left: percentage;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -107,7 +107,7 @@ padding-left: length|percentage|initial|inherit;
 *   **初始值:**该属性用于将左填充设置为默认值。
     **语法:**
 
-    ```css
+    ```html
     padding-left: initial;
     ```
 

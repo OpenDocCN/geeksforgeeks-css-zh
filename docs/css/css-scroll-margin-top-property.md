@@ -8,7 +8,7 @@
 
 **语法:**
 
-```css
+```html
 scroll-margin-top: length
 /* Or */
 scroll-margin-top: Global_Values
@@ -24,7 +24,7 @@ scroll-margin-top: Global_Values
 
 **示例:**在本例中，您可以通过滚动到示例内容的两个“界面”中间的点来查看**滚动页边距顶部**的效果。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

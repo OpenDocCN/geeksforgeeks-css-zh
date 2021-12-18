@@ -6,7 +6,7 @@ CSS 中的元素元素选择器用于选择元素内部的元素，也就是说�
 
 **语法:**
 
-```css
+```html
 element element {
     // CSS Property
 }
@@ -15,7 +15,7 @@ element element {
 
 **例 1:**
 
-```css
+```html
 <!-- HTML code to illustrates space selector -->
 <!DOCTYPE html>
 <html>
@@ -55,7 +55,7 @@ element element {
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

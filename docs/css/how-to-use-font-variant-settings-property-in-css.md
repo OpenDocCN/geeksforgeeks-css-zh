@@ -8,7 +8,7 @@
 
 **语法:***字体变化设置*属性的语法如下所示。
 
-```css
+```html
 font-variant-settings: normal | small-caps | initial | inherit;
 ```
 
@@ -21,7 +21,7 @@ font-variant-settings: normal | small-caps | initial | inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -53,7 +53,7 @@ font-variant-settings: normal | small-caps | initial | inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

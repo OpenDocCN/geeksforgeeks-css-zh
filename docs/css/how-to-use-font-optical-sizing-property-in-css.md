@@ -10,7 +10,7 @@
 
 **字体光学尺寸**属性的语法如下。
 
-```css
+```html
 font-optical-sizing: value;
 ```
 
@@ -23,7 +23,7 @@ font-optical-sizing: value;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -54,7 +54,7 @@ font-optical-sizing: value;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>

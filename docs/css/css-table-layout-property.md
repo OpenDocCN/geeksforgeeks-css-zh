@@ -6,7 +6,7 @@ CSS 中的**表格布局**属性用于显示表格的布局。该属性主要用
 
 **语法:**
 
-```css
+```html
 table-layout: auto|fixed|initial|inherit;
 ```
 
@@ -23,7 +23,7 @@ table-layout: auto|fixed|initial|inherit;
 
 ## **超文本标记语言**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>

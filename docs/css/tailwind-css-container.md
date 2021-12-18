@@ -21,7 +21,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="mx-auto">...</element>
 ```
 
@@ -29,7 +29,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -73,7 +73,7 @@ MX-自动分类
 
 **语法:**
 
-```css
+```html
 <element class="px-20">...</element>
 ```
 
@@ -81,7 +81,7 @@ MX-自动分类
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

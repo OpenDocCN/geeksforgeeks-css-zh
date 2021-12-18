@@ -6,13 +6,13 @@
 
 **语法:**
 
-```css
+```html
 :scope
 ```
 
 **例 1:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
   <title>GeeksforGeeks</title>
@@ -45,7 +45,7 @@
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
   <head>

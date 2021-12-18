@@ -10,7 +10,7 @@
 
 **示例 1:** 本示例使用 CSS 绘制曲线边六边形。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -78,7 +78,7 @@
 
 **例 2:** 如何用 CSS 绘制一个有一定效果的曲线边六边形。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

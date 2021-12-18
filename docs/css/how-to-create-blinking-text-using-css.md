@@ -6,7 +6,7 @@
 
 **HTML 代码:**在本节中，我们将创建一个基本的 *div* 元素，其中将包含一些文本。
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -25,7 +25,7 @@
 
 **CSS 代码:**本节实现了使用 CSS**@关键帧**规则设计出想要的效果的文本。如下所示设置**不透明度**属性。
 
-```css
+```html
 <style>
   body{
   margin: 0;
@@ -63,7 +63,7 @@ div{
 
 **最终代码:**是以上两个代码段的组合。
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 

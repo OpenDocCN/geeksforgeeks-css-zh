@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 :dir(ltr|rtl)
 ```
 
@@ -19,7 +19,7 @@
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -65,7 +65,7 @@
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

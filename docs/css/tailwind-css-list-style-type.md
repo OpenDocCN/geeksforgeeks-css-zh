@@ -12,7 +12,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="List Style Type">...</element>
 ```
 
@@ -20,7 +20,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <head> 
     <link href=

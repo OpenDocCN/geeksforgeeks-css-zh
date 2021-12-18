@@ -9,7 +9,7 @@
 
 ## <u><u>超文本标记语言</u></u>
 
-```css
+```html
 <u><!DOCTYPE html>
 <html>
 

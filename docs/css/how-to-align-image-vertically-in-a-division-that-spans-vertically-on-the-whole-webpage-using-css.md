@@ -14,7 +14,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -66,7 +66,7 @@
 
 **语法:**
 
-```css
+```html
 .class_name {
     display: flex;
     flex-direction: column;
@@ -84,7 +84,7 @@
 
 ## **超文本标记语言**
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

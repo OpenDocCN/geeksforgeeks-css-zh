@@ -11,7 +11,7 @@ SASS 支持布尔值:
 
 **为变量指定一个布尔值:**
 
-```css
+```html
 $variable: true; or $variable: false;
 ```
 
@@ -19,7 +19,7 @@ $variable: true; or $variable: false;
 
 **SASS 文件:**
 
-```css
+```html
 @mixin button-format( $round-button, $size ) {
     color: white;
     background-color: blue;
@@ -39,7 +39,7 @@ $variable: true; or $variable: false;
 
 **编译后的 CSS 文件:**
 
-```css
+```html
 .mybutton {
     color: white;
     background-color: blue;
@@ -59,7 +59,7 @@ SASS 有三个布尔运算符两个是二元:`and`、`or`一个是一元:`not`�
 
     **语法:**
 
-    ```css
+    ```html
     expression1 and expression2
     ```
 
@@ -69,7 +69,7 @@ SASS 有三个布尔运算符两个是二元:`and`、`or`一个是一元:`not`�
 
     **语法:**
 
-    ```css
+    ```html
     expression1 or expression2
     ```
 
@@ -81,7 +81,7 @@ SASS 有三个布尔运算符两个是二元:`and`、`or`一个是一元:`not`�
 
     **语法:**
 
-    ```css
+    ```html
     not expression
     ```
 
@@ -89,7 +89,7 @@ SASS 有三个布尔运算符两个是二元:`and`、`or`一个是一元:`not`�
 
 请参见下面的示例:
 
-```css
+```html
 $var1: true and true;
 $var2: true and false;
 

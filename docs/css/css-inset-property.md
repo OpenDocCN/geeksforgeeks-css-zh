@@ -6,7 +6,7 @@ CSS 中的**插入属性**用于定义物理偏移，而不是用于内联偏移
 
 **语法:**
 
-```css
+```html
 inset: length|percentage|auto|inherit|initial|unset;
 ```
 
@@ -23,7 +23,7 @@ inset: length|percentage|auto|inherit|initial|unset;
 
 **例 1:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -70,7 +70,7 @@ inset: length|percentage|auto|inherit|initial|unset;
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

@@ -6,7 +6,7 @@ CSS 暂停前属性用于定义元素之前的暂停时间。这个属性可以�
 
 **语法:**
 
-```css
+```html
 pause-before: time | percentage;
 
 ```
@@ -20,7 +20,7 @@ pause-before: time | percentage;
 
 ## HTML
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

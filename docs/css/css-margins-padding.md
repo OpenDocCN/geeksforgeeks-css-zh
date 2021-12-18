@@ -14,7 +14,7 @@
 
 **语法:**
 
-```css
+```html
 body
 {
     margin: size;
@@ -34,7 +34,7 @@ body
 
 **如果边距属性有 4 个值:**
 
-```css
+```html
 margin: 40px 100px 120px 80px;
 ```
 
@@ -47,7 +47,7 @@ margin: 40px 100px 120px 80px;
 
 ## 超文本标记语言
 
-```css
+```html
 <html>
 
 <head>
@@ -76,7 +76,7 @@ margin: 40px 100px 120px 80px;
 
 **如果边距属性有 3 个值:**
 
-```css
+```html
 margin: 40px 100px 120px; 
 ```
 
@@ -88,7 +88,7 @@ margin: 40px 100px 120px; 
 
 ## 超文本标记语言
 
-```css
+```html
 <html>
 
 <head>
@@ -117,7 +117,7 @@ margin: 40px 100px 120px; 
 
 **如果边距属性有 2 个值:**
 
-```css
+```html
 margin: 40px 100px; 
 ```
 
@@ -128,7 +128,7 @@ margin: 40px 100px; 
 
 ## 超文本标记语言
 
-```css
+```html
 <html>
 
 <head>
@@ -157,7 +157,7 @@ margin: 40px 100px; 
 
 **如果边距属性有 1 个值:**
 
-```css
+```html
 margin: 40px; 
 ```
 
@@ -167,7 +167,7 @@ margin: 40px; 
 
 ## 超文本标记语言
 
-```css
+```html
 <html>
 
 <head>
@@ -203,7 +203,7 @@ margin: 40px; 
 
 **语法**:
 
-```css
+```html
 body
 {
     padding: size;
@@ -223,7 +223,7 @@ body
 
 **如果填充属性有 4 个值:**
 
-```css
+```html
 padding: 40px 100px 120px 80px; 
 ```
 
@@ -236,7 +236,7 @@ padding: 40px 100px 120px 80px; 
 
 ## 超文本标记语言
 
-```css
+```html
 <html>
 
 <head>
@@ -264,7 +264,7 @@ padding: 40px 100px 120px 80px; 
 
 **如果填充属性有 3 个值:**
 
-```css
+```html
 padding: 40px 100px 120px; 
 ```
 
@@ -276,7 +276,7 @@ padding: 40px 100px 120px; 
 
 ## 超文本标记语言
 
-```css
+```html
 <html>
 
 <head>
@@ -304,7 +304,7 @@ padding: 40px 100px 120px; 
 
 **如果填充属性有 2 个值:**
 
-```css
+```html
 padding: 100px 150px; 
 ```
 
@@ -315,7 +315,7 @@ padding: 100px 150px; 
 
 ## 超文本标记语言
 
-```css
+```html
 <html>
 
 <head>
@@ -343,7 +343,7 @@ padding: 100px 150px; 
 
 **如果填充属性有 1 个值:**
 
-```css
+```html
 padding: 100px; 
 ```
 
@@ -353,7 +353,7 @@ padding: 100px; 
 
 ## 超文本标记语言
 
-```css
+```html
 <html>
 
 <head>
@@ -391,7 +391,7 @@ padding: 100px; 
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

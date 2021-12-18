@@ -6,13 +6,13 @@
 
 **语法:**
 
-```css
+```html
 scale( sx )
 ```
 
 或者
 
-```css
+```html
 scale( sx, sy )
 ```
 
@@ -24,7 +24,7 @@ scale( sx, sy )
 以下示例说明了 CSS 中的 **scale()函数【T1:
 **示例 1:****
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -58,7 +58,7 @@ scale( sx, sy )
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
 <head> 

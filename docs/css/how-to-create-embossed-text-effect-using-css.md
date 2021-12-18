@@ -6,7 +6,7 @@
 
 **HTML 代码:**在本节中，我们将创建一个容纳文本或标题的正文的基本结构。
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 
@@ -26,7 +26,7 @@
 
 **CSS 代码:**在本节中，我们将对文本进行样式化。我们将使用 CSS **文本-阴影**属性为文本添加阴影并创建浮雕效果。
 
-```css
+```html
 <style>
     body {
         margin: 0;
@@ -59,7 +59,7 @@
 
 **最终代码:**是以上两个代码段的组合。
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 

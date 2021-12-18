@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 <tag style = " "></tag>
 ```
 
@@ -14,7 +14,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
   <body>
@@ -36,7 +36,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
   <body>

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 shape-rendering: auto | crisp-edges | pixelated | initial | inherit
 ```
 
@@ -16,7 +16,7 @@ shape-rendering: auto | crisp-edges | pixelated | initial | inherit
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <head>
@@ -69,7 +69,7 @@ shape-rendering: auto | crisp-edges | pixelated | initial | inherit
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <head>
@@ -120,7 +120,7 @@ shape-rendering: auto | crisp-edges | pixelated | initial | inherit
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -174,7 +174,7 @@ shape-rendering: auto | crisp-edges | pixelated | initial | inherit
 *   **initial:** It is used to set the property to its default value.
     **Example:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <head>

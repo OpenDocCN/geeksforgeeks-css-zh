@@ -7,7 +7,7 @@
 
 **语法:**
 
-```css
+```html
 font-synthesis: none | weight | style | style weight;
 ```
 
@@ -17,13 +17,13 @@ font-synthesis: none | weight | style | style weight;
 
     **语法:**
 
-    ```css
+    ```html
     font-synthesis:none;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -60,13 +60,13 @@ font-synthesis: none | weight | style | style weight;
 
         **语法:**
 
-        ```css
+        ```html
         font-synthesis: style
         ```
 
         **示例:**
 
-        ```css
+        ```html
         <!DOCTYPE html>
         <html lang="en">
         <head>
@@ -104,13 +104,13 @@ font-synthesis: none | weight | style | style weight;
 
             **语法:**
 
-            ```css
+            ```html
             font-synthesis: weight
             ```
 
             **示例:**
 
-            ```css
+            ```html
             <!DOCTYPE html>
             <html lang="en">
             <head>
@@ -146,13 +146,13 @@ font-synthesis: none | weight | style | style weight;
 
                 **语法:**
 
-                ```css
+                ```html
                 font-synthesis: style weight
                 ```
 
                 **示例:**
 
-                ```css
+                ```html
                 <!DOCTYPE html>
                 <html lang="en">
                 <head>

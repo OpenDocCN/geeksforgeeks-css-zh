@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 font-variant: normal|small-caps|initial; 
 ```
 
@@ -19,7 +19,7 @@ font-variant: normal|small-caps|initial;
 **正常:**有默认值。它指定正常的字体大小。
 **语法:**
 
-```css
+```html
 font-variant:normal;
 ```
 
@@ -27,7 +27,7 @@ font-variant:normal;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -63,7 +63,7 @@ font-variant:normal;
 **小写:**用于将所有小写字母转换成大写字母。
 **语法:**
 
-```css
+```html
 font-variant:small-caps;
 ```
 
@@ -71,7 +71,7 @@ font-variant:small-caps;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -114,7 +114,7 @@ font-variant:small-caps;
 **初始值:**将属性设置为默认值。
 **语法:**
 
-```css
+```html
 font-variant:initial;
 ```
 
@@ -122,7 +122,7 @@ font-variant:initial;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

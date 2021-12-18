@@ -16,7 +16,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="justify-items-auto">...</element>
 ```
 
@@ -24,7 +24,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <head>     
     <link href=
@@ -58,7 +58,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="justify-items-start">...</element>
 ```
 
@@ -66,7 +66,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <head>    
     <link href=
@@ -99,7 +99,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="justify-items-end">...</element>
 ```
 
@@ -107,7 +107,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <head>    
     <link href=
@@ -141,7 +141,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="jjustify-items-center">...</element>
 ```
 
@@ -149,7 +149,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <head>    
     <link href=
@@ -183,7 +183,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="justify-items-stretch">...</element>
 ```
 
@@ -191,7 +191,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <head>    
     <link href=

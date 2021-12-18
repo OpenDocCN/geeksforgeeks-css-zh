@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 text-underline-offset: auto|<length>|<percentage>;
 ```
 
@@ -23,7 +23,7 @@ text-underline-offset: auto|<length>|<percentage>;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

@@ -6,7 +6,7 @@ CSS 中的**列表样式** **属性**用于设置列表样式。该属性是其�
 
 **语法:**
 
-```css
+```html
 list-style: list-style-type list-style-position list-style-image|initial|inherit;
 ```
 
@@ -22,7 +22,7 @@ list-style: list-style-type list-style-position list-style-image|initial|inherit
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -62,7 +62,7 @@ list-style: list-style-type list-style-position list-style-image|initial|inherit
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>

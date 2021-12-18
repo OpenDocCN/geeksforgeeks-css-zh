@@ -6,7 +6,7 @@ CSS 中的**文本-阴影**属性用于给文本添加阴影。此属性接受�
 
 **语法:**
 
-```css
+```html
 text-shadow: h-shadow v-shadow blur-radius color|none|initial|
 inherit;
 ```
@@ -25,7 +25,7 @@ inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>

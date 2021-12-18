@@ -12,7 +12,7 @@
 
 **步骤 1:** 运行下面的代码到你的文件夹的终端。这将创建 package.json 文件。
 
-```css
+```html
 npm init 
 ```
 
@@ -20,7 +20,7 @@ npm init
 
 **第二步:**将下面的代码复制粘贴到你文件夹的终端。这将为顺风创建所需的节点模块。
 
-```css
+```html
 npm install tailwindcss@latest postcss@latest autoprefixer@latest
 ```
 
@@ -32,7 +32,7 @@ npm install tailwindcss@latest postcss@latest autoprefixer@latest
 
 **第四步:**在 **tailwind.css** 文件中添加以下代码。使用这个文件，您可以自定义您的顺风 CSS 以及默认样式。Tailwind 将在构建时用所有的样式替换这些指令。它根据您配置的设计系统生成。
 
-```css
+```html
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -40,7 +40,7 @@ npm install tailwindcss@latest postcss@latest autoprefixer@latest
 
 **第五步:**打开 **package.json** 文件，在脚本标签下添加下面的代码
 
-```css
+```html
 "scripts": {
    "build:css": "tailwind build public/tailwind.css -o public/style.css"
  },
@@ -50,13 +50,13 @@ npm install tailwindcss@latest postcss@latest autoprefixer@latest
 
 **第六步:**在终端运行下面的代码。这将使用预定义的 Tailwind CSS 代码填充您的 style.css 文件。
 
-```css
+```html
 npm run build:css
 ```
 
 **第 7 步:**最后，运行下面的代码。这将为您的项目生成一个**顺风配置文件**，使用当您安装**顺风配置文件 npm 包时包含的顺风命令行工具:**
 
-```css
+```html
 npx tailwindcss init
 ```
 
@@ -64,7 +64,7 @@ npx tailwindcss init
 
 **语法:**
 
-```css
+```html
 variants: {
     width: ["responsive", "hover", "focus"]
 }
@@ -74,7 +74,7 @@ variants: {
 
 ## java 描述语言
 
-```css
+```html
 module.exports = {
     purge: [],
     darkMode: false, // or 'media' or 'class'
@@ -94,7 +94,7 @@ module.exports = {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html class="dark">
 
@@ -119,7 +119,7 @@ module.exports = {
 
 **示例 2:** 再次悬停时，要更改高度和宽度，您必须在 **tailwind.config.js** 上添加或修改以下代码
 
-```css
+```html
 variants: {
  width: ["responsive", "hover", "focus"],
  height: ["responsive", "hover", "focus"]
@@ -128,7 +128,7 @@ variants: {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html class="dark">
 

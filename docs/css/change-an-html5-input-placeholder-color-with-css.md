@@ -6,19 +6,19 @@ CSS [伪元素](https://www.geeksforgeeks.org/css-pseudo-elements/)中的[占位
 
 **语法:**
 
-```css
+```html
 ::placeholder
 ```
 
 *   **对于互联网浏览器:**
 
-    ```css
+    ```html
     :-ms-input-placeholder
     ```
 
 *   **针对微软 Edge:**
 
-    ```css
+    ```html
     ::-ms-input-placeholder
     ```
 
@@ -26,7 +26,7 @@ CSS [伪元素](https://www.geeksforgeeks.org/css-pseudo-elements/)中的[占位
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -83,7 +83,7 @@ CSS [伪元素](https://www.geeksforgeeks.org/css-pseudo-elements/)中的[占位
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

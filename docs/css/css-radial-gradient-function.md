@@ -5,7 +5,7 @@
 径向渐变()函数是 CSS 中的一个内置函数，用于设置一个径向渐变作为背景图像。它从一个点开始，向外发散。默认情况下，第一种颜色从元素的中心位置开始，然后向元素的边缘渐变到结束颜色。渐变以相同的速率发生，直到指定。
 **语法:**
 
-```css
+```html
 background-image: radial-gradient( shape size at position, start-color, ..., last-color );
 ```
 
@@ -21,7 +21,7 @@ background-image: radial-gradient( shape size at position, start-color, ..., las
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -62,7 +62,7 @@ background-image: radial-gradient( shape size at position, start-color, ..., las
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

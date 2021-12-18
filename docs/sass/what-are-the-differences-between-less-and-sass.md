@@ -10,7 +10,7 @@
 
 ## 较少的
 
-```css
+```html
 @selector: box; //using variables
 
 .@{selector} {
@@ -23,7 +23,7 @@
 
 ## 半铸钢ˌ钢性铸铁(Cast Semi-Steel)
 
-```css
+```html
 .box {
  font-weight: semi-bold;
  line-weight: 20px;
@@ -36,7 +36,7 @@
 
 ## 厚颜无耻
 
-```css
+```html
 a {
   color: white;
 
@@ -55,7 +55,7 @@ a {
 
 ## 半铸钢ˌ钢性铸铁(Cast Semi-Steel)
 
-```css
+```html
 a {
   color: white;
 }
@@ -73,7 +73,7 @@ a:hover {
 
     *   **LESS:**
 
-        ```css
+        ```html
          @color: white; /*@color is a LESS variable*/
         #header {
           color: @color;
@@ -82,7 +82,7 @@ a:hover {
 
     *   **SASS:**
 
-        ```css
+        ```html
          $color: white; /* $color is a SASS variable */
         #header {
           color: $color;
@@ -119,7 +119,7 @@ LESS
 
 ## 较少的
 
-```css
+```html
 .margined {
   margin-bottom: 1rem;
   margin-top: 2rem;
@@ -138,7 +138,7 @@ LESS
 
 ## 半铸钢ˌ钢性铸铁(Cast Semi-Steel)
 
-```css
+```html
 #box h1 {
   font: Roboto, sans-serif;
   margin-bottom: 1rem;
@@ -155,7 +155,7 @@ LESS
 
 ## 厚颜无耻
 
-```css
+```html
 @mixin margined {
   margin-bottom: 1rem;
   margin-top: 2rem;
@@ -174,7 +174,7 @@ LESS
 
 ## 半铸钢ˌ钢性铸铁(Cast Semi-Steel)
 
-```css
+```html
 #box h1 {
   margin-bottom: 1rem;
   margin-top: 2rem;

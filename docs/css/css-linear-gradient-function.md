@@ -5,7 +5,7 @@
 线性渐变()函数是 CSS 中的一个内置函数，用于将线性渐变设置为背景图像。
 **语法:**
 
-```css
+```html
 background-image: linear-gradient( direction, color1, color2, ... )
 ```
 
@@ -19,7 +19,7 @@ background-image: linear-gradient( direction, color1, color2, ... )
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -54,7 +54,7 @@ background-image: linear-gradient( direction, color1, color2, ... )
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

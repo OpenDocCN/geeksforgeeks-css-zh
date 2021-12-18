@@ -8,13 +8,13 @@
 
 **语法:**
 
-```css
+```html
 clear:both; 
 ```
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
     <head> 

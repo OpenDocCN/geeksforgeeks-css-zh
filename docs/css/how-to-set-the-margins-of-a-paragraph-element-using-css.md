@@ -22,7 +22,7 @@ CSS 具有指示组件每一侧边缘的属性。
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -60,7 +60,7 @@ CSS 具有指示组件每一侧边缘的属性。
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
   <head>

@@ -8,7 +8,7 @@ W3。CSS 提供了不同的类，可以使用不同的标签，如<button>、</b
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -69,7 +69,7 @@ W3。CSS 提供了不同的类，可以使用不同的标签，如<button>、</b
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -212,7 +212,7 @@ W3。CSS 提供了不同的类，可以使用不同的标签，如<button>、</b
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -271,7 +271,7 @@ W3。CSS 提供了不同的类，可以使用不同的标签，如<button>、</b
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -319,7 +319,7 @@ W3。CSS 提供了不同的类，可以使用不同的标签，如<button>、</b
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -395,7 +395,7 @@ W3。CSS 提供了不同的类，可以使用不同的标签，如<button>、</b
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -463,7 +463,7 @@ W3。CSS 提供了不同的类，可以使用不同的标签，如<button>、</b
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -523,7 +523,7 @@ W3。CSS 提供了不同的类，可以使用不同的标签，如<button>、</b
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

@@ -10,7 +10,7 @@
 
 **语法:**
 
-```css
+```html
 border-style: ridge;
 
 ```
@@ -21,7 +21,7 @@ border-style: ridge;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

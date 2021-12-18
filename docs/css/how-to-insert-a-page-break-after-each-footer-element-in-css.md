@@ -8,7 +8,7 @@
 
 ***语法:***
 
-```css
+```html
 *.foot {
     page-break-after: always;
 }*
@@ -27,7 +27,7 @@
 
 ## *超文本标记语言*
 
-```css
+```html
 *<!DOCTYPE html>
 <html>
 

@@ -13,7 +13,7 @@
     *   currentColor 的好处是改变颜色标志，这样背景会自动改变。
     *   HTML 编码将在主体中添加 div 类。
 
-    ```css
+    ```html
     <html>
     <head>
         <meta charset="UTF-8">
@@ -45,7 +45,7 @@
     *   阴影的尺寸将为 150px 2410px 0 0 currentcolor。
     *   以上尺寸为 x 偏移、y 偏移、扩散、模糊和颜色。
 
-    ```css
+    ```html
     <html>
     <head>
         <meta charset="UTF-8">
@@ -81,7 +81,7 @@
     *   也添加边界半径，直到弧线需要形成小胡子的地方。
     *   固定旋转原点，使左髭末端准确到来，然后以-40 度角旋转。
 
-    ```css
+    ```html
     <html>
     <head>
         <meta charset="UTF-8">
@@ -128,7 +128,7 @@
     *   也添加边界半径，直到弧线需要形成小胡子的地方。
     *   固定旋转原点，使右髭的末端也准确到来，然后以 40 度角旋转。
 
-    ```css
+    ```html
     <html>
     <head>
         <meta charset="UTF-8">

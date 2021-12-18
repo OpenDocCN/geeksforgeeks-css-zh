@@ -13,7 +13,7 @@
 
 **语法:**
 
-```css
+```html
 /* Set padding to all sides
    padding: numberpx;
 
@@ -30,7 +30,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 

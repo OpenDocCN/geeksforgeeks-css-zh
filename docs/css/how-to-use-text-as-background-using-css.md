@@ -8,7 +8,7 @@
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -57,7 +57,7 @@
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -103,7 +103,7 @@
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 

@@ -6,7 +6,7 @@ CSS 中的**边框内联结束**属性用于在样式表的单个位置定义单
 
 **语法:**
 
-```css
+```html
 border-inline-end: border-width|border-style|border-color;
 ```
 
@@ -20,7 +20,7 @@ border-inline-end: border-width|border-style|border-color;
 
 **例 1:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -60,7 +60,7 @@ border-inline-end: border-width|border-style|border-color;
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

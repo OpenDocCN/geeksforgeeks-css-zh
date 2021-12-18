@@ -14,7 +14,7 @@
 
 **使用边距属性将块元素居中:**我们需要从左到右指定边距，使其看起来居中。我们不需要手动这样做，我们有一个属性值“自动”，它会自动设置边距，这样我们的块元素就放在中心。使用下面的 CSS 属性将块元素居中。
 
-```css
+```html
 margin: auto
 ```
 
@@ -22,7 +22,7 @@ margin: auto
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -101,7 +101,7 @@ margin: auto
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -9,7 +9,7 @@
 
 **语法:**
 
-```css
+```html
  .tooltip .tooltip_text {
       opacity: 0;
       transition: opacity 3s;
@@ -24,7 +24,7 @@
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

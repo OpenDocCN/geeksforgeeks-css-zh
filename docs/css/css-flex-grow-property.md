@@ -8,7 +8,7 @@
 
 **语法:**
 
-```css
+```html
 flex-grow: number| initial| inherit;
 ```
 
@@ -26,7 +26,7 @@ flex-grow: number| initial| inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

@@ -5,7 +5,7 @@
 CSS 中的**列规则**属性用于指定列之间规则的宽度、样式和颜色。
 **语法:**
 
-```css
+```html
 column-rule: column-rule-width column-rule-style column-rule-color|
 initial|inherit;
 ```
@@ -22,7 +22,7 @@ initial|inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>

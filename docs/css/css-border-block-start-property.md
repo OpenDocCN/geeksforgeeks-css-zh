@@ -6,7 +6,7 @@ CSS 中的**边框块开始属性**用于在样式表的一个地方定义单个
 
 **语法:**
 
-```css
+```html
 border-block-start: border-width|border-style|border-color;
 ```
 
@@ -20,7 +20,7 @@ border-block-start: border-width|border-style|border-color;
 
 **例 1:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -60,7 +60,7 @@ border-block-start: border-width|border-style|border-color;
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

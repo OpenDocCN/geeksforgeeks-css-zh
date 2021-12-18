@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 pointer-events: auto|none;
 ```
 
@@ -17,7 +17,7 @@ pointer-events: auto|none;
 **auto:** 此属性用于指定元素必须对指针事件做出反应。
 **语法:**
 
-```css
+```html
 pointer-events:auto;
 ```
 
@@ -25,7 +25,7 @@ pointer-events:auto;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -62,7 +62,7 @@ pointer-events:auto;
 **无:**该属性用于指定元素不对指针事件做出反应。
 **语法:**
 
-```css
+```html
 pointer-events:none;
 ```
 
@@ -70,7 +70,7 @@ pointer-events:none;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

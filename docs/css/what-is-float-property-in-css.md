@@ -8,7 +8,7 @@ float 属性用于更改元素的正常流动。它定义了一个元素应该�
 
 #### float 属性的一般语法。
 
-```css
+```html
 float: none|inherit|left|right|initial;
 ```
 
@@ -38,7 +38,7 @@ float: none|inherit|left|right|initial;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>

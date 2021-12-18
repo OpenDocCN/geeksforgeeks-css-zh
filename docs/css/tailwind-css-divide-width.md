@@ -17,7 +17,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="divide-x-{number}">...</element>
 ```
 
@@ -25,7 +25,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -59,7 +59,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="divide-y-{number}">...</element>
 ```
 
@@ -67,7 +67,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -101,7 +101,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="divide-{axis}-reverse">...</element>
 ```
 
@@ -109,7 +109,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
 <head> 

@@ -10,7 +10,7 @@ CSS 中的**表格**用于将各种样式属性应用到 [HTML 表格](https://w
 
 **语法:**
 
-```css
+```html
   border: table_width table_color;
 ```
 
@@ -18,7 +18,7 @@ CSS 中的**表格**用于将各种样式属性应用到 [HTML 表格](https://w
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -72,7 +72,7 @@ CSS 中的**表格**用于将各种样式属性应用到 [HTML 表格](https://w
 
 **语法:**
 
-```css
+```html
 border-collapse: collapse/separate;
 ```
 
@@ -80,7 +80,7 @@ border-collapse: collapse/separate;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -161,7 +161,7 @@ border-collapse: collapse/separate;
 
 **语法:**
 
-```css
+```html
 border-spacing: value;
 ```
 
@@ -169,7 +169,7 @@ border-spacing: value;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -254,7 +254,7 @@ border-spacing: value;
 
 **语法:**
 
-```css
+```html
 caption-side: top/bottom;
 ```
 
@@ -262,7 +262,7 @@ caption-side: top/bottom;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -349,7 +349,7 @@ caption-side: top/bottom;
 
 **语法:**
 
-```css
+```html
 empty-cells:show/hide;
 ```
 
@@ -357,7 +357,7 @@ empty-cells:show/hide;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -442,7 +442,7 @@ empty-cells:show/hide;
 
 **语法:**
 
-```css
+```html
 table-layout:auto/fixed;
 ```
 
@@ -450,7 +450,7 @@ table-layout:auto/fixed;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

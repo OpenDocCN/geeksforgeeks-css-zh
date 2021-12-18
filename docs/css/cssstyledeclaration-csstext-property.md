@@ -8,13 +8,13 @@
 
 *   它用于返回 cssText 属性。
 
-    ```css
+    ```html
     element.style.cssText
     ```
 
 *   它还用于设置 cssText 属性。
 
-    ```css
+    ```html
     element.style.cssText = style
     ```
 
@@ -26,7 +26,7 @@
 
 **示例-1:** 要获取 **cssText 属性**:
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -94,7 +94,7 @@
 
 **示例-2:** 设置 **cssText 属性**:
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

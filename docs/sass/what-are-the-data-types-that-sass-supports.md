@@ -19,7 +19,7 @@ Sass 总共包含 7 种数据类型:
 
 **示例:**
 
-```css
+```html
 $len: 10;
 $wid: 20.5;
 
@@ -44,20 +44,20 @@ $wid: 20.5;
 
 *   **和:**如果两个值都为真，则返回真值，否则返回假值。
 
-    ```css
+    ```html
     @debug true and true; // Returns true value
     ```
 
 *   **或:**如果两个值中有一个为真，则返回真值；如果两个值都为假，则返回假值&。
 
-    ```css
+    ```html
     @debug true or false; // Returns true value
     @debug false or false; // Returns false value
     ```
 
 *   **not:** 返回当前已有值的否定值。
 
-    ```css
+    ```html
     @debug not true; // Returns false value
     @debug not false; // Returns true value
     ```
@@ -66,27 +66,27 @@ $wid: 20.5;
 
 **示例:**
 
-```css
+```html
 $number-list: 10, 23, 10; // Seperated by commas.
 $number-list2: 10px 20px 30px; // Seperated by spaces.
 ```
 
 我们也可以使用嵌套列表。在这种情况下，我们将使用由逗号和空格分隔的两种类型的值，如下例所示。
 
-```css
+```html
 $number-list3: 10, 20 30, 10; // Nested list.
 $number-list4: 10, (20 30), 10; // Nested list same as $number-list3.
 ```
 
 还有一种情况，列表可以是空的。
 
-```css
+```html
 $empty-list: ();
 ```
 
 **地图:**Sass 中的地图基本都是键值对。这些对必须用逗号分隔，并且所有对都必须用括号括起来。
 
-```css
+```html
 $new-map: (primary: #fdfdfd, secondary: $fff, background: #f1f1f1);  
 ```
 
@@ -101,7 +101,7 @@ $new-map: (primary: #fdfdfd, secondary: $fff, background: #f1f1f1);
 
 **Null:**Null 数据类型只包含一个基本上不知道或未知的值，它表示为小写的 **null。**正如我们看到的，有些数据类型有一些函数和运算符，但是对于 null，在 Sass 中没有任何运算符和函数可用。
 
-```css
+```html
 $primary-color: null;
 ```
 
@@ -109,7 +109,7 @@ $primary-color: null;
 
 **字符串:**字符串是有序的字符序列，可以用双引号或单引号表示，也可以不用引号。这里有一些例子，将明确我们对字符串的看法。
 
-```css
+```html
 $color: blue;
 $font-family: 'Courier New', Courier, monospace;
 $heading: "Welcome";
@@ -117,7 +117,7 @@ $heading: "Welcome";
 
 在萨斯还有一件事我们需要知道。有一个插值的概念，用于将变量传递给选择器。其语法由 **#{ <变量> }表示。**当我们使用插值时，引用的字符串将从引用中展开，如示例所示。
 
-```css
+```html
 $heading: "GeeksforGeeks";
 
 h2.#{$heading} {
@@ -127,7 +127,7 @@ h2.#{$heading} {
 
 在下面的代码中，我们可以看到上面用于插值的 Sass 代码的 CSS 代码。
 
-```css
+```html
 h2.GeeksforGeeks {
  color: green;
 }
@@ -137,7 +137,7 @@ h2.GeeksforGeeks {
 
 *   **RGB(红、绿、蓝):**
 
-    ```css
+    ```html
     $primary: rgb(214,121,45);
     ```
 
@@ -145,7 +145,7 @@ h2.GeeksforGeeks {
 
     Alpha 用于透明度&它的值从 0.0 到 1.0 不等，其中 0 是完全透明的，1.0 是完全不透明的。
 
-    ```css
+    ```html
     $color: rgba(210, 122, 54, 0.5)
     ```
 
@@ -153,7 +153,7 @@ h2.GeeksforGeeks {
 
     该表达式包含一些不同于常规颜色的参数。
 
-    ```css
+    ```html
     $color: hsl(0, 0%, 100%);
     ```
 
@@ -162,7 +162,7 @@ h2.GeeksforGeeks {
     *   **亮度**对颜色应用灯光层。它的值从 0 到 100%不等，0 时使颜色完全变暗，100%时完全变白。
 *   **HSLA(色相、饱和度、明度、Alpha):**
 
-    ```css
+    ```html
     $color: hsla(100, 60%, 60%, 0.7)
     ```
 

@@ -6,7 +6,7 @@ CSS 中的**列填充**属性用于指定是否以平衡方式填充列。
 
 **语法:**
 
-```css
+```html
 column-fill: balance|auto|initial|inherit
 ```
 
@@ -25,7 +25,7 @@ column-fill: balance|auto|initial|inherit
 
 ## 超文本标记语言
 
-```css
+```html
 <DOCTYPE html>
 <html>
 

@@ -6,31 +6,31 @@ CSS *break-before* 属性用于提及分页符、区域分隔符或分栏符是�
 
 **语法:**
 
-```css
+```html
 break-before: Generic break values;
 ```
 
 或者
 
-```css
+```html
 break-before: Page break values;
 ```
 
 或者
 
-```css
+```html
 break-before: Column break values;
 ```
 
 或者
 
-```css
+```html
 break-before: Region break values;
 ```
 
 或者
 
-```css
+```html
 break-before: Global values;
 ```
 
@@ -50,7 +50,7 @@ break-before: Global values;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 

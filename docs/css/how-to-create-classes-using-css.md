@@ -6,7 +6,7 @@ CSS 中一个类是一组 CSS 属性，如字体样式、高度、宽度、颜�
 
 #### 语法:
 
-```css
+```html
 .class_name {
     CSS attributes;
 }
@@ -18,7 +18,7 @@ CSS 中一个类是一组 CSS 属性，如字体样式、高度、宽度、颜�
 
 ## 超文本标记语言
 
-```css
+```html
 <style>
 
 .green-text {
@@ -36,7 +36,7 @@ CSS 中一个类是一组 CSS 属性，如字体样式、高度、宽度、颜�
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>

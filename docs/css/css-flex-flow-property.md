@@ -7,7 +7,7 @@
 
 ### 语法:
 
-```css
+```html
 flex-flow: flex-direction flex-wrap;
 
 ```
@@ -18,13 +18,13 @@ flex-flow: flex-direction flex-wrap;
 
     **语法:**
 
-    ```css
+    ```html
     flex-flow: row nowrap; 
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
 
     <head>
@@ -78,13 +78,13 @@ flex-flow: flex-direction flex-wrap;
 *   **行-反转 nowrap:** 它将行排列在文本方向的相反方向，wrap-flex 的默认值是 nowrap。它用于指定项目没有包装。它使项目换行。
     **语法:**
 
-```css
+```html
 flex-flow: row-reverse nowrap; 
 ```
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 
 <head>
@@ -138,13 +138,13 @@ flex-flow: row-reverse nowrap;
 *   **column nowrap:** same as row but top to bottom and the default value of wrap-flex is nowrap. It is used to specify that the item has no wrap. It makes item wrap in single lines.
     **Syntax:**
 
-    ```css
+    ```html
     flex-flow: column nowrap; 
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
 
     <head>
@@ -198,13 +198,13 @@ flex-flow: row-reverse nowrap;
     *   **column-reverse nowrap:** Same as row-reverse top to bottom and the default value of wrap-flex is nowrap. It is used to specify that the item has no wrap. It makes item wrap in single lines.
     **Syntax:**
 
-    ```css
+    ```html
     flex-flow: column-reverse nowrap; 
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
 
     <head>
@@ -258,13 +258,13 @@ flex-flow: row-reverse nowrap;
     *   **row wrap:** It arrange the row same as text direction and wrap property is used to break the flex item into multiples lines. It makes flex items wrap to multiple lines according to flex item width
     **Syntax:**
 
-    ```css
+    ```html
     flex-flow: row wrap; 
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
 
     <head>
@@ -318,13 +318,13 @@ flex-flow: row-reverse nowrap;
     *   **行-反向换行:**它将行排列在文本方向的相反方向，换行属性用于在伸缩项换行到新行时反转它们的流向。
     **语法:**
 
-```css
+```html
 flex-flow: row-reverse wrap; 
 ```
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 
 <head>
@@ -378,13 +378,13 @@ flex-flow: row-reverse wrap;
 *   **column wrap:** It arrange the row same as row but top to bottom and wrap property is used to reverse the flow of the flex items when they wrap to new lines.
     **Syntax:**
 
-    ```css
+    ```html
     flex-flow:column wrap; 
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
 
     <head>
@@ -438,13 +438,13 @@ flex-flow: row-reverse wrap;
     *   **column-reverse wrap:** It arrange the row same as row-reverse top to bottom. and wrap property is used to reverse the flow of the flex items when they wrap to new lines.
     **Syntax:**
 
-    ```css
+    ```html
     flex-flow:column-reverse wrap; 
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
 
     <head>
@@ -498,13 +498,13 @@ flex-flow: row-reverse wrap;
     *   **row wrap-reverse:** It arrange the row same as text direction and wrap-reverse property This property is used to reverse the flow of the flex items when they wrap to new lines.
     **Syntax:**
 
-    ```css
+    ```html
     flex-flow:row wrap-reverse; 
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
 
     <head>
@@ -558,13 +558,13 @@ flex-flow: row-reverse wrap;
     *   **row-reverse wrap-reverse:** It arrange the row opposite text direction and wrap-reverse property This property is used to reverse the flow of the flex items when they wrap to new lines.
     **Syntax:**
 
-    ```css
+    ```html
     flex-flow:row-reverse wrap-reverse; 
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
 
     <head>
@@ -618,13 +618,13 @@ flex-flow: row-reverse wrap;
     *   **column wrap-reverse:** It arrange the row same as row but top to bottom.and wrap-reverse property This property is used to reverse the flow of the flex items when they wrap to new lines.
     **Syntax:**
 
-    ```css
+    ```html
     flex-flow:column wrap-reverse; 
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
 
     <head>
@@ -678,13 +678,13 @@ flex-flow: row-reverse wrap;
     *   **column-reverse wrap-reverse:** It arrange the row same as row-reverse top to bottom and wrap-reverse property This property is used to reverse the flow of the flex items when they wrap to new lines.
     **Syntax:**
 
-    ```css
+    ```html
     flex-flow:column-reverse wrap-reverse; 
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
 
     <head>

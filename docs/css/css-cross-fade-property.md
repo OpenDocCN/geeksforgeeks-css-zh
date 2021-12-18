@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 cross-fade( <image, <image>, <percentage> )
 ```
 
@@ -18,7 +18,7 @@ cross-fade( <image, <image>, <percentage> )
 
 在第一幅图像是白色而第二幅图像是黑色的情况下，交叉淡入度为 0%,然后以 85 份白色图像和 15 份黑色图像的方式进行混合。
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -57,7 +57,7 @@ cross-fade( <image, <image>, <percentage> )
 
 在第一幅图像是黑色而第二幅图像是白色的情况下，交叉淡入度为 0%,然后以白色图像的 0 部分和黑色图像的 100 部分的方式进行混合。
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

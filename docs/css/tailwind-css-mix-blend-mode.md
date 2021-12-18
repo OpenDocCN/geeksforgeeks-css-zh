@@ -25,7 +25,7 @@
 
 **语法:**
 
-```css
+```html
 <div class="mix-blend-{mode}" >
     ...
 </div>
@@ -37,7 +37,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -84,7 +84,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

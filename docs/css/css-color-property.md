@@ -6,7 +6,7 @@ CSS 中的 color 属性用于设置文本的颜色、网页的背景以及边框
 
 **语法**
 
-```css
+```html
 color: color/initial/inherit;
 ```
 
@@ -18,7 +18,7 @@ color: color/initial/inherit;
 
 **语法:**
 
-```css
+```html
      color: name-of-the-color; 
 ```
 
@@ -26,7 +26,7 @@ color: color/initial/inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -80,7 +80,7 @@ color: color/initial/inherit;
 
 **语法:**
 
-```css
+```html
 color: RGB(value, value, value);
 ```
 
@@ -88,7 +88,7 @@ color: RGB(value, value, value);
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -139,7 +139,7 @@ color: RGB(value, value, value);
 
 **语法:**
 
-```css
+```html
 color: #RRGGBB;
 ```
 
@@ -147,7 +147,7 @@ color: #RRGGBB;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -201,7 +201,7 @@ color: #RRGGBB;
 
 **语法:**
 
-```css
+```html
 color: HSL(value, value, value);
 ```
 
@@ -209,7 +209,7 @@ color: HSL(value, value, value);
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -263,7 +263,7 @@ color: HSL(value, value, value);
 
 **语法:**
 
-```css
+```html
 color: initial;
 ```
 
@@ -271,7 +271,7 @@ color: initial;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

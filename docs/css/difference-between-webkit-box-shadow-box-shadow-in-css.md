@@ -10,7 +10,7 @@
 
 *   **语法:**
 
-    ```css
+    ```html
     webkit-box-shadow: h-offset v-offset blur;
     ```
 
@@ -20,7 +20,7 @@
 
 *   **语法:**
 
-    ```css
+    ```html
     box-shadow: h-offset v-offset blur;
     ```
 
@@ -40,7 +40,7 @@ box-shadow 和-webkit-box-shadow 属性有如下区别:
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

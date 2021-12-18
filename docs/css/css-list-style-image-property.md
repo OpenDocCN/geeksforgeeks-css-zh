@@ -6,7 +6,7 @@ CSS 中的列表样式图像属性用于设置将用作列表项标记的图像�
 
 **语法:**
 
-```css
+```html
 list-style-image: none|url|initial|inherit;
 ```
 
@@ -15,13 +15,13 @@ list-style-image: none|url|initial|inherit;
 *   **无:**该值指定没有图像用作标记。如果设置了该值，则使用列表样式类型中定义的标记。这是默认值。
     **语法:**
 
-```css
+```html
 list-style-image: none;
 ```
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -60,13 +60,13 @@ list-style-image: none;
 *   **url:** In this value the path to the image is used as a list-item marker.
     **Syntax:**
 
-    ```css
+    ```html
     list-style-image: url;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -106,7 +106,7 @@ list-style-image: none;
     *   **initial:** This mode sets this property to its default value.
     **Syntax:**
 
-    ```css
+    ```html
     list-style-image: initial;
     ```
 

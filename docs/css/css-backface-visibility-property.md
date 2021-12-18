@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 backface-visibility: visible|hidden|initial|inherit;
 ```
 
@@ -16,7 +16,7 @@ backface-visibility: visible|hidden|initial|inherit;
 
 *   **语法:**
 
-    ```css
+    ```html
     backface-visibility:visible;:
     ```
 
@@ -24,7 +24,7 @@ backface-visibility: visible|hidden|initial|inherit;
 
     ## Hypertext Markup Language
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -70,7 +70,7 @@ backface-visibility: visible|hidden|initial|inherit;
 
 *   **语法:**
 
-    ```css
+    ```html
     backface-visibility:hidden;
     ```
 
@@ -78,7 +78,7 @@ backface-visibility: visible|hidden|initial|inherit;
 
     ## Hypertext Markup Language
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -124,7 +124,7 @@ backface-visibility: visible|hidden|initial|inherit;
 
 *   **语法:**
 
-    ```css
+    ```html
     backface-visibility:initial;
     ```
 
@@ -132,7 +132,7 @@ backface-visibility: visible|hidden|initial|inherit;
 
     ## Hypertext Markup Language
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>

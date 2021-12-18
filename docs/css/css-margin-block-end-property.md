@@ -5,7 +5,7 @@
 **边距块结束属性**用于定义元素的逻辑块结束边距。此属性有助于根据元素的书写模式、方向和文本方向来放置边距。
 **语法:**
 
-```css
+```html
 margin-block-end: length | auto | initial | inherit;
 ```
 
@@ -21,7 +21,7 @@ margin-block-end: length | auto | initial | inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -66,7 +66,7 @@ margin-block-end: length | auto | initial | inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

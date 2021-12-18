@@ -17,7 +17,7 @@
 
 **语法:**
 
-```css
+```html
 <ol reversed>
    <li> Content... </li>
    <li> Content... </li>
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -68,19 +68,19 @@
 
 **第二步:**我们需要在 CSS 中创建一个计数器，使用 counter-reset 跟踪列表中的项目数，counter-reset 创建或重置一个计数器，并设置 counter-reset =(列表中的元素总数+ 1)。增加一个元素是由于[计数器()](https://www.geeksforgeeks.org/count-number-of-step-required-to-reduce-n-to-1-by-following-certain-rule/)规则。
 
-```css
+```html
 counter-reset: myCounter (total number of element in the list + 1);
 ```
 
 **步骤 3** :在内容中使用[计数器()](https://www.geeksforgeeks.org/how-to-set-the-content-as-a-counter/)功能，该功能用于以特定顺序显示内容。
 
-```css
+```html
 content: counter(myCounter);
 ```
 
 **第四步:**最后，增加 CSS 计数器。您需要添加 [**计数器递增**](https://www.geeksforgeeks.org/css-counter-increment-property/) 属性，该属性用于递增/递减计数器的值，并将计数器递增= -1 设置，该属性用于将计数器减 1。实际上，count-increment 属性将整数增加 1，但是这里我们将更改该属性，将整数减少 1。
 
-```css
+```html
 counter-increment: myCounter -1;
 ```
 
@@ -88,7 +88,7 @@ counter-increment: myCounter -1;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

@@ -5,7 +5,7 @@
 CSS 中的**背景重复属性**用于水平和垂直重复背景图像。它还决定背景图像是否重复。
 **语法**
 
-```css
+```html
 background-repeat: repeat|repeat-x|repeat-y|no-repeat|initial|
 inherit;
 ```
@@ -17,7 +17,7 @@ inherit;
 
 *   **语法:**
 
-```css
+```html
 element {
     background-repeat: repeat;
 }
@@ -27,7 +27,7 @@ element {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -57,7 +57,7 @@ element {
 
 *   **语法:**
 
-```css
+```html
 element {
     background-repeat: repeat-x;
 }
@@ -67,7 +67,7 @@ element {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -97,7 +97,7 @@ element {
 
 *   **语法:**
 
-```css
+```html
 element {
     background-repeat: repeat-y;
 }
@@ -107,7 +107,7 @@ element {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -137,7 +137,7 @@ element {
 
 *   **语法:**
 
-```css
+```html
 element {
     background-image: no-repeat;
 }
@@ -147,7 +147,7 @@ element {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

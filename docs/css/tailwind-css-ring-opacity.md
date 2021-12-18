@@ -12,7 +12,7 @@
 
 **语法:**
 
-```css
+```html
 <button class="ring-{opacity}">...</button>
 ```
 
@@ -20,7 +20,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
 <head> 

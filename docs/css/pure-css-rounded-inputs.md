@@ -8,7 +8,7 @@
 
 **语法：**
 
-```css
+```html
 <input type="input-type" class="pure-input-rounded">  
 ```
 
@@ -16,7 +16,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 

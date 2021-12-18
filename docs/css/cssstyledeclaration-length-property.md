@@ -6,7 +6,7 @@
 
 **语法:**用于返回长度属性。
 
-```css
+```html
 element.style.length
 ```
 
@@ -14,7 +14,7 @@ element.style.length
 
 **示例:**显示**长度属性**的工作情况:
 
-```css
+```html
 <html>
 
 <head>

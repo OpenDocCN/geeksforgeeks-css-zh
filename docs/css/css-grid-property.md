@@ -7,7 +7,7 @@
 ![](img/1cac04f57519e398f073b900b349cbe6.png)
 **语法:**
 
-```css
+```html
 grid: none|grid-template-rows / grid-template-columns|grid-template-areas|
 grid-template-rows / [grid-auto-flow] grid-auto-columns|[grid-auto-flow] 
 grid-auto-rows / grid-template-columns|initial|inherit;
@@ -27,7 +27,7 @@ grid-auto-rows / grid-template-columns|initial|inherit;
 
 **例 1:**2 行 4 列网格。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -88,7 +88,7 @@ grid-auto-rows / grid-template-columns|initial|inherit;
 
 **示例 2:** 这是**网格模板行**和**网格模板列**的示例。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

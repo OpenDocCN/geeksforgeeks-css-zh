@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 sepia( amount )
 ```
 
@@ -15,7 +15,7 @@ sepia( amount )
 下面的例子说明了 **sepia()函数**在 CSS 中:
 T3】例子:
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
 

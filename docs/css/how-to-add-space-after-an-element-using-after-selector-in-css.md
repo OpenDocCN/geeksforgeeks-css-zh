@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 :after {
     // CSS Property
 }
@@ -14,7 +14,7 @@
 
 **示例 1:** 本示例使用:after 选择器在元素后添加空格。
 
-```css
+```html
 <!-- HTML code to add space after the
     selected element -->
 <!DOCTYPE html>
@@ -48,7 +48,7 @@
 
 **示例 2:** 本示例使用:after 选择器在元素后添加空格。
 
-```css
+```html
 <!-- HTML code to add space after the
     selected element -->
 <!DOCTYPE html>

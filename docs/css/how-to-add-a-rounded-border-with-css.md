@@ -6,13 +6,13 @@
 
 **语法:**
 
-```css
+```html
 border-radius: 1-4 length|% / 1-4 length|%|initial|inherit
 ```
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

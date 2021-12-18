@@ -13,7 +13,7 @@
 
 **语法:**
 
-```css
+```html
 border-image-width: number | % | auto | initial | inherit;
 ```
 
@@ -21,7 +21,7 @@ border-image-width: number | % | auto | initial | inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 

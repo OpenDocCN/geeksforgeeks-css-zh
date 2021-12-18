@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 // Note : children method selects the direct child to parent
 $(selector).children("selector").css("property-name","value")
 ```
@@ -15,7 +15,7 @@ $(selector).children("selector").css("property-name","value")
 
 ## 超文本标记语言
 
-```css
+```html
 <! DOCTYPE html>
     <html lang="en">
 
@@ -77,7 +77,7 @@ $(selector).children("selector").css("property-name","value")
 
 **语法:**
 
-```css
+```html
 $(selector).find("descendants-name").css("property-name","value");
 ```
 
@@ -85,7 +85,7 @@ $(selector).find("descendants-name").css("property-name","value");
 
 ## 超文本标记语言
 
-```css
+```html
 <! DOCTYPE html>
     <html lang="en">
 

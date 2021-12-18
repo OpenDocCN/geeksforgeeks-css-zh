@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 rotateY( angle )
 ```
 
@@ -15,7 +15,7 @@ rotateY( angle )
 以下示例说明了 CSS 中的 **rotateY()函数**:
 **示例 1:**
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -49,7 +49,7 @@ rotateY( angle )
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
 <head> 

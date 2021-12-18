@@ -22,7 +22,7 @@
 
 ****语法:****
 
-```css
+```html
 <element class="overscroll-auto">...</element>
 ```
 
@@ -30,7 +30,7 @@
 
 ## **超文本标记语言**
 
-```css
+```html
 <!DOCTYPE html>
 <head>
     <link href=
@@ -83,7 +83,7 @@
 
 ****语法:****
 
-```css
+```html
 <element class="overscroll-contain">...</element>
 ```
 
@@ -91,7 +91,7 @@
 
 ## **超文本标记语言**
 
-```css
+```html
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -139,7 +139,7 @@
 
 ****语法:****
 
-```css
+```html
 <element class="overscroll-none">...</element>
 ```
 
@@ -147,7 +147,7 @@
 
 ## **超文本标记语言**
 
-```css
+```html
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -197,7 +197,7 @@
 
 ****语法:****
 
-```css
+```html
 <element class="overscroll-y-auto">...</element>
 ```
 
@@ -205,7 +205,7 @@
 
 ## **超文本标记语言**
 
-```css
+```html
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -253,7 +253,7 @@
 
 ****语法:****
 
-```css
+```html
 <element class="overscroll-y-contain">...</element>
 ```
 
@@ -261,7 +261,7 @@
 
 ## **超文本标记语言**
 
-```css
+```html
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -309,7 +309,7 @@
 
 ****语法:****
 
-```css
+```html
 <element class="overscroll-y-none">...</element>
 ```
 
@@ -317,7 +317,7 @@
 
 ## **超文本标记语言**
 
-```css
+```html
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -367,7 +367,7 @@
 
 ****语法:****
 
-```css
+```html
 <element class="overscroll-x-auto">...</element>
 ```
 
@@ -375,7 +375,7 @@
 
 ## **超文本标记语言**
 
-```css
+```html
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -423,7 +423,7 @@
 
 ****语法:****
 
-```css
+```html
 <element class="overscroll-x-contain">...</element>
 ```
 
@@ -431,7 +431,7 @@
 
 ## **超文本标记语言**
 
-```css
+```html
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -479,7 +479,7 @@
 
 ****语法:****
 
-```css
+```html
 <element class="overscroll-x-none">...</element>
 ```
 
@@ -487,7 +487,7 @@
 
 ## **超文本标记语言**
 
-```css
+```html
 <!DOCTYPE html> 
 <head> 
     <link href=

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```css
+```html
 element :hover{
     // CSS declarations;
 }
@@ -18,7 +18,7 @@ element :hover{
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -46,7 +46,7 @@ element :hover{
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -91,7 +91,7 @@ element :hover{
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -118,7 +118,7 @@ element :hover{
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -145,7 +145,7 @@ element :hover{
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

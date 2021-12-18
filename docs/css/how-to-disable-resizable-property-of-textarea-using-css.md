@@ -6,13 +6,13 @@
 
 **语法**
 
-```css
+```html
 resize: none;
 ```
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

@@ -10,7 +10,7 @@ CSS 中的**@关键帧规则**用于指定动画规则。动画是通过使用�
 
 **语法:**
 
-```css
+```html
 @keyframes animation-name {keyframes-selector {css-styles;}}
 ```
 
@@ -24,7 +24,7 @@ CSS 中的**@关键帧规则**用于指定动画规则。动画是通过使用�
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -89,7 +89,7 @@ CSS 中的**@关键帧规则**用于指定动画规则。动画是通过使用�
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

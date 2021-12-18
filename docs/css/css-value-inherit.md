@@ -8,13 +8,13 @@ value inherit 关键字用于从元素的父元素属性值继承元素的属性
 
 **语法:**
 
-```css
+```html
 *property_name*: inherit;
 ```
 
 **示例 1:** 从父元素继承字体大小。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <meta charset="utf-8">
@@ -50,7 +50,7 @@ value inherit 关键字用于从元素的父元素属性值继承元素的属性
 
 **示例 2:** 从父元素继承颜色。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <meta charset="utf-8">

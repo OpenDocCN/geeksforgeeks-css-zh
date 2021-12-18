@@ -4,14 +4,14 @@
 
 给定一个图像，任务是使用 CSS 改变图像颜色。使用滤镜功能改变 png 图像颜色。Filter 属性主要用于设置图像的视觉效果。过滤函数有许多属性值。
 
-```css
+```html
 filter: none|blur()|brightness()|contrast()|drop-shadow()|grayscale()
         |hue-rotate()|invert()|opacity()|saturate()|sepia()|url();
 ```
 
 **示例 1:** 本示例使用灰度滤镜将彩色图像更改为灰度图像。
 
-```css
+```html
 <!-- HTML code to change the png image color 
         using filter property -->
 <!DOCTYPE html> 
@@ -42,7 +42,7 @@ filter: none|blur()|brightness()|contrast()|drop-shadow()|grayscale()
 
 **示例 2:** 本示例对图像使用了许多滤镜。
 
-```css
+```html
 <!-- HTML code to change the png image color 
         using filter property -->
 <!DOCTYPE html> 

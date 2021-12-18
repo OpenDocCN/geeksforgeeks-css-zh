@@ -5,13 +5,13 @@
 椭圆()函数是 CSS 中的一个内置函数，用于在椭圆形状图片或其他任何东西周围创建浮动文本。
 **语法:**
 
-```css
+```html
 circle(100px 10 px at 10px 150px);
 ```
 
 或者
 
-```css
+```html
 ellipse( percentage percentage );
 ```
 
@@ -21,7 +21,7 @@ ellipse( percentage percentage );
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -89,7 +89,7 @@ ellipse( percentage percentage );
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

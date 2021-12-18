@@ -8,7 +8,7 @@
 
 ****语法:****
 
-```css
+```html
 clear: none|left|right|both|initial;
 ```
 
@@ -16,7 +16,7 @@ clear: none|left|right|both|initial;
 
 ## **超文本标记语言**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

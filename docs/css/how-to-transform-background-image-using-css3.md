@@ -8,7 +8,7 @@ CSS 中的变换属性用于变换背景图像。在本文中，任务是变换�
 
 **语法:**
 
-```css
+```html
 .class_name { transform: value };
 ```
 
@@ -18,7 +18,7 @@ CSS 中的变换属性用于变换背景图像。在本文中，任务是变换�
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 

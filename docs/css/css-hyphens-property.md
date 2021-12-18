@@ -6,7 +6,7 @@ CSS 中的**连字符属性**告诉我们单词应该如何连字符，以在单
 
 **语法:**
 
-```css
+```html
  hyphens: none|manual|auto|initial|inherit;
 ```
 
@@ -26,7 +26,7 @@ CSS 中的**连字符属性**告诉我们单词应该如何连字符，以在单
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -107,7 +107,7 @@ CSS 中的**连字符属性**告诉我们单词应该如何连字符，以在单
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

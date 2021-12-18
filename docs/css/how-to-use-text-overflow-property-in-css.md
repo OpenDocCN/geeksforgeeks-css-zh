@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 text-overflow: clip| ellipsis
 ```
 
@@ -21,7 +21,7 @@ text-overflow: clip| ellipsis
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -66,7 +66,7 @@ text-overflow: clip| ellipsis
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

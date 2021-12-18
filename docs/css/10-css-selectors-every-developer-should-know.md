@@ -16,7 +16,7 @@
 
 **示例 1:** 这里，页面上的所有段落都将右对齐，文本颜色为黄色
 
-```css
+```html
 p {
   text-align: right;
   color: red;
@@ -25,7 +25,7 @@ p {
 
 **示例 2:** 现在，看看下面的 CSS 代码…
 
-```css
+```html
 h2 {
  text-align: center;
  color: yellow;
@@ -42,7 +42,7 @@ p
 
 您可以使用组选择器最小化上述代码，并编写与下面相同的代码:
 
-```css
+```html
 h2, h3, p {
  text-align: center;
  color: yellow;
@@ -55,7 +55,7 @@ id 选择器是 CSS 中另一个最强大的通用选择器。使用#符号后�
 
 **示例:**
 
-```css
+```html
 #box{
 width : 250px;
 height: 250px;
@@ -69,7 +69,7 @@ background : yellow;
 
 **例 1:**
 
-```css
+```html
 .center{
 text-align: center;
 color: yellow;
@@ -78,7 +78,7 @@ color: yellow;
 
 **示例 2:** 在下面的示例中，只有类“center”的 p 元素会受到影响。
 
-```css
+```html
 p.center {
  text-align: center;
  color: yellow;
@@ -91,13 +91,13 @@ p.center {
 
 **示例 1:** 下面是一个 HTML 行的示例，它的“rel”属性的值为“newfriend”
 
-```css
+```html
 <h3 id="title" class="friend" rel="newfriend">David Walsh</h3>
 ```
 
 让我们看看如何在上面一行中为' rel '属性使用属性选择器。
 
-```css
+```html
 h3[rel="newfriend"] {
   color: yellow;
 }
@@ -107,7 +107,7 @@ h3[rel="newfriend"] {
 
 **例 2:**
 
-```css
+```html
 input[type="checkbox"] {
      color: purple;
 }
@@ -117,7 +117,7 @@ input[type="checkbox"] {
 
 **例 3:**
 
-```css
+```html
 a[title] {
   color: red;
 }
@@ -136,7 +136,7 @@ a[title] {
 
 **例 1:**
 
-```css
+```html
 div h2 {
  background-color: green;
 }
@@ -144,7 +144,7 @@ div h2 {
 
 **例 2:** 也可以做一个链，使用后代选择器。
 
-```css
+```html
 ol li a {
  background-color: green;
 }
@@ -152,7 +152,7 @@ ol li a {
 
 **示例 3:** 在下面的示例中，您可以将其与类选择器混合使用。
 
-```css
+```html
 .box a{
 color :green;
 }
@@ -164,7 +164,7 @@ color :green;
 
 **例 1:**
 
-```css
+```html
 div > h1 {
  background-color: green;
 }
@@ -176,7 +176,7 @@ div > h1 {
 
 CSS:
 
-```css
+```html
 span {
  background-color: white;
 }
@@ -188,7 +188,7 @@ div > span {
 
 **HTML:**
 
-```css
+```html
 <div>
  <span>Span #1, in the div.
    <span>Span #2, in the span that's in the div.</span>
@@ -205,7 +205,7 @@ div > span {
 
 CSS:
 
-```css
+```html
 ul > li {
    border-top: 5px solid red;
 }
@@ -213,7 +213,7 @@ ul > li {
 
 **HTML:**
 
-```css
+```html
 <ul>
    <li>Unordered item</li>
    <li>Unordered item
@@ -237,7 +237,7 @@ ul > li {
 
 CSS:
 
-```css
+```html
 div + p {
  background-color: red;
 }
@@ -245,7 +245,7 @@ div + p {
 
 **HTML:**
 
-```css
+```html
 <div>
  <p>Paragraph 1 in the div.</p>
  <p>Paragraph 2 in the div.</p>
@@ -265,7 +265,7 @@ div + p {
 
 CSS:
 
-```css
+```html
 div ~ p {
  background-color: red;
 }
@@ -273,7 +273,7 @@ div ~ p {
 
 **HTML:**
 
-```css
+```html
 <p>Paragraph 1.</p>
 
 <div>
@@ -295,7 +295,7 @@ div ~ p {
 
 **例 1:**
 
-```css
+```html
 * {
 text-align: center;
 color: green;
@@ -308,7 +308,7 @@ border: 0;
 
 **示例 2:** 选择< div >元素内的所有元素，并将它们的背景颜色设置为红色。
 
-```css
+```html
 div * {
    background-color: red;
 }
@@ -316,7 +316,7 @@ div * {
 
 *你有没有注意到，当你使用‘class’、‘element’或‘id’等其他选择器时，它们已经暗示了星形选择器？*
 
-```css
+```html
 h1 {
 ...
 }
@@ -334,7 +334,7 @@ is similar to
 
 **语法:**
 
-```css
+```html
 selector:pseudo-class {
  property:value;
 }
@@ -342,7 +342,7 @@ selector:pseudo-class {
 
 **示例 1:** 当用户的指针悬停在按钮上时，阅读下面的代码以更改按钮的颜色
 
-```css
+```html
 button:hover {
  color: green;
 }
@@ -350,7 +350,7 @@ button:hover {
 
 **例 2:**
 
-```css
+```html
 a:link {
  color: red;
 }
@@ -362,7 +362,7 @@ a:visited {
 
 **例 3:**
 
-```css
+```html
 input[type=radio]:checked {
  border: 2px solid green;
 }
@@ -372,7 +372,7 @@ input[type=radio]:checked {
 
 **语法:**
 
-```css
+```html
 selector::pseudo-element {
  property:value;
 }
@@ -380,7 +380,7 @@ selector::pseudo-element {
 
 **例 1:** :::第一行可以用来改变段落第一行的字体。
 
-```css
+```html
 p::first-line {
  color: green;
  font-size: 1.2em;
@@ -390,7 +390,7 @@ p::first-line {
 
 **示例 2:** 伪元素也可以与 CSS 类组合。阅读下面给出的例子
 
-```css
+```html
 p.intro::first-letter {
  color: red;
  font-size: 1.2em;
@@ -400,7 +400,7 @@ p.intro::first-letter {
 
 **例 3:** 伪元素也可以用来在元素内容之前或之后插入内容。阅读下面给出的例子，在每个“h1”元素的内容前插入一个图像。
 
-```css
+```html
 h1::before {
  content: url(abc.gif);
 }
@@ -414,7 +414,7 @@ h1::before {
 
 CSS:
 
-```css
+```html
 li:nth-of-type(3) {
  color: red;
 }
@@ -422,7 +422,7 @@ li:nth-of-type(3) {
 
 **HTML:**
 
-```css
+```html
 <ul>
 <li>First item.</li>
 <li>Second item.</li>
@@ -437,7 +437,7 @@ li:nth-of-type(3) {
 
 **语法:**
 
-```css
+```html
 :nth-of-type(number) {
  css declarations;
 }
@@ -449,7 +449,7 @@ li:nth-of-type(3) {
 
 CSS:
 
-```css
+```html
 p:nth-child(3) {
  background: yellow;
 }
@@ -457,7 +457,7 @@ p:nth-child(3) {
 
 **HTML:**
 
-```css
+```html
 <p>The first paragraph.</p>
 <p>The second paragraph.</p>
 <p>The third paragraph.</p>
@@ -470,7 +470,7 @@ p:nth-child(3) {
 
 **例 2:**
 
-```css
+```html
 p:nth-child(2n) {
  background: yellow;
 }
@@ -478,7 +478,7 @@ p:nth-child(2n) {
 
 **示例 3:** 对于相同样式的不同元素，也可以将多个第 n 个子链接在一起。
 
-```css
+```html
 div:nth-of-type(4) p:nth-of-child(3) {
  color: red;
 }

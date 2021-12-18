@@ -8,7 +8,7 @@
 
 **语法:**
 
-```css
+```html
 position: static | relative | absolute | fixed | sticky
 ```
 
@@ -16,7 +16,7 @@ position: static | relative | absolute | fixed | sticky
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -64,7 +64,7 @@ position: static | relative | absolute | fixed | sticky
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

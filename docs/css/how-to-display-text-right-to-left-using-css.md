@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 element_selector {
    direction: rtl;
 } 
@@ -16,7 +16,7 @@ element_selector {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -62,7 +62,7 @@ element_selector {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

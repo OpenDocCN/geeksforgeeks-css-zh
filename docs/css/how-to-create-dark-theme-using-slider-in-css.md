@@ -18,7 +18,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -86,7 +86,7 @@
 
 ## 半铸钢ˌ钢性铸铁(Cast Semi-Steel)
 
-```css
+```html
 /* Default light theme */
 :root {
     --primary-color: #302AE6;
@@ -181,7 +181,7 @@ input:checked+.slider:before {
 
 ## java 描述语言
 
-```css
+```html
 const toggleSwitch =
     document.querySelector('.theme-slider input[type="checkbox"]');
 

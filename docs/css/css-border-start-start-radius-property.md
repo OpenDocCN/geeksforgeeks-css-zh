@@ -6,7 +6,7 @@ CSS 中的**边界-开始-开始-半径**属性用于指定块开始边界(左�
 
 **语法:**
 
-```css
+```html
 border-start-start-radius: length | percentage;
 ```
 
@@ -21,7 +21,7 @@ border-start-start-radius: length | percentage;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -67,7 +67,7 @@ border-start-start-radius: length | percentage;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

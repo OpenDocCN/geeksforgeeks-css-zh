@@ -10,7 +10,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <ul class="students">
 
     <!--List of students with class -->
@@ -26,7 +26,7 @@
 
 现在在*学生*班级上应用通用兄弟选择器选择所有*。学生*元素第一后*。学生*元素，然后使用*:*之前的[伪元素](https://www.geeksforgeeks.org/css-pseudo-elements/)指定一个空格，后跟一个逗号。
 
-```css
+```html
 <style>
     .students{
         display: flex; // Horizontal display
@@ -42,7 +42,7 @@
 
 **输出:**
 
-```css
+```html
 John, Peter, Mark, Bill, Jack
 ```
 
@@ -52,7 +52,7 @@ John, Peter, Mark, Bill, Jack
 
 ## 超文本标记语言
 
-```css
+```html
 <ul class="students">
     <li class="student show">John</li>
     <li class="student show">Peter</li>
@@ -74,7 +74,7 @@ John, Peter, Mark, Bill, Jack
 
 ## java 描述语言
 
-```css
+```html
 let student = document.querySelectorAll(".student")
 
 // Removes items for a particular position
@@ -132,7 +132,7 @@ function addItem(position) {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

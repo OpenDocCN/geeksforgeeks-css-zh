@@ -5,7 +5,7 @@
 **左边框颜色**属性用于设置元素中左边框的颜色。必须在边框左颜色属性之前声明边框样式或边框左样式属性。
 **语法:**
 
-```css
+```html
 border-left-color: color|transparent|initial|inherit; 
 ```
 
@@ -16,7 +16,7 @@ border-left-color: color|transparent|initial|inherit;
 
 *   **语法:**
 
-```css
+```html
 border-left-color: color
 ```
 
@@ -24,7 +24,7 @@ border-left-color: color
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -69,7 +69,7 @@ border-left-color: color
 
 *   **语法:**
 
-```css
+```html
 border-left-color:transparent;
 ```
 
@@ -77,7 +77,7 @@ border-left-color:transparent;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -122,7 +122,7 @@ border-left-color:transparent;
 
 *   **语法:**
 
-```css
+```html
 border-left-color:initial;
 ```
 
@@ -130,7 +130,7 @@ border-left-color:initial;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

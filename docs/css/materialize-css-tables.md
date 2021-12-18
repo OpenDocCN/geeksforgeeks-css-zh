@@ -6,7 +6,7 @@
 
 *   **Stripped Table:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -76,7 +76,7 @@
 
 *   **Bordered Table:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -145,7 +145,7 @@
 
 *   **Highlighted Table:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -214,7 +214,7 @@
 
 *   **Centered Table:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -283,7 +283,7 @@
 
 *   **Responsive Table:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 

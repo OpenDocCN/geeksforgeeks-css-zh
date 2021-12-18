@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 stroke-width: <length> | <percentage>
 ```
 
@@ -17,7 +17,7 @@ stroke-width: <length> | <percentage>
 
     **示例 1:** 本示例设置不带单位的笔画宽度。
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -68,7 +68,7 @@ stroke-width: <length> | <percentage>
 
     **示例 2:** 本示例以像素为单位设置笔画宽度。
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -121,7 +121,7 @@ stroke-width: <length> | <percentage>
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 

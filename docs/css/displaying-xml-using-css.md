@@ -19,7 +19,7 @@ XML 代表 **E** 扩展 **M** arkup **L** 语言。它是一种动态标记语�
     *   **用 CSS 链接 XML:**
         为了用 CSS 显示 XML 文件，用 CSS 链接 XML 文件。下面是链接 XML 文件和 CSS 的语法:
 
-        ```css
+        ```html
         <?xml-stylesheet type="text/css" href="name_of_css_file.css"?>
         ```
 
@@ -29,7 +29,7 @@ XML 代表 **E** 扩展 **M** arkup **L** 语言。它是一种动态标记语�
     *   **XML file :**
         Creating Books.xml as :-
 
-        ```css
+        ```html
         <?xml version="1.0" encoding="UTF-8"?>
         <?xml-stylesheet type="text/css" href="Rule.css"?>
         <books>
@@ -77,7 +77,7 @@ XML 代表 **E** 扩展 **M** arkup **L** 语言。它是一种动态标记语�
     *   **CSS 文件:**
         创建规则. CSS 为:-
 
-        ```css
+        ```html
         books {
              color: white;
              background-color : gray;
@@ -104,7 +104,7 @@ XML 代表 **E** 扩展 **M** arkup **L** 语言。它是一种动态标记语�
         *   **XML file :**
             Creating Section.xml as :-
 
-            ```css
+            ```html
             <?xml version="1.0" encoding="UTF-8"?>
             <?xml-stylesheet type="text/css" href="Geeks.css"?>
             <Geeks_for_Geeks>
@@ -152,7 +152,7 @@ XML 代表 **E** 扩展 **M** arkup **L** 语言。它是一种动态标记语�
         *   **CSS 文件:**
             创建极客. CSS 为:-
 
-            ```css
+            ```html
             Geeks_for_Geeks 
                           {
                           font-size:80%;

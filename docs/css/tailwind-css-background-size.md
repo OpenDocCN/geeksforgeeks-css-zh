@@ -14,7 +14,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="bg-auto">...</element>
 ```
 
@@ -22,7 +22,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -60,7 +60,7 @@ https://media.geeksforgeeks.org/wp-content/uploads/20210222231443/Screenshot2021
 
 **语法:**
 
-```css
+```html
 <element class="bg-cover">...</element>
 ```
 
@@ -68,7 +68,7 @@ https://media.geeksforgeeks.org/wp-content/uploads/20210222231443/Screenshot2021
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -106,7 +106,7 @@ https://media.geeksforgeeks.org/wp-content/uploads/20210222231443/Screenshot2021
 
 **语法:**
 
-```css
+```html
 <element class="bg-contain">...</element>
 ```
 
@@ -114,7 +114,7 @@ https://media.geeksforgeeks.org/wp-content/uploads/20210222231443/Screenshot2021
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
 <head> 

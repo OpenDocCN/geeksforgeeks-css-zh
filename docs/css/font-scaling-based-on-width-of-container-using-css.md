@@ -5,7 +5,7 @@
 字体大小可以用 vw(视口)单位设置，这意味着视口宽度。视口是浏览器窗口的大小。1vw =视口宽度的 1%。如果视窗是 50 厘米宽，1vw 是 0.5 厘米。这样字体大小将跟随浏览器窗口的大小。
 **语法:**
 
-```css
+```html
 element {
     font-size: #vw;
     // CSS Property
@@ -17,7 +17,7 @@ element {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -56,7 +56,7 @@ element {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

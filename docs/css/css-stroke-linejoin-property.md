@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 stroke-linejoin: miter | miter-clip | round | bevel | arcs | initial | inherit
 ```
 
@@ -16,7 +16,7 @@ stroke-linejoin: miter | miter-clip | round | bevel | arcs | initial | inherit
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -68,7 +68,7 @@ stroke-linejoin: miter | miter-clip | round | bevel | arcs | initial | inherit
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -136,7 +136,7 @@ stroke-linejoin: miter | miter-clip | round | bevel | arcs | initial | inherit
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -186,7 +186,7 @@ stroke-linejoin: miter | miter-clip | round | bevel | arcs | initial | inherit
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <head>
@@ -235,7 +235,7 @@ stroke-linejoin: miter | miter-clip | round | bevel | arcs | initial | inherit
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 

@@ -21,7 +21,7 @@
 
 **语法:**
 
-```css
+```html
 border-image-slice= Number | Percent 
    | fill | Initial | Inherit;
 ```
@@ -30,7 +30,7 @@ border-image-slice= Number | Percent
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

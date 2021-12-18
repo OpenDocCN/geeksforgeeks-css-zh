@@ -10,7 +10,7 @@
 
 **示例:**该示例实现了上述方法。
 
-```css
+```html
 <!DOCTYPE HTML>
 <html>
 
@@ -68,7 +68,7 @@
 
 **示例:**该示例实现了上述方法。
 
-```css
+```html
 <!DOCTYPE HTML>
 <html>
 

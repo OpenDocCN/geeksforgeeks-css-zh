@@ -10,7 +10,7 @@
 
 ## html
 
-```css
+```html
 <div class="face">
     <div class="eyes">
         <div class="eye"></div>

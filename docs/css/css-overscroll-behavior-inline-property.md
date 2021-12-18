@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 overscroll-behavior-inline: auto|contain|none;
 ```
 
@@ -22,7 +22,7 @@ overscroll-behavior-inline: auto|contain|none;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

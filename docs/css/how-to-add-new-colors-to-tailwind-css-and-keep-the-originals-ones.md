@@ -8,7 +8,7 @@
 
 **步骤 1:** 运行下面的代码到你的文件夹的终端。这将创建一个[T3 文件。](https://www.geeksforgeeks.org/node-js-package-json/)
 
-```css
+```html
 npm init 
 ```
 
@@ -16,7 +16,7 @@ npm init
 
 **第二步:**将下面的代码复制粘贴到你文件夹的终端。这将为顺风创建所需的节点模块。
 
-```css
+```html
 npm install tailwindcss@latest postcss@latest autoprefixer@latest
 ```
 
@@ -28,7 +28,7 @@ npm install tailwindcss@latest postcss@latest autoprefixer@latest
 
 **第四步:**在*顺风. css* 文件中添加以下代码。使用这个文件，您可以自定义您的顺风 CSS 以及默认样式。Tailwind 会在构建时将这些指令与它根据您配置的设计系统生成的所有样式进行交换。
 
-```css
+```html
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -44,19 +44,19 @@ npm install tailwindcss@latest postcss@latest autoprefixer@latest
 
 **第六步:**在终端运行下面的代码。这将使用预定义的顺风 css 代码填充您的 *style.css* 文件。
 
-```css
+```html
 npm run build:css
 ```
 
 **第 7 步:**最后，运行下面的代码。这将使用安装**tailwindss NPM 包时包含的 Tailwind CLI 实用程序为您的项目生成一个 Tailwind 配置文件。**
 
-```css
+```html
 npx tailwindcss init
 ```
 
 **语法:**
 
-```css
+```html
 colors: {
     // each color has a specific name. you can replace 
     // 'custom-color' with the name you like
@@ -69,7 +69,7 @@ colors: {
 
 ## tailwind.config.js
 
-```css
+```html
 const colors = require('tailwindcss/colors')
 
 module.exports = {
@@ -91,7 +91,7 @@ module.exports = {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <body class="text-center mx-4 space-y-2">

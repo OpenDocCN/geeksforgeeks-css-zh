@@ -6,7 +6,7 @@ align-items 属性用于设置柔性容器内部或给定窗口中项目的对�
 
 **语法:**
 
-```css
+```html
 align-items: stretch|center|flex-start|flex-end|baseline|initial|
 inherit;
 
@@ -22,7 +22,7 @@ inherit;
 
 *   **语法:**
 
-    ```css
+    ```html
     align-items: stretch;
     ```
 
@@ -30,7 +30,7 @@ inherit;
 
     ## 爪哇描述语言
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -76,7 +76,7 @@ inherit;
 
 *   **语法:**
 
-    ```css
+    ```html
     align-items: center;
     ```
 
@@ -84,7 +84,7 @@ inherit;
 
     ## 爪哇描述语言
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -130,7 +130,7 @@ inherit;
 
 *   **语法:**
 
-    ```css
+    ```html
     align-items: flex-start;
     ```
 
@@ -138,7 +138,7 @@ inherit;
 
     ## 爪哇描述语言
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -184,7 +184,7 @@ inherit;
 
 *   **语法:**
 
-    ```css
+    ```html
     align-items: flex-end;
     ```
 
@@ -192,7 +192,7 @@ inherit;
 
     ## 爪哇描述语言
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -238,7 +238,7 @@ inherit;
 
 *   **语法:**
 
-    ```css
+    ```html
     align-items: baseline;
     ```
 
@@ -246,7 +246,7 @@ inherit;
 
     ## 爪哇描述语言
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -292,7 +292,7 @@ inherit;
 
 *   **语法:**
 
-    ```css
+    ```html
     align-items: initial;
     ```
 
@@ -300,7 +300,7 @@ inherit;
 
     ## 爪哇描述语言
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 

@@ -6,7 +6,7 @@ CSS 中的 order 属性用于指定容器内灵活项的顺序。因此，为了
 
 **语法:**
 
-```css
+```html
 order: value;
 ```
 
@@ -14,7 +14,7 @@ order: value;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>

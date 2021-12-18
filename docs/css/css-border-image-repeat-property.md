@@ -6,7 +6,7 @@ CSS 中的**边框-图像-重复属性**用于缩放和平铺边框图像。它�
 
 **语法:**
 
-```css
+```html
 border-image-repeat: stretch|repeat|round|initial|inherit
 ```
 
@@ -16,13 +16,13 @@ border-image-repeat: stretch|repeat|round|initial|inherit
 
 *   **语法:**
 
-    ```css
+    ```html
     border-image-repeat: stretch;
     ```
 
 *   **例:**
 
-    ```css
+    ```html
     <!DOCTYPE html> 
     <html> 
         <head> 
@@ -57,13 +57,13 @@ border-image-repeat: stretch|repeat|round|initial|inherit
 
 *   **语法:**
 
-    ```css
+    ```html
     border-image-repeat: repeat;
     ```
 
 *   **例:**
 
-    ```css
+    ```html
     <!DOCTYPE html> 
     <html> 
         <head> 
@@ -98,13 +98,13 @@ border-image-repeat: stretch|repeat|round|initial|inherit
 
 *   **语法:**
 
-    ```css
+    ```html
     border-image-repeat: round;
     ```
 
 *   **例:**
 
-    ```css
+    ```html
     <!DOCTYPE html> 
     <html> 
         <head> 
@@ -139,13 +139,13 @@ border-image-repeat: stretch|repeat|round|initial|inherit
 
 *   **语法:**
 
-    ```css
+    ```html
     border-image-repeat: initial;
     ```
 
 *   **例:**
 
-    ```css
+    ```html
     <!DOCTYPE html> 
     <html> 
         <head> 

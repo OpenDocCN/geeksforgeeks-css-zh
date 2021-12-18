@@ -6,7 +6,7 @@ drop-shadow()函数是一个内置函数，用于对图像应用滤镜来设置�
 
 **语法:**
 
-```css
+```html
 drop-shadow( offset-x offset-y blur-radius spread-radius color )
 ```
 
@@ -22,7 +22,7 @@ drop-shadow( offset-x offset-y blur-radius spread-radius color )
 
 **例 1:**
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
 
@@ -60,7 +60,7 @@ drop-shadow( offset-x offset-y blur-radius spread-radius color )
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
 

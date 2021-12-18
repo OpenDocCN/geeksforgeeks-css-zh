@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 opacity( amount )
 ```
 
@@ -16,7 +16,7 @@ opacity( amount )
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
 

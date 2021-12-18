@@ -12,7 +12,7 @@
 
 ## ****超文本标记语言****
 
-```css
+```html
 **<!DOCTYPE html>
 <html>
 
@@ -88,7 +88,7 @@
 
 ## ****钢性铸铁****
 
-```css
+```html
 **/* Applying Global CSS */
 * {
     margin: 0;
@@ -156,7 +156,7 @@ below 0px linear-gradient(transparent, transparent, #0004);
 
 ## ****钢性铸铁****
 
-```css
+```html
 **<!DOCTYPE html>
 <html>
     <head>

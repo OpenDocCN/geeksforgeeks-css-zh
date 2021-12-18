@@ -8,14 +8,14 @@
 
 **响应图像:**为使图像响应页面宽度，**响应-img** 类添加了图像标签。
 
-```css
+```html
  <img class="responsive-img" src="image.jpg">
 
 ```
 
 **圆形图像:**为了让图像看起来是圆形的，**圆形**类增加了图像标签。
 
-```css
+```html
 <div class="col s12 m8 offset-m2 l6 offset-l3">
   <div class="card-panel grey lighten-5 z-depth-1">
     <div class="row valign-wrapper">
@@ -38,7 +38,7 @@
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -105,7 +105,7 @@
 
 **响应嵌入:**要使嵌入响应，只需将它们包装在包含类视频容器的 div 中。
 
-```css
+```html
 <div class="video-container">
   <iframe width="853" height="480" 
     src="//www.youtube.com" 
@@ -118,7 +118,7 @@
 
 **响应视频:**要使 HTML5 视频具有响应性，只需将类响应视频添加到视频标签中。
 
-```css
+```html
 <video class="responsive-video" controls>
     <source src="video.mp4" type="video/mp4">
 </video>
@@ -127,7 +127,7 @@
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

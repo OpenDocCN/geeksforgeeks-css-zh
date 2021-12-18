@@ -6,7 +6,7 @@ CSS 中的**边框块样式属性**用于在样式表中的单个位置设置单
 
 **语法:**
 
-```css
+```html
 border-block-style: style;
 ```
 
@@ -18,7 +18,7 @@ border-block-style: style;
 
 **例 1:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -60,7 +60,7 @@ border-block-style: style;
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

@@ -29,7 +29,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -57,7 +57,7 @@
 
 **变量:**变量可以用来存储可以重用的 CSS 值。要在 SASS 中声明一个变量，使用了字符。例如，$v_name。
 
-```css
+```html
 $fs: 30px;
 $bgcolor: #00ff40;
 $pd: 100px 350px;
@@ -74,7 +74,7 @@ $pd: 100px 350px;
 
 编译完 CSS 代码后，通过 *style.css.* 保存到文件中
 
-```css
+```html
 #dl {
  font-size: 30px;
  color: #00ff40;
@@ -86,7 +86,7 @@ $pd: 100px 350px;
 
 [**【嵌套】**](https://www.geeksforgeeks.org/sass-nesting/) **:** SASS 允许 CSS 规则相互嵌套，遵循 HTML 相同的视觉层次结构。例如，CSS 属性可以用于嵌套在 div 标签中的< li >标签。
 
-```css
+```html
 $fs: 30px;
 $bgcolor: #00ff40;
 #col2: #ff0066e1;
@@ -105,7 +105,7 @@ $pd: 100px 350px;
 
 编译完 CSS 代码后，通过 *style.css.* 保存文件
 
-```css
+```html
 #dl {
  font-size: 30px;
  color: #00ff40;
@@ -126,7 +126,7 @@ $pd: 100px 350px;
 
 **示例:**这个示例描述了@mixin & @include 的用法。
 
-```css
+```html
 $fs: 30px;
 $bgcolor: #00ff40;
 #col2: #ff0066e1;
@@ -146,7 +146,7 @@ $pd: 100px 350px;
 
 编译完 CSS 代码后变成:
 
-```css
+```html
 #dl {
  font-family: sans-serif;
  font-size: 30px;
@@ -163,7 +163,7 @@ $pd: 100px 350px;
 
 **示例:** Mixins 也可以将变量作为参数。在 CSS 规则中包含这些值的同时传递这些值。
 
-```css
+```html
 $fs: 30px;
 #col2: #ff0066e1;
 $pd: 100px 350px;
@@ -189,7 +189,7 @@ $pd: 100px 350px;
 
 编译后的 CSS 代码:
 
-```css
+```html
 #dl {
  font-family: sans-serif;
  font-size: 30px;

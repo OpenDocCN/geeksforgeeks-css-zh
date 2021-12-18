@@ -12,7 +12,7 @@
 
 ## 钢性铸铁
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -135,7 +135,7 @@
 
 ## 钢性铸铁
 
-```css
+```html
 <!DOCTYPE html>
 <html>
    <head>

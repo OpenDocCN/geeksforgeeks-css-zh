@@ -6,13 +6,13 @@
 
 **语法:**
 
-```css
+```html
 font-variant-caps: keyword_values
 ```
 
 或者
 
-```css
+```html
 font-variant-caps: Global_values
 ```
 
@@ -27,7 +27,7 @@ font-variant-caps: Global_values
 
 **语法:**
 
-```css
+```html
 font-variant-caps: small-caps | all-small-caps | normal |
  inherit | petite-caps |  unicase | all-petite-caps |
  titling-caps | unset | initial 
@@ -37,7 +37,7 @@ font-variant-caps: small-caps | all-small-caps | normal |
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -86,7 +86,7 @@ font-variant-caps: small-caps | all-small-caps | normal |
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```css
+```html
 element_name(or selector).inset {border-style: inset;}
 ```
 
@@ -16,7 +16,7 @@ element_name(or selector).inset {border-style: inset;}
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -69,7 +69,7 @@ element_name(or selector).inset {border-style: inset;}
 
 **语法:**
 
-```css
+```html
 element_name(or selector).outset {border-style: outset;}
 ```
 
@@ -77,7 +77,7 @@ element_name(or selector).outset {border-style: outset;}
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

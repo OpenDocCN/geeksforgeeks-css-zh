@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 float: none|left|right|initial|inherit;
 ```
 
@@ -24,7 +24,7 @@ float: none|left|right|initial|inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -48,7 +48,7 @@ color:#006400; float:left;"> GeeksforGeeks </div>
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -72,7 +72,7 @@ color:#006400; float:right;"> GeeksforGeeks </div>
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -96,7 +96,7 @@ color:#006400; float:none;"> GeeksforGeeks </div>
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

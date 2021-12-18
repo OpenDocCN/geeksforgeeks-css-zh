@@ -8,7 +8,7 @@
 
 **语法:**
 
-```css
+```html
 text-rendering : auto | optimizeSpeed | 
                  optimizeLegibility | geometricPrecision;
 ```
@@ -24,7 +24,7 @@ text-rendering : auto | optimizeSpeed |
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
    <head>

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 element > element {
     // CSS Property
 }
@@ -15,7 +15,7 @@ element > element {
 
 **示例:**匹配所有< h2 >元素，它们只是< div >元素的子元素。
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
     <head> 
@@ -57,7 +57,7 @@ element > element {
 
 **语法:**
 
-```css
+```html
 element element {
     // CSS Property
 }
@@ -65,7 +65,7 @@ element element {
 
 **示例:**选择 div 的所有子元素 h2 元素。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

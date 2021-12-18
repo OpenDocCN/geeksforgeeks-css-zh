@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 <div class="flex h-screen justify-center items-center">
     . . .   
 </div>
@@ -28,7 +28,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 
 <head>
@@ -62,7 +62,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 
 <head>

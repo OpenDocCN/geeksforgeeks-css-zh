@@ -8,7 +8,7 @@
 
 **语法:**
 
-```css
+```html
 order: value;
 ```
 
@@ -20,7 +20,7 @@ order: value;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

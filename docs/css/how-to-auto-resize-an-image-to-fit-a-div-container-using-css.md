@@ -8,7 +8,7 @@
 
 *   **Example 1:** This example describes the auto-resize image fit to div container. This example does not contain object-fit property.
 
-    ```css
+    ```html
     <!DOCTYPE html> 
     <html> 
         <head> 
@@ -39,7 +39,7 @@
 
 *   **Example 2:** This example is used to display the part of image when use resize the div container.
 
-    ```css
+    ```html
     <!DOCTYPE html> 
     <html> 
         <head> 
@@ -71,7 +71,7 @@
 
 *   **Example 3:** This example displays an image without using object-fit property. In this example, the size of the image is set manually and the image will not be able to maintain it’s aspect ratio and adjust or resize according to div container on resizing the browser window.
 
-    ```css
+    ```html
     <!DOCTYPE html> 
     <html> 
     <head> 
@@ -98,7 +98,7 @@
 
 *   **Example 4:** This example display the part of image or image using object-fit property. In this example, the size of the image is set manually and the object-fit property is also used. In this case, on resizing the browser the image will maintain it’s aspect ratio and will not be resized according to div container.
 
-    ```css
+    ```html
     <!DOCTYPE html> 
     <html> 
         <head> 

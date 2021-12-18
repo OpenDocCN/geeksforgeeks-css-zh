@@ -12,7 +12,7 @@ CSS 中的网格模板属性是定义网格列、行和区域的简写属性。�
 
 **语法:**
 
-```css
+```html
 grid-template: none| grid-template-rows/ grid-template-columns | 
 grid-template-areas | initial | inherit
 ```
@@ -24,7 +24,7 @@ grid-template-areas | initial | inherit
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -71,7 +71,7 @@ grid-template-areas | initial | inherit
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -118,7 +118,7 @@ grid-template-areas | initial | inherit
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -182,7 +182,7 @@ grid-template-areas | initial | inherit
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -229,7 +229,7 @@ grid-template-areas | initial | inherit
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

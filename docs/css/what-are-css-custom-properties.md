@@ -10,7 +10,7 @@
 
 *   **对于变量:**
 
-```css
+```html
 var( --custom-name, value )
 ```
 
@@ -23,7 +23,7 @@ var( --custom-name, value )
 
 *   **自定义属性:**
 
-```css
+```html
 --custom-name: values;
 ```
 
@@ -35,7 +35,7 @@ var( --custom-name, value )
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -87,7 +87,7 @@ var( --custom-name, value )
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -135,7 +135,7 @@ var( --custom-name, value )
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

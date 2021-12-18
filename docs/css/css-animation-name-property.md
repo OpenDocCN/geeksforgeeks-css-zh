@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 animation-name: keyframename|none|initial|inherit;
 ```
 
@@ -19,7 +19,7 @@ animation-name: keyframename|none|initial|inherit;
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
     <head> 

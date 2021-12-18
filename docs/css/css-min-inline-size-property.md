@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 min-inline-size: length | percentage | auto | none | min-content |
                  max-content | fit-content | inherit | initial | unset;
 ```
@@ -27,7 +27,7 @@ min-inline-size: length | percentage | auto | none | min-content |
 以下示例说明了 CSS 中的**最小内联大小属性**:
 **示例 1:**
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
 
@@ -74,7 +74,7 @@ min-inline-size: length | percentage | auto | none | min-content |
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
 

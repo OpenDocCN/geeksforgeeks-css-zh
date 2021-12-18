@@ -8,7 +8,7 @@ CSS 中有各种各样的字体，人们可以在样式表中使用任何类型�
 
 **语法:**
 
-```css
+```html
 CSS element {
     font-family: font details
 }
@@ -19,7 +19,7 @@ CSS element {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -57,7 +57,7 @@ CSS element {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

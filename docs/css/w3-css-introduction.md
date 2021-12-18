@@ -16,7 +16,7 @@ W3。CSS 是免费给大家使用的。任何人都可以通过简单地链接�
 
 ## 超文本标记语言
 
-```css
+```html
 <link rel="stylesheet" 
   href="https://www.w3schools.com/w3css/4/w3.css">
 ```
@@ -27,7 +27,7 @@ W3。CSS 是免费给大家使用的。任何人都可以通过简单地链接�
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

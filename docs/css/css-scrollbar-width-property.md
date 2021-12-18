@@ -6,7 +6,7 @@
 这目前是一个实验性质，一些主要的浏览器可能不被支持。
 **语法:**
 
-```css
+```html
 scrollbar-width: auto | thin | none | initial | inherit
 ```
 
@@ -17,7 +17,7 @@ scrollbar-width: auto | thin | none | initial | inherit
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -67,7 +67,7 @@ scrollbar-width: auto | thin | none | initial | inherit
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -117,7 +117,7 @@ scrollbar-width: auto | thin | none | initial | inherit
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -167,7 +167,7 @@ scrollbar-width: auto | thin | none | initial | inherit
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -217,7 +217,7 @@ scrollbar-width: auto | thin | none | initial | inherit
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

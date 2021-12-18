@@ -19,7 +19,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <div class="carousel">
     <a class="carousel-item" href="#one!">
         <img src="">
@@ -43,7 +43,7 @@
 
 ## java 描述语言
 
-```css
+```html
 document.addEventListener('DOMContentLoaded', function() {
     var elems = document.querySelectorAll('.carousel');
     var instances = M.Carousel.init(elems, options);
@@ -58,7 +58,7 @@ $(document).ready(function(){
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -186,7 +186,7 @@ src="https://code.jquery.com/jquery-1.12.0.min.js">
 
 ## 超文本标记语言
 
-```css
+```html
 <div class="carousel carousel-slider">
     <a class="carousel-item" href="#one!">
         <img src="">
@@ -207,7 +207,7 @@ jQuery 脚本将被更改，如下所示。
 
 ## java 描述语言
 
-```css
+```html
 $('.carousel.carousel-slider').carousel({
     fullWidth: true
 });
@@ -217,7 +217,7 @@ $('.carousel.carousel-slider').carousel({
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

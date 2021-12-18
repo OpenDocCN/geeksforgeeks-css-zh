@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 stroke-opacity: [0-1] | <percentage>
 ```
 
@@ -19,7 +19,7 @@ stroke-opacity: [0-1] | <percentage>
 
 **示例 1:** 本示例使用 0 到 1 的值来设置笔画不透明度。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -100,7 +100,7 @@ stroke-opacity: [0-1] | <percentage>
 
 **示例 2:** 本示例使用百分比值来设置笔画不透明度。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

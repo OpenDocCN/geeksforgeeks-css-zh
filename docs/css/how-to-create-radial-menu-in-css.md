@@ -6,7 +6,7 @@
 
 **示例 1:** 本示例使用 CSS 属性创建放射状菜单。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -103,7 +103,7 @@
 
 **示例 2:** 本示例使用字体图标和 CSS 属性创建放射状菜单。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

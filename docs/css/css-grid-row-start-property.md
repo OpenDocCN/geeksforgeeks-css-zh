@@ -6,7 +6,7 @@ CSS 中的 grid-row-start 属性用于通过指定网格区域的内联开始边
 
 **语法:**
 
-```css
+```html
 grid-row-start: auto|span|row-line|initial|inherit;
 ```
 
@@ -27,7 +27,7 @@ grid-row-start: auto|span|row-line|initial|inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -73,7 +73,7 @@ grid-row-start: auto|span|row-line|initial|inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -122,7 +122,7 @@ grid-row-start: auto|span|row-line|initial|inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -171,7 +171,7 @@ grid-row-start: auto|span|row-line|initial|inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -220,7 +220,7 @@ grid-row-start: auto|span|row-line|initial|inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -269,7 +269,7 @@ grid-row-start: auto|span|row-line|initial|inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

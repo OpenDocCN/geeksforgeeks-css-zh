@@ -10,7 +10,7 @@
 
 **语法:**
 
-```css
+```html
 @font-face {
   font-family: Sample;
   src: url(samplefont.woff) format('woff'),
@@ -23,7 +23,7 @@
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>

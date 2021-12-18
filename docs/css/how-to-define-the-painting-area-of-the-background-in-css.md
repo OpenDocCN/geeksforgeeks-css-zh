@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 background-clip: border-box/padding-box/content-box/initial/inherit;
 ```
 
@@ -33,7 +33,7 @@ background-clip: border-box/padding-box/content-box/initial/inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -90,7 +90,7 @@ background-clip: border-box/padding-box/content-box/initial/inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

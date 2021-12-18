@@ -9,7 +9,7 @@
 
 **示例-1:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -68,7 +68,7 @@
 
 **示例-2:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

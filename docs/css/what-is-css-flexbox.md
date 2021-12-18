@@ -30,7 +30,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -59,7 +59,7 @@
 
 ## 半铸钢ˌ钢性铸铁(Cast Semi-Steel)
 
-```css
+```html
 .container {
   border: 5px solid rgb(0, 0, 0);
   background-color: rgb(245 197 221);
@@ -86,7 +86,7 @@
 
 *   **显示:**让我们通过将其显示设置为在内部弯曲来使容器弯曲。我们的 CSS 文件的容器。
 
-```css
+```html
 .container{
     display: flex;
     border: 5px solid rgb(0, 0, 0);
@@ -98,7 +98,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -150,7 +150,7 @@
 
 **语法:**
 
-```css
+```html
 flex-direction: attribute value
 ```
 
@@ -167,7 +167,7 @@ flex-direction: attribute value
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -247,7 +247,7 @@ flex-direction: attribute value
 
 ## 半铸钢ˌ钢性铸铁(Cast Semi-Steel)
 
-```css
+```html
 .container {
   background-color: rgb(245 197 221);
   margin: 5px;
@@ -295,7 +295,7 @@ ul {
 
 ****语法:****
 
-```css
+```html
 flex-wrap: attribute value
 ```
 
@@ -313,7 +313,7 @@ flex-wrap: attribute value
 
 ## **超文本标记语言**
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -414,7 +414,7 @@ flex-wrap: attribute value
 
 ## **半铸钢ˌ钢性铸铁(Cast Semi-Steel)**
 
-```css
+```html
 .container {
   background-color: rgb(245 197 221);
   margin: 5px;
@@ -458,13 +458,13 @@ nowrap，包装，包装-反转**
 
 ******语法:******
 
-```css
+```html
 **flex-flow: flex-direction flex-wrap**
 ```
 
 ****例如，我们可以将 flex-direction 指定为一行，将 flex-wrap 指定为一个包装。****
 
-```css
+```html
 **.container{
 flex-flow: row wrap;
 }**
@@ -478,7 +478,7 @@ flex-flow: row wrap;
 
 ******语法:******
 
-```css
+```html
 **justify-content: attribute value**
 ```
 
@@ -496,7 +496,7 @@ flex-flow: row wrap;
 
 ## ****超文本标记语言****
 
-```css
+```html
 **<!DOCTYPE html>
 <html lang="en">
 
@@ -623,7 +623,7 @@ flex-flow: row wrap;
 
 ## ****半铸钢ˌ钢性铸铁(Cast Semi-Steel)****
 
-```css
+```html
 **.container {
   background-color: rgb(245 197 221);
   margin: 5px;
@@ -675,7 +675,7 @@ ul {
 
 ******语法:******
 
-```css
+```html
 **align-content: attribute value**
 ```
 
@@ -692,7 +692,7 @@ ul {
 
 ## ****超文本标记语言****
 
-```css
+```html
 **<!DOCTYPE html>
 <html lang="en">
 
@@ -821,7 +821,7 @@ ul {
 
 ## ****半铸钢ˌ钢性铸铁(Cast Semi-Steel)****
 
-```css
+```html
 **.container {
   background-color: rgb(245 197 221);
   margin: 5px;
@@ -875,7 +875,7 @@ ul {
 
 ******语法:******
 
-```css
+```html
 **align-items: stretch|center|flex-start|flex-end|baseline|initial|
 inherit;**
 ```
@@ -892,7 +892,7 @@ inherit;**
 
 ## ****超文本标记语言****
 
-```css
+```html
 **<!DOCTYPE html>
 <html lang="en">
 
@@ -1000,7 +1000,7 @@ inherit;**
 
 ## ****半铸钢ˌ钢性铸铁(Cast Semi-Steel)****
 
-```css
+```html
 **.container {
   background-color: rgb(245 197 221);
   margin: 5px;
@@ -1053,7 +1053,7 @@ ul {
 
 ******语法:******
 
-```css
+```html
 **order: <integer>**
 ```
 
@@ -1063,7 +1063,7 @@ ul {
 
 ## ****超文本标记语言****
 
-```css
+```html
 **<!DOCTYPE html>
 <html lang="en">
 
@@ -1102,7 +1102,7 @@ ul {
 
 ## ****半铸钢ˌ钢性铸铁(Cast Semi-Steel)****
 
-```css
+```html
 **.container {
   background-color: rgb(245 197 221);
   margin: 0;
@@ -1147,7 +1147,7 @@ ul {
 
 ******语法:******
 
-```css
+```html
  **flex: flex-grow flex-shrink flex-basis|auto|initial|inherit;**
 ```
 
@@ -1155,7 +1155,7 @@ ul {
 
 ## ****超文本标记语言****
 
-```css
+```html
 **<!DOCTYPE html>
 <html lang="en">
 
@@ -1194,7 +1194,7 @@ ul {
 
 ## ****半铸钢ˌ钢性铸铁(Cast Semi-Steel)****
 
-```css
+```html
 **.container {
   background-color: rgb(245 197 221);
   margin: 0;
@@ -1240,7 +1240,7 @@ ul {
 
 ******语法:******
 
-```css
+```html
 **flex-grow: <number>** 
 ```
 
@@ -1250,7 +1250,7 @@ ul {
 
 ## ****超文本标记语言****
 
-```css
+```html
 **<!DOCTYPE html>
 <html lang="en">
 
@@ -1289,7 +1289,7 @@ ul {
 
 ## ****半铸钢ˌ钢性铸铁(Cast Semi-Steel)****
 
-```css
+```html
 **.container {
   background-color: rgb(245 197 221);
   margin: 0;
@@ -1335,7 +1335,7 @@ ul {
 
 ******语法:******
 
-```css
+```html
 **flex-shrink: <number>** 
 ```
 
@@ -1345,7 +1345,7 @@ ul {
 
 ## ****超文本标记语言****
 
-```css
+```html
 **<!DOCTYPE html>
 <html lang="en">
 
@@ -1384,7 +1384,7 @@ ul {
 
 ## ****半铸钢ˌ钢性铸铁(Cast Semi-Steel)****
 
-```css
+```html
 **.container {
   background-color: rgb(245 197 221);
   margin: 0;
@@ -1430,7 +1430,7 @@ ul {
 
 ******语法:******
 
-```css
+```html
 **flex-basis: content | <'width'>**
 ```
 
@@ -1438,7 +1438,7 @@ ul {
 
 ## ****超文本标记语言****
 
-```css
+```html
 **<!DOCTYPE html>
 <html lang="en">
 
@@ -1477,7 +1477,7 @@ ul {
 
 ## ****半铸钢ˌ钢性铸铁(Cast Semi-Steel)****
 
-```css
+```html
 **.container {
   background-color: rgb(245 197 221);
   padding: 0;
@@ -1524,7 +1524,7 @@ ul {
 
 ******语法:******
 
-```css
+```html
 **align-self: auto|stretch|center|flex-start|flex-end|baseline|
 initial|inherit;**
 ```
@@ -1544,7 +1544,7 @@ initial|inherit;**
 
 ## ****超文本标记语言****
 
-```css
+```html
 **<!DOCTYPE html>
 <html lang="en">
 
@@ -1583,7 +1583,7 @@ initial|inherit;**
 
 ## ****半铸钢ˌ钢性铸铁(Cast Semi-Steel)****
 
-```css
+```html
 **.container {
   background-color: rgb(245 197 221);
   padding: 0;

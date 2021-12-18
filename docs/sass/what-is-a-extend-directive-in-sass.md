@@ -33,7 +33,7 @@ Sass 在扩展选择器时使用智能统一。以下是规则:
 
 **示例 1:** 假设您有两个类，背景图像和轮廓图像，并且都需要一些常见的样式。可以使用@extend 指令，如本例所示。
 
-```css
+```html
 .backgroundImage{
     border-radius:50%;
     height:100px;
@@ -48,7 +48,7 @@ Sass 在扩展选择器时使用智能统一。以下是规则:
 
 **输出:**这将使编译器获得以下 CSS 示例。
 
-```css
+```html
 .backgroundImage, .profileImage {
   border-radius: 50%;
   height: 100px;
@@ -62,7 +62,7 @@ Sass 在扩展选择器时使用智能统一。以下是规则:
 
 **示例 2:** 在这个示例中，我们将使用@extend 指令扩展多个类。
 
-```css
+```html
 .backgroundImage{
     border-radius:50%;
     height:100px;
@@ -81,7 +81,7 @@ Sass 在扩展选择器时使用智能统一。以下是规则:
 
 **输出:**这个转换成下面的 CSS。
 
-```css
+```html
 .backgroundImage, .profileImage, .finalImage {
   border-radius: 50%;
   height: 100px;

@@ -10,14 +10,14 @@
 
 **语法:**
 
-```css
+```html
 background-image: radial-gradient(shape size at position, 
 start-color, ...);
 ```
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

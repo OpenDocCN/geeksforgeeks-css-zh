@@ -8,7 +8,7 @@
 
 **示例:**本示例使用 [css()方法](https://www.geeksforgeeks.org/jquery-css-method/)检查元素是否包含某种 css 样式。
 
-```css
+```html
 <!DOCTYPE HTML>  
 <html>  
 
@@ -73,7 +73,7 @@
 
 **示例:**本示例使用 [hasClass()方法](https://www.geeksforgeeks.org/jquery-hasclass-with-examples/)检查元素是否包含某种 CSS 样式。
 
-```css
+```html
 <!DOCTYPE HTML>  
 <html>  
 

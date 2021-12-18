@@ -6,7 +6,7 @@
 
 **语法:**用于返回长度属性。
 
-```css
+```html
 object.setProperty(propertyname, value, priority)
 ```
 
@@ -18,7 +18,7 @@ object.setProperty(propertyname, value, priority)
 
 **示例:**展示**使用 setProperty()方法**:
 
-```css
+```html
 <html>
 
 <head>

@@ -10,7 +10,7 @@
 
 **语法：**
 
-```css
+```html
 <div class="pure-menu-has-children pure-menu-allow-hover"></div>
 ```
 
@@ -18,7 +18,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -107,7 +107,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 

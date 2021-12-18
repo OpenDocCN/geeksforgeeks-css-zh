@@ -6,7 +6,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -57,7 +57,7 @@ CSS 字体用于设置 HTML 元素的字体内容。CSS 中有许多字体属性
 [**【字体家族】**](https://www.geeksforgeeks.org/css-font-family-property/) **:用于设置一个 HTML 元素的字体类型。它有几个字体名称作为后备系统。
 **语法:****
 
-```css
+```html
 font-family: "font family name";
 ```
 
@@ -65,7 +65,7 @@ font-family: "font family name";
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -105,7 +105,7 @@ font-family: "font family name";
 
 **语法:**
 
-```css
+```html
 font-style: style name;
 ```
 
@@ -113,7 +113,7 @@ font-style: style name;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -153,7 +153,7 @@ font-style: style name;
 [**字体粗细**](https://www.geeksforgeeks.org/css-font-weight-property/) **:用于设置字体的气魄。它的值可以是“正常、加粗、更轻、更粗”。
 **语法:****
 
-```css
+```html
 font-weight: font weight value;
 ```
 
@@ -161,7 +161,7 @@ font-weight: font weight value;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -201,7 +201,7 @@ font-weight: font weight value;
 [**字体变体**](https://www.geeksforgeeks.org/css-font-variant-property/) **:** 用于创建小盘股效果。它可以是“普通或小盘股”。
 **语法:**
 
-```css
+```html
 font-variant: font variant value;
 ```
 
@@ -209,7 +209,7 @@ font-variant: font variant value;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -249,7 +249,7 @@ font-variant: font variant value;
 [**字号**](https://www.geeksforgeeks.org/css-font-size-property/) **:** 用于设置一个 HTML 元素的字号。字体大小可以用不同的方式设置，比如“像素、百分比、em，或者我们可以设置小、大”等值。
 **语法:**
 
-```css
+```html
 font-size: font size value;
 ```
 
@@ -257,7 +257,7 @@ font-size: font size value;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

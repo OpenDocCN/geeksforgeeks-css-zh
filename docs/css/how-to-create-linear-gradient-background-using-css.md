@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 background-image: linear-gradient(direction, color1, color2, ...);
 ```
 
@@ -22,7 +22,7 @@ background-image: linear-gradient(direction, color1, color2, ...);
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -63,7 +63,7 @@ background-image: linear-gradient(direction, color1, color2, ...);
 
 **语法:**
 
-```css
+```html
 background-image: linear-gradient(to right, lightblue, darkblue)
 ```
 
@@ -75,7 +75,7 @@ background-image: linear-gradient(to right, lightblue, darkblue)
 
 **语法:**
 
-```css
+```html
 background-image: linear-gradient(135deg, white, lightgreen, darkblue);
 ```
 
@@ -87,7 +87,7 @@ background-image: linear-gradient(135deg, white, lightgreen, darkblue);
 
 **语法:**
 
-```css
+```html
 background-image: linear-gradient(90deg, white, lightgreen, darkblue)
 background-image: linear-gradient(90deg, white 0%, 
         lightgreen 50%, darkblue 100%)
@@ -101,7 +101,7 @@ background-image: linear-gradient(90deg, white 0%,
 
 **语法:**
 
-```css
+```html
 background-image: linear-gradient(90deg, white 0%, 
     lightgreen 80%, darkblue 100%)
 ```

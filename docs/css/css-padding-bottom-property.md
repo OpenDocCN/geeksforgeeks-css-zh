@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 padding-bottom: length|percentage;
 ```
 
@@ -16,13 +16,13 @@ padding-bottom: length|percentage;
 
     **语法:**
 
-    ```css
+    ```html
     padding-bottom: length;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -59,13 +59,13 @@ padding-bottom: length|percentage;
 
     **语法:**
 
-    ```css
+    ```html
     padding-bottom: percentage;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>

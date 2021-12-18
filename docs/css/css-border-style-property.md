@@ -8,7 +8,7 @@
 
 **语法**:
 
-```css
+```html
 border-style: value;
 ```
 
@@ -51,7 +51,7 @@ border-style: value;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -84,7 +84,7 @@ border-style: value;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>

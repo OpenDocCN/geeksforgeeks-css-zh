@@ -10,7 +10,7 @@ CSS 中的**对齐内容**属性用于描述柔性盒容器的对齐方式。它
 
 **语法:**
 
-```css
+```html
 justify-content: flex-start|flex-end|center|space-between|
 space-around|space-evenly|initial|inherit;
 ```
@@ -21,7 +21,7 @@ space-around|space-evenly|initial|inherit;
 
 **语法:**
 
-```css
+```html
 justify-content: flex-start;
 ```
 
@@ -29,7 +29,7 @@ justify-content: flex-start;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -87,7 +87,7 @@ justify-content: flex-start;
 
 **语法:**
 
-```css
+```html
 justify-content: flex-end;
 ```
 
@@ -95,7 +95,7 @@ justify-content: flex-end;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -153,7 +153,7 @@ justify-content: flex-end;
 
 **语法:**
 
-```css
+```html
 justify-content: center;
 ```
 
@@ -161,7 +161,7 @@ justify-content: center;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -219,7 +219,7 @@ justify-content: center;
 
 **语法:**
 
-```css
+```html
 justify-content: space-between;
 ```
 
@@ -227,7 +227,7 @@ justify-content: space-between;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -285,7 +285,7 @@ justify-content: space-between;
 
 **语法:**
 
-```css
+```html
 justify-content: space-around;
 ```
 
@@ -293,7 +293,7 @@ justify-content: space-around;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -351,7 +351,7 @@ justify-content: space-around;
 
 **语法:**
 
-```css
+```html
 justify-content: space-evenly;
 ```
 
@@ -359,7 +359,7 @@ justify-content: space-evenly;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -417,7 +417,7 @@ justify-content: space-evenly;
 
 **语法:**
 
-```css
+```html
 justify-content: initial;
 ```
 
@@ -425,7 +425,7 @@ justify-content: initial;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -483,7 +483,7 @@ justify-content: initial;
 
 **语法:**
 
-```css
+```html
 justify-content: inherit;
 ```
 
@@ -491,7 +491,7 @@ justify-content: inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

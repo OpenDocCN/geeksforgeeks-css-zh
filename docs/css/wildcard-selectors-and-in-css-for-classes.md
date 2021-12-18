@@ -7,7 +7,7 @@
 **【属性*=“字符串”】选择器:**【属性*=“字符串”】选择器用于选择属性值包含指定子字符串*字符串*元素。这个例子展示了如何使用一个通配符来选择一个包含*字符串*的类的所有 div。这可能是在课程的开始、结束或中途。
 **语法:**
 
-```css
+```html
 [attribute*="value"] {
     // CSS property
 }
@@ -15,7 +15,7 @@
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -56,7 +56,7 @@
 
 **语法:**
 
-```css
+```html
 [attribute^="str"] {
     // CSS property
 }
@@ -64,7 +64,7 @@
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -102,7 +102,7 @@
 
 **语法:**
 
-```css
+```html
 [attribute$="str"] {
     // CSS property
 }
@@ -110,7 +110,7 @@
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

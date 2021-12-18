@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 table-layout: auto|fixed;
 ```
 
@@ -16,7 +16,7 @@ table-layout: auto|fixed;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -86,7 +86,7 @@ table-layout: auto|fixed;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

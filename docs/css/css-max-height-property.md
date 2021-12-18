@@ -6,7 +6,7 @@ CSS 中的最大高度属性用于设置元素的最大高度。如果元素的�
 
 **语法:**
 
-```css
+```html
 max-height: none|length|initial|inherit; 
 ```
 
@@ -16,13 +16,13 @@ max-height: none|length|initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     max-height: none;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -59,13 +59,13 @@ max-height: none|length|initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     max-height: length;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -102,13 +102,13 @@ max-height: none|length|initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     max-height: initial;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>

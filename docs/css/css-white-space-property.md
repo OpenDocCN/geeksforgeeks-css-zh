@@ -6,7 +6,7 @@ CSS 中的**空白属性**用于控制文本换行和空白 ie。，此属性可
 
 **语法:**
 
-```css
+```html
 white-space: normal| nowrap| pre| pre-line| pre-wrap| initial| inherit;
 ```
 
@@ -16,7 +16,7 @@ white-space: normal| nowrap| pre| pre-line| pre-wrap| initial| inherit;
 
 **语法:**
 
-```css
+```html
 white-space: normal; 
 ```
 
@@ -24,7 +24,7 @@ white-space: normal;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -61,7 +61,7 @@ white-space: normal;
 
 **语法:**
 
-```css
+```html
 white-space: nowrap;
 ```
 
@@ -69,7 +69,7 @@ white-space: nowrap;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -106,7 +106,7 @@ white-space: nowrap;
 
 **语法:**
 
-```css
+```html
 white-space: pre;
 ```
 
@@ -114,7 +114,7 @@ white-space: pre;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -151,7 +151,7 @@ white-space: pre;
 
 **语法:**
 
-```css
+```html
 white-space: pre-line; 
 ```
 
@@ -159,7 +159,7 @@ white-space: pre-line;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -196,7 +196,7 @@ white-space: pre-line;
 
 **语法:**
 
-```css
+```html
 white-space: pre-wrap; 
 ```
 
@@ -204,7 +204,7 @@ white-space: pre-wrap;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -241,7 +241,7 @@ white-space: pre-wrap;
 
 **语法:**
 
-```css
+```html
 white-space: initial; 
 ```
 
@@ -249,7 +249,7 @@ white-space: initial;
 
 **语法:**
 
-```css
+```html
 white-space: inherit; 
 ```
 

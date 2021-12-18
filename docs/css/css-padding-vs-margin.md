@@ -23,7 +23,7 @@
 
 **CSS 代码:**
 
-```css
+```html
 .center {
 margin: auto;
 background: lime;
@@ -41,7 +41,7 @@ width: 66%;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -79,7 +79,7 @@ width: 66%;
 
 **CSS 代码:**
 
-```css
+```html
 h4 {
  background-color: lime;
 padding: 20px 50px;
@@ -95,7 +95,7 @@ padding: 110px 50px 50px 110px;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>

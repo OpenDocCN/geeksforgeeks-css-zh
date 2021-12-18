@@ -6,7 +6,7 @@
 
 **例如:**假设我们有以下 CSS 样式块，
 
-```css
+```html
 a {
     text-decoration: none;
     display: inline-block;
@@ -17,7 +17,7 @@ a {
 
 现在，你想添加悬停效果到锚块，然后你会写
 
-```css
+```html
 a:hover {
     background-color: gray;
 }
@@ -27,7 +27,7 @@ a:hover {
 使用 SASS 你不需要重复外部选择器(a)，你也可以做以下操作:
 **SASS 文件:**
 
-```css
+```html
 a {
     text-decoration: none;
     display: inline-block;
@@ -44,7 +44,7 @@ a {
 
 **编译后的 CSS 文件:**
 
-```css
+```html
 a {
     text-decoration: none;
     display: inline-block;
@@ -64,7 +64,7 @@ a:hover {
 
     **SCS 档案:**
 
-    ```css
+    ```html
     .main-block {
         border: 1px solid black;
         position: relative;
@@ -85,7 +85,7 @@ a:hover {
 
     **编译后的 CSS 文件:**
 
-    ```css
+    ```html
     .main-block {
       border: 1px solid black;
       position: relative;

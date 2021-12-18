@@ -10,7 +10,7 @@
 *   以下选择器表示一个“p”元素，它是“body”的子元素:body > p。
 *   所以父类中的样式可以这样写一次名字
 
-    ```css
+    ```html
     .parent li {
         background:blue;
         color:black;
@@ -19,7 +19,7 @@
 
 *   如果我们想在子类中应用样式，那么使用这个
 
-    ```css
+    ```html
     .parent > li > ul > li {
         background:orange
     }
@@ -27,7 +27,7 @@
 
 **程序:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -81,13 +81,13 @@ CSS3 没有父选择器。如果发布了 CSS4，那么就有一个建议的 CSS
 
 *   然而，到目前为止，这些代码不能在任何浏览器中使用。
 
-    ```css
+    ```html
     ul $li ul.sub { ... }
     ```
 
 *   同时，如果我们需要选择一个父元素，我们将不得不使用 JavaScript。
 
-    ```css
+    ```html
     $('ul li:has(ul.child)').addClass('has_child');
     ```
 

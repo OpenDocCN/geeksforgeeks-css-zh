@@ -5,7 +5,7 @@
 CSS 中的[属性=值]选择器用于选择属性值等于“值”的元素。
 **语法:**
 
-```css
+```html
 element [attribute = "value"] {
     // CSS Property
 }
@@ -16,7 +16,7 @@ element [attribute = "value"] {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -54,7 +54,7 @@ element [attribute = "value"] {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

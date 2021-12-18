@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 translate3d( tx, ty, tz )
 ```
 
@@ -20,7 +20,7 @@ translate3d( tx, ty, tz )
 
 **例 1:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -68,7 +68,7 @@ translate3d( tx, ty, tz )
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
 <head> 

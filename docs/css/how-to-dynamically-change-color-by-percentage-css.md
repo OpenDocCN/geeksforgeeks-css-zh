@@ -8,7 +8,7 @@
 
 **语法:**
 
-```css
+```html
 filter: brightness(value);
 ```
 
@@ -16,7 +16,7 @@ filter: brightness(value);
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

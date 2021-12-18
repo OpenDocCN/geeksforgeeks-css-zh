@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 grid-column: grid-column-start|grid-column-end;
 ```
 
@@ -20,7 +20,7 @@ grid-column: grid-column-start|grid-column-end;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>  
 <html>  
     <head>  
@@ -69,7 +69,7 @@ grid-column: grid-column-start|grid-column-end;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>  
 <html>  
     <head>  
@@ -118,7 +118,7 @@ grid-column: grid-column-start|grid-column-end;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>  
 <html>  
     <head>  

@@ -6,7 +6,7 @@ CSS 中的**:可选**选择器用于选择表单输入元素的样式，这些�
 
 **语法:**
 
-```css
+```html
 :optional {
   /* css declarations; */
 }
@@ -15,7 +15,7 @@ CSS 中的**:可选**选择器用于选择表单输入元素的样式，这些�
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

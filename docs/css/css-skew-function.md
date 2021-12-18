@@ -6,13 +6,13 @@
 
 **语法:**
 
-```css
+```html
 skew( ax )
 ```
 
 或者
 
-```css
+```html
 skew( ax, ay )
 ```
 
@@ -25,7 +25,7 @@ skew( ax, ay )
 
 **例 1:**
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
 
@@ -63,7 +63,7 @@ skew( ax, ay )
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
 

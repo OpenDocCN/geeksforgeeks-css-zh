@@ -9,7 +9,7 @@
 
 **例 1:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -58,7 +58,7 @@
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -101,7 +101,7 @@
 
 **示例 3:** 本示例使用回车符“\A”在元素前添加换行符。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

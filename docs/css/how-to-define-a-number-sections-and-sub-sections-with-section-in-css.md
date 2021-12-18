@@ -10,14 +10,14 @@
 
     **语法:**
 
-    ```css
+    ```html
     counter-reset: myCounter;
     ```** 
 *   **[**counter-increment:**](https://www.geeksforgeeks.org/css-counter-increment-property/) It basically increments a counter value.
 
     **语法:**
 
-    ```css
+    ```html
     counter-increment: myCounter;
     ```** 
 *   **[**内容:**](https://www.geeksforgeeks.org/css-counters/) 用于生成内容。**
@@ -25,7 +25,7 @@
 
     **语法:**
 
-    ```css
+    ```html
     content: counter(myCounter);
     ```** 
 
@@ -35,7 +35,7 @@
 
 *   ****步骤 1:** 首先，我们使用主体选择器中的计数器重置属性和 h2 选择器中的子部分为页面创建一个计数器。
 
-    ```css
+    ```html
     body {
       counter-reset: counter1;
     }
@@ -44,7 +44,7 @@
     }
     ```** *   ****Step 2:** Now increment the value of the counter1 for each section and the counter2 value for each subsection using the *counter-increment* property and then add counter1 value before h2 and counter2 value before h3 using the *content* and the *counter()* property.
 
-    ```css
+    ```html
     h2:before {
        counter-increment: counter1;
        content: "Section " counter(counter1) ". ";
@@ -59,7 +59,7 @@
 
     ## 超文本标记语言
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <head>

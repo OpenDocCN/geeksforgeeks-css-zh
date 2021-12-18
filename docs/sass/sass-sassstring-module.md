@@ -8,21 +8,21 @@
 
 *   **语法:**
 
-    ```css
+    ```html
     string.quote(string)
     quote(string)
     ```
 
 *   **例:**
 
-    ```css
+    ```html
     @debug string.quote(GeeksForGeeks);
     @debug string.quote("GeeksForGeeks");
     ```
 
 *   **输出:**
 
-    ```css
+    ```html
     "GeeksForGeeks"
     "GeeksForGeeks"
 
@@ -32,21 +32,21 @@
 
 *   **语法:**
 
-    ```css
+    ```html
     string.index(string, substring)
     str-index(string, substring)
     ```
 
 *   **例:**
 
-    ```css
+    ```html
     @debug string.index("Geeks For Geeks", "Geeks"); 
     @debug string.index("Geeks For Geeks", "For");
     ```
 
 *   **输出:**
 
-    ```css
+    ```html
     1
     7
 
@@ -56,7 +56,7 @@
 
 *   **Syntax:**
 
-    ```css
+    ```html
     string.insert(string, insert, index)
     str-insert(string, insert, index)
     ```
@@ -65,14 +65,14 @@
 
 *   **例:**
 
-    ```css
+    ```html
     @debug string.insert("Geeks Geeks", " For", 7); 
     @debug string.insert("Geeks Geeks", " For", -7);
     ```
 
 *   **输出:**
 
-    ```css
+    ```html
     "Geeks For Geeks"
     "Geeks For Geeks"
 
@@ -82,14 +82,14 @@
 
 *   **语法:**
 
-    ```css
+    ```html
     string.length(string)
     str-length(string)
     ```
 
 *   **例:**
 
-    ```css
+    ```html
     @debug string.length("Geeks For Geeks"); 
     @debug string.length(GFG); 
     @debug string.index("");
@@ -97,7 +97,7 @@
 
 *   **输出:**
 
-    ```css
+    ```html
     15
     3
     0
@@ -108,14 +108,14 @@
 
 *   **语法:**
 
-    ```css
+    ```html
     string.slice(string, start-at, end-at: -1)
     str-slice(string, start-at, end-at: -1)
     ```
 
 *   **例:**
 
-    ```css
+    ```html
     @debug string.slice("Geeks For Geeks", 6); 
     @debug string.slice("Geeks For Geeks", 1, 5); 
     @debug string.slice("Geeks For Geeks", 1, -7);
@@ -123,7 +123,7 @@
 
 *   **输出:**
 
-    ```css
+    ```html
     For Geeks
     Geeks
     Geeks For
@@ -134,21 +134,21 @@
 
 *   **语法:**
 
-    ```css
+    ```html
     string.to-upper-case(string)
     to-upper-case(string)
     ```
 
 *   **例:**
 
-    ```css
+    ```html
     @debug string.to-upper-case("Geeks For Geeks"); 
     @debug string.to-upper-case(geeks for geeks); 
     ```
 
 *   **输出:**
 
-    ```css
+    ```html
     "GEEKS FOR GEEKS"
     GEEKS FOR GEEKS
 
@@ -158,21 +158,21 @@
 
     *   **语法:**
 
-        ```css
+        ```html
         string.to-lower-case(string)
         to-lower-case(string)
         ```
 
     *   **例:**
 
-        ```css
+        ```html
         @debug string.to-lower-case("Geeks For Geeks"); 
         @debug string.to-lower-case(geeks for geeks); 
         ```
 
     *   **输出:**
 
-        ```css
+        ```html
         "geeks for geeks"
         geeks for geeks
 
@@ -182,21 +182,21 @@
 
     *   **语法:**
 
-        ```css
+        ```html
         string.unique-id()
         unique-id()
         ```
 
     *   **例:**
 
-        ```css
+        ```html
         @debug string.unique-id();  
         @debug string.unique-id(); 
         ```
 
     *   **输出:**
 
-        ```css
+        ```html
         uabtrnzug
         u6w1b1def
 
@@ -206,21 +206,21 @@
 
     *   **语法:**
 
-        ```css
+        ```html
         string.unquote(string)
         unquote(string)
         ```
 
     *   **例:**
 
-        ```css
+        ```html
         @debug string.unquote(GeeksForGeeks);
         @debug string.unquote(".color: green");
         ```
 
     *   **输出:**
 
-        ```css
+        ```html
         GeeksForGeeks
         .color: green
 

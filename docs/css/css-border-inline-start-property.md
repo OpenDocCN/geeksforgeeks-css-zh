@@ -6,7 +6,7 @@ CSS 中的**边框内联开始**属性用于在样式表中的一个位置定义
 
 **语法:**
 
-```css
+```html
 border-inline-start: border-width| border-style| border-color;
 ```
 
@@ -20,7 +20,7 @@ border-inline-start: border-width| border-style| border-color;
 
 **例 1:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -60,7 +60,7 @@ border-inline-start: border-width| border-style| border-color;
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

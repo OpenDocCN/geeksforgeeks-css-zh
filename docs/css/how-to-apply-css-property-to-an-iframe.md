@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 <iframe src="URL"></iframe>
 ```
 
@@ -19,7 +19,7 @@
 
 **示例:**HTML 页面的设计实现如下。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -80,7 +80,7 @@
 
 **示例:**在下面的示例中，iframe 的宽度和高度都是“300px”，边框的厚度是“3px”并且*点缀了*样式。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -107,7 +107,7 @@
 
 **方法 2:** 您可以使用*内部 CSS* 来标记 HTML 文件中的 *iframe* 。
 
-```css
+```html
 <style>
     #frame {
         border: 3px dotted;
@@ -122,7 +122,7 @@
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -162,7 +162,7 @@
 
 **方法三:**可以对 *iframe* 使用*外部 CSS* ，也就是利用外部 CSS 文件。使用 *iframe* 标签前的*链接*和 *href* 标签，为 CSS 代码创建一个不同的文件，并将其包含在 HTML 文件中。
 
-```css
+```html
 CSS file: (name of the file *iframeCss.css* )
 #frame {
   border: 3px dotted;
@@ -171,7 +171,7 @@ CSS file: (name of the file *iframeCss.css* )
 }
 ```
 
-```css
+```html
 HTML file:
 <link rel="stylesheet" type="text/css" href="iframeCss.css">
 <iframe src="www.geeksforgeeks.org" id="frame"> </iframe>
@@ -179,7 +179,7 @@ HTML file:
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -225,13 +225,13 @@ HTML file:
 
 *   **document . createelement():**这个方法创建一个 HTML 元素来定义元素的名称。
 
-    ```css
+    ```html
     var g = document.createElement('link');
     ```
 
 *   **document.appendChild():** This method appends any value or any node at the specified tag as child value.
 
-    ```css
+    ```html
     var g = document.createElement('link');
     document.head.appendChild(g)
 
@@ -241,7 +241,7 @@ HTML file:
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

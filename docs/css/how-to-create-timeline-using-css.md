@@ -14,7 +14,7 @@
 
 **示例:** HTML 代码
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <body>
@@ -59,7 +59,7 @@
 
 **CSS 代码:**我们将使用 CSS 给我们的时间线一些结构，并设置事件的位置。
 
-```css
+```html
 <style>
   .main-container{
     position: relative;
@@ -131,7 +131,7 @@
 
 **完整代码:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>

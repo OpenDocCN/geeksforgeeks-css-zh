@@ -8,7 +8,7 @@
 
 **语法:**
 
-```css
+```html
 font-size: medium|xx-small|x-small|small|large|x-large
 |xx-large|smaller|larger|length|initial|inherit;
 ```
@@ -17,7 +17,7 @@ font-size: medium|xx-small|x-small|small|large|x-large
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
   <head>

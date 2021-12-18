@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 translateY( t )
 ```
 
@@ -16,7 +16,7 @@ translateY( t )
 
 **例 1:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -64,7 +64,7 @@ translateY( t )
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

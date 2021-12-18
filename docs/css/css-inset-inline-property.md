@@ -6,7 +6,7 @@ CSS 中的**内嵌属性**用于定义逻辑内嵌的开始和结束偏移量，
 
 **语法:**
 
-```css
+```html
 inset-inline: length|percentage|auto|inherit|initial|unset;
 ```
 
@@ -22,7 +22,7 @@ inset-inline: length|percentage|auto|inherit|initial|unset;
 以下示例说明了 CSS 中的**内嵌属性**:
 **示例 1:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -69,7 +69,7 @@ inset-inline: length|percentage|auto|inherit|initial|unset;
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

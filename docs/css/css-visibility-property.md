@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 visibility: visible|hidden|collapse|initial|inherit;
 ```
 
@@ -16,13 +16,13 @@ visibility: visible|hidden|collapse|initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     visibility:hidden;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -58,13 +58,13 @@ visibility: visible|hidden|collapse|initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     visibility:hidden;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -101,13 +101,13 @@ visibility: visible|hidden|collapse|initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     visibility:collapse;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>

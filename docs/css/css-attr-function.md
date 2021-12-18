@@ -5,7 +5,7 @@
 attr()函数是 CSS 中的一个内置函数，它返回所选元素的属性值。
 **语法:**
 
-```css
+```html
 attr( attr_name )
 ```
 
@@ -16,7 +16,7 @@ attr( attr_name )
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

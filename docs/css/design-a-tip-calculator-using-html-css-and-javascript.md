@@ -20,7 +20,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <html>
 
 <head>
@@ -76,7 +76,7 @@
 
 ## 半铸钢ˌ钢性铸铁(Cast Semi-Steel)
 
-```css
+```html
 body {
     background-color: #001f4f;
     font-family: "Raleway", sans-serif;
@@ -153,7 +153,7 @@ button {
 
 ## java 描述语言
 
-```css
+```html
 window.onload = () =>
     //the function called when Calculate button is clicked.
     {
@@ -202,7 +202,7 @@ function calculateTip() {
 
 ## 超文本标记语言
 
-```css
+```html
 <html>
 
 <head>

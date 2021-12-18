@@ -9,13 +9,13 @@ CSS 允许使用 height 属性调整元素的高度。虽然有几个单位来�
 
 **语法:**要将 div 元素高度设置为浏览器窗口的 100%，可以简单地使用 CSS 的以下属性:
 
-```css
+```html
 height:100vh;
 ```
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <!DOCTYPE html>
 <html>

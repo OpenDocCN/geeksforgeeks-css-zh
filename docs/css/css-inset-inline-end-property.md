@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 inset-inline-end: length|percentage|auto|inherit|initial|unset;
 ```
 
@@ -23,7 +23,7 @@ inset-inline-end: length|percentage|auto|inherit|initial|unset;
 
 **例 1:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -70,7 +70,7 @@ inset-inline-end: length|percentage|auto|inherit|initial|unset;
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

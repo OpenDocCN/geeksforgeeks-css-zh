@@ -6,7 +6,7 @@ CSS 中的文本缩进属性用于定义每个文本块中第一行的缩进。�
 
 **语法:**
 
-```css
+```html
 text-indent: length|initial|inherit; 
 ```
 
@@ -16,13 +16,13 @@ text-indent: length|initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     text-indent: length;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -94,13 +94,13 @@ text-indent: length|initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     text-indent: %;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -142,13 +142,13 @@ text-indent: length|initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     text:indent: initial;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>

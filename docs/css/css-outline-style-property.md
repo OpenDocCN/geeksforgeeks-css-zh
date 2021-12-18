@@ -6,7 +6,7 @@ CSS 中的 outline-style 属性用于设置元素轮廓的外观。元素的轮�
 
 **语法:**
 
-```css
+```html
 outline-style: auto|none|dotted|dashed|solid|double|groove|ridge|
 inset|outset|initial|inherit;
 ```
@@ -17,13 +17,13 @@ inset|outset|initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     outline-style: auto;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -58,13 +58,13 @@ inset|outset|initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     outline-style: none;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -100,13 +100,13 @@ inset|outset|initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     outline-style: dotted;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -142,13 +142,13 @@ inset|outset|initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     outline-style: dashed;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -184,13 +184,13 @@ inset|outset|initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     outline-style: solid;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
       <head>
@@ -224,13 +224,13 @@ inset|outset|initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     outline-style: double;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
       <head>
@@ -264,13 +264,13 @@ inset|outset|initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     outline-style: groove;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -307,13 +307,13 @@ inset|outset|initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     outline-style: ridge;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -349,13 +349,13 @@ inset|outset|initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     outline-style: inset;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -391,13 +391,13 @@ inset|outset|initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     outline-style: outset;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -433,13 +433,13 @@ inset|outset|initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     outline-style: initial;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -477,13 +477,13 @@ inset|outset|initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     outline-style: inherit;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>

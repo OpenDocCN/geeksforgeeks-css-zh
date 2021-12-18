@@ -4,7 +4,7 @@
 
 工具提示是小的、文本的但交互的提示，主要用于图形目的。它帮助图标或按钮阐明其功能。为此，添加了**工具提示类**及其位置，如:顶部、底部、左侧或右侧。语法如下:
 
-```css
+```html
  <a class="btn tooltipped" data-position="bottom" data-tooltip="I am a tooltip">Hover me!</a>
 ```
 
@@ -12,7 +12,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

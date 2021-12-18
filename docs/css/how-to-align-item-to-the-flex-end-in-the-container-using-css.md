@@ -8,7 +8,7 @@
 
 **语法:**
 
-```css
+```html
 display:flex;
 align-items: flex-end; 
 ```
@@ -17,7 +17,7 @@ align-items: flex-end;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -14,7 +14,7 @@ CSS 中的 left 属性用于指定定位元素的水平位置。它对未定位�
 
 **语法:**
 
-```css
+```html
 left: length|percentage|auto|initial|inherit;
 ```
 
@@ -28,7 +28,7 @@ left: length|percentage|auto|initial|inherit;
 
 **示例 1 :** 本示例将位置属性描述为绝对。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -100,7 +100,7 @@ left: length|percentage|auto|initial|inherit;
 
 **示例 2:** 本示例将位置属性描述为相对。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

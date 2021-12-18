@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 rotate3d( x, y, z, angle )
 ```
 
@@ -21,7 +21,7 @@ rotate3d( x, y, z, angle )
 
 **例 1:**
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -56,7 +56,7 @@ rotate3d( x, y, z, angle )
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
 <head> 

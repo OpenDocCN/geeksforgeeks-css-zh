@@ -14,7 +14,7 @@
 
 **语法:**
 
-```css
+```html
 scroll-margin-block: length
 /* Or */
 scroll-margin-block: Global_Values
@@ -30,7 +30,7 @@ scroll-margin-block: Global_Values
 
 **示例:**在本例中，您可以通过滚动到示例内容的两个“界面”中间的点来查看**滚动边距块**的效果。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

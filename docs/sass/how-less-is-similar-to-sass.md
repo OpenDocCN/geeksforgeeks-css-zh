@@ -24,13 +24,13 @@ SASS 和 LESS 相似的方面如下:
 
 **语法:**在 LESS 中定义变量
 
-```css
+```html
 @color_variable: red;
 ```
 
 **语法:**在 SASS 中定义变量
 
-```css
+```html
 $color_variable: red;
 ```
 
@@ -40,7 +40,7 @@ $color_variable: red;
 
 **语法:**在 LESS 中定义一个变量并在另一个类中使用它
 
-```css
+```html
 .button_mixin {
     color: blue;
     border: 2px solid black;
@@ -55,7 +55,7 @@ $color_variable: red;
 
 **语法:**在 SASS 中定义一个变量，并在另一个类中使用它
 
-```css
+```html
 @mixin button_mixin
     color: blue
     border: 2px solid black
@@ -72,7 +72,7 @@ container
 
 **语法:**在 LESS 中定义变量
 
-```css
+```html
 nav {
     ul {
         margin: 0;
@@ -90,7 +90,7 @@ nav {
 
 **语法:**在 SASS 中定义变量
 
-```css
+```html
 nav
   ul
     margin: 0
@@ -112,14 +112,14 @@ nav
 
 **语法:**在 LESS 中定义变量
 
-```css
+```html
 @import "sample1.less"
 @import "sample2.less"
 ```
 
 **语法:**在 SASS 中定义变量
 
-```css
+```html
 @import "sample"
 @import "sample2"
 ```

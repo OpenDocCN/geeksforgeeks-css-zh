@@ -8,7 +8,7 @@
 
 **语法:**
 
-```css
+```html
 $('selector').css('width', 'value in px')
 ```
 
@@ -23,13 +23,13 @@ $('selector').css('width', 'value in px')
 
 要改变宽度，我们必须提供价值
 
-```css
+```html
 $("#test").css("width", "200px")
 ```
 
 为了获得宽度，我们不提供任何值参数。它以像素为单位返回选定元素的宽度。
 
-```css
+```html
 $("#test").css("width")
 ```
 
@@ -37,7 +37,7 @@ $("#test").css("width")
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 
 <head>
@@ -77,7 +77,7 @@ css(“宽度”)
 
 **语法:**
 
-```css
+```html
 *$('selector').width()*
 ```
 
@@ -86,7 +86,7 @@ css(“宽度”)
 
 **示例:**
 
-```css
+```html
 $("#test").width()
 ```
 
@@ -94,7 +94,7 @@ $("#test").width()
 
 **语法:**
 
-```css
+```html
 $('selector').width("value")
 ```
 
@@ -102,7 +102,7 @@ $('selector').width("value")
 
 **例:**在 **width()** 方法中，我们不需要在 value 中追加 **px** 这个词。
 
-```css
+```html
 $("#test").width("200")
 ```
 
@@ -110,7 +110,7 @@ $("#test").width("200")
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 
 <head>

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 padding-top: length|percentage|initial|inherit;
 ```
 
@@ -16,13 +16,13 @@ padding-top: length|percentage|initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     padding-top: length;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html> 
     <html> 
         <head> 
@@ -60,13 +60,13 @@ padding-top: length|percentage|initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     padding-top: percentage (%)
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html> 
     <html> 
         <head> 
@@ -104,13 +104,13 @@ padding-top: length|percentage|initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     padding-top: initial;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html> 
     <html> 
         <head> 

@@ -24,7 +24,7 @@
 *   **圆角:**可选，但圆角按钮也能抓住用户的注意力。
 *   **行高** :使用行高垂直居中按钮中的文本。行高设置 a 单线时的线与 a 显示的元素之间的间距。举例如下……
 
-```css
+```html
 //CSS
 button {
  margin: 30px;
@@ -52,14 +52,14 @@ button:hover {
 
 ## 超文本标记语言
 
-```css
+```html
 <div class="button-bar">
 <button>Add to Cart</button>
 <button>Buy Now</button>
 </div>
 ```
 
-```css
+```html
 //CSS
 .button-bar {
 background-color: #00FF00;
@@ -83,13 +83,13 @@ display: inline-block;
 *   如果屏幕的尺寸是 800 像素宽，那么最大宽度就是 800 像素。这里图像的宽度只有 400px。这实际上会显示为 400 像素。
 *   如果图像比你的屏幕大，例如屏幕是 300 像素，最大宽度设置为 100%，那么图像将缩放到 300 像素宽。
 
-```css
+```html
 <div class="content">
 <img src="..."/>
 </div>
 ```
 
-```css
+```html
 .content{
 /* Min space between image and window */
 padding: 30px;
@@ -109,7 +109,7 @@ max-width: 100%;
 
 ## 超文本标记语言
 
-```css
+```html
 <div class="page">
 <div class="header">Logo</div>
 <div class="content">
@@ -118,7 +118,7 @@ max-width: 100%;
 </div>
 ```
 
-```css
+```html
 //CSS
 .page{
 height: 100%;
@@ -154,7 +154,7 @@ overflow: auto;
 
 ## ****超文本标记语言****
 
-```css
+```html
 **<div class="page">
 
 <p><!-- Content Page --></p>
@@ -162,7 +162,7 @@ overflow: auto;
 </div>**
 ```
 
-```css
+```html
 **// CSS
 body{
 padding: 30px;

@@ -8,13 +8,13 @@
 
 *   首先，我们使用样式标签中的[**背景图像**](https://www.geeksforgeeks.org/css-background-image-property/) 属性添加一个透明背景图像。
 
-    ```css
+    ```html
     background-image: url(white.jpg);
     ```
 
 *   对于过渡背景图像，我们在 CSS 中使用 [**过渡**](https://www.geeksforgeeks.org/css-transition-property/) 属性，并在样式标签中为背景图像添加一个过渡。
 
-    ```css
+    ```html
     transition: background-image 3s;
     ```
 
@@ -22,7 +22,7 @@
 
 **JavaScript 代码片段:**
 
-```css
+```html
  var image = new Image();
 // Image for transition
 image.src = "geek.png";
@@ -37,7 +37,7 @@ image.onload = function () {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
   <head>

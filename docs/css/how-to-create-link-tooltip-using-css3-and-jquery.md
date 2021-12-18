@@ -6,7 +6,7 @@
 
 **使用 CSS 和 jQuery:** 在 jQuery 中使用 mousenter 和 mouseleave 事件来执行这个操作。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -75,13 +75,13 @@
 
 鼠标悬停在“悬停在我身上！”，输出为
 
-```css
+```html
 Hello world!
 ```
 
 **使用 jQuery UI:**jQuery UI 的工具提示小部件有助于自定义工具提示。tooltip()方法用于向任何元素添加工具提示。
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -132,7 +132,7 @@ Hello world!
 
 **仅使用 CSS:**工具提示可以使用 CSS 创建，并且可以像任何其他元素一样进行自定义。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

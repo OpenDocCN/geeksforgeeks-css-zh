@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 :default {
   //property
 }
@@ -15,7 +15,7 @@
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

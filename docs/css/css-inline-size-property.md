@@ -6,7 +6,7 @@ CSS 中的**行内尺寸属性**用于定义元素块的水平或垂直尺寸。
 
 **语法:**
 
-```css
+```html
 inline-size: length | percentage | auto | inherit | initial | unset
 ```
 
@@ -23,7 +23,7 @@ inline-size: length | percentage | auto | inherit | initial | unset
 
 **例 1:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -61,7 +61,7 @@ inline-size: length | percentage | auto | inherit | initial | unset
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

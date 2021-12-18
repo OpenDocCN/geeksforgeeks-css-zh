@@ -15,7 +15,7 @@
 
 **语法：**
 
-```css
+```html
 <form class="pure-form">...</form>
 ```
 
@@ -23,7 +23,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -75,7 +75,7 @@
 
 **语法：**
 
-```css
+```html
 <form class="pure-form-stacked">...</form>
 ```
 
@@ -83,7 +83,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -157,7 +157,7 @@
 
 **语法：**
 
-```css
+```html
 <form class="pure-form-aligned">...</form>
 ```
 
@@ -165,7 +165,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -255,7 +255,7 @@
 
 **语法：**
 
-```css
+```html
 <fieldset class="pure-group">...</fieldset>
 ```
 
@@ -263,7 +263,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
   <head>

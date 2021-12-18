@@ -8,7 +8,7 @@ SASS 提供了许多内置模块，包含各种有用的功能和一些混合，
 
     **语法:**
 
-    ```css
+    ```html
     color.adjust($color,
       $red: null, $green: null, $blue: null,
       $hue: null, $saturation: null, $lightness: null,
@@ -20,7 +20,7 @@ SASS 提供了许多内置模块，包含各种有用的功能和一些混合，
 
     **示例:**
 
-    ```css
+    ```html
     @debug color.adjust(#2cb890, $green: 20);
     @debug color.adjust(#35785f, $red: -20, $blue: 30);
     @debug color.adjust(#21787d, 
@@ -29,7 +29,7 @@ SASS 提供了许多内置模块，包含各种有用的功能和一些混合，
 
     **输出:**
 
-    ```css
+    ```html
     #2ccc91
     #21787d
     rgba(12, 43, 44, 0.5)
@@ -40,7 +40,7 @@ SASS 提供了许多内置模块，包含各种有用的功能和一些混合，
 
     **语法:**
 
-    ```css
+    ```html
     adjust-hue($color, $degrees)
     ```
 
@@ -48,13 +48,13 @@ SASS 提供了许多内置模块，包含各种有用的功能和一些混合，
 
     **示例:**
 
-    ```css
+    ```html
     @debug adjust-hue(#0c2b2c, -50deg);
     ```
 
     **输出:**
 
-    ```css
+    ```html
     #0c2c12
 
     ```
@@ -63,7 +63,7 @@ SASS 提供了许多内置模块，包含各种有用的功能和一些混合，
 
     **语法:**
 
-    ```css
+    ```html
     color.alpha($color)
     alpha($color)
     opacity($color)
@@ -71,7 +71,7 @@ SASS 提供了许多内置模块，包含各种有用的功能和一些混合，
 
     **示例:**
 
-    ```css
+    ```html
     @debug color.alpha(#e1d7d2);
     @debug color.opacity(rgb(210, 225, 221, 0.4));
     @debug alpha(opacity=20);
@@ -79,7 +79,7 @@ SASS 提供了许多内置模块，包含各种有用的功能和一些混合，
 
     **输出:**
 
-    ```css
+    ```html
     1
     0.4
     alpha(opacity=20)
@@ -90,7 +90,7 @@ SASS 提供了许多内置模块，包含各种有用的功能和一些混合，
 
     **语法:**
 
-    ```css
+    ```html
     color.change($color,
       $red: null, $green: null, $blue: null,
       $hue: null, $saturation: null, $lightness: null,
@@ -102,7 +102,7 @@ SASS 提供了许多内置模块，包含各种有用的功能和一些混合，
 
     **示例:**
 
-    ```css
+    ```html
     @debug color.change(#6b717f, $red: 100); 
     @debug color.change(#d2e1dd, $red: 100, $blue: 50); 
     @debug color.change(#998099, $lightness: 30%, $alpha: 0.5); 
@@ -110,7 +110,7 @@ SASS 提供了许多内置模块，包含各种有用的功能和一些混合，
 
     **输出:**
 
-    ```css
+    ```html
     #64717f
     #64e132
     rgba(85, 68, 85, 0.5)
@@ -121,14 +121,14 @@ SASS 提供了许多内置模块，包含各种有用的功能和一些混合，
 
     **语法:**
 
-    ```css
+    ```html
     color.complement($color)
     complement($color)
     ```
 
     **示例:**
 
-    ```css
+    ```html
     @debug color.complement(#6b717f); 
     @debug color.complement(#d2e1dd);
     @debug color.complement(#036); 
@@ -136,7 +136,7 @@ SASS 提供了许多内置模块，包含各种有用的功能和一些混合，
 
     **输出:**
 
-    ```css
+    ```html
     #7f796b
     #e1d2d6
     #663300  
@@ -147,7 +147,7 @@ SASS 提供了许多内置模块，包含各种有用的功能和一些混合，
 
     **语法:**
 
-    ```css
+    ```html
     desaturate($color, $amount)
     ```
 
@@ -155,14 +155,14 @@ SASS 提供了许多内置模块，包含各种有用的功能和一些混合，
 
     **示例:**
 
-    ```css
+    ```html
     @debug desaturate(#036, 20%);
     @debug desaturate(#f2ece4, 20%);
     ```
 
     **输出:**
 
-    ```css
+    ```html
     #0a335c
     #eeebe8 
 

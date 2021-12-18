@@ -6,7 +6,7 @@ CSS 中的**文本溢出**属性用于指定某些文本已经溢出并隐藏在
 
 **语法:**
 
-```css
+```html
 text-overflow: clip|string|ellipsis|initial|inherit;
 ```
 
@@ -16,7 +16,7 @@ text-overflow: clip|string|ellipsis|initial|inherit;
 
 **语法:**
 
-```css
+```html
 text-overflow: clip;
 ```
 
@@ -24,7 +24,7 @@ text-overflow: clip;
 
 ## 超文本标记语言
 
-```css
+```html
 <html>
 <head>
     <title> CSS | text-overflow Property </title>
@@ -55,7 +55,7 @@ CSS 文本溢出剪辑
 
 **语法:**
 
-```css
+```html
 text-overflow: ellipsis;
 ```
 
@@ -63,7 +63,7 @@ text-overflow: ellipsis;
 
 ## 超文本标记语言
 
-```css
+```html
 <html>
 <head>
     <title> CSS | text-overflow Property </title>
@@ -92,7 +92,7 @@ text-overflow: ellipsis;
 
 **语法:**
 
-```css
+```html
 text-overflow: string;
 ```
 
@@ -102,7 +102,7 @@ text-overflow: string;
 
 ## 超文本标记语言
 
-```css
+```html
 <html>
 <head>
     <title> CSS | text-overflow Property </title>
@@ -131,7 +131,7 @@ text-overflow: string;
 
 **语法:**
 
-```css
+```html
 text-overflow: initial;
 ```
 
@@ -139,7 +139,7 @@ text-overflow: initial;
 
 ## 超文本标记语言
 
-```css
+```html
 <html>
 <head>
     <title> CSS | text-overflow Property </title>
@@ -168,7 +168,7 @@ text-overflow: initial;
 
 **语法:**
 
-```css
+```html
 text-overflow: inherit;
 ```
 
@@ -176,7 +176,7 @@ text-overflow: inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <html>
 <head>
     <title> CSS | text-overflow Property </title>

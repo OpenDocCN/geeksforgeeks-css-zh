@@ -6,7 +6,7 @@ grid-column-end 属性解释一个项目将跨越的列数，或者该项目将�
 
 **语法:**
 
-```css
+```html
 grid-column-end: auto|span n|column-line;
 ```
 
@@ -20,7 +20,7 @@ grid-column-end: auto|span n|column-line;
 
 **语法:**
 
-```css
+```html
 grid-column-end: auto;
 ```
 
@@ -28,7 +28,7 @@ grid-column-end: auto;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -77,7 +77,7 @@ grid-column-end: auto;
 
 **语法:**
 
-```css
+```html
 grid-column-end: span n;
 ```
 
@@ -85,7 +85,7 @@ grid-column-end: span n;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -134,7 +134,7 @@ grid-column-end: span n;
 
 **语法:**
 
-```css
+```html
 grid-column-end: column-line;
 ```
 
@@ -142,7 +142,7 @@ grid-column-end: column-line;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

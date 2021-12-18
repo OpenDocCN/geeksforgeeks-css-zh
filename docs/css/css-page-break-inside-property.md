@@ -6,7 +6,7 @@ CSS 中的 page-break-inside 属性用于指定打印时如何在应用它的元
 
 **语法:**
 
-```css
+```html
 page-break-inside: auto|avoid|initial|inherit
 ```
 
@@ -16,28 +16,28 @@ page-break-inside: auto|avoid|initial|inherit
 
     **语法:**
 
-    ```css
+    ```html
     page-break-inside: auto;
     ```
 
 *   **避免:**避免元素内部出现分页符。
     **语法:**
 
-```css
+```html
 page-break-inside: avoid;
 ```
 
 *   **初始值:**它将分页内属性设置为默认值。
     **语法:**
 
-    ```css
+    ```html
     page-break-inside: initial;
     ```
 
     *   **继承:**分页内属性是从其父级继承的。
     **语法:**
 
-    ```css
+    ```html
     page-break-inside: inherits;
     ```
 
@@ -45,7 +45,7 @@ page-break-inside: avoid;
 
 **打印媒体查询:**
 
-```css
+```html
 @media print {
     img {
         display: block;
@@ -56,7 +56,7 @@ page-break-inside: avoid;
 
 **示例 1:** 本示例使用分页内属性值来避免。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -127,7 +127,7 @@ page-break-inside: avoid;
 
 **示例 2:** 此示例将分页符内部属性值设置为无。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

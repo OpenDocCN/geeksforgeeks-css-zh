@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 clear: none|left|right|both|initial;
 ```
 
@@ -16,13 +16,13 @@ clear: none|left|right|both|initial;
 
     **语法:**
 
-    ```css
+    ```html
     clear:none;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -68,13 +68,13 @@ clear: none|left|right|both|initial;
 
     **语法:**
 
-    ```css
+    ```html
     clear:left;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -120,13 +120,13 @@ clear: none|left|right|both|initial;
 
     **语法:**
 
-    ```css
+    ```html
     clear:right;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -172,13 +172,13 @@ clear: none|left|right|both|initial;
 
     **语法:**
 
-    ```css
+    ```html
     clear:both;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -223,13 +223,13 @@ clear: none|left|right|both|initial;
 *   **initial:** It sets the property to its default value.
     **Syntax:**
 
-    ```css
+    ```html
     clear:initial;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>

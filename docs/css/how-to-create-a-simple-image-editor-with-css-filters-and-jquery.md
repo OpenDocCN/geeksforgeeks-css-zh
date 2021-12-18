@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 .demo {
     filter: <filter-function> [<filter-intensity>];
 }
@@ -14,7 +14,7 @@
 
 **示例:**以下是如何对元素应用 50%模糊滤镜。
 
-```css
+```html
 .demo {
     filter: blur(50%);
 }
@@ -32,7 +32,7 @@
 
 ## demo.html
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -136,7 +136,7 @@
 
 ## demo.css
 
-```css
+```html
 /** @format */
 
 body {
@@ -168,7 +168,7 @@ span {
 
 ## demo.js(演示. js)
 
-```css
+```html
 function main() {
     $(".image_main").css(
         "-webkit-filter",

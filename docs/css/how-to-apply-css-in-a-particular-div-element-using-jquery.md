@@ -8,7 +8,7 @@
 
 **语法:**
 
-```css
+```html
 <script>
     $("div").css("css-property","value");
 </script>
@@ -18,7 +18,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -68,7 +68,7 @@
 
 我们将使用 jQuery 的悬停函数，它采用两个函数。语法是
 
-```css
+```html
 $(element).hover(
     function(){
         // CSS during hover
@@ -83,7 +83,7 @@ $(element).hover(
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

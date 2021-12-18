@@ -6,7 +6,7 @@ CSS 中的 flex-based 属性用于指定灵活项的初始大小。如果元素�
 
 **语法:**
 
-```css
+```html
 flex-basis: number|auto|initial|inherit;
 ```
 
@@ -25,7 +25,7 @@ flex-basis: number|auto|initial|inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -107,7 +107,7 @@ flex-basis: number|auto|initial|inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

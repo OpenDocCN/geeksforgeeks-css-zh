@@ -27,7 +27,7 @@ SASS 变量提供以下特性:
 
 ## 钢性铸铁
 
-```css
+```html
 $width1: 1280px;
 $width2: 1720px;
 

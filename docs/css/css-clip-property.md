@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 clip: auto|shape|initial|inherit;
 ```
 
@@ -21,7 +21,7 @@ clip: auto|shape|initial|inherit;
 
 **语法:**
 
-```css
+```html
 clip: auto;
 ```
 
@@ -29,7 +29,7 @@ clip: auto;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -65,7 +65,7 @@ clip: auto;
 
 **语法:**
 
-```css
+```html
 clip: rect(top, right, bottom, left);
 ```
 
@@ -73,7 +73,7 @@ clip: rect(top, right, bottom, left);
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -109,7 +109,7 @@ clip: rect(top, right, bottom, left);
 
 **语法:**
 
-```css
+```html
 clip: initial;
 ```
 
@@ -117,7 +117,7 @@ clip: initial;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -153,7 +153,7 @@ clip: initial;
 
 **语法:**
 
-```css
+```html
 clip: inherit;
 ```
 
@@ -161,7 +161,7 @@ clip: inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>

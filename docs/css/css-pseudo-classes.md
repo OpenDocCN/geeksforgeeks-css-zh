@@ -8,7 +8,7 @@ CSS 中的伪类用于定义元素的特殊状态。它可以与 CSS 选择器�
 
 **语法:**
 
-```css
+```html
 selector: pseudo-class{
      property: value;
 }
@@ -21,7 +21,7 @@ CSS 中有很多伪类，但最常用的如下:
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -66,7 +66,7 @@ CSS 中有很多伪类，但最常用的如下:
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -111,7 +111,7 @@ CSS 中有很多伪类，但最常用的如下:
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -175,7 +175,7 @@ CSS 中有很多伪类，但最常用的如下:
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 :disabled {
     // CSS property
 } 
@@ -14,7 +14,7 @@
 
 您还可以为所有类型为“文本”的禁用输入元素设置背景颜色:
 
-```css
+```html
 input[type=text]:disabled {
     background: #dddddd;
 }
@@ -22,7 +22,7 @@ input[type=text]:disabled {
 
 **例 1:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -67,7 +67,7 @@ input[type=text]:disabled {
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

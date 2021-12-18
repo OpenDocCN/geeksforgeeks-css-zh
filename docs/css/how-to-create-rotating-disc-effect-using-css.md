@@ -8,7 +8,7 @@
 
 **HTML 代码:**在本节中，我们创建了一个内部有列表项的未排序列表(ul)。列表项目的数量等于光盘的数量。
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -41,7 +41,7 @@
 
 **提示:**你可以给每个圆盘应用不同的不透明度颜色，让它看起来更有吸引力。
 
-```css
+```html
 <style>
     ul {
         margin: 0;
@@ -109,7 +109,7 @@
 
 **完整代码:**是以上两段代码的组合。
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

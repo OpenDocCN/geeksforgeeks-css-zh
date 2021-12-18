@@ -28,7 +28,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -154,7 +154,7 @@
 
 我们还可以在可折叠的中添加徽章。下面给出了将徽章添加到可折叠中的语法:
 
-```css
+```html
  <h2>Badges in Collapsibles</h2>
     <ul class="collapsible">
         <li>
@@ -184,7 +184,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -247,7 +247,7 @@
 
 #### 语法:
 
-```css
+```html
  <span class="new badge" data-badge-caption="...">4</span>
 ```
 
@@ -257,7 +257,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -299,7 +299,7 @@
 
 #### 语法:
 
-```css
+```html
  <span class="new badge red">...</span>
 ```
 
@@ -307,7 +307,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -16,7 +16,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="items-start">...</element>
 ```
 
@@ -24,7 +24,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -58,7 +58,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="items-end">...</element>
 ```
 
@@ -66,7 +66,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -100,7 +100,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="items-center">...</element>
 ```
 
@@ -108,7 +108,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -142,7 +142,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="items-baseline">...</element>
 ```
 
@@ -150,7 +150,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -184,7 +184,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="items-stretch">...</element>
 ```
 
@@ -192,7 +192,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <head> 
     <link href=

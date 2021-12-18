@@ -6,7 +6,7 @@
 
 **HTML 代码:**在本节中，我们将创建一个基本的 *div* 标签，该标签由内部的各种 *span 标签组成。*
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -31,7 +31,7 @@
 
 **CSS 代码:**在本节中，我们将首先使用一些基本的 CSS 属性设计 *span* 元素，然后我们将使用*第 n 个子()选择器*选择每个 span 元素，即第 n 个子，然后我们将使用*@关键帧*规则创建加载动画。
 
-```css
+```html
 <style>
  *{
    margin: 0;
@@ -90,7 +90,7 @@
 
 **最终代码:**是以上两个代码段的组合。
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

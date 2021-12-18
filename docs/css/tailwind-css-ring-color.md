@@ -23,7 +23,7 @@
 
 **语法:**
 
-```css
+```html
 <button class="ring-{color}">...</button >
 ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>  
 <html>  
 <head>  

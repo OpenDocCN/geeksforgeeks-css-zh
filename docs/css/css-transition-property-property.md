@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 transition-property: none | all | property | initial | inherit;
 
 ```
@@ -17,14 +17,14 @@ transition-property: none | all | property | initial | inherit;
 
     **语法:**
 
-    ```css
+    ```html
     transition-property: none;
 
     ```
 
     **示例:**在下面的示例中，我们已经指定没有属性会获得过渡效果。因此，如果我们将鼠标悬停在框上，其属性的变化将是突然的，而不是在指定的持续时间内从一个值转换到另一个值。
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
       <head>
@@ -68,14 +68,14 @@ transition-property: none | all | property | initial | inherit;
 
     **语法:**
 
-    ```css
+    ```html
     transition-property: all;
 
     ```
 
     **示例:**我们也可以使用 **all** 值作为过渡属性，而不是指定我们需要过渡效果的所有属性的名称。这将允许我们显示所有属性的转换效果，而无需单独指定它们的名称，如下例所示:
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
       <head>
@@ -119,14 +119,14 @@ transition-property: none | all | property | initial | inherit;
 
     **语法:**
 
-    ```css
+    ```html
     transition-property: property;
 
     ```
 
     **示例:**在下面的示例中，我们通过用逗号分隔过渡效果(即背景色、宽度和高度)来指定多个属性。因此，当我们将鼠标悬停在框上时，我们可以看到框属性中的过渡。
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
       <head>
@@ -172,14 +172,14 @@ transition-property: none | all | property | initial | inherit;
 
     **语法:**
 
-    ```css
+    ```html
     transition-property: initial;
 
     ```
 
     **示例:**由于我们在下面的示例中将属性值指定为**初始值**，该属性的默认值(即 **all** )将被分配给*过渡属性*。因此，当我们将鼠标悬停在框上时，所有改变的 CSS 属性都会发生转换效果。
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
       <head>
@@ -223,14 +223,14 @@ transition-property: none | all | property | initial | inherit;
 
     **语法:**
 
-    ```css
+    ```html
     transition-property: inherit;
 
     ```
 
     **示例:**由于我们已经将属性值指定为**继承**在下面的示例中，该框将继承其属性的*过渡属性*值。但是在这种情况下，其父级的*过渡属性*值将是 **all** (因为它是默认值)，因为我们没有为其父级指定该值。因此，所有 CSS 属性都会发生转换效果。
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
       <head>

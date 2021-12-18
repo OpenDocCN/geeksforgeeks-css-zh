@@ -12,7 +12,7 @@ CSS 中的过渡属性用来做一些过渡效果。过渡是下面列出的四�
 **注意:**过渡效果可以使用伪类定义为两种状态(悬停和活动)，如:悬停或:活动或使用 JavaScript 动态设置的类。
 **语法:**
 
-```css
+```html
 transition: transition-property transition-duration 
 transition-timing-function transition-delay; 
 ```
@@ -29,7 +29,7 @@ transition-timing-function transition-delay;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

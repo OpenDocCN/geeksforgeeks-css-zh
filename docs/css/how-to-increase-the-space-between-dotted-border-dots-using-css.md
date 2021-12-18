@@ -26,7 +26,7 @@
 
 **style.css**
 
-```css
+```html
 <style>
     div {
         padding: 10px 50px;
@@ -81,7 +81,7 @@ linear-gradient(to bottom, #000 10%, rgba(255, 255, 255, 0) 0%);
 
 *   链接标签用于链接外部样式表和 HTML 网页。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -110,7 +110,7 @@ linear-gradient(to bottom, #000 10%, rgba(255, 255, 255, 0) 0%);
 
 **完整代码:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

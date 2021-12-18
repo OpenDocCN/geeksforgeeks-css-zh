@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 column-fill: balance|auto|initial|inherit;
 ```
 
@@ -16,7 +16,7 @@ column-fill: balance|auto|initial|inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

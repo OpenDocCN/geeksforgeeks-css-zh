@@ -6,7 +6,7 @@ CSS 中的 var()函数用于插入自定义属性的值。
 
 **语法:**
 
-```css
+```html
 var( custom_property, value )
 ```
 
@@ -19,7 +19,7 @@ var( custom_property, value )
 
 **程序:**
 
-```css
+```html
 <!-- HTML code to describes var() function in CSS -->
 <!DOCTYPE html>
 <html>

@@ -8,13 +8,13 @@
 
 **语法:**
 
-```css
+```html
 box-shadow : x-offset y-offset blur-radius spread-redius color
 ```
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
    <body style="text-align: center;">

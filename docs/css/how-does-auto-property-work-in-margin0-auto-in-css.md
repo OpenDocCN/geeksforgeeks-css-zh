@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 margin: top_margin right_margin bottom_margin left_margin;
 
 /* We can also use the shortened syntax 
@@ -17,7 +17,7 @@ margin: top_and_bottom_margin left_and_right_margin;
 
 所以在**边距:0 自动**中，上下边距为 0，左右边距为自动，其中自动是指浏览器根据容器自动设置左右边距，使元素居中。边距:0 自动等同于:
 
-```css
+```html
 margin-top:0;
 margin-bottom:0;
 margin-left:auto;
@@ -28,7 +28,7 @@ margin-right:auto;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 

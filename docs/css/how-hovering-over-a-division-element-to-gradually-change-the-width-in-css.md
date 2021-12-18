@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 transition: transition-property transition-duration
 ```
 
@@ -21,7 +21,7 @@ transition: transition-property transition-duration
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -72,7 +72,7 @@ div:hover {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>

@@ -6,7 +6,7 @@
 **注意:**根据属性的值，边框圆角可以是圆形或椭圆形。如果值为 0，则边框没有变化，仍然是方形边框。
 **语法:**
 
-```css
+```html
 border-top-left-radius: value;
 ```
 
@@ -29,7 +29,7 @@ border-top-left-radius: value;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -64,7 +64,7 @@ https://media.geeksforgeeks.org/wp-content/uploads/20190405121202/GfGLH.png);
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

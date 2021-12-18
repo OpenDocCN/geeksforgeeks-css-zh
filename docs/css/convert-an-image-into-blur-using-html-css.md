@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 filter: blur()
 
 ```
@@ -16,7 +16,7 @@ filter: blur()
 **原图:**
 ![](img/3078dac92dca2c58e7e25dd9979b36a6.png)
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
     <head> 
@@ -50,7 +50,7 @@ filter: blur()
 **原图:**
 ![](img/506d5b06554d6ff2062e8b2e9814593f.png)
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
     <head> 

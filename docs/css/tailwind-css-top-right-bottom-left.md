@@ -22,7 +22,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="inset-0">...</element>
 ```
 
@@ -30,7 +30,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -61,7 +61,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="inset-y-0">...</element>
 ```
 
@@ -69,7 +69,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -102,7 +102,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="inset-x-0">...</element>
 ```
 
@@ -110,7 +110,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -143,7 +143,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="top-0">...</element>
 ```
 
@@ -151,7 +151,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="left-0">...</element>
 ```
 
@@ -159,7 +159,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -192,7 +192,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="right-0">...</element>
 ```
 
@@ -200,7 +200,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="bottom-0">...</element>
 ```
 
@@ -208,7 +208,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>

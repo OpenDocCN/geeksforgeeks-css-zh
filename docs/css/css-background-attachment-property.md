@@ -6,7 +6,7 @@ CSS 中的**属性背景-附件属性**用于指定背景图像相对于其容�
 
 **语法:**
 
-```css
+```html
 background-attachment: scroll|fixed|local|initial|inherit;
 ```
 
@@ -15,7 +15,7 @@ background-attachment: scroll|fixed|local|initial|inherit;
 
 *   **语法:**
 
-    ```css
+    ```html
     background-attachment: scroll;
     ```
 
@@ -23,7 +23,7 @@ background-attachment: scroll|fixed|local|initial|inherit;
 
     ## Hypertext Markup Language
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -123,7 +123,7 @@ background-attachment: scroll|fixed|local|initial|inherit;
 
 *   **语法:**
 
-    ```css
+    ```html
     background-attachment: fixed;
     ```
 
@@ -131,7 +131,7 @@ background-attachment: scroll|fixed|local|initial|inherit;
 
     ## Hypertext Markup Language
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -231,7 +231,7 @@ background-attachment: scroll|fixed|local|initial|inherit;
 
 *   **语法:**
 
-    ```css
+    ```html
     background-attachment: local;
     ```
 
@@ -239,7 +239,7 @@ background-attachment: scroll|fixed|local|initial|inherit;
 
     ## Hypertext Markup Language
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -339,7 +339,7 @@ background-attachment: scroll|fixed|local|initial|inherit;
 
 *   **语法:**
 
-    ```css
+    ```html
     background-attachment: initial;
     ```
 
@@ -347,7 +347,7 @@ background-attachment: scroll|fixed|local|initial|inherit;
 
     ## Hypertext Markup Language
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>

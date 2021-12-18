@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 brightness( amount )
 ```
 
@@ -16,7 +16,7 @@ brightness( amount )
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
 

@@ -6,7 +6,7 @@ CSS 中的**边框块宽度属性**用于在样式表中的一个地方设置单
 
 **语法:**
 
-```css
+```html
 border-block-width: width;
 ```
 
@@ -18,7 +18,7 @@ border-block-width: width;
 
 **例 1:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -60,7 +60,7 @@ border-block-width: width;
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

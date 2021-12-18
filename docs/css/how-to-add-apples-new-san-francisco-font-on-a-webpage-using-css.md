@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 body {
     font-family: -apple-system, BlinkMacSystemFont, sans-serif;
 }
@@ -33,7 +33,7 @@ Firefox 和 Internet explorer 使用**-苹果-系统；**对于镀铬，我们�
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

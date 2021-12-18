@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 shape-outside: <basic-shape> | <shape-box> | <image> | none |  initial | inherit
 ```
 
@@ -21,7 +21,7 @@ shape-outside: <basic-shape> | <shape-box> | <image> | none |  initial | inherit
 
     **例 1:** 本例实现了 circle()函数。
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <head>
@@ -76,7 +76,7 @@ shape-outside: <basic-shape> | <shape-box> | <image> | none |  initial | inherit
 
     **示例 2:** 本示例实现了 inset()函数。
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <head>
@@ -138,7 +138,7 @@ shape-outside: <basic-shape> | <shape-box> | <image> | none |  initial | inherit
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 

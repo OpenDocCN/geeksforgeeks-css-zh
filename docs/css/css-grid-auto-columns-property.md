@@ -6,7 +6,7 @@ CSS 中的**网格自动列**属性用于指定隐式生成的网格容器的列
 
 **语法:**
 
-```css
+```html
 grid-auto-columns: auto|max-content|min-content|length|
 percentage|minmax(min, max)|initial|inherit;
 ```
@@ -17,7 +17,7 @@ percentage|minmax(min, max)|initial|inherit;
 
     **例 1:**
 
-    ```css
+    ```html
     <!DOCTYPE html> 
     <html> 
         <head> 
@@ -63,7 +63,7 @@ percentage|minmax(min, max)|initial|inherit;
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html> 
     <html> 
         <head> 
@@ -109,7 +109,7 @@ percentage|minmax(min, max)|initial|inherit;
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html> 
     <html> 
         <head> 
@@ -157,7 +157,7 @@ percentage|minmax(min, max)|initial|inherit;
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html> 
     <html> 
         <head> 
@@ -203,7 +203,7 @@ percentage|minmax(min, max)|initial|inherit;
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html> 
     <html> 
         <head> 
@@ -248,7 +248,7 @@ percentage|minmax(min, max)|initial|inherit;
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html> 
     <html> 
         <head> 

@@ -8,7 +8,7 @@
 *   **@include example**
     **SCSS file:**
 
-    ```css
+    ```html
     @mixin text {
       color: black;
       font-size: 30px;
@@ -25,7 +25,7 @@
     Mixin 在 CSS 中的所有类上复制样式。
     **编译 CSS 文件:**
 
-    ```css
+    ```html
     .hello{
       color: black;
       font-size: 30px;
@@ -46,7 +46,7 @@
     Here in this example, the two buttons will share the general properties for a button but they differ in background color only so using extend in cases like these where the elements are almost the same and only differ some properties using @extend is a good idea.
     **SCSS file:**
 
-    ```css
+    ```html
     %button-format {
         padding: 10px 20px;
         border-radius: 15px;
@@ -74,7 +74,7 @@
 
     **编译好的 CSS 文件:**
 
-    ```css
+    ```html
     .status-bar-button, .toolbar-button {
       padding: 10px 20px;
       border-radius: 15px;

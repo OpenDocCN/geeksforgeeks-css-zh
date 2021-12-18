@@ -8,7 +8,7 @@
 
 **例 1:** 首先来看看彩色图像到单色图像的过渡。为此，我们将在[悬停](https://www.geeksforgeeks.org/css-hover-selector/)选择器中使用灰度()功能。我们只是在鼠标悬停时将灰度值设置为 100%。
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -49,7 +49,7 @@
 
 **示例 2:** 现在，对于从单色到彩色图像的过渡，我们将执行示例 1 的相反过程。我们将对< img >标签使用 100%灰度()函数，然后在鼠标悬停时将其降低到 0%。
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 

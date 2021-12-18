@@ -12,7 +12,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <html>
 <head>
   <style>
@@ -49,7 +49,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <html>
 <head>
   <style>
@@ -82,7 +82,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <html>
 <head>
   <style>
@@ -122,7 +122,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <html>
 <head>
   <style>

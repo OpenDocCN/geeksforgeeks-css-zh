@@ -8,7 +8,7 @@
 
 **语法:**
 
-```css
+```html
 /* length values */
 text-indent: 3mm;
 text-indent: 40px;
@@ -32,7 +32,7 @@ text-indent: unset;
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -81,7 +81,7 @@ text-indent: unset;
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

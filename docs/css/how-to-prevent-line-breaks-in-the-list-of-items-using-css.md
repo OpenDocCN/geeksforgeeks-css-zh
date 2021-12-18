@@ -6,7 +6,7 @@ display:inline-block 属性用于显示内联级块容器中的元素。它将�
 
 **语法:**
 
-```css
+```html
 element {
     display:inline-block;
 } 
@@ -14,7 +14,7 @@ element {
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>                        
 <html>
     <head>

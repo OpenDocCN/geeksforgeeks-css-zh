@@ -7,7 +7,7 @@
 
 **例 1:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -54,7 +54,7 @@
 
 **示例 2:** 在此示例中，使用 auto 代替 overflow-x:hidden；和 overflow-y:auto；使 div 垂直滚动。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

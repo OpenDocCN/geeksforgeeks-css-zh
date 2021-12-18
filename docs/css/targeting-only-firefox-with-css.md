@@ -7,7 +7,7 @@
 **方法 1:** 该方法使用 Mozilla 特定扩展添加 CSS 属性。这个扩展只在火狐浏览器中提供 CSS 属性。
 **语法:**
 
-```css
+```html
 @-moz-document url-prefix() {
     element {
         // CSS Property
@@ -18,7 +18,7 @@
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -52,7 +52,7 @@
 **方法 2:**Gecko(火狐)中使用-moz 外观 CSS 属性，根据操作系统的主题，使用平台原生样式显示元素。
 **语法:**
 
-```css
+```html
 @supports (-moz-appearance:none) {
     element {
         // CSS Property
@@ -63,7 +63,7 @@
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

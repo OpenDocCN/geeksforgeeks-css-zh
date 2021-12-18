@@ -10,7 +10,7 @@
 
 **语法:**
 
-```css
+```html
 box-decoration-break: slice|clone|initial|inherit;
 ```
 
@@ -20,7 +20,7 @@ box-decoration-break: slice|clone|initial|inherit;
 
 *   **语法:**
 
-```css
+```html
 box-decoration-break: slice;
 ```
 
@@ -28,7 +28,7 @@ box-decoration-break: slice;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -89,7 +89,7 @@ box-decoration-break: slice;
 
 *   **语法:**
 
-```css
+```html
 box-decoration-break: clone;
 ```
 
@@ -97,7 +97,7 @@ box-decoration-break: clone;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -158,7 +158,7 @@ box-decoration-break: clone;
 
 *   **语法:**
 
-```css
+```html
 box-decoration-break: initial;
 ```
 
@@ -166,7 +166,7 @@ box-decoration-break: initial;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

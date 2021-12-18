@@ -8,7 +8,7 @@
 
 **语法:**
 
-```css
+```html
 .className {
  margin-left: auto;
  margin-right: auto;
@@ -17,7 +17,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>

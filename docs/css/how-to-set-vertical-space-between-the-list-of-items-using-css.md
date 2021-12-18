@@ -8,13 +8,13 @@ HTML 中的项目列表可以是多种类型，如**有序列表**、**无序列
 
 *   **语法:**
 
-    ```css
+    ```html
     line-height: normal|number|length|percentage|initial|inherit;
     ```
 
 *   **例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 
@@ -90,12 +90,12 @@ HTML 中的项目列表可以是多种类型，如**有序列表**、**无序列
 
 *   **语法:**
 
-    ```css
+    ```html
     For margin-top
     margin-top: length|auto|initial|inherit|percentage;
     ```
 
-    ```css
+    ```html
     For margin-bottom
     margin-bottom: length|auto|initial|inherit|percentage;
 
@@ -103,7 +103,7 @@ HTML 中的项目列表可以是多种类型，如**有序列表**、**无序列
 
 *   **expmle:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 
@@ -185,19 +185,19 @@ HTML 中的项目列表可以是多种类型，如**有序列表**、**无序列
 
 *   **语法:**
 
-    ```css
+    ```html
     For padding-top
     padding-top: length|initial|inherit;
     ```
 
-    ```css
+    ```html
     For padding-bottom
     padding-bottom: length|initial|inherit;
     ```
 
 *   **例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 

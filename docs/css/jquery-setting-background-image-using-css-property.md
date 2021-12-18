@@ -11,21 +11,21 @@
 
 *   **返回一个 CSS 属性:**
 
-```css
+```html
 $(selector).css("propertyname");
 
 ```
 
 *   **Set a CSS property:**
 
-    ```css
+    ```html
     $(selector).css("propertyname", "value");
 
     ```
 
     **示例-1:** 在本例中，使用 JQuery 的**由**背景图像**属性设置背景图像。css()方法**。
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -86,7 +86,7 @@ $(selector).css("propertyname");
 
     **示例-2:** 在本例中，背景图像和背景重复属性由**背景**属性使用 JQuery 的**设置。css()方法**。
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 

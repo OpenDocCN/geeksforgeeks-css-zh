@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 @each <variable> in <expression> {
    ... 
 }
@@ -14,7 +14,7 @@
 
 **示例:**
 
-```css
+```html
 $sizes: 20px, 30px, 100px;
 @each $size in $sizes {
   .gfg-#{$size} {
@@ -27,7 +27,7 @@ $sizes: 20px, 30px, 100px;
 
 **输出:**
 
-```css
+```html
 .gfg-20px {
   font-size: 20px;
   height: 20px;
@@ -52,7 +52,7 @@ $sizes: 20px, 30px, 100px;
 
 **语法:**
 
-```css
+```html
 @each <variable>, <variable> in <expression> { 
    ... 
 }
@@ -60,7 +60,7 @@ $sizes: 20px, 30px, 100px;
 
 **示例:**在本例中，键被分配给第一个变量名，元素被分配给第二个。
 
-```css
+```html
 $colors: (arial: black, sans-serif: green, algerian: gray);
 
 @each $name, $font in $colors {
@@ -74,7 +74,7 @@ $colors: (arial: black, sans-serif: green, algerian: gray);
 
 **输出:**
 
-```css
+```html
 .font-arial:before {
   background-color: white;
   font-family: arial;
@@ -99,7 +99,7 @@ $colors: (arial: black, sans-serif: green, algerian: gray);
 
 **语法:**
 
-```css
+```html
 @each <variables...> in <expression> {  
    ... 
 }
@@ -107,7 +107,7 @@ $colors: (arial: black, sans-serif: green, algerian: gray);
 
 **示例:**在本例中，键被分配给第一个变量名，元素被分配给第二个。
 
-```css
+```html
 $colors: 
   arial black 10px,
   sans-serif green 12px, 
@@ -125,7 +125,7 @@ $colors: 
 
 **输出:**
 
-```css
+```html
 .font-arial:before {
   background-color: white;
   font-family: arial;

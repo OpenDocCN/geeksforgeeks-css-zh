@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 writing-mode: horizontal-tb|vertical-rl|vertical-lr;
 
 ```
@@ -19,14 +19,14 @@ writing-mode: horizontal-tb|vertical-rl|vertical-lr;
 
     **语法:**
 
-    ```css
+    ```html
     writing-mode: horizontal-tb;
 
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -60,14 +60,14 @@ writing-mode: horizontal-tb|vertical-rl|vertical-lr;
 
     **语法:**
 
-    ```css
+    ```html
     writing-mode: vertical-rl;
 
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -101,14 +101,14 @@ writing-mode: horizontal-tb|vertical-rl|vertical-lr;
 
     **语法:**
 
-    ```css
+    ```html
     writing-mode: vertical-lr;
 
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```css
+```html
 column-width: value;
 ```
 
@@ -16,7 +16,7 @@ column-width: value;
 
 ## **超文本标记语言**
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -52,7 +52,7 @@ column-width: value;
 
 ## **超文本标记语言**
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

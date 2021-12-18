@@ -15,7 +15,7 @@ CSS 中的 [**媒体查询**](https://www.geeksforgeeks.org/css-media-queries/) 
 
 **语法:**
 
-```css
+```html
 @media not | only mediatype and (expression)
 {
     // Code content
@@ -36,7 +36,7 @@ CSS 中的 [**媒体查询**](https://www.geeksforgeeks.org/css-media-queries/) 
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -63,7 +63,7 @@ CSS 中的 [**媒体查询**](https://www.geeksforgeeks.org/css-media-queries/) 
 
 ## 半铸钢ˌ钢性铸铁(Cast Semi-Steel)
 
-```css
+```html
 * {
   margin: 0;
   padding: 0;

@@ -7,7 +7,7 @@
 下面的程序说明了使用客户端 JavaScript 的解决方案:
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

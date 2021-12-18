@@ -6,13 +6,13 @@
 
 **语法:**
 
-```css
+```html
 text-decoration: none;
 ```
 
 **示例 1:** 本示例将文本装饰属性设置为无。
 
-```css
+```html
 <!-- HTML code to remove underline
     from anchor tag -->
 <!DOCTYPE html> 
@@ -57,7 +57,7 @@ text-decoration: none;
 
 **示例 2:** 当鼠标移动到锚点部件上时，使用悬停属性移除下划线。
 
-```css
+```html
 <!-- HTML code to remove underline
     from anchor tag -->
 <!DOCTYPE html> 

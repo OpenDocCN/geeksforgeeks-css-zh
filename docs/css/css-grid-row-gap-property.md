@@ -6,7 +6,7 @@ CSS 中的网格行间隙属性用于定义网格元素之间的间隙大小。�
 
 **语法:**
 
-```css
+```html
 grid-row-gap: length | percentage | global-values;
 ```
 
@@ -16,7 +16,7 @@ grid-row-gap: length | percentage | global-values;
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -62,7 +62,7 @@ grid-row-gap: length | percentage | global-values;
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -108,7 +108,7 @@ grid-row-gap: length | percentage | global-values;
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>

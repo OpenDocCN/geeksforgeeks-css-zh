@@ -5,7 +5,7 @@
 CSS 中的**边框**属性用于设置元素边框的样式。该属性是其他三个属性*边框宽度*、*边框样式*和*边框颜色*的组合，可以用作这三个属性的简写符号。它设置或返回边框宽度、边框样式、边框颜色属性。
 **语法:**
 
-```css
+```html
 border = "width style color|initial|inherit"
 ```
 
@@ -22,7 +22,7 @@ border = "width style color|initial|inherit"
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

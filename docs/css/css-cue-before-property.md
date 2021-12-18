@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 cue-before: url|none;
 ```
 
@@ -19,7 +19,7 @@ cue-before: url|none;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
 
@@ -53,7 +53,7 @@ cue-before: url|none;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
 

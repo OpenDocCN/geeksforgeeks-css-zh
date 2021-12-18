@@ -12,7 +12,7 @@
 
 **语法:**
 
-```css
+```html
 <ul class="pagination">
     <li class="active"><a href="#!">1</a></li>
     <li class="waves-effect"><a href="#!">2</a></li>
@@ -33,7 +33,7 @@
 
 ## 第 1 页. html
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -69,7 +69,7 @@
 
 ## 第 2 页. html
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -105,7 +105,7 @@
 
 ## 第 3 页. html
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 animation-iteration-count: number | infinite | initial | inherit; 
 
 ```
@@ -15,7 +15,7 @@ animation-iteration-count: number | infinite | initial | inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <html>
 

@@ -13,7 +13,7 @@
 
 **语法:**
 
-```css
+```html
 <nav>
   <div class="nav-wrapper green">
     <a href="#html5" class="breadcrumb">HTML5</a>
@@ -27,7 +27,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <html>
    <head>
       <title>BreadCrumb</title>
@@ -102,7 +102,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <html>
   <head>
     <title>BreadCrumb</title>

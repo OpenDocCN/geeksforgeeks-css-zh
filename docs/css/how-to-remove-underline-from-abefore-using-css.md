@@ -6,14 +6,14 @@
 
 **语法:**
 
-```css
+```html
 text-decoration:none;
 display:inline-block;
 ```
 
 **示例 1:** 本示例将文本装饰属性设置为无。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -59,7 +59,7 @@ display:inline-block;
 
 **示例 2:** 当鼠标移动到 a:before 部分上时，本示例使用悬停属性移除下划线。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -115,7 +115,7 @@ display:inline-block;
 
 **示例 3:** 本示例仅删除:部分之前的下划线。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

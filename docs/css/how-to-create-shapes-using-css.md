@@ -8,7 +8,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!-- Write HTML code here -->
 <!DOCTYPE html>
 <html>
@@ -39,7 +39,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!-- Write HTML code here -->
 <!DOCTYPE html>
 <html>
@@ -71,7 +71,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!-- Write HTML code here -->
 <!DOCTYPE html>
 <html>
@@ -103,7 +103,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!-- Write HTML code here -->
 <!DOCTYPE html>
 <html>
@@ -134,7 +134,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!-- Write HTML code here -->
 <!DOCTYPE html>
 <html>
@@ -164,7 +164,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!-- Write HTML code here -->
 <!DOCTYPE html>
 <html>
@@ -195,7 +195,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!-- Write HTML code here -->
 <!DOCTYPE html>
 <html>

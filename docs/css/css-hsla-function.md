@@ -6,7 +6,7 @@ hsla()函数是 CSS 中的一个内置函数，用于使用色调饱和度亮度
 
 **语法:**
 
-```css
+```html
 hsla( hue, saturation, lightness, alpha )
 ```
 
@@ -21,7 +21,7 @@ hsla( hue, saturation, lightness, alpha )
 
 **程序:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

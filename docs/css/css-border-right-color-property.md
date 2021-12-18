@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 border-right-color: color|transparent|initial|inherit; 
 ```
 
@@ -16,13 +16,13 @@ border-right-color: color|transparent|initial|inherit;
 
 *   **语法:**
 
-    ```css
+    ```html
     border-right-color: color;
     ```
 
 *   **例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -67,13 +67,13 @@ border-right-color: color|transparent|initial|inherit;
 
 *   **语法:**
 
-    ```css
+    ```html
     border-right-color:transparent;
     ```
 
 *   **例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -117,13 +117,13 @@ border-right-color: color|transparent|initial|inherit;
 
 *   **语法:**
 
-    ```css
+    ```html
     border-right-color:initial;
     ```
 
 *   **例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 

@@ -16,7 +16,7 @@
 
 ## HTML
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -48,7 +48,7 @@
 
 ## HTML
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

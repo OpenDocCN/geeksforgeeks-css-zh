@@ -6,7 +6,7 @@ CSS 中的字体拉伸属性用于设置文本的宽度或宽度。该属性对�
 
 **语法:**
 
-```css
+```html
 font-stretch: normal|ultra-condensed|extra-condensed|condensed|
 semi-condensed|semi-expanded|expanded|extra-expanded|ultra-expanded; 
 ```
@@ -31,7 +31,7 @@ semi-condensed|semi-expanded|expanded|extra-expanded|ultra-expanded;
 
 ## 超文本标记语言
 
-```css
+```html
 <!--HTML code to illustrate font-stretch
 Property -->
 <!DOCTYPE html>

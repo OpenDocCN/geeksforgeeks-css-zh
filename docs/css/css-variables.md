@@ -6,7 +6,7 @@ CSS 中的**变量**就像任何其他编程语言的简单变量一样。这些
 
 **语法:**
 
-```css
+```html
 var( --custom-name, value );
 ```
 
@@ -25,7 +25,7 @@ var( --custom-name, value );
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -66,7 +66,7 @@ var( --custom-name, value );
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>

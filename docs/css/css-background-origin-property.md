@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 background-origin: padding-box|border-box|content-box|initial|
 inherit;
 ```
@@ -16,7 +16,7 @@ inherit;
 
 *   **语法:**
 
-    ```css
+    ```html
     background-origin: initial;
     ```
 
@@ -24,7 +24,7 @@ inherit;
 
     ## Hypertext Markup Language
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

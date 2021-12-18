@@ -16,7 +16,7 @@ SASS 和 SCSS 可以互相导入。Sass 实际上通过数学和变量支持使 
 
 ## SCSS
 
-```css
+```html
 /* .scss file */
 $bgcolor: blue;
 $textcolor: red;
@@ -32,7 +32,7 @@ body {
 
 **输出 CSS:**
 
-```css
+```html
 body {
   background-color: blue;
   color: red;
@@ -45,7 +45,7 @@ body {
 
 ## 厚颜无耻
 
-```css
+```html
 /* SASS */
 
 $primary-color: green
@@ -58,7 +58,7 @@ body 
 
 **输出 CSS:**
 
-```css
+```html
 /* CSS */
 body {
   color: green;

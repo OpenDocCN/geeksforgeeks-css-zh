@@ -8,7 +8,7 @@
 
 **语法:**
 
-```css
+```html
 scroll-padding-block: keyword_values
 
 /* Or */
@@ -31,7 +31,7 @@ scroll-padding-block: Global_Values
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

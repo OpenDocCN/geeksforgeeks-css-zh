@@ -6,7 +6,7 @@ CSS 中的**列计数**属性用于将任何 HTML 元素中的一部分内容分
 
 **语法:**
 
-```css
+```html
 column-count: number|auto|initial|inherit;
 ```
 
@@ -25,7 +25,7 @@ column-count: number|auto|initial|inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!-- HTML program to illustrate the
     column-count property -->
 
@@ -79,7 +79,7 @@ column-count: number|auto|initial|inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!-- HTML program for column-count property of CSS -->
 
 <!DOCTYPE html>

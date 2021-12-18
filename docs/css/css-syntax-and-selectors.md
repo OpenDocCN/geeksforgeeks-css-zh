@@ -6,13 +6,13 @@
 
 **语法:**
 
-```css
+```html
 selector { Property: value; }
 ```
 
 例如，我们已经声明了一个标题标签(h1)，并分配了一些*属性:值*对，用于设置标题标签的样式。这里，*h1***T5】是选择器， *{颜色:绿色；字体系列:无衬线字体；}* 是一个声明块&它可以包含一个或多个用分号分隔的声明，*颜色:绿色；*是一个*属性:值*对，应用于 HTML 元素以设置它们的样式。**
 
-```css
+```html
 h1 { color: green; font-family: sans-serif;}
 ```
 
@@ -22,7 +22,7 @@ h1 { color: green; font-family: sans-serif;}
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -64,7 +64,7 @@ h1 { color: green; font-family: sans-serif;}
 
 **语法:**
 
-```css
+```html
 element_name {
     // CSS Property
 }
@@ -74,7 +74,7 @@ element_name {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -102,7 +102,7 @@ element_name {
 
 **语法:**
 
-```css
+```html
 #id_name { 
     // CSS Property
 }
@@ -112,7 +112,7 @@ element_name {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -142,7 +142,7 @@ element_name {
 
 **语法:**
 
-```css
+```html
 .class_name {
     // CSS Property
 }
@@ -152,7 +152,7 @@ element_name {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -184,7 +184,7 @@ element_name {
 
 **语法:**
 
-```css
+```html
 * {
     // CSS property
 } 
@@ -194,7 +194,7 @@ element_name {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>

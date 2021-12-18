@@ -10,7 +10,7 @@
 
 **语法:**
 
-```css
+```html
 .container {
     display: flex;
     justify-content: space-between;
@@ -21,7 +21,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -77,7 +77,7 @@
 
 **语法:**
 
-```css
+```html
 .container {
     display: grid;
     gap: 1rem;
@@ -88,7 +88,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 

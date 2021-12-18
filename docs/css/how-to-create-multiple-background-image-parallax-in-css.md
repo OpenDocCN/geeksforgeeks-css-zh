@@ -8,7 +8,7 @@
 
 **语法:**
 
-```css
+```html
 background-image: url(image_url1),url(image_url2),...;
 ```
 
@@ -16,7 +16,7 @@ background-image: url(image_url1),url(image_url2),...;
 
 **语法:**
 
-```css
+```html
 animation: duration timing-function iteration-count direction;
 ```
 
@@ -26,7 +26,7 @@ animation: duration timing-function iteration-count direction;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -66,7 +66,7 @@ animation: duration timing-function iteration-count direction;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

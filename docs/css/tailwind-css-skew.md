@@ -17,7 +17,7 @@
 
 ****语法:****
 
-```css
+```html
 <element class="transform skew-{axis}-{amount}">...</element>
 ```
 
@@ -25,7 +25,7 @@
 
 ## **超文本标记语言**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -79,7 +79,7 @@ https://media.geeksforgeeks.org/wp-content/uploads/20210222211217/Screenshot2021
 
 ## **超文本标记语言**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>

@@ -6,7 +6,7 @@ CSS 中的**框阴影**属性用于给元素的框架一个类似阴影的效果
 
 **语法:**
 
-```css
+```html
 box-shadow: h-offset v-offset blur spread color |none|inset|initial|
 inherit;
 ```
@@ -21,7 +21,7 @@ inherit;
 
 **语法:**
 
-```css
+```html
 box-shadow: h-offset v-offset blur;
 ```
 
@@ -29,7 +29,7 @@ box-shadow: h-offset v-offset blur;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -70,7 +70,7 @@ box-shadow: h-offset v-offset blur;
 
 **语法:**
 
-```css
+```html
 box-shadow: h-offset v-offset blur spread;
 ```
 
@@ -78,7 +78,7 @@ box-shadow: h-offset v-offset blur spread;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -121,7 +121,7 @@ box-shadow: h-offset v-offset blur spread;
 
 **语法:**
 
-```css
+```html
 box-shadow: h-offset v-offset color;
 ```
 
@@ -129,7 +129,7 @@ box-shadow: h-offset v-offset color;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -172,7 +172,7 @@ box-shadow: h-offset v-offset color;
 
 **语法:**
 
-```css
+```html
 box-shadow: h-offset v-offset color inset;
 ```
 
@@ -180,7 +180,7 @@ box-shadow: h-offset v-offset color inset;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -222,7 +222,7 @@ box-shadow: h-offset v-offset color inset;
 
 **语法:**
 
-```css
+```html
 box-shadow: initial;
 ```
 
@@ -230,7 +230,7 @@ box-shadow: initial;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>

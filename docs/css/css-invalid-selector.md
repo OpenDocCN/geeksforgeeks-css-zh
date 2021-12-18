@@ -7,7 +7,7 @@
 
 **语法:**
 
-```css
+```html
 :invalid {
     // CSS property
 } 
@@ -16,7 +16,7 @@
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

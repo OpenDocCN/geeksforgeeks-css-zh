@@ -18,7 +18,7 @@ CSS 中的[位置属性](https://www.geeksforgeeks.org/explain-the-positions-pro
 
 **语法:**
 
-```css
+```html
 selector {
      position: fixed;
 }
@@ -28,7 +28,7 @@ selector {
 
 ## 超文本标记语言
 
-```css
+```html
 <html>
 <head>
     <style>
@@ -107,7 +107,7 @@ selector {
 
 **语法:**
 
-```css
+```html
 selector {
      position: sticky;
 }
@@ -117,7 +117,7 @@ selector {
 
 ## 超文本标记语言
 
-```css
+```html
 <html>
 <head>
     <style>

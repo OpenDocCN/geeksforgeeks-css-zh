@@ -4,7 +4,7 @@
 
 @charset 规则指定样式表中使用的字符编码。@charset 必须是样式表中的第一个元素，如果定义了几个@charset 规则，则只使用第一个。不能用在与 HTML 页面字符集相关的
 
-```css
+```html
 @charset "utf-8";
 
 ```
@@ -26,7 +26,7 @@
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

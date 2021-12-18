@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 play-during: <uri> 
 
 ```
@@ -23,7 +23,7 @@ play-during: <uri>
 
 ## HTML
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

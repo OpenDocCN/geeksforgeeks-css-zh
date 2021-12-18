@@ -6,7 +6,7 @@ CSS 的*列-规则-颜色*属性用于改变列间规则的颜色。
 
 **语法:**
 
-```css
+```html
 column-rule-color: color | initial | inherit 
 ```
 
@@ -18,7 +18,7 @@ column-rule-color: color | initial | inherit
 
 **例**:
 
-```css
+```html
 <!DOCTYPE html>
 
 <html>

@@ -11,7 +11,7 @@
 **默认情况下:**默认情况下，HTML div 适合其中的内容。示例如下:
 **示例 1:**
 
-```css
+```html
 <!DOCTYPE html>
 <html lang = "en" dir = "ltr">
 
@@ -67,7 +67,7 @@
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html>
 <html lang = "en">
 
@@ -123,7 +123,7 @@
 **在宽度和高度上使用拟合内容属性:**在该方法中，我们将宽度和高度属性设置为拟合内容值。
 T3】例 3:
 
-```css
+```html
 <!DOCTYPE html>
 <html lang = "en" dir = "ltr">
 

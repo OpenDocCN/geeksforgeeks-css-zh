@@ -25,7 +25,7 @@ CSS calc()函数中的 Sass 变量是使用保留符号($)
 
 **示例:**
 
-```css
+```html
 $a: 40%; 
 $b: 10px; 
 
@@ -36,7 +36,7 @@ $b: 10px; 
 
 **编译文件:**
 
-```css
+```html
 .class {
  height: calc(40% - 10px);
 }

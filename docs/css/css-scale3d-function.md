@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 scale3d( sx, sy, sz )
 ```
 
@@ -20,7 +20,7 @@ scale3d( sx, sy, sz )
 
 **例 1:**
 
-```css
+```html
 
 <!DOCTYPE html>
 <html>
@@ -62,7 +62,7 @@ scale3d( sx, sy, sz )
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

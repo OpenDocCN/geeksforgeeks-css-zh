@@ -11,7 +11,7 @@
 
 **语法:**
 
-```css
+```html
 <svg class="sr-only|not-sr-only">...</svg>
 ```
 
@@ -19,7 +19,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <html>
 <head>     

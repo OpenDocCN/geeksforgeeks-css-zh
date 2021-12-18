@@ -8,7 +8,7 @@
 
 **语法:**
 
-```css
+```html
 element-selector {
   animation-name: name;
 }
@@ -20,7 +20,7 @@ element-selector {
 
 ## 超文本标记语言
 
-```css
+```html
 <html>
 <head>
   <style>
@@ -92,7 +92,7 @@ element-selector {
 
 ## 超文本标记语言
 
-```css
+```html
 <html>
 <head>
   <style>

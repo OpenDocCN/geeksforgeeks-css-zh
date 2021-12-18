@@ -32,7 +32,7 @@ Sr 号
 
 **示例:**在 HTML 页面中使用不同的卡片类。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -118,7 +118,7 @@ Sr 号
 
 **示例:**增加一张有表头和表尾的卡片。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

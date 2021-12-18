@@ -17,7 +17,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="max-h-0">...</element>
 ```
 
@@ -25,7 +25,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -55,7 +55,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="max-h-px">...</element>
 ```
 
@@ -63,7 +63,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -93,7 +93,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="max-h-full">...</element>
 ```
 
@@ -101,7 +101,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -131,7 +131,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="max-h-screen">...</element>
 ```
 
@@ -139,7 +139,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <head> 
     <link href=

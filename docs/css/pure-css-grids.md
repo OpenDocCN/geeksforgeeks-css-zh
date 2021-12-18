@@ -20,7 +20,7 @@
 
 **语法：↔**
 
-```css
+```html
 <div class="pure-g">
 ..... Some Unit Classes ....</div>
 ```
@@ -29,7 +29,7 @@
 
 **语法：**
 
-```css
+```html
 <div class="pure-g">
     <div class="pure-u-2-5">...Inner Elements...</div>
     <div class="pure-u-3-5">...Inner Elements...</div>
@@ -41,7 +41,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -122,7 +122,7 @@ CSS 媒体查询
 
 **语法：↔**
 
-```css
+```html
 <div class="pure-g">
     <div class="pure-u-sm-1 pure-u-md-1-5"> Inner Elements </div>
     <div class="pure-u-sm-1 pure-u-md-1-5"> Inner Elements </div>
@@ -136,7 +136,7 @@ CSS 媒体查询
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

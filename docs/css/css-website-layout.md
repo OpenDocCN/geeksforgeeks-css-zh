@@ -14,7 +14,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!-- This code describes the header section
 of website layout -->
 <!DOCTYPE html>
@@ -58,7 +58,7 @@ of website layout -->
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -143,7 +143,7 @@ of website layout -->
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -288,7 +288,7 @@ of website layout -->
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

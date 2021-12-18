@@ -6,7 +6,7 @@ CSS 的 *[【字体大小-调整】](https://www.geeksforgeeks.org/css-font-size
 
 **语法:**
 
-```css
+```html
 font-size-adjust: number|none|initial|inherit;
 ```
 
@@ -16,7 +16,7 @@ font-size-adjust: number|none|initial|inherit;
 
 ## HTML
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

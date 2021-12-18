@@ -13,7 +13,7 @@ HTML 中的表格都是荒诞的元素。将 CSS 属性应用于表元素并不�
 
 ## HTML
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -92,7 +92,7 @@ HTML 中的表格都是荒诞的元素。将 CSS 属性应用于表元素并不�
 
 ## HTML
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -174,7 +174,7 @@ HTML 中的表格都是荒诞的元素。将 CSS 属性应用于表元素并不�
 
 ## HTML
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

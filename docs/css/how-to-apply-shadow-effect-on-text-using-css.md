@@ -13,7 +13,7 @@
 
 **语法:**
 
-```css
+```html
 text-shadow: vertical_shadow horizontal_shadow blur color;
 ```
 
@@ -21,7 +21,7 @@ text-shadow: vertical_shadow horizontal_shadow blur color;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -61,7 +61,7 @@ text-shadow: vertical_shadow horizontal_shadow blur color;
 
     ## 超文本标记语言
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html lang="en">
       <head>

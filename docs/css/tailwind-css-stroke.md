@@ -10,7 +10,7 @@
 
 **语法**:
 
-```css
+```html
 <svg class="stroke-current">...</svg>
 ```
 
@@ -18,7 +18,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
 <head> 

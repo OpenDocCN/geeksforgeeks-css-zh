@@ -8,7 +8,7 @@
 
 **语法:**
 
-```css
+```html
 %( name_of_selector ) { property: value; ... }
 ```
 
@@ -18,7 +18,7 @@
 
 **语法:**
 
-```css
+```html
 @extend %( name_of_selector );
 ```
 
@@ -26,7 +26,7 @@
 
 **SASS 文件:**
 
-```css
+```html
 %button-format {
     padding: 10px 20px;
     border-radius: 15px;
@@ -55,7 +55,7 @@
 
 **编译后的 CSS 文件:**
 
-```css
+```html
 .status-bar-button, .toolbar-button {
     padding: 10px 20px;
     border-radius: 15px;

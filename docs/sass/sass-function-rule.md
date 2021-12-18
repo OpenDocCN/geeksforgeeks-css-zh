@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 @function <function name>(<arguments...>) {
  ... 
 }
@@ -16,7 +16,7 @@
 
 **示例:**
 
-```css
+```html
 @function power($base, $expo)
   $result: 1
   @for $_ from 1 through $expo
@@ -30,7 +30,7 @@
 
 **输出:**
 
-```css
+```html
 .sidebar {
   float: right;
   margin-left: 64px;
@@ -45,7 +45,7 @@
 *   Optional Arguments:
     **Example:**
 
-    ```css
+    ```html
     @function gfg($color, $amount: 100%) {
       $geeks: change-color($color, $hue: hue($color) + 180);
       @return mix($geeks, $color, $amount);
@@ -59,7 +59,7 @@
 
     **输出:**
 
-    ```css
+    ```html
     .header {
       background-color: white;
     }
@@ -69,7 +69,7 @@
 *   Arbitrary Arguments:
     **Example:**
 
-    ```css
+    ```html
     $lengths: 50px, 30px, 100px;
     .gfg {
       width: max($lengths...);
@@ -78,7 +78,7 @@
 
     **输出:**
 
-    ```css
+    ```html
     .gfg {
       width: 100px;
     }
@@ -88,7 +88,7 @@
 *   Keyword Arguments:
     **Example:**
 
-    ```css
+    ```html
     $geeks: green;
     .banner {
       background-color: $geeks;
@@ -98,7 +98,7 @@
 
     **输出:**
 
-    ```css
+    ```html
     .banner {
       background-color: green;
       color: #1aff1a;
@@ -109,7 +109,7 @@
 **@ return:****@ return at-rule**给出被调用函数的结果。仅在*@功能*规则中有效，每个*@功能*必须以*@返回*结束。当调用 *@return* 时，立即结束函数并返回结果。提前返回对于处理边缘情况非常有用。在有效算法可用但没有将整个函数包装在 *@else* 块中的情况下，这也很有用。
 **例:**
 
-```css
+```html
 @function add($numbers...) {
   $add: 0;
   @each $number in $numbers {
@@ -125,7 +125,7 @@
 
 **输出:**
 
-```css
+```html
 .gfg {
   width: 180;
 }

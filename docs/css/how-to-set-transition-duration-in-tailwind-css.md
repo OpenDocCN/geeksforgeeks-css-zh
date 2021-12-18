@@ -14,19 +14,19 @@
 
 **第一步:**
 
-```css
+```html
 npm init -y
 ```
 
 **第二步:**
 
-```css
+```html
 npm install tailwindcss
 ```
 
 **第三步:**现在我们必须使用 *@tailwind* 指令将 Tailwind 的基础、组件和实用程序样式注入到我们的 CSS 文件中，从而将 tailwind 添加到我们的 CSS 中。
 
-```css
+```html
 @tailwind base;  
 @tailwind components;  
 @tailwind utilities;
@@ -34,7 +34,7 @@ npm install tailwindcss
 
 **第四步:**
 
-```css
+```html
 npx tailwindcss init
 ```
 
@@ -42,7 +42,7 @@ npx tailwindcss init
 
 **第五步:**
 
-```css
+```html
 npx tailwindcss build styles.css -o output.css  
 ```
 
@@ -54,7 +54,7 @@ npx tailwindcss build styles.css -o output.css
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

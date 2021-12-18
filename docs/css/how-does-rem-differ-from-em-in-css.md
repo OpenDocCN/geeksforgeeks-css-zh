@@ -18,7 +18,7 @@ em 是一个 CSS [*字号*](https://www.geeksforgeeks.org/css-font-size-property
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -102,7 +102,7 @@ em 是一个 CSS [*字号*](https://www.geeksforgeeks.org/css-font-size-property
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

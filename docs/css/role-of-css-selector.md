@@ -7,7 +7,7 @@
 
 **语法:**
 
-```css
+```html
 if article > p  
 ```
 
@@ -15,7 +15,7 @@ if article > p
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -89,7 +89,7 @@ if article > p
 **后代选择器的角色:**后代选择器的 CSS 选择器属性适用于每一个级别或父元素。
 **语法:**
 
-```css
+```html
 section li
 ```
 
@@ -97,7 +97,7 @@ section li
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

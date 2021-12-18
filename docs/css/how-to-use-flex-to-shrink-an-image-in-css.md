@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 flex-wrap: wrap
 ```
 
@@ -16,7 +16,7 @@ flex-wrap: wrap
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

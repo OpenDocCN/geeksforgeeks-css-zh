@@ -10,7 +10,7 @@
 
 **语法:**
 
-```css
+```html
 border-spacing: length|initial|inherit; 
 ```
 
@@ -23,7 +23,7 @@ border-spacing: length|initial|inherit;
 
 **语法:**
 
-```css
+```html
 border-spacing:initial;
 ```
 
@@ -31,7 +31,7 @@ border-spacing:initial;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

@@ -19,7 +19,7 @@ Sass 引入了 CSS 中不存在的几个特性，比如可以用来存储数据�
 
 **语法:**
 
-```css
+```html
 $var_Name : var-value;
 ```
 
@@ -27,7 +27,7 @@ $var_Name : var-value;
 
 **文件名** ***:** 样式*
 
-```css
+```html
 // Global variable declaration
 $global__light: #f9f9f9;
 $global__dark: #000;
@@ -66,7 +66,7 @@ p {
 
 **文件名:** *样式*
 
-```css
+```html
 div {
 
   /* Global variable called */
@@ -94,7 +94,7 @@ p {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -146,7 +146,7 @@ p {
 
 ***文件名:** style.scss*
 
-```css
+```html
 // It is a global variable
 $clr_primary: #a9a5f4;
 
@@ -166,7 +166,7 @@ p {
 
 ***文件名:**样式. css*
 
-```css
+```html
 div {
 
   // Here, clr_primary variable assigned
@@ -184,7 +184,7 @@ p {
 
 如果您试图使用范围之外的变量，这将生成一个错误，说“编译错误:未定义的变量”，如下例所示。
 
-```css
+```html
 div {
   $clr__dark: #000; // local variable
   background-color: $clr_dark;
@@ -200,7 +200,7 @@ p {
 
 风格. SCS:
 
-```css
+```html
 div {
 
   // Local variable scope
@@ -218,7 +218,7 @@ p {
 
 **style.css:** 生成的 css 输出将是:
 
-```css
+```html
 div {
 
   // Here, clr_light variable assigned
@@ -236,7 +236,7 @@ p {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

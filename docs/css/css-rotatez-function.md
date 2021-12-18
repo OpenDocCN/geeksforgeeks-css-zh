@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 rotateZ( angle )
 ```
 
@@ -16,7 +16,7 @@ rotateZ( angle )
 
 **例 1:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -55,7 +55,7 @@ rotateZ( angle )
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

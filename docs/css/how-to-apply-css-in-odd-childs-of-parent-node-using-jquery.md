@@ -8,7 +8,7 @@
 
 **语法:**
 
-```css
+```html
 $("Selector:nth-child(odd)")
 ```
 
@@ -18,7 +18,7 @@ $("Selector:nth-child(odd)")
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

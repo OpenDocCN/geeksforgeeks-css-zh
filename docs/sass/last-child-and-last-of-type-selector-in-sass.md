@@ -9,19 +9,19 @@ SASS 在语法上也被称为“棒极了的样式表”。它是一种被解释
 
 *   对于最后一个子选择器:
 
-    ```css
+    ```html
     :last-child
     ```
 
 *   对于最后一种类型:
 
-    ```css
+    ```html
     :last-of-type
     ```
 
 **示例:**该示例实现了:最后一个子选择器。
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -41,7 +41,7 @@ SASS 在语法上也被称为“棒极了的样式表”。它是一种被解释
 
 **萨斯码:**
 
-```css
+```html
 $myColor: lime
 $bkc: black
 $pad: 5px
@@ -54,7 +54,7 @@ p:last-child 
 **输出:**编译完 SASS 源代码后，你会得到这个 CSS 代码。
 T3】CSS 代码:
 
-```css
+```html
 p:last child {
   color: lime;
   background-color: black;
@@ -66,7 +66,7 @@ p:last child {
 
 **示例:**最后一种样品示例如下所示
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -99,7 +99,7 @@ p:last child {
 
 **萨斯码:**
 
-```css
+```html
 $bk: yellow
 p:last-of-type 
   background-color: $bk
@@ -108,7 +108,7 @@ p:last-of-type 
 **输出:**
 **CSS 代码:**
 
-```css
+```html
 p:last-of-type {
   background-color: yellow;
 }

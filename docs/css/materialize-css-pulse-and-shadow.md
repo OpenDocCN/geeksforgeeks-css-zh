@@ -13,7 +13,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -91,7 +91,7 @@
 
 **阴影:** 为了确定元素离页面有多远，物化使用阴影效果。为此使用**class = " z-depth-1 "**。根据阴影效果，有五个等级，从**级=“z-depth-1”**到**级=“z-depth-5”。**
 
-```css
+```html
 <div class="col s12 m2">
     <p class="z-depth-1"> For z-depth-1</p>
 </div>
@@ -113,7 +113,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

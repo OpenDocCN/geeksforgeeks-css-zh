@@ -10,14 +10,14 @@ Sass 由三个用于向开发人员提供反馈的指令组成。其中之一就
 
 **示例:**下面给出的是以扩展名保存的名为 Error.scss 的样式表文件。scss，类似于 css 文件。
 
-```css
+```html
 $color:  green;
   @error "Invalid color: '#{$color}'.";  
 ```
 
 以下命令将开始监视 SASS 文件中的更改，并自动生成相应的 CSS 文件。
 
-```css
+```html
 sass --watch Error.scss:Error.css
 ```
 
@@ -31,7 +31,7 @@ sass --watch Error.scss:Error.css
 
 **示例:**下面给出的是以扩展名保存的名为 debug.scss 的样式表文件。scss，类似于 css 文件。
 
-```css
+```html
 $color-green: #00FF00;
 $font-sizes: 25px + 20px;;
 
@@ -44,7 +44,7 @@ $font-sizes: 25px + 20px;;
 
 以下命令将开始监视 SASS 文件中的更改，并自动生成相应的 CSS 文件。
 
-```css
+```html
 sass --watch debug.scss:debug.css
 ```
 

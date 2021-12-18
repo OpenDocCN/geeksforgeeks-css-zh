@@ -11,13 +11,13 @@
 
 **语法:**
 
-```css
+```html
 padding: value;
 ```
 
 不同的垂直和水平填充:
 
-```css
+```html
 padding: value1 value2;
 ```
 
@@ -26,7 +26,7 @@ padding: value1 value2;
 
 不同的顶部、水平和底部填充:
 
-```css
+```html
 padding: value1 value2 value3;
 ```
 
@@ -36,7 +36,7 @@ padding: value1 value2 value3;
 
 四面都有不同的衬垫:
 
-```css
+```html
 padding: value1 value2 value3 value4;
 ```
 
@@ -49,7 +49,7 @@ padding: value1 value2 value3 value4;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -81,7 +81,7 @@ padding: value1 value2 value3 value4;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -113,7 +113,7 @@ padding: value1 value2 value3 value4;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -144,7 +144,7 @@ padding: value1 value2 value3 value4;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

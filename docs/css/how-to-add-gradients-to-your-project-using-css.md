@@ -24,19 +24,19 @@ CSS 渐变
 
 *   **角度:**可以使用角度指定渐变 CSS 属性。这里 0 度代表向上的方向，正值代表顺时针旋转。当我们在正方向上增加度数，比如从 0 度移动到 90 度，颜色停止从向上向右移动，因此 90 度将代表正确的方向。
 
-```css
+```html
 linear-gradient(30deg, red, blue);
 ```
 
 *   **边或角:**由两个词 to 和 up 组成(两个关键词)。一个指定水平侧，即左侧或右侧，另一个指定垂直侧，即顶部和底部。如果未指定，默认情况下会“降到最低点”。
 
-```css
+```html
 linear-gradient(to right, red, green);
 ```
 
 *   **百分比:**也可以在百分比值中指定渐变属性。它们是颜色提示(也称为颜色插值提示)，它指定了两侧的两个颜色停止点应该如何在它们之间的空间中进行插值。
 
-```css
+```html
 linear-gradient ( to top, red 10%, purple 45%);
 ```
 
@@ -46,7 +46,7 @@ linear-gradient ( to top, red 10%, purple 45%);
 
 **语法:**
 
-```css
+```html
 background-image: linear-gradient(
     direction, color-stop1, color-stop2, ...);
 ```
@@ -55,7 +55,7 @@ background-image: linear-gradient(
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -106,7 +106,7 @@ background-image: linear-gradient(
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -146,7 +146,7 @@ background-image: linear-gradient(
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -186,7 +186,7 @@ background-image: linear-gradient(
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

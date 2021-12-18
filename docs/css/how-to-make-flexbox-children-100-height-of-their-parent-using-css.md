@@ -8,7 +8,7 @@ CSS [Flexbox](https://www.geeksforgeeks.org/advance-css-layout-with-flexbox/) �
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
    <head>
@@ -67,7 +67,7 @@ CSS [Flexbox](https://www.geeksforgeeks.org/advance-css-layout-with-flexbox/) �
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
    <head>
@@ -124,7 +124,7 @@ CSS [Flexbox](https://www.geeksforgeeks.org/advance-css-layout-with-flexbox/) �
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
    <head>

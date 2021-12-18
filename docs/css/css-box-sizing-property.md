@@ -6,7 +6,7 @@ CSS 中的**框大小**属性定义了用户应该如何计算一个元素的总
 
 **语法:**
 
-```css
+```html
 box-sizing: content-box|border-box;
 ```
 
@@ -16,7 +16,7 @@ box-sizing: content-box|border-box;
 
 **语法:**
 
-```css
+```html
 box-sizing: content-box;
 ```
 
@@ -24,7 +24,7 @@ box-sizing: content-box;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -61,7 +61,7 @@ box-sizing: content-box;
 
 **语法:**
 
-```css
+```html
 box-sizing: border-box;
 ```
 
@@ -69,7 +69,7 @@ box-sizing: border-box;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>

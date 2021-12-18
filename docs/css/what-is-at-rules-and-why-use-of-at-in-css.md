@@ -8,13 +8,13 @@
 
 *   **常规 At 规则:**
 
-```css
+```html
 @identifier (condition);
 ```
 
 *   **嵌套 At 规则:**
 
-```css
+```html
 @identifier (condition) {}
 ```
 
@@ -24,7 +24,7 @@
 
 **示例:**
 
-```css
+```html
 @charset "UTF-8";
 ```
 
@@ -36,7 +36,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -62,14 +62,14 @@
 
 **style.css:**
 
-```css
+```html
 @import 'mobile.css' screen and (max-width: 300px);
 @import url('desktop.css') screen and (min-width: 300px);
 ```
 
 **mobile.css:**
 
-```css
+```html
 .heading{
     color: red;  
 }
@@ -77,7 +77,7 @@
 
 **desktop.css:**
 
-```css
+```html
 .heading{
     color: green;  
 }
@@ -95,7 +95,7 @@
 
 **示例:**
 
-```css
+```html
 <!--Normal namespaces-->
 @namespace url/String; /* Url or string of XML namespace */
 
@@ -105,7 +105,7 @@
 
 在选择器中使用它
 
-```css
+```html
 anything|title {your style}
 ```
 
@@ -115,7 +115,7 @@ anything|title {your style}
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -158,7 +158,7 @@ anything|title {your style}
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -210,7 +210,7 @@ anything|title {your style}
 
 在这种情况下，如果浏览器不支持*显示:网格*属性，那么可以使用下面的代码:
 
-```css
+```html
 @supports not (display: grid)
 {
  /*code for no grid support*/
@@ -223,7 +223,7 @@ anything|title {your style}
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -278,7 +278,7 @@ anything|title {your style}
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -328,7 +328,7 @@ anything|title {your style}
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -379,7 +379,7 @@ anything|title {your style}
 
 此外，您可以提供如下百分比变化:
 
-```css
+```html
 @keyframes gfgexpanding{
   0%    {font-size: 12px;}
   25%    {font-size: 16px;}
@@ -392,7 +392,7 @@ anything|title {your style}
 
 **语法:**
 
-```css
+```html
 @counter-style counter-style-name {
   system: system;
   symbols: symbols;
@@ -409,7 +409,7 @@ anything|title {your style}
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

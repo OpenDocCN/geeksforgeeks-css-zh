@@ -10,7 +10,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -114,7 +114,7 @@
 
 ## 菜单.css
 
-```css
+```html
 /* For navigation menu */
 .navigationBar {
     background-color: rgb(65, 122, 230);

@@ -11,7 +11,7 @@ filter 类用于设置元素的视觉效果。这个类主要用于图像内容�
 
 **语法:**
 
-```css
+```html
 <element class="filter">..</element>
 ```
 
@@ -19,7 +19,7 @@ filter 类用于设置元素的视觉效果。这个类主要用于图像内容�
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>

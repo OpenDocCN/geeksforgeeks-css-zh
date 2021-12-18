@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
  mix-blend-mode: normal | multiply | exclusion 
             | overlay | lighten | darken 
             | color-dodge | color-burn 
@@ -24,7 +24,7 @@
 *   **取消设置**–这将从元素中移除当前混合模式。
 *   **normal** – no blending is applied on the element.
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <body>
@@ -48,7 +48,7 @@
 
 *   **multiply** – this multiplies the element’s color with the background. The resulting color is always as dark as the background.
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <body>
@@ -72,7 +72,7 @@
 
 *   **screen** – this multiplies the element’s color with the background and then complements the result. The resulting color is always as bright as one of the blended layers.
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <body>
@@ -96,7 +96,7 @@
 
 *   **exclusion** – this subtracts the darker of two colors from the lightest color of the element. The result is similar to ‘difference’ but with a lower contrast.
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <body>
@@ -120,7 +120,7 @@
 
 *   **overlay** – this applies ‘multiply’ on lighter colors and ‘screen’ on darker colors in the element. The effect is effectively the opposite of ‘hard-light’.
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <body>
@@ -144,7 +144,7 @@
 
 *   **lighten** – this replaces the background with the element’s color where the element is lighter.
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <body>
@@ -168,7 +168,7 @@
 
 *   **darken** – this replaces the background with the element’s color where the element is darker.
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <body>
@@ -192,7 +192,7 @@
 
 *   **color-dodge** – this lightens the background color to reflect the color of the element.
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <body>
@@ -216,7 +216,7 @@
 
 *   **彩色燃烧**–这将使背景颜色变暗，以反映图像的自然颜色。结果增加了元素和背景之间的对比度。
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
     <body>

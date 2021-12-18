@@ -6,14 +6,14 @@
 
 **语法:**
 
-```css
+```html
 property: revert;
 ```
 
 以下示例说明了 CSS 中的 **revert** 关键字:
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

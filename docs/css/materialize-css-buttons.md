@@ -6,7 +6,7 @@
 
 *   **凸起:**用于设置涟漪点击效果，也可以和其他各种职业组合使用。
 
-    ```css
+    ```html
     <a class="waves-effect waves-light btn">button</a>
     <a class="waves-effect waves-light btn"><i class="material-icons left">list</i>button</a>
     <a class="waves-effect waves-light btn"><i class="material-icons right">list</i>button</a>
@@ -15,19 +15,19 @@
 
 *   **浮动:**用于创建圆形按钮。
 
-    ```css
+    ```html
     <a class="btn-floating btn-large waves-effect waves-light red"><i class="material-icons">edit</i></a>
     ```
 
 *   **平板:**用于给按钮设置平板显示效果，减少过度层次感。例如，平面按钮通常用于卡片内的动作，这样就不会有太多重叠的阴影。
 
-    ```css
+    ```html
      <a class="waves-effect waves-teal btn-flat">Button</a>
     ```
 
 *   **提交按钮:**用于表示为主按钮。使用 button 提交表单时，可以使用 submit 类型的 button 标记，而不是使用 input 标记。
 
-    ```css
+    ```html
     <button class="btn waves-effect waves-light" type="submit" name="action">Submit
         <i class="material-icons right">send</i>
       </button>
@@ -35,7 +35,7 @@
 
 *   **大号:**用于需要更多关注的按钮。
 
-    ```css
+    ```html
     <a class="waves-effect waves-light btn-large">Button</a>
     <a class="waves-effect waves-light btn-large"><i class="material-icons left">list</i>button</a>
     <a class="waves-effect waves-light btn-large"><i class="material-icons right">list</i>button</a>
@@ -44,7 +44,7 @@
 
 *   **小:**当鼠标和键盘是主要输入方式时使用，此按钮用于更密集的 UI 布局。
 
-```css
+```html
 <a class="waves-effect waves-light btn-small">Button</a>
 <a class="waves-effect waves-light btn-small"><i class="material-icons left">list</i>button</a>
 <a class="waves-effect waves-light btn-small"><i class="material-icons right">list</i>button</a>
@@ -53,7 +53,7 @@
 
 *   **禁用:**用于创建禁用按钮。
 
-```css
+```html
 <a class="btn-large disabled">Button</a>
 <a class="btn disabled">Button</a>
 <a class="btn-flat disabled">Button</a>
@@ -65,7 +65,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

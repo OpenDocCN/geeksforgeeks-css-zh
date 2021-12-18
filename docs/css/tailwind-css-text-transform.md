@@ -15,7 +15,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="uppercase">...</element>
 ```
 
@@ -23,7 +23,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <html>
 <head> 
@@ -56,7 +56,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="lowercase">...</element>
 ```
 
@@ -64,7 +64,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <html>
 <head> 
@@ -97,7 +97,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="capitalize">...</element>
 ```
 
@@ -105,7 +105,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <html>
 <head> 
@@ -140,7 +140,7 @@
 
 **语法:**
 
-```css
+```html
 <element class="normal-case">...</element>
 ```
 
@@ -148,7 +148,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html> 
 <html>
 <head> 

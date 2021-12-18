@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 /* It sets the radius value to all 4 corners */
 border-radius: value;
 ```
@@ -15,7 +15,7 @@ border-radius: value;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -57,7 +57,7 @@ border-radius: value;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -98,7 +98,7 @@ border-radius: value;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -139,7 +139,7 @@ border-radius: value;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -180,7 +180,7 @@ border-radius: value;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -223,24 +223,24 @@ border-radius: value;
 
 **将半径值应用于所有四个角:**
 
-```css
+```html
 border-radius: value; 
 ```
 
 **将值 1 应用于左上角和右下角，将值 2 应用于右上角和左下角。**
 
-```css
+```html
 border-radius: value1 value2; 
 ```
 
 **在左上角应用值 1，在右上角和左下角应用值 2，在右下角应用值 3。**
 
-```css
+```html
 border-radius: value1 value2 value3; 
 ```
 
 **在左上角应用值 1，在右上角应用值 2，在右下角应用值 3，在左下角应用值 4。**
 
-```css
+```html
 border-radius: value1 value2 value3 value4; 
 ```

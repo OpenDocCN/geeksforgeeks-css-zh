@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 max-block-size: length | percentage | auto | none | min-content | 
                 max-content | fit-content | inherit | initial | unset;
 ```
@@ -28,7 +28,7 @@ max-block-size: length | percentage | auto | none | min-content |
 
 **例 1:**
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
 
@@ -75,7 +75,7 @@ max-block-size: length | percentage | auto | none | min-content |
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
 

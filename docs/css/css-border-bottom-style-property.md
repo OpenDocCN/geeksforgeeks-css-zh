@@ -6,7 +6,7 @@ CSS 中的**边框-下边框样式属性**用于设置元素下边框的样式�
 
 **语法:**
 
-```css
+```html
 border-bottom-style:none|hidden|dotted|dashed|solid|double|groove|
 ridge|inset|outset|initial|inherit;
 ```
@@ -17,13 +17,13 @@ ridge|inset|outset|initial|inherit;
 
 *   **语法:**
 
-    ```css
+    ```html
     border-bottom-style: none;
     ```
 
 *   **例:**
 
-    ```css
+    ```html
     <!DOCTYPE html> 
     <html> 
         <head> 
@@ -59,13 +59,13 @@ ridge|inset|outset|initial|inherit;
 
 *   **语法:**
 
-    ```css
+    ```html
     border-bottom-style: hidden;
     ```
 
 *   **例:**
 
-    ```css
+    ```html
     <!DOCTYPE html> 
     <html> 
         <head> 
@@ -102,13 +102,13 @@ ridge|inset|outset|initial|inherit;
 
 *   **语法:**
 
-    ```css
+    ```html
     border-bottom-style: dotted;
     ```
 
 *   **例:**
 
-    ```css
+    ```html
     <!DOCTYPE html> 
     <html> 
         <head> 
@@ -144,13 +144,13 @@ ridge|inset|outset|initial|inherit;
 
 *   **语法:**
 
-    ```css
+    ```html
     border-bottom-style: dashed;
     ```
 
 *   **例:**
 
-    ```css
+    ```html
     <!DOCTYPE html> 
     <html> 
         <head> 
@@ -186,13 +186,13 @@ ridge|inset|outset|initial|inherit;
 
 *   **语法:**
 
-    ```css
+    ```html
     border-bottom-style: solid;
     ```
 
 *   **例:**
 
-    ```css
+    ```html
     <!DOCTYPE html> 
     <html> 
         <head> 
@@ -228,13 +228,13 @@ ridge|inset|outset|initial|inherit;
 
 *   **语法:**
 
-    ```css
+    ```html
     border-bottom-style: double;
     ```
 
 *   **例:**
 
-    ```css
+    ```html
     <!DOCTYPE html> 
     <html> 
         <head> 
@@ -270,13 +270,13 @@ ridge|inset|outset|initial|inherit;
 
 *   **语法:**
 
-    ```css
+    ```html
     border-bottom-style: groove;
     ```
 
 *   **例:**
 
-    ```css
+    ```html
     <!DOCTYPE html> 
     <html> 
         <head> 
@@ -311,13 +311,13 @@ ridge|inset|outset|initial|inherit;
 
 *   **语法:**
 
-    ```css
+    ```html
     border-bottom-style: inset;
     ```
 
 *   **例:**
 
-    ```css
+    ```html
     <!DOCTYPE html> 
     <html> 
         <head> 
@@ -352,13 +352,13 @@ ridge|inset|outset|initial|inherit;
 
 *   **语法:**
 
-    ```css
+    ```html
     border-bottom-style: outset;
     ```
 
 *   **例:**
 
-    ```css
+    ```html
     <!DOCTYPE html> 
     <html> 
         <head> 
@@ -393,13 +393,13 @@ ridge|inset|outset|initial|inherit;
 
 *   **语法:**
 
-    ```css
+    ```html
     border-bottom-style: initial;
     ```
 
 *   **例:**
 
-    ```css
+    ```html
     <!DOCTYPE html> 
     <html> 
         <head> 
@@ -435,13 +435,13 @@ ridge|inset|outset|initial|inherit;
 
 *   **语法:**
 
-    ```css
+    ```html
     border-bottom-style: inherit;
     ```
 
 *   **例:**
 
-    ```css
+    ```html
     <!DOCTYPE html> 
     <html> 
         <head> 

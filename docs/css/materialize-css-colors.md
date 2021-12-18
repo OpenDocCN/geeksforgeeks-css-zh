@@ -8,7 +8,7 @@
 
 *   To **apply background color** simply add the color name and light/darkness as a class to the element.
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -48,7 +48,7 @@
 
 *   To **apply a text color** simply append -text to the color class just like done before.
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
 

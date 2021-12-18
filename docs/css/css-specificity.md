@@ -14,7 +14,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <html>
 
 <head>
@@ -47,7 +47,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 h1{
     background-color: lightgreen;
 }

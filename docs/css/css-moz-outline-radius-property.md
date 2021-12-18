@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 -moz-outline-radius: <length> {1-4} 
 | <percentage> (1-4} | initial | inherit
 ```
@@ -22,7 +22,7 @@
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -101,7 +101,7 @@
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 

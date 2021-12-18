@@ -6,7 +6,7 @@ CSS 中的**动画-迭代-计数属性**用于指定动画重复的次数。它�
 
 **语法:**
 
-```css
+```html
 animation-iteration-count: number|infinite|initial|inherit;
 ```
 
@@ -19,7 +19,7 @@ animation-iteration-count: number|infinite|initial|inherit;
 
 **示例:** HTML 程序说明动画-迭代-计数
 
-```css
+```html
 <!DOCTYPE html> 
 <html> 
     <head> 

@@ -6,7 +6,7 @@ CSS 暂停属性用于定义元素前后的暂停时间。pause 属性接受两�
 
 **语法:**
 
-```css
+```html
 pause: <'pause-before'> <'pause-after'>
 
 ```
@@ -20,7 +20,7 @@ pause: <'pause-before'> <'pause-after'>
 
 ## HTML
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

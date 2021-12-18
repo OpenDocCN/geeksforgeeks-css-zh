@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 quotes: none|auto|string;
 ```
 
@@ -17,7 +17,7 @@ quotes: none|auto|string;
 **无:**为默认值。它不会产生任何引号。
 语法:
 
-```css
+```html
 quotes:none;
 ```
 
@@ -25,7 +25,7 @@ quotes:none;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -57,7 +57,7 @@ quotes:none;
 **字符串:**这个属性用来指定句子中应该使用什么类型的引号。前两个值表示引号的第一级。后两个值表示引号的第二级。
 **语法:**
 
-```css
+```html
 quotes:string;
 ```
 
@@ -65,7 +65,7 @@ quotes:string;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

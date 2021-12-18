@@ -6,7 +6,7 @@ CSS 中的过渡持续时间属性用于指定完成过渡效果的时间长度(
 
 **语法:**
 
-```css
+```html
 transition-duration: time|initial|inherit;
 ```
 
@@ -16,13 +16,13 @@ transition-duration: time|initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     transition-duration: time;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html> 
     <html> 
         <head> 
@@ -74,13 +74,13 @@ transition-duration: time|initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     transition-duration: initial;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html> 
     <html> 
         <head> 
@@ -132,13 +132,13 @@ transition-duration: time|initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     transition-duration: inherit;
     ```
 
     **例 3:**
 
-    ```css
+    ```html
     <!DOCTYPE html> 
     <html> 
         <head> 

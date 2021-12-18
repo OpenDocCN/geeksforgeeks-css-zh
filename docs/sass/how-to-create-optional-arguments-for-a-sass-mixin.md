@@ -7,7 +7,7 @@
 **下面的做法会解释清楚。**
 **语法:**
 
-```css
+```html
 @mixin function-name($var1, $x:val){
 
 /* stylesheet properties */
@@ -25,7 +25,7 @@
 **示例 1:** 以下示例说明了上述方法。
 T3】SASS 文件:style.scss
 
-```css
+```html
 /* Here $x:5px Optional Arguments*/
 @mixin shadowbox($hoff, $voff, $blur, $spread, $color, $x:5px){
     -webkit-box-shadow: $hoff $voff $blur $spread $color;
@@ -41,7 +41,7 @@ T3】SASS 文件:style.scss
 
 **编译后的 CSS 文件:style.css**
 
-```css
+```html
 div{
     -webkit-box-shadow: 0 8px 6px -6px black;
     box-shadow: 0 8px 6px -6px black;
@@ -53,7 +53,7 @@ div{
 **示例 2:** 以下示例说明了上述方法。
 T3】SASS 文件:style.scss
 
-```css
+```html
 /* Here $attach:fixed Optional Arguments*/
 @mixin backgroundstretch( $bgsize, $attach:fixed ){
         background-attachment: $attach;
@@ -76,7 +76,7 @@ body {
 
 **编译后的 CSS 文件:style.css**
 
-```css
+```html
 body {
   color: #919191;
   font-family: Helvetica, sans-serif;

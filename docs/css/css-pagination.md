@@ -18,7 +18,7 @@
 **简单分页:**这是分页的基本形式。
 **语法:**
 
-```css
+```html
 .pagination {
     display:type
 }
@@ -31,7 +31,7 @@
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -91,7 +91,7 @@
 **活动和可悬停分页:**在此分页中，通过使用活动类，当前页面将被突出显示。当鼠标在页面链接上移动时，悬停将改变页面链接的颜色。
 **语法:**
 
-```css
+```html
 .pagination body.active {
     display:type
     background-color:colorname
@@ -104,7 +104,7 @@
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -171,7 +171,7 @@
 **圆形活动和可悬停按钮:**对于圆形活动和可悬停按钮，只需添加边框半径属性。
 **语法:**
 
-```css
+```html
 .pagination body.active {
     display:type
     background-color:colorname
@@ -186,7 +186,7 @@
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -255,7 +255,7 @@
 **悬停过渡效果:**添加过渡属性，在悬停时创建过渡效果。
 **语法:**
 
-```css
+```html
 .pagination body:hover {
     transition:type
 }
@@ -264,7 +264,7 @@
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -331,7 +331,7 @@
 **带边框分页:**在这种类型的分页中，会在分页中添加边框。使用 border 属性向分页添加边框。
 **语法:**
 
-```css
+```html
 .pagination body {
     border:type
 }
@@ -340,7 +340,7 @@
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -407,7 +407,7 @@
 **圆角边框分页:**边框可以使用边框半径属性进行圆角。
 **语法:**
 
-```css
+```html
 .pagination body {
     border:type
     border-radius:size
@@ -417,7 +417,7 @@
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -485,7 +485,7 @@
 **居中分页:**分页可以使用文本对齐属性居中。
 **语法:**
 
-```css
+```html
 .center {
     text-align:center
 }
@@ -497,7 +497,7 @@
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -570,7 +570,7 @@
 
 **语法:**
 
-```css
+```html
 .pagination body {
     color:colorname
     margin:type
@@ -580,7 +580,7 @@
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -654,7 +654,7 @@
 
 **语法:**
 
-```css
+```html
 .pagination body {
     color:colorname
     font-size:size
@@ -664,7 +664,7 @@
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <head>

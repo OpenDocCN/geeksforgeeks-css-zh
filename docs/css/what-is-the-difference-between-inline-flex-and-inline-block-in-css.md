@@ -13,7 +13,7 @@ display 属性指定元素在网页中的显示方式。CSS 中可以有许多�
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <title>CSS inline-block</title>
@@ -49,7 +49,7 @@ display 属性指定元素在网页中的显示方式。CSS 中可以有许多�
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 <title>CSS inline-block</title>

@@ -6,7 +6,7 @@ CSS 中的**文本-对齐-最后**属性用于设置段落的最后一行，就�
 
 **语法:**
 
-```css
+```html
 text-align-last: auto|start|end|left|right|center|justify|
 initial|inherit;
 ```
@@ -19,13 +19,13 @@ initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     text-align-last: left;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -74,13 +74,13 @@ initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     text-align-last: right;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -129,13 +129,13 @@ initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     text-align-last: center;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -184,13 +184,13 @@ initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     text-align-last: justify;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -239,13 +239,13 @@ initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     text-align-last: start;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -294,13 +294,13 @@ initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     text-align-last: end;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -349,13 +349,13 @@ initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     text-align-last: auto;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>
@@ -404,13 +404,13 @@ initial|inherit;
 
     **语法:**
 
-    ```css
+    ```html
     text-align-last: initial;
     ```
 
     **示例:**
 
-    ```css
+    ```html
     <!DOCTYPE html>
     <html>
         <head>

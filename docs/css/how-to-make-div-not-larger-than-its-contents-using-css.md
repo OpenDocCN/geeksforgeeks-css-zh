@@ -13,7 +13,7 @@
 默认情况下，在 HTML 中，div 适合于其中的内容。示例如下:
 **示例 1:**
 
-```css
+```html
 <!DOCTYPE html>
 <html lang = "en" dir = "ltr">
   <head>
@@ -68,7 +68,7 @@
 使用 display: inline-block 属性根据内容设置 div 大小。
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html>
 <html lang = "en" dir = "ltr">
   <head>
@@ -124,7 +124,7 @@
 在此方法中，我们将宽度和高度属性设置为适合内容值。
 **例 3:**
 
-```css
+```html
 <!DOCTYPE html>
 <html lang = "en" dir = "ltr">
   <head>

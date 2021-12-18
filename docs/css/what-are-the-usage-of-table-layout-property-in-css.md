@@ -6,7 +6,7 @@ CSS 中的 [**表格布局**](https://www.geeksforgeeks.org/css-table-layout-pro
 
 **语法:**
 
-```css
+```html
 table-layout: auto | fixed | initial | inherit;
 ```
 
@@ -21,7 +21,7 @@ table-layout: auto | fixed | initial | inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -86,7 +86,7 @@ table-layout: auto | fixed | initial | inherit;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

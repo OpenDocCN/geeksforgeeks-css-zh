@@ -7,7 +7,7 @@
 
 **语法:**
 
-```css
+```html
 flex-direction: row|row-reverse|column|column-reverse;
 ```
 
@@ -19,7 +19,7 @@ flex-direction: row|row-reverse|column|column-reverse;
 
 **语法:**
 
-```css
+```html
 flex-direction: row; 
 ```
 
@@ -27,7 +27,7 @@ flex-direction: row;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 
 <head>
@@ -83,7 +83,7 @@ flex-direction: row;
 
 **语法:**
 
-```css
+```html
 flex-direction: row-reverse;
 ```
 
@@ -91,7 +91,7 @@ flex-direction: row-reverse;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 
 <head>
@@ -147,7 +147,7 @@ flex-direction: row-reverse;
 
 **语法:**
 
-```css
+```html
 flex-direction:column; 
 ```
 
@@ -155,7 +155,7 @@ flex-direction:column;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 
 <head>
@@ -211,7 +211,7 @@ flex-direction:column;
 
 **语法:**
 
-```css
+```html
 flex-direction:column-reverse; 
 ```
 
@@ -219,7 +219,7 @@ flex-direction:column-reverse;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 
 <head>

@@ -16,7 +16,7 @@ CSS 背景属性如下:
 [**背景色属性**](https://www.geeksforgeeks.org/css-background-color-property/#:~:text=The%20background%2Dcolor%20property%20in,to%20read%20for%20the%20user.) **:此属性指定元素的背景色。颜色名称也可以给出为:“绿色”，十六进制值为“#5570f0”，RGB 值为“rgb(25，255，2)”。
 **语法:****
 
-```css
+```html
 body {
    background-color:color name
 }
@@ -26,7 +26,7 @@ body {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -52,7 +52,7 @@ body {
 [**背景图像属性**](https://www.geeksforgeeks.org/css-background-image-property/) **:** 该属性指定用作元素背景的图像。默认情况下，图像是重复的，因此它覆盖了整个元素。
 **语法:**
 
-```css
+```html
 body {
    background-image : link;
 }
@@ -62,7 +62,7 @@ body {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -90,7 +90,7 @@ url("https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190417124305/250.p
 [**背景重复属性**](https://www.geeksforgeeks.org/css-background-repeat-property/#:~:text=The%20background%2Drepeat%20property%20in,will%20be%20repeated%20or%20not.&text=The%20last%20image%20will%20be,fit%20in%20the%20browser%20window.) **:默认情况下，背景图像属性水平和垂直重复图像。
 **语法:**水平重复图像**
 
-```css
+```html
 body {
    background-image:link;
    background-repeat: repeat:x;
@@ -101,7 +101,7 @@ body {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -129,7 +129,7 @@ url("https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190417124305/250.p
 [**背景-附着属性**](https://www.geeksforgeeks.org/css-background-attachment-property/#:~:text=The%20property%20background%2Dattachment%20property,applied%20to%20all%20HTML%20elements.) **:该属性用于固定背景地面图像。图像不会随着页面滚动。
 **语法:****
 
-```css
+```html
 body {
    background-attachment: fixed;
 }
@@ -139,7 +139,7 @@ body {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -167,7 +167,7 @@ url("https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190417124305/250.p
 [**背景位置属性**](https://www.geeksforgeeks.org/css-background-position-property/) **:** 该属性用于将图像设置到特定位置。
 **语法:**
 
-```css
+```html
 body {
    background-repeat:no repeat;
    background-position:left top;
@@ -178,7 +178,7 @@ body {
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

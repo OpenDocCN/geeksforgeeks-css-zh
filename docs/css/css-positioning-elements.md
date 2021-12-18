@@ -18,7 +18,7 @@ CSS 中的**位置**属性讲述了元素或 HTML 实体的定位方法。CSS �
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -97,7 +97,7 @@ CSS 中的**位置**属性讲述了元素或 HTML 实体的定位方法。CSS �
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -175,7 +175,7 @@ CSS 中的**位置**属性讲述了元素或 HTML 实体的定位方法。CSS �
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -252,7 +252,7 @@ CSS 中的**位置**属性讲述了元素或 HTML 实体的定位方法。CSS �
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -378,7 +378,7 @@ CSS 中的**位置**属性讲述了元素或 HTML 实体的定位方法。CSS �
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

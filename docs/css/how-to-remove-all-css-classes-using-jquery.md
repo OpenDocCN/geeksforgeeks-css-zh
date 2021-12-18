@@ -8,7 +8,7 @@ removeClass()方法用于从选定的元素中移除一个或多个类名。
 
 **语法:**
 
-```css
+```html
 $(selector).removeClass(class_name, function(index, class_name))
 ```
 
@@ -23,7 +23,7 @@ $(selector).removeClass(class_name, function(index, class_name))
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 

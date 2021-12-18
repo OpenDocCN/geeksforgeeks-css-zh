@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 text-decoration-skip-ink: auto | none
 ```
 
@@ -19,7 +19,7 @@ text-decoration-skip-ink: auto | none
 
 **示例 1:** 在本例中，我们将使用**文本-装饰-跳过-墨迹:自动；**财产价值。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -62,7 +62,7 @@ text-decoration-skip-ink: auto | none
 
 **例 2:** 在本例中，我们将使用**文本-装饰-跳过-墨迹:无；**财产价值。
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

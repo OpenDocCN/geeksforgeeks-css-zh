@@ -6,7 +6,7 @@
 
 **语法:**
 
-```css
+```html
 element1 {
     property-x: value_y  !important; /* This will be applied. */
 }
@@ -18,7 +18,7 @@ element2 {
 
 **示例:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

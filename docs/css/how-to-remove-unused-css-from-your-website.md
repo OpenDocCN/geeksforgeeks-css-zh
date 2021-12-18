@@ -15,7 +15,7 @@
 
 **安装 PurifyCSS:** 安装 Node 并访问其包管理器 NPM。PurifyCSS 有一个内置的 NPM 软件包供安装，通过在项目文件夹根目录下的终端中运行下面的命令来安装它:
 
-```css
+```html
 npm i -D purify-css
 
 ```
@@ -46,7 +46,7 @@ purify 工具的根目录如下所示:
 
 **创建 JavaScript 净化器:**现在，创建一个新的。在根目录下的 js 文件，就像 *purifyMyCSS.js.* 把下面的 JavaScript 代码添加到文件中。
 
-```css
+```html
 const purify = require("purify-css")
 
 // Reference of all HTML files from root directory
@@ -72,7 +72,7 @@ purify(content, css, files, function (purifiedAndMinifiedResult) {
 
 **净化:**按照上述步骤操作后，可以在根目录级别的终端中运行以下代码来删除未使用的 CSS:
 
-```css
+```html
 node purifyMyCss.js
 
 ```

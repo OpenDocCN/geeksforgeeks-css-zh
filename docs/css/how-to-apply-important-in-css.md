@@ -11,7 +11,7 @@
 
 **语法:**
 
-```css
+```html
 element {
     color: blue  !important;
     font-size: 14px !important; 
@@ -22,7 +22,7 @@ element {
 
 **例 1:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -55,7 +55,7 @@ element {
 
 **例 2:**
 
-```css
+```html
 <!DOCTYPE html>
 <html>
     <head>

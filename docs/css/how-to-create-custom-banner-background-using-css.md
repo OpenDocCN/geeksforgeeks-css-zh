@@ -12,7 +12,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <html lang="en">
 <head>
   <title>
@@ -35,7 +35,7 @@
 
 ## 半铸钢ˌ钢性铸铁(Cast Semi-Steel)
 
-```css
+```html
 <style>
     body {
         background: green;
@@ -72,7 +72,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <html lang="en">
 
 <head>

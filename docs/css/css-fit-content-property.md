@@ -5,7 +5,7 @@
 **CSS 适合内容属性**是 CSS 中的一个内置属性。该属性用于根据公式**最小(最大尺寸，最大(最小尺寸，参数))**调整尺寸。fit-content()属性用于定义函数，以限制除法的最大大小。这个公式在处理 CSS 网格时非常有用。但是，必须记住，fit-content()与 PC 上的 Internet Explorer 不兼容。**这个公式可以使用不同的 CSS 单位。函数的作用是:接受长度和百分比作为参数。**
 **语法:**
 
-```css
+```html
 fit-content: length | percentage
 ```
 
@@ -30,7 +30,7 @@ fit-content: length | percentage
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 

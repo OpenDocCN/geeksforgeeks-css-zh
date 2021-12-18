@@ -20,21 +20,21 @@
 **1。背景-附件**
 该属性用于确定背景图像是**固定**还是**随页面滚动**。
 
-```css
+```html
 Syntax : background-attachment: scroll/fixed/local;
 ```
 
 **2。背景-位置**
 该属性决定背景图像的起始位置。
 
-```css
+```html
 Syntax : background-position: value;
 ```
 
 **3。背景-重复**
 该属性决定背景图像是否重复，如果重复，将如何重复。
 
-```css
+```html
 Syntax : background-repeat: repeat/repeat-x/repeat-y/no-repeat;
 ```
 
@@ -45,7 +45,7 @@ Syntax : background-repeat: repeat/repeat-x/repeat-y/no-repeat;
 **4。背景大小**
 该属性决定背景图像的大小。
 
-```css
+```html
 Syntax : background-size: auto/length/cover/contain/;
 ```
 
@@ -55,7 +55,7 @@ Syntax : background-size: auto/length/cover/contain/;
 覆盖–将背景图像缩放到尽可能大，以便背景区域完全被背景图像覆盖。
 contain–将图像缩放到最大尺寸，使其宽度和高度都适合内容区域。*
 
-```css
+```html
 <html>
 <head>
 <style>

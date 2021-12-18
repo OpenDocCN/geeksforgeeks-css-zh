@@ -13,7 +13,7 @@
 
 **示例:**
 
-```css
+```html
 @import"compass/utilities/color/contrast";
 @mixin bordered($color, $width) {
   border: $width solid $color;
@@ -44,7 +44,7 @@
 
 **示例:**
 
-```css
+```html
 $bgcolor: blue;
 $primary-color: #212; 
 body { 

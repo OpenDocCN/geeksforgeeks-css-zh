@@ -13,7 +13,7 @@
 
 **语法:**
 
-```css
+```html
 object-position: <position>
 ```
 
@@ -30,7 +30,7 @@ object-position: <position>
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 
@@ -85,7 +85,7 @@ object-position: <position>
 
 **语法:**
 
-```css
+```html
 float: none|inherit|left|right|initial;
 ```
 
@@ -102,7 +102,7 @@ float: none|inherit|left|right|initial;
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html>
 

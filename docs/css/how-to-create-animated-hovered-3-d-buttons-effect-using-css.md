@@ -17,7 +17,7 @@
 
 ## 超文本标记语言
 
-```css
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -46,7 +46,7 @@
 *   使用类和 id 给 HTML 元素赋予效果。
 *   使用@关键帧{}将动画赋予 HTML 元素。
 
-```css
+```html
 /* Restoring browser effects */
 
 * {
