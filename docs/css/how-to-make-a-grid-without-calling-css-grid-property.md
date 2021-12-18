@@ -8,7 +8,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -35,7 +35,7 @@
 **CSS 代码:**在 CSS 中，首先，我们用有助于设计网格结构的基本 CSS 属性来设计网格和按钮。我们将显示设置为 flex，它将设置灵活项目的灵活长度，以及定义其他 CSS 属性，即页边距-顶部、对齐-内容、宽度、高度等。为了创建 9*9 网格的图块，我们将创建 60*60px 的图块，然后给出左右边框。
 下面的方法，我们做到了
 
-```
+```css
 breadth of grid container = width of tile * 9 + border-width * 2
 ```
 
@@ -45,7 +45,7 @@ breadth of grid container = width of tile * 9 + border-width * 2
 
 ## 练习. css
 
-```
+```css
 #grid {
   display: flex;
   margin-top: 10px;
@@ -96,7 +96,7 @@ breadth of grid container = width of tile * 9 + border-width * 2
 
 ## practice.js
 
-```
+```css
 function id(id) {
     return document.getElementById(id);
 }

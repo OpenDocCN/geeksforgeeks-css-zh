@@ -6,7 +6,7 @@ CSS 的 **order** 属性可以用来订购 flex 项。它指定弹性项相对�
 
 **语法:**
 
-```
+```css
 order: integer | initial | inherit
 ```
 
@@ -18,7 +18,7 @@ order: integer | initial | inherit
 
 **例 1:**
 
-```
+```css
 <!DOCTYPE>
 <html>
 
@@ -71,7 +71,7 @@ order: integer | initial | inherit
 
 **例 2:**
 
-```
+```css
 <!DOCTYPE>
 <html>
 

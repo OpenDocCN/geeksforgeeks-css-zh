@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 .element {
   backdrop-filter: filter-function | none
 }
@@ -21,7 +21,7 @@
 1.  **模糊()**–用于对图像应用高斯模糊。
     T3】例:
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 
@@ -65,7 +65,7 @@
 
 *   **brightness():** It is used to make the image lighter or darker (0% – darker and 100% – brighter ).
 
-    ```
+    ```css
     <!DOCTYPE html> 
     <html> 
 
@@ -113,7 +113,7 @@
 
     *   **contrast()** – It is used to set the contrast of the image (100% – original and 0% darker)
 
-    ```
+    ```css
     <!DOCTYPE html> 
     <html> 
 
@@ -159,7 +159,7 @@
 
     *   **drop-shadow()** – It is used to apply a drop shadow effect to the element.
 
-    ```
+    ```css
     <!DOCTYPE html> 
     <html> 
 
@@ -206,7 +206,7 @@
 
     *   **grayscale()** – It is used to convert the colors of the image into black and white. A value of 0% indicates the original image and 100% will indicate a completely black and white image.
 
-    ```
+    ```css
     <!DOCTYPE html> 
     <html> 
 
@@ -253,7 +253,7 @@
 
     *   **hue-rotate()** – It is used to apply a hue rotation to the image.
 
-    ```
+    ```css
     <!DOCTYPE html> 
     <html> 
 
@@ -300,7 +300,7 @@
 
     *   **invert()** – It is used to invert the image. The default value is 0% which represents the original image.
 
-    ```
+    ```css
     <!DOCTYPE html> 
     <html> 
 
@@ -347,7 +347,7 @@
 
     *   **opacity()** – It is used to set the opacity of the image. The default value is 0% which indicates that the image is completely transparent.
 
-    ```
+    ```css
     <!DOCTYPE html> 
     <html> 
 
@@ -394,7 +394,7 @@
 
     *   **saturate()** – It is used to set the saturation of the element. The default value is 100% which indicates the original image.
 
-    ```
+    ```css
     <!DOCTYPE html> 
     <html> 
 
@@ -441,7 +441,7 @@
 
     *   **sepia()** – It is used to convert the image to sepia giving it a warmer appearance. A 0% value represents the original image and 100% represents a completely sepia image.
 
-    ```
+    ```css
     <!DOCTYPE html> 
     <html> 
 

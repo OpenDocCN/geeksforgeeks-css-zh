@@ -6,7 +6,7 @@
 
 **示例 1:** 本示例使用 CSS 创建 CSS 加载器。
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -84,7 +84,7 @@
 
 **示例 2:** 本示例使用 CSS 创建 CSS 加载器。
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

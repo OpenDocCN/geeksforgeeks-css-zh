@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```css
 border-top-left-radius: top_border left_border;
 ```
 
@@ -16,7 +16,7 @@ border-top-left-radius: top_border left_border;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>

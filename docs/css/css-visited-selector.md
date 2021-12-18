@@ -14,7 +14,7 @@ CSS 中的:被访问的选择器用于选择被访问的链接。例如，访问
 
 **语法:**
 
-```
+```css
 :visited {
     // CSS Properties
 }
@@ -24,7 +24,7 @@ CSS 中的:被访问的选择器用于选择被访问的链接。例如，访问
 
 ## 超文本标记语言
 
-```
+```css
 <!-- HTML code to illustrate :visited selectors -->
 <!DOCTYPE html>
 <html>

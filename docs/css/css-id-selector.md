@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 #id {
     // CSS property
 }
@@ -14,7 +14,7 @@
 
 **示例:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>

@@ -7,7 +7,7 @@ CSS 中的:n-child()选择器用于根据元素在一组同级元素中的位置
 *   **奇数:**在任何只会影响奇数索引号列表的列表项中使用奇数伪类。
     **语法:**
 
-```
+```css
 li:nth-child( odd ) {
     // CSS Property   
 }
@@ -17,7 +17,7 @@ li:nth-child( odd ) {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -53,7 +53,7 @@ li:nth-child( odd ) {
 *   **偶数:**在任何列表项中使用偶数伪类，只会影响偶数索引号列表。
     **语法:**
 
-```
+```css
 li:nth-child( even ) {
     // CSS Property
 }
@@ -63,7 +63,7 @@ li:nth-child( even ) {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -100,7 +100,7 @@ li:nth-child( even ) {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

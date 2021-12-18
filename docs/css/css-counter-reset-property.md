@@ -6,7 +6,7 @@ CSS 中的计数器重置属性用于为元素创建或重置 CSS 计数器。�
 
 **语法:**
 
-```
+```css
 counter-reset = none|name number|initial|inherit;
 ```
 
@@ -25,7 +25,7 @@ counter-reset = none|name number|initial|inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -75,7 +75,7 @@ counter-reset = none|name number|initial|inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

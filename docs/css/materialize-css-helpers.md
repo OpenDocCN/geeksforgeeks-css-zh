@@ -12,7 +12,7 @@
 
 *   **垂直对齐:**通过将类**包装器**添加到容纳您想要对齐的项目的容器中，可以轻松完成。
 
-    ```
+    ```css
     <div class="valign-wrapper">
       <h5>This is vertically aligned</h5>
     </div>
@@ -20,7 +20,7 @@
 
 *   **水平对齐:**这些类用于水平对齐内容:**左对齐、右对齐、居中对齐。**
 
-    ```
+    ```css
      <div>
         <h5 class="left-align">This is left aligned</h5>
       </div>
@@ -34,7 +34,7 @@
 
 *   **快速浮动:**还有其他用来对齐内容的类有**左**和**右**。
 
-    ```
+    ```css
     <div class="left">...</div>
     <div class="right">...</div>
     ```
@@ -55,7 +55,7 @@
 
 </figure>
 
-```
+```css
 <div class="hide-on-small-only">
 This will be hidden from mobile screen
 </div>
@@ -65,7 +65,7 @@ This will be hidden from mobile screen
 
 *   **截断:**要截断省略号中的长文本行，**截断**类被添加到包含文本的标记中。
 
-    ```
+    ```css
      <h4 class="truncate">
     This is an extremely long title that will be truncated
     </h4>
@@ -73,7 +73,7 @@ This will be hidden from mobile screen
 
 *   **悬停:****可悬停的**是用于为方块阴影添加动画的悬停类。
 
-    ```
+    ```css
     <div class="card-panel hoverable">
      Hoverable Card Panel
     </div>
@@ -81,7 +81,7 @@ This will be hidden from mobile screen
 
 **这里有一个使用以上所有类的例子:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

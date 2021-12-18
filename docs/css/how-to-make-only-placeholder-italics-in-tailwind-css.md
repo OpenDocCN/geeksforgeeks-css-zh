@@ -10,7 +10,7 @@ Tailwind 提供了现成的实用程序类集，但是很多时候你会遇到�
 
 **步骤 1:** 运行下面的代码到你的文件夹终端。这将创建[T3 文件。](https://www.geeksforgeeks.org/node-js-package-json/)
 
-```
+```css
 npm init 
 ```
 
@@ -18,7 +18,7 @@ npm init
 
 **第二步:**将下面的代码复制粘贴到你文件夹的终端。这将为顺风创建所需的节点模块。
 
-```
+```css
 npm install tailwindcss@latest postcss@latest autoprefixer@latest
 ```
 
@@ -30,7 +30,7 @@ npm install tailwindcss@latest postcss@latest autoprefixer@latest
 
 ******第四步:**在 *tailwind.css* 文件中添加代码。使用这个文件，你可以自定义你的顺风 CSS 以及默认样式。Tailwind 会在构建时将这些指令与它根据您配置的设计系统生成的所有样式进行交换。****
 
-```
+```css
 **@tailwind base;
 @tailwind components;
 @tailwind utilities;**
@@ -38,7 +38,7 @@ npm install tailwindcss@latest postcss@latest autoprefixer@latest
 
 ******第五步:**打开 **package.json** 文件，在脚本部分下添加以下代码****
 
-```
+```css
 **"scripts": {
     "build:css": "tailwind build public/tailwind.css -o public/style.css"
   },**
@@ -48,13 +48,13 @@ npm install tailwindcss@latest postcss@latest autoprefixer@latest
 
 ******第 6 步:**在终端运行以下代码。这将使用预定义的顺风 css 代码填充您的 *style.css* 文件。****
 
-```
+```css
 **npm run build:css**
 ```
 
 ******第 7 步:**最后，运行下面的代码。这将使用安装**顺风 CSS npm** 包时包含的顺风命令行工具为您的项目生成一个**顺风配置文件**。****
 
-```
+```css
 **npx tailwindcss init**
 ```
 
@@ -64,7 +64,7 @@ npm install tailwindcss@latest postcss@latest autoprefixer@latest
 
 ******泰风. css******
 
-```
+```css
 **@tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -80,7 +80,7 @@ npm install tailwindcss@latest postcss@latest autoprefixer@latest
 
 ******语法:******
 
-```
+```css
 **<input class="placeholder-italic" />**
 ```
 
@@ -88,7 +88,7 @@ npm install tailwindcss@latest postcss@latest autoprefixer@latest
 
 ## ****超文本标记语言****
 
-```
+```css
 **<!DOCTYPE html>
 <body class="flex h-screen justify-center items-center">
 
@@ -112,7 +112,7 @@ npm install tailwindcss@latest postcss@latest autoprefixer@latest
 
 ## ****超文本标记语言****
 
-```
+```css
 **<!DOCTYPE html>
 <body >
         <div class="h-screen flex flex-col 

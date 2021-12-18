@@ -14,7 +14,7 @@
 
 ## HTML
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 

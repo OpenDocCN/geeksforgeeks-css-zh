@@ -6,7 +6,7 @@ CSS 中的上边距属性用于设置元素的上边距。它设置元素顶部�
 
 **语法:**
 
-```
+```css
 margin-top: length|auto|initial|inherit;
 ```
 
@@ -16,13 +16,13 @@ margin-top: length|auto|initial|inherit;
 
     **语法:**
 
-    ```
+    ```css
     margin-top: length;
     ```
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
         <head>
@@ -54,13 +54,13 @@ margin-top: length|auto|initial|inherit;
 
     **语法:**
 
-    ```
+    ```css
     margin-top: %;
     ```
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
         <head>
@@ -92,13 +92,13 @@ margin-top: length|auto|initial|inherit;
 
     **语法:**
 
-    ```
+    ```css
     margin-top: auto;
     ```
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
         <head>
@@ -130,13 +130,13 @@ margin-top: length|auto|initial|inherit;
 
     **语法:**
 
-    ```
+    ```css
     margin-top: initial;
     ```
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
         <head>
@@ -168,13 +168,13 @@ margin-top: length|auto|initial|inherit;
 
     **语法:**
 
-    ```
+    ```css
     margin-top: inherit;
     ```
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
         <head>

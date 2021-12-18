@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 box-shadow: h-offset v-offset blur spread color;
 ```
 
@@ -20,7 +20,7 @@ box-shadow: h-offset v-offset blur spread color;
 
 **示例 1:** 本示例在框的底部设置框阴影。
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 
@@ -55,7 +55,7 @@ box-shadow: h-offset v-offset blur spread color;
 
 **例 2:** 本例在方框左侧设置方框阴影。
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 
@@ -92,7 +92,7 @@ box-shadow: h-offset v-offset blur spread color;
 
 **示例 3:** 本示例在框内创建阴影。
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 

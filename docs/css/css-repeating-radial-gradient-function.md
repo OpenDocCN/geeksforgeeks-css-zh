@@ -5,7 +5,7 @@
 重复径向梯度()函数是 CSS 中的一个内置函数，用于重复径向梯度。
 **语法:**
 
-```html
+```css
 background-image: repeating-radial-gradient(shape size at position, 
 start-color, ..., last-color); 
 ```
@@ -22,7 +22,7 @@ start-color, ..., last-color);
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -64,7 +64,7 @@ start-color, ..., last-color);
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>

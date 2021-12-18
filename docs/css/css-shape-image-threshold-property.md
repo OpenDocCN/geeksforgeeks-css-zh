@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 shape-image-threshold: <alpha-value>
 ```
 
@@ -18,7 +18,7 @@ shape-image-threshold: <alpha-value>
 
 **示例 1:** 在本例中，我们将阈值设置为 0.5
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -82,7 +82,7 @@ shape-image-threshold: <alpha-value>
 
 **示例 2:** 在本例中，我们将阈值设置为 0.2
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

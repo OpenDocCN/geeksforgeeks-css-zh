@@ -10,13 +10,13 @@
 
 然后要使用图标，在 HTML 元素的*部分提供图标的名称。*
 
-```html
+```css
 <i class="material-icons">add</i>
 ```
 
 **材质图标尺寸:** 物化 CSS 提供了四种尺寸的图标:**微小、小、中、大。**小、小、中、大的大小分别为 1 雷姆、2 雷姆、4 雷姆和 6 雷姆。
 
-```html
+```css
 <i class = "material-icons tiny">add</i>  
 <i class = "material-icons small">add</i>  
 <i class = "material-icons">add</i>  
@@ -28,7 +28,7 @@
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

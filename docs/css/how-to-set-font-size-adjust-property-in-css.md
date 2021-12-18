@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```css
 font-size-adjust: number|none|initial|inherit;
 
 ```
@@ -19,7 +19,7 @@ font-size-adjust: number|none|initial|inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

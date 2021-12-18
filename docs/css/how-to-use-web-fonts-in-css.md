@@ -10,7 +10,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
@@ -54,7 +54,7 @@
 
 **方法二:**找到想要的字体后，我们也可以在我们的 CSS 文件开头使用 *@font-face* 。假设我们有字体 URL，并且我们想在我们的项目中使用它，那么我们可以将以下代码块添加到我们的 CSS 中:
 
-```
+```css
 @font-face {
   font-family: "exampleFont";
   src: fontUrl("exampleFont.woff");
@@ -67,7 +67,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>

@@ -10,7 +10,7 @@
 
     示例:
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html >
     <head>
@@ -60,7 +60,7 @@
 
     示例:
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html >
     <head>
@@ -115,7 +115,7 @@
 
     示例:
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html >
     <head>

@@ -6,7 +6,7 @@
 
 基本上， [HTML](https://www.geeksforgeeks.org/html-tutorials/) 元素是开始和结束标签的集合，内容插入在它们之间。元素可以嵌套。
 
-```html
+```css
 <tagname> Content </tagname>
 ```
 
@@ -22,7 +22,7 @@
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 
@@ -54,7 +54,7 @@
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 
@@ -92,7 +92,7 @@
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 

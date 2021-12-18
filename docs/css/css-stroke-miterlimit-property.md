@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```css
 stroke-miterlimit: number|initial|inherit
 ```
 
@@ -18,7 +18,7 @@ stroke-miterlimit: number|initial|inherit
 
     **例 1:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -82,7 +82,7 @@ stroke-miterlimit: number|initial|inherit
 
     **例 2:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 

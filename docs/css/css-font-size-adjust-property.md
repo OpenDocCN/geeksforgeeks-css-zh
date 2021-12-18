@@ -6,7 +6,7 @@ CSS 中的 font-size-adjust 属性用于根据小写字母而不是大写字母�
 
 **语法:**
 
-```
+```css
 font-size-adjust: number|none|initial|inherit;
 ```
 
@@ -25,7 +25,7 @@ font-size-adjust: number|none|initial|inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>

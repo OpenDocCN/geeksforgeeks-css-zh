@@ -6,7 +6,7 @@ CSS 中的“列规则样式”属性用于设置多列布局中各列之间的�
 
 **语法:**
 
-```
+```css
 column-rule-style: none|double|groove|ridge|inset|hidden|dotted|
 dashed|solid|outset|initial|inherit
 ```
@@ -28,7 +28,7 @@ dashed|solid|outset|initial|inherit
 
 **例 1:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -78,7 +78,7 @@ dashed|solid|outset|initial|inherit
 
 **例 2:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -128,7 +128,7 @@ dashed|solid|outset|initial|inherit
 
 **例 3:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>

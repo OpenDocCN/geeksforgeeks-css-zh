@@ -10,7 +10,7 @@
 
 **语法:**
 
-```
+```css
 border-right: border-width border-style border-color|initial|
 inherit;
 ```
@@ -21,13 +21,13 @@ inherit;
 
 *   **语法:**
 
-    ```
+    ```css
     border-right: border-width border-style border-color 
     ```
 
 *   **例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -70,13 +70,13 @@ inherit;
 
 *   **语法:**
 
-    ```
+    ```css
     border-right:initial;
     ```
 
 *   **例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
     <head>

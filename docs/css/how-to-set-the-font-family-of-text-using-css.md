@@ -6,7 +6,7 @@ CSS 字体属性用于设置 HTML 元素的字体内容。font-family 属性指�
 
 **语法:**
 
-```html
+```css
 element_selector {
    font-family: fonts-name | initial | inherit;
 }
@@ -22,7 +22,7 @@ element_selector {
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

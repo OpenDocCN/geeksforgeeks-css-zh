@@ -6,7 +6,7 @@
 
 **语法:**
 
-```html
+```css
 flex-wrap: nowrap|wrap|wrap-reverse|initial;
 ```
 
@@ -19,7 +19,7 @@ flex-wrap: nowrap|wrap|wrap-reverse|initial;
 *   **换行:**该属性用于将伸缩项拆分成多行。它使弹性项根据弹性项宽度换行到多行。
     **语法:**
 
-```html
+```css
 flex-wrap: wrap;
 ```
 
@@ -27,7 +27,7 @@ flex-wrap: wrap;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -78,7 +78,7 @@ flex-wrap: wrap;
 *   **nowrap:**wrap-flex 的默认值是 nowrap。它用于指定项目没有包装。它使项目换行。
     **语法:**
 
-```html
+```css
 flex-wrap: nowrap;
 ```
 
@@ -86,7 +86,7 @@ flex-wrap: nowrap;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -137,7 +137,7 @@ flex-wrap: nowrap;
 *   **换行-反转:**该属性用于在柔性项换行到新行时反转柔性项的流向。
     **语法:**
 
-```html
+```css
 flex-wrap: wrap-reverse;
 ```
 
@@ -145,7 +145,7 @@ flex-wrap: wrap-reverse;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -196,7 +196,7 @@ flex-wrap: wrap-reverse;
 *   **初始值:**该属性用于设置为默认值。
     **语法:**
 
-```html
+```css
 flex-wrap: initial;
 ```
 
@@ -204,7 +204,7 @@ flex-wrap: initial;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 <head>

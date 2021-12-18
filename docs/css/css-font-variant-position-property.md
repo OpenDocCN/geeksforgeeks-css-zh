@@ -6,7 +6,7 @@ CSS 的**字体变体位置**用于将字体的位置更改为上标、下标或
 
 **语法:**
 
-```html
+```css
 font-variant-position: normal | sub | super
 ```
 
@@ -16,13 +16,13 @@ font-variant-position: normal | sub | super
 
     **语法:**
 
-    ```html
+    ```css
     font-variant-position: normal
     ```
 
     **示例:**
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -59,13 +59,13 @@ font-variant-position: normal | sub | super
 
         **语法:**
 
-        ```html
+        ```css
         font-variant-position: normal
         ```
 
         **示例:**
 
-        ```html
+        ```css
         <!DOCTYPE html>
         <html lang="en">
         <head>
@@ -99,13 +99,13 @@ font-variant-position: normal | sub | super
 
             **语法:**
 
-            ```html
+            ```css
             font-variant-position: sub
             ```
 
             **示例:**
 
-            ```html
+            ```css
             <!DOCTYPE html>
             <html lang="en">
             <head>

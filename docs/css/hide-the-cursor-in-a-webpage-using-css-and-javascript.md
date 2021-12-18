@@ -12,7 +12,7 @@
 
 **示例 1:** 本示例对< div >元素隐藏光标。
 
-```
+```css
 <!DOCTYPE HTML> 
 <html> 
     <head> 
@@ -87,7 +87,7 @@
 
 **示例 2:** 本示例将光标隐藏在网页的<主体>之外。
 
-```
+```css
 <!DOCTYPE HTML> 
 <html> 
     <head> 

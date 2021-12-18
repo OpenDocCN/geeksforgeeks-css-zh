@@ -13,7 +13,7 @@ text-align-last 用于在换行符之前设置段落的最后一行。断行可�
 
 **语法:**
 
-```
+```css
 text-align-last: right
 ```
 
@@ -21,7 +21,7 @@ text-align-last: right
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 

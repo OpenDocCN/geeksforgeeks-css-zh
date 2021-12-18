@@ -5,7 +5,7 @@
 CSS 中的转换延迟属性用于指定开始转换的时间。以秒或毫秒为单位设置的转换延迟值。
 **语法:**
 
-```
+```css
 transition-delay: time|initial|inherit;
 ```
 
@@ -16,7 +16,7 @@ transition-delay: time|initial|inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -70,7 +70,7 @@ transition-delay: time|initial|inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -124,7 +124,7 @@ transition-delay: time|initial|inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>

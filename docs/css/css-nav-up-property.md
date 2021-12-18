@@ -6,7 +6,7 @@ CSS **向上导航**属性用于从键盘导航导航键。此属性定义用户
 
 **语法:**
 
-```
+```css
  nav-up: auto | id | target-name | initial | inherit;
 ```
 
@@ -23,7 +23,7 @@ CSS **向上导航**属性用于从键盘导航导航键。此属性定义用户
 
 **例:1**
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 

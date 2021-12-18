@@ -14,7 +14,7 @@
 
 **语法:**
 
-```
+```css
 <element class="min-h-0">...</element>
 ```
 
@@ -22,7 +22,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -52,7 +52,7 @@
 
 **语法:**
 
-```
+```css
 <element class="min-h-full">...</element>
 ```
 
@@ -60,7 +60,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -90,7 +90,7 @@
 
 **语法:**
 
-```
+```css
 <element class="min-h-screen">...</element>
 ```
 
@@ -98,7 +98,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head> 
     <link href=

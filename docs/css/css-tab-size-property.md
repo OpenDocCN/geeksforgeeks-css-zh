@@ -4,7 +4,7 @@
 
 CSS 中的制表符大小属性用于指定制表符的宽度。标签大小通常在 HTML 文档中显示一个空格字符。一些像<textarea>和<pre>这样的元素显示标签尺寸。<br/> <strong>语法:</strong> <br/></pre></textarea>
 
-```
+```css
 tab-size: number|length|initial|inherit;
 ```
 
@@ -19,7 +19,7 @@ tab-size: number|length|initial|inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>

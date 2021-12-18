@@ -19,7 +19,7 @@ CSS 中的 [**变换**](https://www.geeksforgeeks.org/css-transform-property/) �
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -70,7 +70,7 @@ CSS 中的 [**变换**](https://www.geeksforgeeks.org/css-transform-property/) �
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -121,7 +121,7 @@ CSS 中的 [**变换**](https://www.geeksforgeeks.org/css-transform-property/) �
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -171,7 +171,7 @@ CSS 中的 [**变换**](https://www.geeksforgeeks.org/css-transform-property/) �
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -221,7 +221,7 @@ CSS 中的 [**变换**](https://www.geeksforgeeks.org/css-transform-property/) �
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -272,7 +272,7 @@ CSS 中的 [**变换**](https://www.geeksforgeeks.org/css-transform-property/) �
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -323,7 +323,7 @@ CSS 中的 [**变换**](https://www.geeksforgeeks.org/css-transform-property/) �
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -374,7 +374,7 @@ CSS 中的 [**变换**](https://www.geeksforgeeks.org/css-transform-property/) �
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```html
+```css
 $("Selector:last-child")
 ```
 
@@ -18,7 +18,7 @@ $("Selector:last-child")
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

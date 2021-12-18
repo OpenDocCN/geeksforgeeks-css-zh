@@ -6,7 +6,7 @@ CSS 中的**边框块起始宽度属性**用于在样式表中的一个位置定
 
 **语法:**
 
-```
+```css
 border-block-start-width: border-width;
 ```
 
@@ -18,7 +18,7 @@ border-block-start-width: border-width;
 
 **例 1:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -59,7 +59,7 @@ border-block-start-width: border-width;
 
 **例 2:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

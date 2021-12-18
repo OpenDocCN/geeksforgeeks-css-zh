@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 saturate( amount )
 ```
 
@@ -16,7 +16,7 @@ saturate( amount )
 
 **示例:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

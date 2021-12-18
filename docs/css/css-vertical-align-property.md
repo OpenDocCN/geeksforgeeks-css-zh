@@ -6,7 +6,7 @@ CSS 中的垂直对齐属性用于指定表格框或内联元素的垂直对齐�
 
 **语法:**
 
-```
+```css
 vertical-align: baseline|length|sub|super|top|text-top|middle|bottom
 |text-bottom|initial|inherit;
 
@@ -35,7 +35,7 @@ vertical-align: baseline|length|sub|super|top|text-top|middle|bottom
 
 **示例:**本示例解释了垂直对齐属性的所有值。
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

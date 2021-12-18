@@ -6,7 +6,7 @@ responsive web 中使用了 responsive image 属性，该属性会自动调整�
 
 **语法:**
 
-```html
+```css
 img {
     max-width:100%;
     height:auto;
@@ -19,7 +19,7 @@ CSS 属性最大宽度和最大高度很好用，但是很多浏览器不支持�
 
 **例 1:**
 
-```html
+```css
 <!DOCTYPE html>
 <html> 
     <head> 
@@ -53,7 +53,7 @@ CSS 属性最大宽度和最大高度很好用，但是很多浏览器不支持�
 
 **例 2:**
 
-```html
+```css
 <!DOCTYPE html>
 <html> 
     <head> 

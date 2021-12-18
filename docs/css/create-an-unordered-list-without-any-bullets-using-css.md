@@ -16,7 +16,7 @@ HTML 提供的列表基本上有三种不同的类型:
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -65,7 +65,7 @@ HTML 提供的列表基本上有三种不同的类型:
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>

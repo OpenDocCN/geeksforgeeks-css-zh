@@ -8,7 +8,7 @@
 
 **语法:**
 
-```html
+```css
 element + element {
     // CSS property
 } 
@@ -17,7 +17,7 @@ element + element {
 
 **示例:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>

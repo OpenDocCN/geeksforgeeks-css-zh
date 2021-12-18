@@ -10,7 +10,7 @@
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 
@@ -75,7 +75,7 @@
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 
@@ -144,7 +144,7 @@
 
 为此，我们可以在代码中使用以下代码行:
 
-```html
+```css
 scroll-behavior: smooth;
 ```
 
@@ -155,7 +155,7 @@ HTML 中还定义了其他滚动行为，你可以在这里查看它们的详细
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 

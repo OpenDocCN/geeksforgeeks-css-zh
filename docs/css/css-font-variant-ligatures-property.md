@@ -6,13 +6,13 @@ CSS *字体变体连字*属性用于控制文本字体上的连字。连字是�
 
 **语法:**
 
-```
+```css
 font-variant-ligatures: Keyword_values
 ```
 
 或者
 
-```
+```css
  font-variant-ligatures: Global_values 
 ```
 
@@ -25,7 +25,7 @@ font-variant-ligatures: Keyword_values
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 

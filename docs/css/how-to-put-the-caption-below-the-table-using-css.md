@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```css
 caption-side: bottom;
 ```
 
@@ -16,7 +16,7 @@ caption-side: bottom;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
     <head> 

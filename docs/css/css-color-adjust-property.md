@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 color-adjust: economy | exact
 ```
 
@@ -16,13 +16,13 @@ color-adjust: economy | exact
 
 **语法:**
 
-```
+```css
 color-adjust: economy
 ```
 
 **示例:**
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -65,13 +65,13 @@ rgba(17, 199, 0, 0.5), rgb(255, 255, 255));
 
 **语法:**
 
-```
+```css
 color-adjust: exact
 ```
 
 **示例:**
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 <head>

@@ -5,7 +5,7 @@
 **嵌入()函数**是 CSS 中的一个内置函数，与 filter 属性一起用于更改图像的嵌入。
 **语法:**
 
-```
+```css
 inset( length | percentage );
 ```
 
@@ -14,7 +14,7 @@ inset( length | percentage );
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

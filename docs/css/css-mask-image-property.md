@@ -6,7 +6,7 @@ CSS 中的**蒙版-图像**属性用于设置图像或文本的蒙版。它用�
 
 **语法:**
 
-```
+```css
 mask-image: none | <mask-source>
 ```
 
@@ -14,7 +14,7 @@ mask-image: none | <mask-source>
 
 **语法:**
 
-```
+```css
 mask-image: none
 ```
 
@@ -24,7 +24,7 @@ mask-image: none
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -72,7 +72,7 @@ mask-image: none
 
 **语法:**
 
-```
+```css
 mask-image: url();
 ```
 
@@ -82,7 +82,7 @@ mask-image: url();
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
     <head>

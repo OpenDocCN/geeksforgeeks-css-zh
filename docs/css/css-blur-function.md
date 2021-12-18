@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 blur( radius )
 ```
 
@@ -16,7 +16,7 @@ blur( radius )
 
 **示例:**
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 

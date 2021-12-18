@@ -9,14 +9,14 @@
 
 **语法:**
 
-```
+```css
 align-content: center;
 
 ```
 
 **例 1:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -66,7 +66,7 @@ align-content: center;
 
 **例 2:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

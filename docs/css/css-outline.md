@@ -10,7 +10,7 @@
 
 **语法:**
 
-```
+```css
 outline-style: auto|none|dotted|dashed|solid|double|groove|ridge|inset|outset|initial|inherit;
 ```
 
@@ -18,7 +18,7 @@ outline-style: auto|none|dotted|dashed|solid|double|groove|ridge|inset|outset|in
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -48,7 +48,7 @@ outline-style: auto|none|dotted|dashed|solid|double|groove|ridge|inset|outset|in
 
 **语法:**
 
-```
+```css
 outline-color: <color> | invert | inherit;
 ```
 
@@ -56,7 +56,7 @@ outline-color: <color> | invert | inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -87,7 +87,7 @@ outline-color: <color> | invert | inherit;
 
 **语法**:
 
-```
+```css
 outline-width: medium|thin|thick|length|initial|inherit;
 ```
 
@@ -95,7 +95,7 @@ outline-width: medium|thin|thick|length|initial|inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -126,7 +126,7 @@ outline-width: medium|thin|thick|length|initial|inherit;
 
 **语法:**
 
-```
+```css
 outline-offset: length|initial|inherit;
 ```
 
@@ -134,7 +134,7 @@ outline-offset: length|initial|inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>

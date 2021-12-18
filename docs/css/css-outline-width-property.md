@@ -12,7 +12,7 @@
 
 **语法**:
 
-```html
+```css
 outline-width: medium|thin|thick|length|initial|inherit;
 
 ```
@@ -21,12 +21,12 @@ outline-width: medium|thin|thick|length|initial|inherit;
 
 *   **medium:** This value sets the outline width to default.The width of the outline is thinner than the outline setas thick and thicker than the outline set as thin.
 
-    ```html
+    ```css
     outline-width: medium;
 
     ```
 
-    ```html
+    ```css
     <html>
        <head>
           <title>
@@ -48,12 +48,12 @@ outline-width: medium|thin|thick|length|initial|inherit;
 
 *   **thin:** This value sets the outline width to thin, the outline achieved is thinner than outline specified with width as medium and thick.
 
-    ```html
+    ```css
     outline-width: thin;
 
     ```
 
-    ```html
+    ```css
     <html>
        <head>
           <title>
@@ -75,12 +75,12 @@ outline-width: medium|thin|thick|length|initial|inherit;
 
 *   **thick:** This value sets the outline width to thick, the outline achieved is thicker than outline specified with width as medium and think.
 
-    ```html
+    ```css
     outline-width: thick;
 
     ```
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
        <head>
@@ -103,12 +103,12 @@ outline-width: medium|thin|thick|length|initial|inherit;
 
 *   **length:** This value is used to define the thickness of the outline.
 
-    ```html
+    ```css
     outline-width: 15px;
 
     ```
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
        <head>
@@ -131,12 +131,12 @@ outline-width: medium|thin|thick|length|initial|inherit;
 
 *   **initial:** This value sets the outline -width to its default value.
 
-    ```html
+    ```css
     outline-width: initial;
 
     ```
 
-    ```html
+    ```css
     <html>
        <head>
           <title>
@@ -158,12 +158,12 @@ outline-width: medium|thin|thick|length|initial|inherit;
 
 *   **inherit:** This value inherits the specifications of outline-width property of parent.
 
-    ```html
+    ```css
     outline-width: inherit;
 
     ```
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
     <head>

@@ -8,7 +8,7 @@
 
 **示例:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -63,7 +63,7 @@
 
 **示例:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -115,7 +115,7 @@
 **方法 3:** 通过将标签和复选框分组到同一个块中，我们可以在跨浏览器中一致地对齐复选框和标签。
 T3】例:
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

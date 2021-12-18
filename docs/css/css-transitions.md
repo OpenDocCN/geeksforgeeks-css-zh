@@ -10,7 +10,7 @@ CSS 中的转换允许我们控制元素的两种状态之间的转换方式。�
 
     **语法:**
 
-    ```
+    ```css
     transition-property: none | all | property | property1,
     property2, ..., propertyN;
 
@@ -25,7 +25,7 @@ CSS 中的转换允许我们控制元素的两种状态之间的转换方式。�
 
     **语法:**
 
-    ```
+    ```css
     transition-duration: time;
 
     ```
@@ -36,7 +36,7 @@ CSS 中的转换允许我们控制元素的两种状态之间的转换方式。�
 
     **语法:**
 
-    ```
+    ```css
     transition-timing-function: ease|ease-in|ease-out|ease-in-out|linear|
     step-start|step-end;
 
@@ -48,7 +48,7 @@ CSS 中的转换允许我们控制元素的两种状态之间的转换方式。�
 
     **语法:**
 
-    ```
+    ```css
     transition-delay: time;
 
     ```
@@ -59,7 +59,7 @@ CSS 中的转换允许我们控制元素的两种状态之间的转换方式。�
 
 **语法:**
 
-```
+```css
 transition: (property name) | (duration) | (timing function) | (delay);
 
 ```
@@ -68,7 +68,7 @@ transition: (property name) | (duration) | (timing function) | (delay);
 
 **示例:**在不使用过渡的情况下更改属性。
 
-```
+```css
 <!DOCTYPE html>
 <html>
   <head>
@@ -111,7 +111,7 @@ transition: (property name) | (duration) | (timing function) | (delay);
 
 **示例:**使用过渡改变属性。
 
-```
+```css
 <!DOCTYPE html>
 <html>
   <head>

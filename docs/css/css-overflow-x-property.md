@@ -7,7 +7,7 @@ CSS 中的 **overflow-x** 属性指定当块级元素在左右边缘溢出时，
 overflow-x 属性的默认值可见。此 CSS 属性不可设置动画。
 **语法:**
 
-```
+```css
 overflow-x: visible|hidden|scroll|auto|initial|inherit;
 ```
 
@@ -24,7 +24,7 @@ overflow-x: visible|hidden|scroll|auto|initial|inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>

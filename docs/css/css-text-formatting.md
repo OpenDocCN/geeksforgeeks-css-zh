@@ -18,7 +18,7 @@ CSS 文本格式包括以下属性:
 文本颜色属性用于设置文本的颜色。
 **文本颜色可以通过使用名称“红色”、十六进制值“#ff0000”或其 RGB 值“rgb(255，0，0)”来设置。**
 
-```
+```css
 Syntax:
 body
 {
@@ -30,7 +30,7 @@ color:color name;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -56,7 +56,7 @@ TEXT FORMATTING
 </html>
 ```
 
-```
+```css
 OUTPUT:
 ```
 
@@ -65,7 +65,7 @@ OUTPUT:
 **文本可以设置为左、右、居中和对齐。**
 在对齐方式中，线条被拉伸，使左右边距变直。
 
-```
+```css
 Syntax:
 body
 {
@@ -77,7 +77,7 @@ text-align:alignment type;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -105,7 +105,7 @@ TEXT FORMATTING
 </html>
 ```
 
-```
+```css
 OUTPUT:
 ```
 
@@ -113,7 +113,7 @@ OUTPUT:
 文本装饰用于在文本中添加或移除装饰。
 **文字装饰可以是下划线、跨线、穿线或无。**
 
-```
+```css
 Syntax:
 body
 {
@@ -125,7 +125,7 @@ text-decoration:decoration type;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -148,7 +148,7 @@ TEXT FORMATTING
 </html>
 ```
 
-```
+```css
 OUTPUT:
 ```
 
@@ -157,7 +157,7 @@ OUTPUT:
 **文本转换可以是大写、小写或大写。**
 大写用于将每个单词的首字母改为大写。
 
-```
+```css
 Syntax:
 body
 {
@@ -169,7 +169,7 @@ text-transform:type;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -191,7 +191,7 @@ TEXT FORMATTING
 </html>
 ```
 
-```
+```css
 OUTPUT:
 ```
 
@@ -199,7 +199,7 @@ OUTPUT:
 文本缩进属性用于缩进段落的第一行。
 尺寸可以用 px、cm、pt 表示。
 
-```
+```css
 Syntax:
 body
 {
@@ -211,7 +211,7 @@ text-indent:size;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -234,7 +234,7 @@ Text indentation property is used to indent the first line of the paragraph.
 </html>
 ```
 
-```
+```css
 OUTPUT:
 ```
 
@@ -242,7 +242,7 @@ OUTPUT:
 该属性用于指定文本字符之间的间距。
 尺寸可以用 px 给出。
 
-```
+```css
 Syntax:
 body
 {
@@ -254,7 +254,7 @@ letter-spacing:size;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -276,14 +276,14 @@ This is text formatting properties.
 </html>
 ```
 
-```
+```css
 OUTPUT:
 ```
 
 **7。线条高度**
 该属性用于设置线条之间的间距。
 
-```
+```css
 Syntax:
 body
 {
@@ -295,7 +295,7 @@ line-height:size;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -318,7 +318,7 @@ This property is used to set the space between the lines.
 </html>
 ```
 
-```
+```css
 OUTPUT:
 ```
 
@@ -327,7 +327,7 @@ OUTPUT:
 **使用 rtl 可以设置方向:从右向左。**
 从左到右是文本的默认方向。
 
-```
+```css
 Syntax:
 body
 {
@@ -339,7 +339,7 @@ direction:rtl;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -363,7 +363,7 @@ This is text formatting properties.
 </html>
 ```
 
-```
+```css
 OUTPUT:
 ```
 
@@ -371,7 +371,7 @@ OUTPUT:
 文本阴影属性用于给文本添加阴影。
 可以指定文字的水平大小、垂直大小和阴影颜色。
 
-```
+```css
 Syntax:
 body
 {
@@ -383,7 +383,7 @@ text-shadow:horizontal size vertical size color name;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -405,7 +405,7 @@ This is text formatting properties.
 </html>
 ```
 
-```
+```css
 OUTPUT:
 ```
 
@@ -413,7 +413,7 @@ OUTPUT:
 字间距用于指定行的字之间的间距。
 尺寸可以用 px 给出。
 
-```
+```css
 Syntax:
 body
 {
@@ -425,7 +425,7 @@ word-spacing:size;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -447,7 +447,7 @@ This is text formatting properties.
 </html>
 ```
 
-```
+```css
 OUTPUT:
 ```
 

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 .class {
     // CSS property
 } 
@@ -16,7 +16,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -53,7 +53,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>

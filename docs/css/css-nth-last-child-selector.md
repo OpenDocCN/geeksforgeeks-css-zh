@@ -6,7 +6,7 @@ CSS 中的**第 n 个-最后一个子()**选择器用于根据元素在兄弟组
 
 **语法:**
 
-```
+```css
 :nth-last-child(number) {
     //CSS Property
 }
@@ -20,7 +20,7 @@ CSS 中的**第 n 个-最后一个子()**选择器用于根据元素在兄弟组
 
 **示例-1:** 在此示例中，根据公式 2n+1 选择每个奇数元素，从末尾开始计数。
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -53,7 +53,7 @@ CSS 中的**第 n 个-最后一个子()**选择器用于根据元素在兄弟组
 ![nlastchild](img/5d961d730b5c31ed3266bd46b65a36f1.png)
 **例-2:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>

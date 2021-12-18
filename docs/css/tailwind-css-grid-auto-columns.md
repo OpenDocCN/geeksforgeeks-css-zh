@@ -15,7 +15,7 @@
 
 **语法:**
 
-```
+```css
 <element class="auto-cols-auto">..</element>
 ```
 
@@ -23,7 +23,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
     <head> 
@@ -67,7 +67,7 @@
 
 **语法:**
 
-```
+```css
 <element class="auto-cols-min">..</element>
 ```
 
@@ -75,7 +75,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
     <head> 
@@ -117,7 +117,7 @@
 
 **语法:**
 
-```
+```css
 <element class="auto-cols-max">..</element>
 ```
 
@@ -125,7 +125,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
     <head> 
@@ -167,7 +167,7 @@
 
 **语法:**
 
-```
+```css
 <element class="auto-cols-fr">..</element>
 ```
 
@@ -175,7 +175,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
     <head> 

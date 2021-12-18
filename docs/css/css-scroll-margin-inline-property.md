@@ -12,13 +12,13 @@
 
 **语法:**
 
-```
+```css
 scroll-margin-inline: length
 ```
 
 或者
 
-```
+```css
 scroll-margin-inline: Global_Values
 ```
 
@@ -33,7 +33,7 @@ scroll-margin-inline: Global_Values
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

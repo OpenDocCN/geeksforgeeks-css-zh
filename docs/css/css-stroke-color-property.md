@@ -8,7 +8,7 @@ CSS **描边颜色**属性设置截至边框的描边颜色。
 
 **语法:**
 
-```
+```css
 stroke-color: currentColor 
 /* Or */
 stroke-color: color-name 
@@ -28,7 +28,7 @@ stroke-color: hexadecimal value
 
 **示例 1:** 以下是使用 *currentColor* 属性值演示**笔画颜色**属性的使用的示例
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -66,7 +66,7 @@ stroke-color: hexadecimal value
 
 **示例 2:** 下面是使用颜色名称属性值演示**笔画颜色**属性的使用的示例
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

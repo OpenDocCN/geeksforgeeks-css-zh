@@ -33,7 +33,7 @@
 
 **语法:**
 
-```
+```css
 <element class="max-w-0">...</element>
 ```
 
@@ -41,7 +41,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head> 
     <link href=

@@ -17,7 +17,7 @@
 
 **语法:**
 
-```
+```css
 <element class="bg-repeat">...</element>
 ```
 
@@ -25,7 +25,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -63,7 +63,7 @@ https://media.geeksforgeeks.org/wp-content/uploads/20210222211217/Screenshot2021
 
 **语法:**
 
-```
+```css
 <element class="bg-no-repeat">...</element>
 ```
 
@@ -71,7 +71,7 @@ https://media.geeksforgeeks.org/wp-content/uploads/20210222211217/Screenshot2021
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -110,7 +110,7 @@ https://media.geeksforgeeks.org/wp-content/uploads/20210222211217/Screenshot2021
 
 **语法:**
 
-```
+```css
 <element class="bg-repeat-x">...</element>
 ```
 
@@ -118,7 +118,7 @@ https://media.geeksforgeeks.org/wp-content/uploads/20210222211217/Screenshot2021
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -156,7 +156,7 @@ https://media.geeksforgeeks.org/wp-content/uploads/20210222211217/Screenshot2021
 
 **语法:**
 
-```
+```css
 <element class="bg-repeat-y">...</element>
 ```
 
@@ -164,7 +164,7 @@ https://media.geeksforgeeks.org/wp-content/uploads/20210222211217/Screenshot2021
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -202,7 +202,7 @@ https://media.geeksforgeeks.org/wp-content/uploads/20210222211217/Screenshot2021
 
 **语法:**
 
-```
+```css
 <element class="bg-repeat-round">...</element>
 ```
 
@@ -210,7 +210,7 @@ https://media.geeksforgeeks.org/wp-content/uploads/20210222211217/Screenshot2021
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -248,7 +248,7 @@ https://media.geeksforgeeks.org/wp-content/uploads/20210222211217/Screenshot2021
 
 **语法:**
 
-```
+```css
 <element class="bg-repeat-space">...</element>
 ```
 
@@ -256,7 +256,7 @@ https://media.geeksforgeeks.org/wp-content/uploads/20210222211217/Screenshot2021
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 <head> 

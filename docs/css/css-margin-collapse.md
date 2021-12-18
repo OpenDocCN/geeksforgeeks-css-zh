@@ -8,7 +8,7 @@ CSS 边距属性用于设置元素所有四边的边距。
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
@@ -48,7 +48,7 @@ CSS 边距属性用于设置元素所有四边的边距。
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
     <head>

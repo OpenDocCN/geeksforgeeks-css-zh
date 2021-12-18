@@ -12,7 +12,7 @@
 
 ## 钢性铸铁
 
-```html
+```css
 // Aligning text in center
 .center
 {
@@ -25,7 +25,7 @@
 
 ## 钢性铸铁
 
-```html
+```css
 // Aligning an element of defined length in center
 // Remember to define the width of the element otherwise it
 //will be full width and 'auto' will not work
@@ -41,7 +41,7 @@
 
 ## 钢性铸铁
 
-```html
+```css
 .parent
 {
   // Aligning the child of this parent in center

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 transform: value;
 ```
 
@@ -16,7 +16,7 @@ transform: value;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 
@@ -79,7 +79,7 @@ transform: value;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 

@@ -12,7 +12,7 @@ CSS 样式表用于描述用 HTML 编写的文档的表示。它提供了颜色�
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -55,7 +55,7 @@ CSS 样式表用于描述用 HTML 编写的文档的表示。它提供了颜色�
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

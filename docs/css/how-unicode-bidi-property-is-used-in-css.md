@@ -8,7 +8,7 @@ Unicode-bidi 属性在 CSS 中使用 **unicode-bidi 属性**，该属性与方�
 
 **语法:**
 
-```
+```css
 unicode-bidi: embed|bidi-override;
 ```
 
@@ -24,7 +24,7 @@ unicode-bidi: embed|bidi-override;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -59,7 +59,7 @@ unicode-bidi: embed|bidi-override;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

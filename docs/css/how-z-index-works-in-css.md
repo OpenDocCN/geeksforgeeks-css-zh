@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 z-index: number;
 ```
 
@@ -16,7 +16,7 @@ z-index: number;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 
@@ -52,7 +52,7 @@ z-index: number;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 :last-of-type {
   //property
 }
@@ -15,7 +15,7 @@
 
 **示例:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

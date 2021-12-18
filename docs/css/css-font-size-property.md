@@ -6,7 +6,7 @@ CSS 中的 font-size 属性用于设置 HTML 文档中文本的字体大小。
 
 **语法:**
 
-```
+```css
 font-size: medium|xx-small|x-small|small|large|x-large
            |xx-large|smaller|larger|length|initial|inherit;
 ```
@@ -21,7 +21,7 @@ font-size: medium|xx-small|x-small|small|large|x-large
 
 **语法:**
 
-```
+```css
 font-size: medium|xx-small|x-small|small|large|x-large|xx-large;
 ```
 
@@ -29,7 +29,7 @@ font-size: medium|xx-small|x-small|small|large|x-large|xx-large;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -92,7 +92,7 @@ font-size: medium|xx-small|x-small|small|large|x-large|xx-large;
 
 **语法:**
 
-```
+```css
 font-size: smaller|larger;
 ```
 
@@ -100,7 +100,7 @@ font-size: smaller|larger;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -138,7 +138,7 @@ font-size: smaller|larger;
 
 **语法:**
 
-```
+```css
 font-size: length;
 ```
 
@@ -146,7 +146,7 @@ font-size: length;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -179,7 +179,7 @@ font-size: length;
 
 **语法:**
 
-```
+```css
 font-size: initial|inherit|unset;
 ```
 
@@ -187,7 +187,7 @@ font-size: initial|inherit|unset;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>

@@ -32,7 +32,7 @@
 
     ## 超文本标记语言
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -57,7 +57,7 @@
 
 *   **Step 3:** Define the classes used in the HTML page in the stylesheet and add the required styling corresponding to the name of the class.
 
-    ```html
+    ```css
     .Bgc\(\#00FF00\) {
       background-color: #00ff00;
     }
@@ -94,7 +94,7 @@
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -120,7 +120,7 @@
 
 **步骤 3:** 在样式表中定义 HTML 页面中使用的 **D(1):h** 类，并添加与该类名称对应的所需样式。
 
-```html
+```css
 .D\(1\)\:h:hover {
   background-color: green;
   color: white;

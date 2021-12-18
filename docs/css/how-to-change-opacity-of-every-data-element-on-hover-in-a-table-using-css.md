@@ -12,7 +12,7 @@
 
 *   首先制作定义了表格及其数据的 HTML 文件。
 
-    ```html
+    ```css
     <table>
       <tr>
         <td> data 1</td>
@@ -27,7 +27,7 @@
 *   对于表格数据元素标签**<【TD】>**不透明度最初设置为 0.7，浅渐变背景最初似乎会褪色。
 *   On **hover**, the opacity of element is set to 1, this makes the element clear and defined.
 
-    ```html
+    ```css
     td:nth-child(odd):hover {
         opacity: 1;
     }
@@ -36,7 +36,7 @@
 
     为所有奇数子的 **< td >** 标记
 
-    ```html
+    ```css
     td:nth-child(even):hover{
         opacity: 1;
     }
@@ -45,7 +45,7 @@
 
 **示例:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

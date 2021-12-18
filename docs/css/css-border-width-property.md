@@ -10,7 +10,7 @@ CSS 中的边框宽度属性用于设置元素所有四条边的边框宽度。�
 
 **语法:**
 
-```
+```css
 border-width: length|thin|medium|thick|initial|inherit
 ```
 
@@ -33,7 +33,7 @@ border-width: length|thin|medium|thick|initial|inherit
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -97,7 +97,7 @@ border-width: length|thin|medium|thick|initial|inherit
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -151,7 +151,7 @@ border-width: length|thin|medium|thick|initial|inherit
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -207,7 +207,7 @@ border-width: length|thin|medium|thick|initial|inherit
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -262,7 +262,7 @@ border-width: length|thin|medium|thick|initial|inherit
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -303,7 +303,7 @@ border-width: length|thin|medium|thick|initial|inherit
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>

@@ -8,7 +8,7 @@ CSS **透视** **属性**用于给 3D 对象赋予透视效果。透视是三维
 
 **语法:**
 
-```html
+```css
 perspective: length| none| initial| inherit;
 ```
 
@@ -18,7 +18,7 @@ perspective: length| none| initial| inherit;
 
 **语法:**
 
-```html
+```css
 perspective: length;
 ```
 
@@ -26,7 +26,7 @@ perspective: length;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -68,7 +68,7 @@ perspective: length;
 
 **语法:**
 
-```html
+```css
 perspective: none;
 ```
 
@@ -76,7 +76,7 @@ perspective: none;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -120,7 +120,7 @@ perspective: none;
 
 **语法:**
 
-```html
+```css
 perspective: initial;
 ```
 
@@ -128,7 +128,7 @@ perspective: initial;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -172,7 +172,7 @@ perspective: initial;
 
 **语法:**
 
-```html
+```css
 perspective: inherit;
 ```
 
@@ -180,7 +180,7 @@ perspective: inherit;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 <head>

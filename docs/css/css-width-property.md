@@ -6,7 +6,7 @@ CSS 中的**宽度属性**用于设置文本、图像的宽度。宽度可以像
 
 **语法:**
 
-```
+```css
 width: auto | value | initial | inherit;
 ```
 
@@ -20,7 +20,7 @@ width: auto | value | initial | inherit;
 
 **语法:**
 
-```
+```css
 width: auto;
 ```
 
@@ -28,7 +28,7 @@ width: auto;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -68,7 +68,7 @@ width: auto;
 
 **语法:**
 
-```
+```css
 width: value;
 ```
 
@@ -76,7 +76,7 @@ width: value;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -126,7 +126,7 @@ width: value;
 
 ****语法:****
 
-```
+```css
 width: initial;
 ```
 
@@ -134,7 +134,7 @@ width: initial;
 
 ## **超文本标记语言**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>

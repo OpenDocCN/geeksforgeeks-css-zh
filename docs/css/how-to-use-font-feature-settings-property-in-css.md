@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```css
 font-feature-settings: values;
 ```
 
@@ -22,7 +22,7 @@ font-feature-settings: values;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
   <head>
@@ -54,7 +54,7 @@ hlig 的字体功能
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
   <head>

@@ -6,7 +6,7 @@ rgb()函数是 CSS 中的一个内置函数，用于使用红绿蓝模型定义�
 
 **语法:**
 
-```html
+```css
 rgb( red, green, blue )
 ```
 
@@ -20,7 +20,7 @@ rgb( red, green, blue )
 
 **程序:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>

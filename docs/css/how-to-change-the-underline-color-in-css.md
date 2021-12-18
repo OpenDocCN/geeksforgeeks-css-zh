@@ -8,7 +8,7 @@
 
     **语法:**
 
-    ```
+    ```css
     <u> Some Text Here ***</u>***
     ```
 
@@ -16,7 +16,7 @@
 
     **语法:**
 
-    ```
+    ```css
     text-decoration-color: color | initial | inherit ;
     ```
 
@@ -26,7 +26,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <body> 
@@ -46,7 +46,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
   <head>

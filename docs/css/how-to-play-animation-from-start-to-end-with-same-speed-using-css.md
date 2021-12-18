@@ -6,13 +6,13 @@
 
 **语法:**
 
-```html
+```css
 animation-timing-function: linear; 
 ```
 
 **例 1:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -88,7 +88,7 @@ animation-timing-function: linear;
 
 例 2:
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

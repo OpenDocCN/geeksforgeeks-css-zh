@@ -6,7 +6,7 @@
 
 **语法:**
 
-```html
+```css
 <Percentage>
 ```
 
@@ -18,7 +18,7 @@
 
 **例 1:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -52,7 +52,7 @@
 
 **例 2:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

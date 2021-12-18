@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 <div class="flex flex-col justify-center items-center">
     ....
 </div>
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -78,7 +78,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>

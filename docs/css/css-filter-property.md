@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 filter: none|blur()|brightness()|contrast()|drop-shadow()|
 grayscale()|hue-rotate()|invert()|opacity()|saturate()|sepia()|
 url();
@@ -16,7 +16,7 @@ url();
 
 **示例:**本示例对网页中的图像元素应用两个过滤器功能。
 
-```
+```css
 img {
    filter: brightness(20%) blur(20px);
 }
@@ -32,7 +32,7 @@ img {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -66,7 +66,7 @@ img {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -100,7 +100,7 @@ img {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -134,7 +134,7 @@ img {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -168,7 +168,7 @@ img {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -202,7 +202,7 @@ img {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -236,7 +236,7 @@ img {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -270,7 +270,7 @@ img {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -304,7 +304,7 @@ img {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -338,7 +338,7 @@ img {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -372,7 +372,7 @@ img {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -404,7 +404,7 @@ img {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -447,7 +447,7 @@ img {
 
 ## **超文本标记语言**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

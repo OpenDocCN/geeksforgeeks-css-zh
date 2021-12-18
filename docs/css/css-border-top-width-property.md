@@ -10,7 +10,7 @@ CSS 中的边框顶部宽度属性用于设置元素顶部边框的特定宽度�
 
 **语法:**
 
-```
+```css
 border-top-width: length|thin|medium|thick|initial|inherit;
 ```
 
@@ -27,7 +27,7 @@ border-top-width: length|thin|medium|thick|initial|inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>

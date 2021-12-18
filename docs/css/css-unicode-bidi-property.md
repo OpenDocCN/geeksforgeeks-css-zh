@@ -6,7 +6,7 @@ HTML DOM 中的 **unicode-bidi** 属性与方向属性一起应用，以确定�
 
 **语法:**
 
-```
+```css
 unicode-bidi: normal|embed|bidi-override|initial|inherit;
 ```
 
@@ -16,13 +16,13 @@ unicode-bidi: normal|embed|bidi-override|initial|inherit;
 
     **语法:**
 
-    ```
+    ```css
     unicode-bidi: normal;
     ```
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -62,13 +62,13 @@ unicode-bidi: normal|embed|bidi-override|initial|inherit;
 
     **语法:**
 
-    ```
+    ```css
     unicode-bidi:embed;
     ```
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -108,13 +108,13 @@ unicode-bidi: normal|embed|bidi-override|initial|inherit;
 
     **语法:**
 
-    ```
+    ```css
     unicode-bidi:bidi-override;
     ```
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -154,13 +154,13 @@ unicode-bidi: normal|embed|bidi-override|initial|inherit;
 
     **语法:**
 
-    ```
+    ```css
     unicode-bidi: initial;
     ```
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -200,13 +200,13 @@ unicode-bidi: normal|embed|bidi-override|initial|inherit;
 
     **语法:**
 
-    ```
+    ```css
     unicode-bidi: inherit;
     ```
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -251,7 +251,7 @@ unicode-bidi: normal|embed|bidi-override|initial|inherit;
 
     **语法:**
 
-    ```
+    ```css
     unicode-bidi: isolate-override;
     ```
 
@@ -259,7 +259,7 @@ unicode-bidi: normal|embed|bidi-override|initial|inherit;
 
     **语法:**
 
-    ```
+    ```css
     unicode-bidi: plaintext;
     ```
 

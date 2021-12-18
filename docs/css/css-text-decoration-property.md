@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 text-decoration: text-decoration-line text-decoration-style text-decoration-color|initial|inherit;
 ```
 
@@ -16,7 +16,7 @@ text-decoration: text-decoration-line text-decoration-style text-decoration-colo
 
 **语法:**
 
-```
+```css
  text-decoration: text-decoration-line;
 ```
 
@@ -24,7 +24,7 @@ text-decoration: text-decoration-line text-decoration-style text-decoration-colo
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
@@ -77,7 +77,7 @@ text-decoration: text-decoration-line text-decoration-style text-decoration-colo
 
 **语法:**
 
-```
+```css
  text-decoration: text-decoration-line text-decoration-style;
 ```
 
@@ -85,7 +85,7 @@ text-decoration: text-decoration-line text-decoration-style text-decoration-colo
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
@@ -141,7 +141,7 @@ text-decoration: text-decoration-line text-decoration-style text-decoration-colo
 
 **语法:**
 
-```
+```css
 text-decoration: text-decoration-line text-decoration-color;
 ```
 
@@ -149,7 +149,7 @@ text-decoration: text-decoration-line text-decoration-color;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
@@ -205,7 +205,7 @@ text-decoration: text-decoration-line text-decoration-color;
 
 **语法:**
 
-```
+```css
  text-decoration: initial;
 ```
 
@@ -213,7 +213,7 @@ text-decoration: text-decoration-line text-decoration-color;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
@@ -255,7 +255,7 @@ text-decoration: text-decoration-line text-decoration-color;
 
 **语法:**
 
-```
+```css
  text-decoration: inherit;
 ```
 
@@ -263,7 +263,7 @@ text-decoration: text-decoration-line text-decoration-color;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>

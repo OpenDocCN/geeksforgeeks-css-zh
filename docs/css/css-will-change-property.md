@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 will-change: auto | <animateable-feature>#
 ```
 
@@ -17,7 +17,7 @@ will-change: auto | <animateable-feature>#
 
 **示例:**该示例说明了意志改变属性。
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 

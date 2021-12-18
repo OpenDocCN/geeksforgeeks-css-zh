@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 element {
     opacity: value;
     // CSS property
@@ -17,7 +17,7 @@ element {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -70,7 +70,7 @@ element {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

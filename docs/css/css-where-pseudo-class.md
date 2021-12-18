@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 class_Name :where(html-tages) html-tag {
     /* CSS code */
 }
@@ -14,7 +14,7 @@ class_Name :where(html-tages) html-tag {
 
 **不带:where()伪类的选择器:**
 
-```
+```css
 .className li em,
 .className section em,
 .className p em {
@@ -24,7 +24,7 @@ class_Name :where(html-tages) html-tag {
 
 **选择器，带:where()伪类:**
 
-```
+```css
 className :where(li, section, p) em {
     //CSS code
 }
@@ -34,7 +34,7 @@ className :where(li, section, p) em {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -91,7 +91,7 @@ className :where(li, section, p) em {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

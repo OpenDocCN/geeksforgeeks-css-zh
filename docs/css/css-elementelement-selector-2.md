@@ -6,7 +6,7 @@ CSS 中的元素+元素选择器用于设置紧接在第一个指定元素之后
 
 **语法:**
 
-```html
+```css
 element + element {
     //CSS Property
 
@@ -14,7 +14,7 @@ element + element {
 
 **示例 1:** 在下面的程序中，“p + p”选择器选择每对连续的段落元素并设置其样式。如果连续有 2 个以上的 **p** 元素，那么它会对最后两个元素进行样式化。
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -54,7 +54,7 @@ element + element {
 
 **例 2:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>

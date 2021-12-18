@@ -6,7 +6,7 @@ CSS **边距-底部**属性用于指定元素底部使用的边距量。可以�
 
 **语法:**
 
-```
+```css
 margin-bottom: <length> | <percentage> | auto
 
 ```
@@ -17,7 +17,7 @@ margin-bottom: <length> | <percentage> | auto
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
     <head>
@@ -51,7 +51,7 @@ margin-bottom: <length> | <percentage> | auto
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
     <head>

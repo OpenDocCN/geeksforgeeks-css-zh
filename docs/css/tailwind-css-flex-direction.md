@@ -19,7 +19,7 @@ CSS [flexbox](https://www.geeksforgeeks.org/introduction-to-css-flexbox/) 是开
 
 **语法:**
 
-```
+```css
 <element class="flex flex-row"> Contents... </element>
 ```
 
@@ -27,7 +27,7 @@ CSS [flexbox](https://www.geeksforgeeks.org/introduction-to-css-flexbox/) 是开
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 
 <head> 
@@ -66,7 +66,7 @@ CSS [flexbox](https://www.geeksforgeeks.org/introduction-to-css-flexbox/) 是开
 
 **语法:**
 
-```
+```css
 <element class="flex flex-row-reverse"> Contents... </element>
 ```
 
@@ -74,7 +74,7 @@ CSS [flexbox](https://www.geeksforgeeks.org/introduction-to-css-flexbox/) 是开
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 
 <head> 
@@ -113,7 +113,7 @@ CSS [flexbox](https://www.geeksforgeeks.org/introduction-to-css-flexbox/) 是开
 
 **语法:**
 
-```
+```css
 <element class="flex flex-col"> Contents... </element>
 ```
 
@@ -121,7 +121,7 @@ CSS [flexbox](https://www.geeksforgeeks.org/introduction-to-css-flexbox/) 是开
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 
 <head> 
@@ -160,7 +160,7 @@ CSS [flexbox](https://www.geeksforgeeks.org/introduction-to-css-flexbox/) 是开
 
 **语法:**
 
-```
+```css
 <element class="flex flex-col-reverse"> Contents... </element>
 ```
 
@@ -168,7 +168,7 @@ CSS [flexbox](https://www.geeksforgeeks.org/introduction-to-css-flexbox/) 是开
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 
 <head> 

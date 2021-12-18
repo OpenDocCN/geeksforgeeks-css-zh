@@ -8,7 +8,7 @@
 
 **语法:**
 
-```html
+```css
 .resizable {
 
   /* Enable resize on both 
@@ -21,7 +21,7 @@
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

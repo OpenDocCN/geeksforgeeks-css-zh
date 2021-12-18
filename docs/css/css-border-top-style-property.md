@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 border-top-style: none | dotted | dashed | solid | groove | inset | 
 outset | ridge | double | hidden | initial | inherit;
 ```
@@ -18,13 +18,13 @@ outset | ridge | double | hidden | initial | inherit;
 1.  **无:**为默认值，使上边框宽度为零。因此，它是不可见的。
     **语法:**
 
-```
+```css
 border-top-style:none;
 ```
 
 **示例-1:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -52,13 +52,13 @@ border-top-style:none;
 *   **Dotted:** It is used to make the top border with a series of dots.
     **Syntax:**
 
-    ```
+    ```css
     border-top-style:dotted;
     ```
 
     **示例-2:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -86,13 +86,13 @@ border-top-style:none;
     *   **Dashed:** It makes the top border with a series of short line segments.
     **Syntax:**
 
-    ```
+    ```css
     border-top-style:dashed;
     ```
 
     **示例-3:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -122,13 +122,13 @@ border-top-style:none;
 
     **语法:**
 
-    ```
+    ```css
     border-top-style:solid;
     ```
 
     **示例-4:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -158,13 +158,13 @@ border-top-style:none;
 
     **语法:**
 
-    ```
+    ```css
     border-top-style:groove;
     ```
 
     **示例-5:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -193,13 +193,13 @@ border-top-style:none;
 
     **语法:**
 
-    ```
+    ```css
     border-top-style:inset;
     ```
 
     **示例-6:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -228,13 +228,13 @@ border-top-style:none;
 
     **语法:**
 
-    ```
+    ```css
     border-top-style:outset;
     ```
 
     **示例-7:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -263,13 +263,13 @@ border-top-style:none;
 
     **语法:**
 
-    ```
+    ```css
     border-top-style:ridge;
     ```
 
     **示例-8:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -298,13 +298,13 @@ border-top-style:none;
 
     **语法:**
 
-    ```
+    ```css
     border-top-style:double;
     ```
 
     **示例-9:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -333,13 +333,13 @@ border-top-style:none;
 
     **语法:**
 
-    ```
+    ```css
     border-top-style:hidden;
     ```
 
     **示例-10**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -368,13 +368,13 @@ border-top-style:none;
 
     **语法:**
 
-    ```
+    ```css
     border-top-style:initial;
     ```
 
     **例:11**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -404,13 +404,13 @@ border-top-style:none;
 
     **语法:**
 
-    ```
+    ```css
     border-top-style:inherit;
     ```
 
     **例:12**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 

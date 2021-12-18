@@ -14,7 +14,7 @@
 
 **语法:**
 
-```html
+```css
 a:link {
     color:color_name;
 }
@@ -34,7 +34,7 @@ color_name 可以以任何格式给出，如颜色名称(绿色)、十六进制�
 
 **例**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -67,7 +67,7 @@ color_name 可以以任何格式给出，如颜色名称(绿色)、十六进制�
 **颜色:**这个 CSS 属性用来改变链接文本的颜色。
 **语法:**
 
-```html
+```css
 a {
     color: color_name;
 }
@@ -76,7 +76,7 @@ a {
 
 **示例:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -123,7 +123,7 @@ a {
 **字体系列:**此属性用于使用字体系列属性更改链接的字体类型。
 **语法:**
 
-```html
+```css
 a {
     font-family: "family name";
 }
@@ -132,7 +132,7 @@ a {
 
 **示例:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -182,7 +182,7 @@ a {
 **文本-装饰:**这个属性基本上是用来移除/添加链接的下划线。
 **语法:**
 
-```html
+```css
 a {
     text-decoration: none;
 }
@@ -191,7 +191,7 @@ a {
 
 **示例:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -225,7 +225,7 @@ a {
 **背景色:**该属性用于设置链接的背景色。
 **语法:**
 
-```html
+```css
 a {
     background-color: color_name;
 }
@@ -234,7 +234,7 @@ a {
 
 **示例:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -277,7 +277,7 @@ a {
 **CSS 链接按钮:** CSS 链接也可以使用按钮/框进行样式化。以下示例显示了如何将 CSS 链接设计为按钮。
 T3】例:
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>

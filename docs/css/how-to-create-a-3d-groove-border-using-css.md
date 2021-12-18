@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```css
 border-style: groove;
 ```
 
@@ -22,7 +22,7 @@ border-style: groove;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

@@ -6,7 +6,7 @@ z-index 属性用于在 z 轴上移动元素，即移入或移出屏幕。如果
 
 **语法:**
 
-```
+```css
 z-index: auto|number|initial|inherit;
 
 ```
@@ -20,7 +20,7 @@ z-index: auto|number|initial|inherit;
 
 **例 1:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -60,7 +60,7 @@ z-index: auto|number|initial|inherit;
 
 **例 2:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

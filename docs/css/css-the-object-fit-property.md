@@ -6,7 +6,7 @@ CSS **对象适配属性**用于指定应该如何调整图像或视频的大小
 
 **语法:**
 
-```html
+```css
 object-fit: fill|contain|cover|scale-down|none|initial|inherit;
 ```
 
@@ -16,7 +16,7 @@ object-fit: fill|contain|cover|scale-down|none|initial|inherit;
 
 **语法:**
 
-```html
+```css
 object-fit: fill;
 ```
 
@@ -24,7 +24,7 @@ object-fit: fill;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -56,7 +56,7 @@ object-fit: fill;
 
 **语法:**
 
-```html
+```css
 object-fit: contain;
 ```
 
@@ -64,7 +64,7 @@ object-fit: contain;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -96,7 +96,7 @@ object-fit: contain;
 
 **语法:**
 
-```html
+```css
 object-fit: cover;
 ```
 
@@ -104,7 +104,7 @@ object-fit: cover;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -136,7 +136,7 @@ object-fit: cover;
 
 **语法:**
 
-```html
+```css
 object-fit: none;
 ```
 
@@ -144,7 +144,7 @@ object-fit: none;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -176,7 +176,7 @@ object-fit: none;
 
 **语法:**
 
-```html
+```css
 object-fit: scale-down;
 ```
 
@@ -184,7 +184,7 @@ object-fit: scale-down;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -216,7 +216,7 @@ object-fit: scale-down;
 
 **语法:**
 
-```html
+```css
 object-fit: initial;
 ```
 
@@ -224,7 +224,7 @@ object-fit: initial;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -256,7 +256,7 @@ object-fit: initial;
 
 **语法:**
 
-```html
+```css
 object-fit: inherit;
 ```
 
@@ -264,7 +264,7 @@ object-fit: inherit;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 <head>

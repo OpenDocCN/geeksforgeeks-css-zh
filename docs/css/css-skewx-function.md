@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 skewX( a )
 ```
 
@@ -16,7 +16,7 @@ skewX( a )
 
 **例 1:**
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 
@@ -53,7 +53,7 @@ skewX( a )
 
 **例 2:**
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 

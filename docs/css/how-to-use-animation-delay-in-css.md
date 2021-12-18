@@ -11,7 +11,7 @@
 
 **CSS 语法:**
 
-```html
+```css
 animation-delay: time |initial |inherit;
 ```
 
@@ -27,7 +27,7 @@ animation-delay: time |initial |inherit;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -73,7 +73,7 @@ animation-delay: time |initial |inherit;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 scroll-margin-block-end: length
 
 /* Or */
@@ -26,7 +26,7 @@ scroll-margin-block-end: Global_Values
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

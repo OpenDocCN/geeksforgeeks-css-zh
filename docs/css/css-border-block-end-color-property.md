@@ -6,7 +6,7 @@ CSS 中的**边框-块-结束-颜色属性**用于在样式表的一个地方定
 
 **语法:**
 
-```
+```css
 border-block-end-color: border-color;
 ```
 
@@ -18,7 +18,7 @@ border-block-end-color: border-color;
 
 **例 1:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -61,7 +61,7 @@ border-block-end-color: border-color;
 
 **例 2:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

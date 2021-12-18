@@ -19,7 +19,7 @@ CSS 加载屏幕
 
 ## **超文本标记语言**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

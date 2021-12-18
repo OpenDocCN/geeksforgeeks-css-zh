@@ -19,7 +19,7 @@ CSS 很容易学习和理解，但是它对 HTML 文档的呈现提供了强大�
 CSS 由浏览器解释的样式规则组成，然后应用于文档中相应的元素。
 样式规则集由选择器和声明块组成。
 
-```html
+```css
 Selector -- h1
 Declaration -- {color:blue;font size:12px;} 
 ```
@@ -37,7 +37,7 @@ Declaration -- {color:blue;font size:12px;}
 
 ## 半铸钢ˌ钢性铸铁(Cast Semi-Steel)
 
-```html
+```css
 p {
     color: blue;
     text-align: center;
@@ -53,7 +53,7 @@ CSS 选择器用于根据元素名称、id、类、属性等来“查找”(或�
 
 ## 半铸钢ˌ钢性铸铁(Cast Semi-Steel)
 
-```html
+```css
 * {
    color: #000000;
 }

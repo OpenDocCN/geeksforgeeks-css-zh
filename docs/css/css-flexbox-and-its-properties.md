@@ -39,25 +39,25 @@
 
 A)从左到右
 
-```html
+```css
  flex-direction: row
 ```
 
 B)从右向左
 
-```html
+```css
  flex-direction: row-reverse
 ```
 
 C)从上到下
 
-```html
+```css
         flex-direction: column
 ```
 
 D)从底部到顶部
 
-```html
+```css
         flex-direction: column
 ```
 
@@ -86,7 +86,7 @@ D)从底部到顶部
 
 ******示例:******
 
-```html
+```css
 **<!DOCTYPE html>
 <html lang="en">
 

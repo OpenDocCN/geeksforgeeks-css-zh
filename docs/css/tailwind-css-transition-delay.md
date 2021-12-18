@@ -17,7 +17,7 @@
 
 **语法:**
 
-```
+```css
 <element class="delay-{amount}">...</element>
 ```
 
@@ -25,7 +25,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <html>
 <head> 

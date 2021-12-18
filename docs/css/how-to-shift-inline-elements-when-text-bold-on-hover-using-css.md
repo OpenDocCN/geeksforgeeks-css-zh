@@ -8,13 +8,13 @@
 
 *   **语法:**
 
-    ```
+    ```css
      .class_name { letter-spacing: value }
     ```
 
 *   **例:**
 
-    ```
+    ```css
     <!DOCTYPE hyml>
     <html>
 

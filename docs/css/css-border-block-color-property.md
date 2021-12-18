@@ -6,7 +6,7 @@ CSS 中的**边框块颜色属性**用于在样式表中的单个位置设置单
 
 **语法:**
 
-```
+```css
 border-block-color: color;
 ```
 
@@ -18,7 +18,7 @@ border-block-color: color;
 
 **例 1:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -60,7 +60,7 @@ border-block-color: color;
 
 **例 2:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

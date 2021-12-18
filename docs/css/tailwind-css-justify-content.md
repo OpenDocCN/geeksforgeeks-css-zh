@@ -17,7 +17,7 @@
 
 **语法:**
 
-```
+```css
 <element class="justify-start">...</element>
 ```
 
@@ -25,7 +25,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -57,7 +57,7 @@
 
 **语法:**
 
-```
+```css
 <element class="justify-end">...</element>
 ```
 
@@ -65,7 +65,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -97,7 +97,7 @@
 
 **语法:**
 
-```
+```css
 <element class="justify-center">...</element>
 ```
 
@@ -105,7 +105,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -137,7 +137,7 @@
 
 **语法:**
 
-```
+```css
 <element class="justify-between">...</element>
 ```
 
@@ -145,7 +145,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -177,7 +177,7 @@
 
 **语法:**
 
-```
+```css
 <element class="justify-around">...</element>
 ```
 
@@ -185,7 +185,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -217,7 +217,7 @@
 
 **语法:**
 
-```
+```css
 <element class="justify-evenly">...</element>
 ```
 
@@ -225,7 +225,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head> 
     <link href=

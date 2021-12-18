@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 mask-clip: geometry-box values
 /* Or */
 mask-clip: Keyword values
@@ -29,7 +29,7 @@ mask-clip: Global values
 
 **示例 1:** 以下示例使用*边框*说明了**遮罩剪辑**属性:
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -66,7 +66,7 @@ mask-clip: Global values
 
 **示例 2:** 以下示例使用*填充框*说明了**遮罩剪辑**属性:
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>

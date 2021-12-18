@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 animation-play-state: paused|running|initial|inherit;
 ```
 
@@ -19,7 +19,7 @@ animation-play-state: paused|running|initial|inherit;
 
 **示例:**
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
     <head> 

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```html
+```css
 background-image: url("url");
 ```
 
@@ -16,7 +16,7 @@ background-image: url("url");
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

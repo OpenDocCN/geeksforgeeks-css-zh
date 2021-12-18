@@ -6,7 +6,7 @@ CSS 中的**边框内联宽度属性**用于在样式表中的一个位置设置
 
 **语法:**
 
-```
+```css
 border-inline-width: width;
 ```
 
@@ -18,7 +18,7 @@ border-inline-width: width;
 
 **例 1:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -60,7 +60,7 @@ border-inline-width: width;
 
 **例 2:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

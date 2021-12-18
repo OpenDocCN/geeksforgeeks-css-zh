@@ -6,7 +6,7 @@ CSS 中的**列间距**属性用于指定使用列计数属性分割给定文本
 
 **语法:**
 
-```
+```css
 column-gap: length|normal|initial|inherit;
 ```
 
@@ -25,7 +25,7 @@ column-gap: length|normal|initial|inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 word-break: break-all | break-word;
 ```
 
@@ -19,7 +19,7 @@ word-break: break-all | break-word;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -60,7 +60,7 @@ word-break: break-all | break-word;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -101,13 +101,13 @@ word-break: break-all | break-word;
 
 **语法:**
 
-```
+```css
  overflow-wrap: break-word;
 ```
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

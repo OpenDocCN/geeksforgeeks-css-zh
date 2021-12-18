@@ -10,7 +10,7 @@
 
      ****语法:**
 
-    ```html
+    ```css
     a:hover {
         css declarations;
     }
@@ -19,7 +19,7 @@
 
     ****语法:****
 
-    ```html
+    ```css
     .icon:hover {
         background-color: blue;
     } 
@@ -29,7 +29,7 @@
 
     ****语法:****
 
-    ```html
+    ```css
     #target:hover {
         transform: scale(1.5);
     }
@@ -41,7 +41,7 @@
 
 ## **超文本标记语言**
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 

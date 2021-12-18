@@ -16,7 +16,7 @@
 
 **语法:**
 
-```
+```css
 <element class="whitespace-normal">...</element>
 ```
 
@@ -24,7 +24,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <head>
     <link href=
@@ -60,7 +60,7 @@
 
 **语法:**
 
-```
+```css
 <element class="whitespace-nowrap">...</element>
 ```
 
@@ -68,7 +68,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <head>
     <link href=
@@ -104,7 +104,7 @@
 
 **语法:**
 
-```
+```css
 <element class="whitespace-pre">...</element>
 ```
 
@@ -112,7 +112,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <head>
     <link href=
@@ -148,7 +148,7 @@
 
 **语法:**
 
-```
+```css
 <element class="whitespace-pre-line">...</element>
 ```
 
@@ -156,7 +156,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <head>
     <link href=
@@ -192,7 +192,7 @@
 
 **语法:**
 
-```
+```css
 <element class="whitespace-pre-wrap">...</element>
 ```
 
@@ -200,7 +200,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <head>
     <link href=

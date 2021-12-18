@@ -15,7 +15,7 @@
 
 **语法:**
 
-```
+```css
 <element class="text-left">...</element>
 ```
 
@@ -23,7 +23,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <head>
     <link href=
@@ -57,7 +57,7 @@
 
 **语法:**
 
-```
+```css
 <element class="text-center">...</element>
 ```
 
@@ -65,7 +65,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <head>
     <link href=
@@ -99,7 +99,7 @@
 
 **语法:**
 
-```
+```css
 <element class="text-right">...</element>
 ```
 
@@ -107,7 +107,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <head>
     <link href=
@@ -141,7 +141,7 @@
 
 **语法:**
 
-```
+```css
 <element class="text-left">...</element>
 ```
 
@@ -149,7 +149,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <head>
     <link href=

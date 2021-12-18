@@ -6,7 +6,7 @@
 
 **示例:**
 
-```html
+```css
 .main-container {
   display: flex;
 }
@@ -26,7 +26,7 @@
 
 **语法:**
 
-```html
+```css
 // Stacking flex items column wise
 flex-direction: column;
 
@@ -43,7 +43,7 @@ flex-direction: row-reverse;
 
 **示例:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -95,7 +95,7 @@ flex-direction: row-reverse;
 
 **语法:**
 
-```html
+```css
 // Wrap flex items when necessary
 flex-wrap: wrap;
 
@@ -106,7 +106,7 @@ flex-wrap: nowrap;
 
 **示例:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -161,7 +161,7 @@ flex-wrap: nowrap;
 **注:**柔流是柔向和柔绕的简写。
 **语法:**
 
-```html
+```css
 flex-flow: row wrap;
 
 ```
@@ -170,7 +170,7 @@ flex-flow: row wrap;
 
 **语法:**
 
-```html
+```css
 // Aligns the flex items at the center
 justify-content: center;
 
@@ -191,7 +191,7 @@ justify-content: flex-end;
 
 **示例:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -293,7 +293,7 @@ justify-content: flex-end;
 **对齐-项目:**该属性用于根据横轴垂直对齐伸缩项目。
 **语法:**
 
-```html
+```css
 // Aligns the flex items in the middle of the container
 align-items: center;
 
@@ -313,7 +313,7 @@ align-items: flex-end;
 
 **示例:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -419,7 +419,7 @@ align-items: flex-end;
 **对齐-内容:**此属性定义每个 flex line 在 flexbox 中的对齐方式，并且仅在应用 flex-wrap: wrap 时适用，即如果存在多行 flexbox 项目。
 **语法:**
 
-```html
+```css
 // Displays the flex lines with equal space between them
 align-content: space-between;
 
@@ -440,7 +440,7 @@ align-content: stretch;
 
 **示例:**
 
-```html
+```css
                         <!DOCTYPE html>
 <html>
     <head>

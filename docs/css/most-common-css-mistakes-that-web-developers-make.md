@@ -10,7 +10,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -46,7 +46,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -84,7 +84,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -109,7 +109,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -141,7 +141,7 @@
 
 **示例:**
 
-```
+```css
 h1 {
     font-size: 16px;
     line-height: 20px;
@@ -151,7 +151,7 @@ h1 {
 
 在上述代码中，使用的绝对单位对我们的响应网站不利，因此我们可以通过以下方式使用相对单位来代替绝对单位:-
 
-```
+```css
 h1 {
     font-size: 1rem;
     line-height: 1.25;

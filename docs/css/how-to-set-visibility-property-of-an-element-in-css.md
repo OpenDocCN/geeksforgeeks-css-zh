@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```css
 visibility: visible | hidden | collapse | initial | inherit;
 ```
 
@@ -22,7 +22,7 @@ visibility: visible | hidden | collapse | initial | inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -64,7 +64,7 @@ visibility: visible | hidden | collapse | initial | inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

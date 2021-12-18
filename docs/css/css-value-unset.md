@@ -8,13 +8,13 @@
 
 **语法:**
 
-```
+```css
 *property_name*: unset;
 ```
 
 **示例 1:** 将元素的字体颜色取消设置为初始默认值。
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <meta charset="utf-8">
@@ -47,7 +47,7 @@ span {
 
 **示例 2:** 将字体颜色取消设置为等效的父元素值。
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <meta charset="utf-8">

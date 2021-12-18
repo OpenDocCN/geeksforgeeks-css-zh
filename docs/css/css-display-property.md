@@ -5,7 +5,7 @@
 CSS 中的**显示属性**定义了组件(div、超链接、标题等)将如何放置在网页上。顾名思义，该属性用于定义网页不同部分的显示。
 **语法:**
 
-```html
+```css
 display: value;
 ```
 
@@ -46,7 +46,7 @@ display: value;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -108,7 +108,7 @@ display: value;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -170,7 +170,7 @@ display: value;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -232,7 +232,7 @@ display: value;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>

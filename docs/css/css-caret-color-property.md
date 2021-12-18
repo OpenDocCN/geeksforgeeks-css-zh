@@ -6,7 +6,7 @@
 
 **语法:**
 
-```html
+```css
 caret-color: auto|color;
 ```
 
@@ -25,7 +25,7 @@ caret-color: auto|color;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>

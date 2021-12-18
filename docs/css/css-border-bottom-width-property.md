@@ -6,7 +6,7 @@ CSS 中的**边框-底部宽度属性**用于设置元素底部边框的特定�
 
 **语法:**
 
-```
+```css
 border-bottom-width: length|thin|medium|thick|initial|inherit;
 ```
 
@@ -19,7 +19,7 @@ border-bottom-width: length|thin|medium|thick|initial|inherit;
 
 **示例:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>

@@ -8,7 +8,7 @@
 
 **HTML:** 在 HTML 中，我们创建了一个用来做直线的 div 元素。
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 
@@ -32,7 +32,7 @@ CSS:
 *   使用 before 选择器制作这条直线的动画，并为其提供一个线性动画，其关键帧标识符命名为*动画*。
 *   关键帧的动画非常简单。对于前半帧，使宽度为 100%(向前移动)，然后在下半帧将其减小到 0%(向后移动)。
 
-```html
+```css
 <style>
     body {
         margin: 0;
@@ -79,7 +79,7 @@ CSS:
 
 **完整代码:**在本节中，我们将结合 HTML 和 CSS 代码来制作直线动画效果。
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 

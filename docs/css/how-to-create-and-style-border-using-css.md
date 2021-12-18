@@ -27,7 +27,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -67,7 +67,7 @@
 
 **示例:**在上面的 HTML 代码中，只需更改如下给出的边框样式表即可。
 
-```
+```css
 border-bottom-style : dashed;
 border-left-style: solid;
 border-right-style: double;
@@ -84,7 +84,7 @@ border-top-style: dotted;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -123,7 +123,7 @@ border-top-style: dotted;
 
 此属性用于更改所有四个边框的颜色。在样式部分的上述 HTML 代码中更改或添加以下内容。
 
-```
+```css
 border-color : green;
 border-top-color: black;
 border-bottom-color: yellow;
@@ -139,13 +139,13 @@ border-bottom-color: yellow;
 
 **语法:**
 
-```
+```css
 border:  (border-width) (border-style) (border-color);
 ```
 
 **示例:**
 
-```
+```css
 border: 5px dotted red;
 ```
 
@@ -159,7 +159,7 @@ border: 5px dotted red;
 
 **示例:**
 
-```
+```css
 border: 5px solid red;
 border-radius : 15px;
 ```

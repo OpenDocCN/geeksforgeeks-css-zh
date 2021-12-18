@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 cursor: value
 ```
 
@@ -14,7 +14,7 @@ cursor: value
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -51,7 +51,7 @@ cursor: value
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

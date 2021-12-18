@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 perspective( length );
 ```
 
@@ -20,7 +20,7 @@ perspective( length );
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

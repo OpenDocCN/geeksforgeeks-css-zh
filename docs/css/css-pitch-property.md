@@ -6,7 +6,7 @@ CSS 音高属性用于定义声音的频率。每一个产生不同频率的声�
 
 **语法:**
 
-```
+```css
 pitch: frequency;
 ```
 
@@ -18,7 +18,7 @@ pitch: frequency;
 
 ## HTML
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```css
 <svg class="stroke-{width}">...</svg>
 ```
 
@@ -20,7 +20,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 <head> 

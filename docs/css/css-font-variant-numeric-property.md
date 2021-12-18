@@ -6,7 +6,7 @@ CSS 的**字体变体数字属性**用于控制替换字形的使用。这是根
 
 **语法:**
 
-```html
+```css
 font-variant-numeric: value
 ```
 
@@ -24,7 +24,7 @@ font-variant-numeric: value
 
 **示例:**
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
     <head>

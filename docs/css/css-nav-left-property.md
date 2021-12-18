@@ -6,7 +6,7 @@ CSS **左侧导航**属性用于通过键盘上的导航键导航网页。这个
 
 **语法:**
 
-```
+```css
  nav-left: auto|id|target-name|initial|inherit;
 ```
 
@@ -23,7 +23,7 @@ CSS **左侧导航**属性用于通过键盘上的导航键导航网页。这个
 
 **例:1**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

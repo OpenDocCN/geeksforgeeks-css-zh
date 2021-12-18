@@ -14,7 +14,7 @@
 
 *   **例:**
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -110,7 +110,7 @@
 
 *   **例:**
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
 

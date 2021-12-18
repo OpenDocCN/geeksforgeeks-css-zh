@@ -10,7 +10,7 @@ CSS 中的**元素>元素**选择器仅用于为特定父元素的子元素设�
 
 **语法:**
 
-```html
+```css
 element1 > element2 {
     //CSS Property
 }
@@ -19,7 +19,7 @@ element1 > element2 {
 
 **例 1:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -57,7 +57,7 @@ element1 > element2 {
 ![ele-ele](img/5cf944e1e6ff0bee31bb97dec2570774.png)
 **例 2:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>

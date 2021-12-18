@@ -6,7 +6,7 @@ CSS 的轮廓颜色属性设置元素的轮廓颜色。
 
 **语法**
 
-```
+```css
 outline-color: <color> | invert | inherit;
 ```
 
@@ -16,7 +16,7 @@ outline-color: <color> | invert | inherit;
 
     **例:**轮廓-颜色:黑色；
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -50,7 +50,7 @@ outline-color: <color> | invert | inherit;
 
     **例:**轮廓-颜色:# FF00FF
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -84,7 +84,7 @@ outline-color: <color> | invert | inherit;
 
     **示例:**轮廓-颜色:rgb(0，0，255)；
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -118,7 +118,7 @@ outline-color: <color> | invert | inherit;
 
     **例:**轮廓-颜色:hsl(0，100%，50%)；
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -154,7 +154,7 @@ outline-color: <color> | invert | inherit;
 
     **示例:**轮廓-颜色:反转；
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -190,7 +190,7 @@ outline-color: <color> | invert | inherit;
 
     **例:**轮廓-颜色:继承；
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 

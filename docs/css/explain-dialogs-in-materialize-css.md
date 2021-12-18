@@ -6,7 +6,7 @@
 
 **语法:**
 
-```html
+```css
 Materialize.toast(string, time, styleClass,callback);
 ```
 
@@ -27,7 +27,7 @@ Materialize.toast(string, time, styleClass,callback);
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

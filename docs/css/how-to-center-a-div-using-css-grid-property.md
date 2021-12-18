@@ -10,7 +10,7 @@
 
 ## HTML
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -45,7 +45,7 @@
 
 ## HTML
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 <head>

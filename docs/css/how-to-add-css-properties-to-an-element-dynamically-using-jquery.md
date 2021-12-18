@@ -8,7 +8,7 @@ css()方法可以以不同的方式使用。此方法也可用于检查所选元
 
 **语法:**
 
-```
+```css
 $(selector).css(property)
 ```
 
@@ -24,7 +24,7 @@ $(selector).css(property)
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYpe html>
 <html>
 

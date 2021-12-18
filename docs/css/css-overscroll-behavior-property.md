@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 overscroll-behavior: auto | contain | none | initial | inherit
 ```
 
@@ -16,7 +16,7 @@ overscroll-behavior: auto | contain | none | initial | inherit
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
     <head>
@@ -85,7 +85,7 @@ overscroll-behavior: auto | contain | none | initial | inherit
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
     <head>
@@ -154,7 +154,7 @@ overscroll-behavior: auto | contain | none | initial | inherit
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
     <head>
@@ -223,7 +223,7 @@ overscroll-behavior: auto | contain | none | initial | inherit
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
     <head>

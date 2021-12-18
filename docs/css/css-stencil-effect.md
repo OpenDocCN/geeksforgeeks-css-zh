@@ -10,7 +10,7 @@
 
 ## html
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 <head>

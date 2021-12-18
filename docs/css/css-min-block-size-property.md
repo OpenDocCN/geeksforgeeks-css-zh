@@ -6,7 +6,7 @@ CSS 中的**最小块大小属性**用于创建元素的最小水平或垂直大
 
 **语法:**
 
-```
+```css
 min-block-size: length| percentage| auto| none| min-content| 
                 max-content| fit-content| inherit| initial| unset;
 ```
@@ -27,7 +27,7 @@ min-block-size: length| percentage| auto| none| min-content|
 以下示例说明了 CSS 中的**最小块大小属性**:
 **示例 1:**
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 
@@ -73,7 +73,7 @@ min-block-size: length| percentage| auto| none| min-content|
 
 **例 2:**
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 

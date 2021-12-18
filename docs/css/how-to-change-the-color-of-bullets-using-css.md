@@ -15,7 +15,7 @@
 
 ## 超文本标记语言
 
-```html
+```css
 <ul>
     <li>Welcome to "GFG"</li>
     <li>Geeks</li>
@@ -36,7 +36,7 @@
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -75,7 +75,7 @@
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

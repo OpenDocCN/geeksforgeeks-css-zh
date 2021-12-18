@@ -8,13 +8,13 @@
 
 **步骤 1:** 使用以下命令创建一个反应应用程序:
 
-```html
+```css
 npx create-react-app foldername
 ```
 
 **步骤 2:** 创建项目文件夹(即文件夹名)后，使用以下命令移动到该文件夹:
 
-```html
+```css
 cd foldername
 ```
 
@@ -30,7 +30,7 @@ cd foldername
 
 ## 超文本标记语言
 
-```html
+```css
 import React, { useState } from "react";
 
 const App = () => {
@@ -63,7 +63,7 @@ export default App;
 
 **运行应用程序的步骤:**从项目的根目录使用以下命令运行应用程序:
 
-```html
+```css
 npm start
 ```
 
@@ -75,7 +75,7 @@ npm start
 
 **注意:**我们要注意的一点是给按钮取不同的名字。此外，一个更令人鼓舞的方法是为按钮使用标识，如下所示:
 
-```html
+```css
 const menuItems = [{id:1, name:"Easy"}, 
                         {id:2, name:"Medium"}, 
                         {id:3, name:"Hard"}]

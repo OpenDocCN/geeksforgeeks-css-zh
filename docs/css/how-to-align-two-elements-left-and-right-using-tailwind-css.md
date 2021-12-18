@@ -17,7 +17,7 @@
 
 **语法:**
 
-```
+```css
 <div class="flow-root">  
     <p class="float-left">Welcome to GeeksforGeeks</p> 
     <p class="float-right">A complete portal for geeks</p>
@@ -28,7 +28,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 
 <head>
@@ -74,7 +74,7 @@
 
 **语法:**
 
-```
+```css
 <div class="relative">
     <p class="absolute left-0">
         Welcome to GeeksforGeeks
@@ -100,7 +100,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 
 <head>

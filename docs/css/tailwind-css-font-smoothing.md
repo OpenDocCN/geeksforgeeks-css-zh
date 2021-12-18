@@ -15,7 +15,7 @@
 
 **语法:**
 
-```
+```css
 <element class="antialiased">...</element>
 ```
 
@@ -23,7 +23,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -57,7 +57,7 @@
 
 **语法:**
 
-```
+```css
 <element class="subpixel-antialiased">...</element>
 ```
 
@@ -65,7 +65,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head> 
     <link href=

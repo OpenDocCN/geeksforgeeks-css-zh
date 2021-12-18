@@ -6,7 +6,7 @@ CSS 中的**最大宽度**属性用于定义元素的最大宽度。宽度值不
 
 **语法:**
 
-```
+```css
 max-width: none| length| initial| inherit;
 ```
 
@@ -16,7 +16,7 @@ max-width: none| length| initial| inherit;
 
 **语法:**
 
-```
+```css
 max-width: none;
 ```
 
@@ -24,7 +24,7 @@ max-width: none;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -54,7 +54,7 @@ max-width: none;
 
 **语法:**
 
-```
+```css
 max-width: length;
 ```
 
@@ -62,7 +62,7 @@ max-width: length;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -92,7 +92,7 @@ max-width: length;
 
 **语法:**
 
-```
+```css
 max-width: %;
 ```
 
@@ -100,7 +100,7 @@ max-width: %;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -130,7 +130,7 @@ max-width: %;
 
 ****语法:****
 
-```
+```css
 max-width: initial;
 ```
 
@@ -138,7 +138,7 @@ max-width: initial;
 
 ## **超文本标记语言**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>

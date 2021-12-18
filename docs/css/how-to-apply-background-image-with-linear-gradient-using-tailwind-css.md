@@ -10,17 +10,17 @@ Tailwind CSS 是一个高度可定制的、实用程序优先的 CSS 框架，�
 
 **方法 1:通过 npm** 安装顺风
 
-```
+```css
 Step 1:npm init -y
 ```
 
-```
+```css
 Step 2:npm install tailwindcss
 ```
 
 **第三步:**现在我们必须通过使用@tailwind 指令将 Tailwind 的基础、组件和实用程序样式注入到我们的 CSS 文件中，从而将 tailwind 添加到我们的 CSS 中。
 
-```
+```css
 @tailwind base;  
 @tailwind components;  
 @tailwind utilities;
@@ -28,20 +28,20 @@ Step 2:npm install tailwindcss
 
 **第四步:**
 
-```
+```css
 npx tailwindcss init
 (It is an optional step that is used to create a Tailwind config file.)
 ```
 
 **第五步:**
 
-```
+```css
 npx tailwindcss build styles.css -o output.css  
 ```
 
 **方法二:通过 CDN** 使用顺风 CSS 文件
 
-```
+```css
 <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
 ```
 
@@ -49,7 +49,7 @@ npx tailwindcss build styles.css -o output.css
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -83,7 +83,7 @@ npx tailwindcss build styles.css -o output.css
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>

@@ -6,7 +6,7 @@ CSS 中的**:**之前和**:**之后的选择器用于在元素前后添加内容
 
 **语法:**
 
-```html
+```css
 a:hover::before {
     // CSS Property
 }
@@ -20,7 +20,7 @@ a:hover::after {
 
 **示例 1:** 本示例对元素中的 a:before 和 a:after 使用:悬停条件。
 
-```html
+```css
 <!DOCTYPE html>
 <html>
    <head>
@@ -52,7 +52,7 @@ a:hover::after {
 
 **示例 2:** 本示例对元素中的 a:before 和 a:after 使用:悬停条件。
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>

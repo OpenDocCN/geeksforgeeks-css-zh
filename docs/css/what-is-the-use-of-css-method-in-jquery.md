@@ -6,7 +6,7 @@
 
 **语法:**
 
-```html
+```css
 $(selector).css(property)
 ```
 
@@ -16,7 +16,7 @@ $(selector).css(property)
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

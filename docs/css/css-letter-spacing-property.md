@@ -6,7 +6,7 @@ CSS 中的**字母间距**属性用于设置文本字符之间的间距行为，
 
 **语法:**
 
-```html
+```css
 letter-spacing: normal|length|initial|inherit;
 ```
 
@@ -15,13 +15,13 @@ letter-spacing: normal|length|initial|inherit;
 *   **正常:**当前字体的正常字母间距，即字符之间没有多余的间距。这是默认值。
     **语法:**
 
-```html
+```css
 letter-spacing: normal;
 ```
 
 **示例:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -55,13 +55,13 @@ letter-spacing: normal;
 
     **语法:**
 
-    ```html
+    ```css
     letter-spacing: length;
     ```
 
     **示例:**
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
         <head>
@@ -95,7 +95,7 @@ letter-spacing: normal;
     *   **initial:** This mode sets this property to its default value.
     **Syntax:**
 
-    ```html
+    ```css
     letter-spacing: initial;
     ```
 

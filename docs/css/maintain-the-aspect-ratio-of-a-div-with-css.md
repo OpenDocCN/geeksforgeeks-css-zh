@@ -7,7 +7,7 @@
 元素的长宽比描述的是其宽度和高度的比例关系。两种常见的视频宽高比是 4:3 和 16:9。
 要保持 div 的纵横比，请为填充顶部添加一个百分比值。不同的纵横比具有不同的百分比值。其中一些如下所示:
 
-```html
+```css
 aspect ratio  | padding-top value
 --------------|----------------------
     1:1       |       100%
@@ -19,7 +19,7 @@ aspect ratio  | padding-top value
 
 **语法:**
 
-```html
+```css
 element {
     padding-top: %value;
 }
@@ -29,7 +29,7 @@ element {
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>

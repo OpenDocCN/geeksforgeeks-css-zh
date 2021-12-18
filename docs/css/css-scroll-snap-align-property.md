@@ -6,7 +6,7 @@ CSS **滚动-对齐-对齐**属性表示元素或容器的对齐端口内的框�
 
 **语法:**
 
-```
+```css
 scroll-snap-align: Keyword_Values;
 /* Or */
 scroll-snap-align: Global_Values;
@@ -22,7 +22,7 @@ scroll-snap-align: Global_Values;
 
 **示例 1:** 在此示例中，您可以通过滚动到示例内容的两个“界面”中间的一点来查看**滚动-对齐-对齐**的效果。这里我们使用了*无开始*作为属性值。
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

@@ -8,7 +8,7 @@
 
 *   **确定:**为进度指标提供基本物化功能。
 
-    ```html
+    ```css
     <div class="progress">
         <div class="determinate" style="width: 70%"></div>
     </div>
@@ -17,7 +17,7 @@
 
 *   **Indeterminate:** It provides animation to progress indicator.
 
-    ```html
+    ```css
     <div class="progress">
         <div class="indeterminate"></div>
     </div>
@@ -26,7 +26,7 @@
 
     **圆形:**圆形中有 4 种颜色，3 种尺寸。微调器应该嵌套在“div”**预加载器包装器中。**默认尺寸为**中**，但可增加**大**或**小班**相应调整尺寸。如果您想显示一种颜色，可以添加类别**仅红色微调器、仅蓝色微调器、仅黄色微调器**和**仅绿色微调器**。
 
-    ```html
+    ```css
     <div class="preloader-wrapper big active">
         <div class="spinner-layer spinner-blue-only">
             <div class="circle-clipper left">
@@ -73,7 +73,7 @@
 
     **圆形闪烁颜色:**除了在显示时使用物化提供的所有四种颜色外，它们与圆形相同。
 
-    ```html
+    ```css
     <div class="preloader-wrapper big active">
         <div class="spinner-layer spinner-blue">
             <div class="circle-clipper left">
@@ -130,7 +130,7 @@
 
     ## 超文本标记语言
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
 

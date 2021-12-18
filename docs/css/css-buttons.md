@@ -8,7 +8,7 @@ CSS **按钮**用于通过对按钮应用各种样式属性来装饰网页。按
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -35,7 +35,7 @@ CSS **按钮**用于通过对按钮应用各种样式属性来装饰网页。按
 
 **语法:**
 
-```
+```css
 element {
      background-color: color_name;
 }
@@ -45,7 +45,7 @@ element {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -103,7 +103,7 @@ element {
 
 **语法:**
 
-```
+```css
 element {
       border: style;
 }
@@ -113,7 +113,7 @@ element {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -178,7 +178,7 @@ element {
 
 **语法:**
 
-```
+```css
 element {
      color: style;
 }
@@ -188,7 +188,7 @@ element {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -239,7 +239,7 @@ element {
 
 **语法:**
 
-```
+```css
 element {
      padding: style;
 }
@@ -249,7 +249,7 @@ element {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -301,7 +301,7 @@ element {
 
 **语法:**
 
-```
+```css
 element {
      font-size: style;
 }
@@ -311,7 +311,7 @@ element {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -363,7 +363,7 @@ element {
 
 ****语法:****
 
-```
+```css
 element {
      border-radius: property;
 }
@@ -373,7 +373,7 @@ element {
 
 ## **超文本标记语言**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -432,7 +432,7 @@ element {
 
 ****语法:****
 
-```
+```css
 box-shadow: [horizontal offset] [vertical offset] [blur radius] 
             [optional spread radius] [color];
 ```
@@ -441,7 +441,7 @@ box-shadow: [horizontal offset] [vertical offset] [blur radius]
 
 ## **超文本标记语言**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -477,7 +477,7 @@ box-shadow: [horizontal offset] [vertical offset] [blur radius]
 
 ****语法:****
 
-```
+```css
 element {
      width: property;
 }
@@ -487,7 +487,7 @@ element {
 
 ## **超文本标记语言**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -541,7 +541,7 @@ element {
 
 ****语法:****
 
-```
+```css
 element:hover {
     // CSS property
 }
@@ -551,7 +551,7 @@ element:hover {
 
 ## **超文本标记语言**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

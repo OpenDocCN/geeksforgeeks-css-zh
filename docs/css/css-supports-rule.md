@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 @supports (condition) {
     //  Style you want to apply
 }
@@ -14,7 +14,7 @@
 
 **示例:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -53,7 +53,7 @@
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
     <head>
@@ -88,7 +88,7 @@
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
     <head>
@@ -121,7 +121,7 @@
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
     <head>

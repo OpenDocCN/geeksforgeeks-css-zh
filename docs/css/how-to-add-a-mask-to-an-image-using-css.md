@@ -6,7 +6,7 @@ CSS 中的**蒙版-图像**属性用于设置图像或文本的蒙版。它用�
 
 **语法:**
 
-```html
+```css
 mask-image: none | <make-source> | <image> | inherit | initial | unset
 ```
 
@@ -23,13 +23,13 @@ mask-image: none | <make-source> | <image> | inherit | initial | unset
 
 **语法:**
 
-```html
+```css
 mask-image: url();
 ```
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
   <head>
@@ -68,7 +68,7 @@ mask-image: url();
 
 **语法:**
 
-```html
+```css
 mask-image: linear-gradient();
 ```
 
@@ -76,7 +76,7 @@ mask-image: linear-gradient();
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
   <head>

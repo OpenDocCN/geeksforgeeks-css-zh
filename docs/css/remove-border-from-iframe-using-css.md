@@ -6,7 +6,7 @@ Iframe 用于在网页上显示网页。移除网页中 *iframe* 标签的边框
 
 **语法:**
 
-```html
+```css
 frameBorder = "value";
 ```
 
@@ -14,7 +14,7 @@ frameBorder = "value";
 
 **例 1:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -48,7 +48,7 @@ frameBorder = "value";
 
 **例 2:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>

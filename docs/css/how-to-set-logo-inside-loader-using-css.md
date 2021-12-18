@@ -24,7 +24,7 @@
 
 ## index.html
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 
@@ -62,7 +62,7 @@
 
 ## style.css
 
-```html
+```css
 .loader {
     border: 16px solid #f3f3f3; /* Light grey */
     border-top: 16px solid #048023; /* Dark Green */
@@ -90,7 +90,7 @@
 
 ## index.html
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 

@@ -6,7 +6,7 @@
 
 **例 1:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -38,7 +38,7 @@
 
 **示例 2:** 本示例使用 JavaScript 在 CSS 中显示一个:悬停内容。调用 onmouseover 和 onmouseout 事件属性来显示 a:悬停内容。
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>

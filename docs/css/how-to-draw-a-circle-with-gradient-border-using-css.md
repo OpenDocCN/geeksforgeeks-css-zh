@@ -8,7 +8,7 @@ CSS 用于创建各种不同颜色或渐变的形状和样式。在本文中，�
 
 **语法:**
 
-```html
+```css
  .class_name { background-image: linear-gradient(direction, color1, color2 } 
 ```
 
@@ -20,7 +20,7 @@ CSS 用于创建各种不同颜色或渐变的形状和样式。在本文中，�
 
 **程序:**我们可以用线性梯度函数画一个有梯度边界的圆，如下图所示:
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

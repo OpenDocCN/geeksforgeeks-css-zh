@@ -16,7 +16,7 @@
 
 **语法:**
 
-```
+```css
 <element class="place-self-auto">...</element>
 ```
 
@@ -24,7 +24,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -61,7 +61,7 @@
 
 **语法:**
 
-```
+```css
 <element class="place-self-start">...</element>
 ```
 
@@ -69,7 +69,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -106,7 +106,7 @@
 
 **语法:**
 
-```
+```css
 <element class="place-self-end">...</element>
 ```
 
@@ -114,7 +114,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -151,7 +151,7 @@
 
 **语法:**
 
-```
+```css
 <element class="place-self-center">...</element>
 ```
 
@@ -159,7 +159,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -196,7 +196,7 @@
 
 **语法:**
 
-```
+```css
 <element class="place-self-stretch">...</element>
 ```
 
@@ -204,7 +204,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head> 
     <link href=

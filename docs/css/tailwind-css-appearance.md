@@ -10,7 +10,7 @@
 
 **语法:**
 
-```
+```css
 <element class="class="appearance-none"">...</element>
 ```
 
@@ -18,7 +18,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 <head> 

@@ -11,7 +11,7 @@ CSS 中的**列表**以特定的方式指定了内容或项目的列表，即可
 
 **语法:**
 
-```html
+```css
 list-style-type:value;
 ```
 
@@ -30,7 +30,7 @@ list-style-type:value;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -89,7 +89,7 @@ list-style-type:value;
 
 **语法:**
 
-```html
+```css
 list-style-image: url;
 ```
 
@@ -97,7 +97,7 @@ list-style-image: url;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -140,7 +140,7 @@ list-style-image: url;
 
 **语法:**
 
-```html
+```css
 list-style-position: outside;
 ```
 
@@ -148,7 +148,7 @@ list-style-position: outside;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -189,7 +189,7 @@ list-style-position: outside;
 
 **语法:**
 
-```html
+```css
 list-style-position: inside;
 ```
 
@@ -197,7 +197,7 @@ list-style-position: inside;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -240,7 +240,7 @@ list-style-position: inside;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -279,7 +279,7 @@ list-style-position: inside;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -320,7 +320,7 @@ list-style-position: inside;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

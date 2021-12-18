@@ -5,7 +5,7 @@
 hsl()函数是 CSS 中的一个内置函数，用于使用色调-饱和度-亮度模型(HSL)定义颜色。
 **语法:**
 
-```html
+```css
 hsl( hue, saturation, lightness )
 ```
 
@@ -20,7 +20,7 @@ hsl( hue, saturation, lightness )
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>

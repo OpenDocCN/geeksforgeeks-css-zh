@@ -13,7 +13,7 @@
 
 **语法:**
 
-```
+```css
 <element class="italic">...</element>
 ```
 
@@ -21,7 +21,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <head>
     <link href=
@@ -57,7 +57,7 @@
 
 **语法:**
 
-```
+```css
 <element class="non-italic">...</element>
 ```
 
@@ -65,7 +65,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <head>
     <link href=

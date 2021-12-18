@@ -6,13 +6,13 @@
 
 **语法:**
 
-```html
+```css
 list-style-image: none | url | initial | inherit;
 ```
 
 **示例:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

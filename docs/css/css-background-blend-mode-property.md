@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 background-blend-mode: normal|multiply|screen|darken|lighten|
 color-dodge|saturation|difference|luminosity|overlay;
 ```
@@ -20,7 +20,7 @@ color-dodge|saturation|difference|luminosity|overlay;
 
 *   **语法:**
 
-```
+```css
 background-blend-mode: normal;
 ```
 
@@ -28,7 +28,7 @@ background-blend-mode: normal;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -63,7 +63,7 @@ url("https://media.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-logo.png")
 
 *   **语法:**
 
-```
+```css
 background-blend-mode: multiply;
 ```
 
@@ -71,7 +71,7 @@ background-blend-mode: multiply;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -106,7 +106,7 @@ url("https://media.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-logo.png")
 
 *   **语法:**
 
-```
+```css
 background-blend-mode: screen;
 ```
 
@@ -114,7 +114,7 @@ background-blend-mode: screen;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -149,7 +149,7 @@ url("https://media.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-logo.png")
 
 *   **语法:**
 
-```
+```css
 background-blend-mode: darken;
 ```
 
@@ -157,7 +157,7 @@ background-blend-mode: darken;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -192,7 +192,7 @@ url("https://media.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-logo.png")
 
 *   **语法:**
 
-```
+```css
 background-blend-mode: lighten;
 ```
 
@@ -200,7 +200,7 @@ background-blend-mode: lighten;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -235,7 +235,7 @@ url("https://media.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-logo.png")
 
 *   **语法:**
 
-```
+```css
 background-blend-mode: color-dodge;
 ```
 
@@ -243,7 +243,7 @@ background-blend-mode: color-dodge;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -278,7 +278,7 @@ url("https://media.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-logo.png")
 
 *   **语法:**
 
-```
+```css
 background-blend-mode: saturation;
 ```
 
@@ -286,7 +286,7 @@ background-blend-mode: saturation;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -321,7 +321,7 @@ url("https://media.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-logo.png")
 
 *   **语法:**
 
-```
+```css
 background-blend-mode: difference;
 ```
 
@@ -329,7 +329,7 @@ background-blend-mode: difference;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -364,7 +364,7 @@ url("https://media.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-logo.png")
 
 *   **语法:**
 
-```
+```css
 background-blend-mode: luminosity;
 ```
 
@@ -372,7 +372,7 @@ background-blend-mode: luminosity;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -407,7 +407,7 @@ url("https://media.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-logo.png")
 
 *   **语法:**
 
-```
+```css
 background-blend-mode: Overlay;
 ```
 
@@ -415,7 +415,7 @@ background-blend-mode: Overlay;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

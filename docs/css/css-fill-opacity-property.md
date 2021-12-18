@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 fill-opacity: [0-1] | <percentage>
 ```
 
@@ -16,7 +16,7 @@ fill-opacity: [0-1] | <percentage>
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
     <head>
@@ -85,7 +85,7 @@ fill-opacity: [0-1] | <percentage>
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
     <head>

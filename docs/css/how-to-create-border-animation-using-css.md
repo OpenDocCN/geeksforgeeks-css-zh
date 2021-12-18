@@ -10,7 +10,7 @@
 
 **HTML 代码:**我们已经创建了 HTML 文件，并在其中创建了一个 div，其中 h1 在 div 内。下面是相同的代码。
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 
@@ -34,7 +34,7 @@
 
 **第一步:**我们做的第一件事是提供基本的背景，并在中心对齐我们的文本。下面是相同的代码。
 
-```html
+```css
 body {
     margin: 0;
     padding: 0;
@@ -60,7 +60,7 @@ h1 {
 *   然后将它悬停在动画上，给它一个线性动画和一个标识符名称作为动画。
 *   现在使用关键帧，我们将动画边界。确保仅在边框的顶部和右侧应用颜色。首先，我们增加了顶部边框动画的宽度和右侧边框动画的高度。
 
-```html
+```css
 .geeks::before {
     content: "";
     position: absolute;
@@ -112,7 +112,7 @@ h1 {
 *   左边的高度会增加，底部的宽度会增加。
 *   确保在此步骤中关键帧标识符使用不同的名称。
 
-```html
+```css
 .geeks::after {
     content: "";
     position: absolute;
@@ -160,7 +160,7 @@ h1 {
 
 **完整 CSS 代码:**
 
-```html
+```css
 <style>
     body {
         margin: 0;
@@ -273,7 +273,7 @@ h1 {
 
 **完整代码:**是 HTML 和 CSS 两种代码的组合。
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 

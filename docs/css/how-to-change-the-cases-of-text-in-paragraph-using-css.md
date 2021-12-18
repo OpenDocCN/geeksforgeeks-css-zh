@@ -10,7 +10,7 @@
 
 示例:
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 

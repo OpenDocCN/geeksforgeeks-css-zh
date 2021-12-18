@@ -4,7 +4,7 @@
 
 CSS 中的字符串是分配给属性的文本值。字符串是用单引号或双引号括起来的字符序列。
 
-```
+```css
 Example:
 'GeeksForGeeks' is a String
 "GeeksForGeeks" is a String
@@ -19,7 +19,7 @@ Example:
 
 CSS 中的内容属性接受一个字符串(要插入的内容)作为值。
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -45,7 +45,7 @@ CSS 中的内容属性接受一个字符串(要插入的内容)作为值。
 
 另一个例子是分配背景图像。背景图像的 URL 将包含在双引号中，这表示背景图像属性采用字符串值
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>

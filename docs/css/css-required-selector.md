@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```css
 :required {
     // CSS Property
 } 
@@ -17,7 +17,7 @@
 
 **示例:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>

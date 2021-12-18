@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 min(value1, value2);
 min(value1, min(value2, min(value3, value4)));
 ```
@@ -21,7 +21,7 @@ min(value1, min(value2, min(value3, value4)));
 
 **例 1:**
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -66,7 +66,7 @@ h2{
 
 **例 2:**
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 <head>

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 padding-block-start: length|percentage|auto|inherit|initial|unset;
 ```
 
@@ -23,7 +23,7 @@ padding-block-start: length|percentage|auto|inherit|initial|unset;
 
 **例 1:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -65,7 +65,7 @@ padding-block-start: length|percentage|auto|inherit|initial|unset;
 
 **例 2:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

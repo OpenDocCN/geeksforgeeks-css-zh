@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 elevation: angle:
 
 ```
@@ -15,7 +15,7 @@ elevation: angle:
 
 *   **Angle:** This parameter stores the angle of the sound source that produces sound. Within the range of 90 degrees to -90 degrees, this parameter accepts few possible values. Job title is acceptable.
 
-```
+```css
 above = 90deg
 level = 0deg
 below = -90deg
@@ -28,7 +28,7 @@ lower = shifted downwards by 10deg compare to initial(0deg)
 
 ## HTML
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

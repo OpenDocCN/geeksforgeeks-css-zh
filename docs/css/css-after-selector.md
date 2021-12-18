@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```css
 ::after{
         content:
 }
@@ -17,7 +17,7 @@
 
 下面的 HTMl/CSS 代码显示了::after 选择器的功能:
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

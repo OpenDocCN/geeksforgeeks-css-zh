@@ -5,13 +5,13 @@
 **圆形()函数**是 CSS 中的一个内置函数，用于在圆形图片或其他任何东西周围创建浮动文本。
 **语法:**
 
-```
+```css
 circle(100px at 10px 150px);
 ```
 
 或者
 
-```
+```css
 circle( percentage );
 ```
 
@@ -21,7 +21,7 @@ circle( percentage );
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -90,7 +90,7 @@ circle( percentage );
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

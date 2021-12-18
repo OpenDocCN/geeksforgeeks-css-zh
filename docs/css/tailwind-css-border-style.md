@@ -14,7 +14,7 @@
 
 **语法:**
 
-```
+```css
 <element class="border-{style}">...</element>
 ```
 
@@ -22,7 +22,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 element:not(:last-child) { 
     // CSS Style
 }
@@ -15,7 +15,7 @@ element:not(:last-child) {
 
 **示例 1:** 本示例创建了一个导航菜单，除了最后一个元素之外，该菜单由右边框分隔。
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -66,7 +66,7 @@ element:not(:last-child) {
 
 **示例 2:** 本示例创建了一个导航菜单，并使用了除最后一个元素之外的一些 CSS 属性。
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

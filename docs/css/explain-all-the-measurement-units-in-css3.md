@@ -17,7 +17,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -42,7 +42,7 @@
 
 ## 半铸钢ˌ钢性铸铁(Cast Semi-Steel)
 
-```
+```css
 body{
   font-family: Arial;
 }
@@ -71,7 +71,7 @@ body{
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -103,7 +103,7 @@ body{
 
 ## 半铸钢ˌ钢性铸铁(Cast Semi-Steel)
 
-```
+```css
 body{
   font-family: Arial;
 }
@@ -139,7 +139,7 @@ em 和 rem 是应用于字体大小的相对单位。这些单位是由我们指
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -159,7 +159,7 @@ em 和 rem 是应用于字体大小的相对单位。这些单位是由我们指
 
 ## 半铸钢ˌ钢性铸铁(Cast Semi-Steel)
 
-```
+```css
 html{
   font-size: 20px;/*Default font size of 16px*/
 }

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 :not(selector) {
   //CSS Property
 }
@@ -15,7 +15,7 @@
 
 **示例-1:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -57,7 +57,7 @@
 
 **示例-2:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

@@ -30,7 +30,7 @@
 
 **1.使用 NPM 安装：**您可以通过[npm](https://www.geeksforgeeks.org/node-js-npm-node-package-manager/)将纯 CSS 添加到您的项目中。 这是我们推荐的将 Pure CSS 集成到项目的构建过程和工具链中的方法。
 
-```
+```css
 $ npm install purecss --save
 ```
 
@@ -42,7 +42,7 @@ $ npm install purecss --save
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

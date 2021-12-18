@@ -16,7 +16,7 @@
 
 您可以将它们组合在同一个关键字下，如下所示。
 
-```html
+```css
 animation: floating 3s ease-in-out infinite
 ```
 
@@ -31,7 +31,7 @@ animation: floating 3s ease-in-out infinite
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -57,7 +57,7 @@ animation: floating 3s ease-in-out infinite
 
 ## 钢性铸铁
 
-```html
+```css
 .floating { 
     animation-name: floating;
     animation-duration: 3s;

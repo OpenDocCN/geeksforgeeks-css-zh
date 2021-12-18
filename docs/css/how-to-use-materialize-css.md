@@ -19,13 +19,13 @@
 
 **NPM 安装命令:**
 
-```
+```css
 npm install materialize-css@next
 ```
 
 **凉亭安装命令:**
 
-```
+```css
 bower install materialize
 ```
 
@@ -45,7 +45,7 @@ bower install materialize
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -97,7 +97,7 @@ bower install materialize
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 element.offsetWidth
 ```
 
@@ -14,7 +14,7 @@ element.offsetWidth
 
 **语法:**
 
-```
+```css
 element.clientWidth
 ```
 
@@ -22,13 +22,13 @@ element.clientWidth
 
 **语法:**
 
-```
+```css
 element.scrollWidth
 ```
 
 **示例:**此示例说明了 offsetWidth、clientWidth 和 scrollWidth 属性的使用。
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -94,7 +94,7 @@ element.scrollWidth
 
 **语法:**
 
-```
+```css
 element.offsetHeight
 ```
 
@@ -102,7 +102,7 @@ element.offsetHeight
 
 **语法:**
 
-```
+```css
 element.clientHeight
 ```
 
@@ -110,13 +110,13 @@ element.clientHeight
 
 **语法:**
 
-```
+```css
 element.scrollHeight
 ```
 
 **示例:**此示例说明了 offsetHeight、clientHeight 和 scrollHeight 属性的使用。
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

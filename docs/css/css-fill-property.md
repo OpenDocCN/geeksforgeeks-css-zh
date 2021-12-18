@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 fill: <paint>
 ```
 
@@ -16,7 +16,7 @@ fill: <paint>
 
     **示例 1:** 该示例说明了填充属性的不同颜色值。
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
     <head>
@@ -73,7 +73,7 @@ fill: <paint>
 
     **示例 2:** 本示例使用填充属性的模式。
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
     <head>

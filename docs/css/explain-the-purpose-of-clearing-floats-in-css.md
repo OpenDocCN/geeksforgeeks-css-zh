@@ -10,7 +10,7 @@
 
 **语法:**
 
-```html
+```css
 clear: none|right|left|both|initial|inherit;
 ```
 
@@ -29,7 +29,7 @@ clear: none|right|left|both|initial|inherit;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -64,7 +64,7 @@ clear: none|right|left|both|initial|inherit;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

@@ -6,7 +6,7 @@ CSS 中的 element ~ element selector 用于匹配第二个元素，如果它跟
 
 **语法:**
 
-```html
+```css
 element ~ element {
     //CSS Property
 }
@@ -15,7 +15,7 @@ element ~ element {
 
 **示例 1:** 在下面的程序中，可以看到“p ~ ul”将只选择和样式化第二个无序列表，它位于段落之后，而不是第一个单独的列表。
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -55,7 +55,7 @@ element ~ element {
 
 **例 2:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>

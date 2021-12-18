@@ -9,7 +9,7 @@
 
 **示例 1:** 本示例使用 float 属性并排放置三个 div。
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
     <head> 
@@ -81,7 +81,7 @@
 
 **示例 2:** 本示例使用 float 属性并排放置三个 div。
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
     <head> 
@@ -163,7 +163,7 @@
 *   **显示:表格-单元格；**该属性用于行为类似于 td 的元素(div)。
 *   **显示:表-行；**该属性用于行为类似 tr 的元素(div)。
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
     <head> 

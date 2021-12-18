@@ -10,7 +10,7 @@ HTML strong < hr > 标签用于在 HTML 页面中插入一个横线或主题分�
 
 **示例:**
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 

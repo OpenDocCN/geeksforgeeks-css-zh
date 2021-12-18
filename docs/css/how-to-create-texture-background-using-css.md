@@ -8,7 +8,7 @@
 
 *   使用 **html 标签创建一个 html 文件。**
 
-    ```html
+    ```css
     <html>
 
     <head>
@@ -25,7 +25,7 @@
 *   选择我们想要在背景中设置的纹理颜色。将纹理颜色保存为图像格式，如()。巴布亚新几内亚。jpg 等)
 *   假设我们想使用内部表单 CSS 设置这个网页的背景。所以在**头节**写下下面的代码。
 
-    ```html
+    ```css
     <style>
         body {
             background-image: url("BG.jpg");
@@ -37,7 +37,7 @@
 
 **示例:**
 
-```html
+```css
 <!DOCTYPE>
 <html>
 

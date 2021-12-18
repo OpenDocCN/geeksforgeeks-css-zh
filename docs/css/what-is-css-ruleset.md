@@ -18,7 +18,7 @@ CSS 规则集是 CSS 样式表的主要构建块。
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -70,7 +70,7 @@ CSS 规则集是 CSS 样式表的主要构建块。
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
   <head>

@@ -8,7 +8,7 @@ CSS 轮廓偏移属性设置轮廓和元素边缘或边框之间的间距。
 
 **语法**
 
-```html
+```css
 outline-offset: length|initial|inherit;
 
 ```
@@ -18,14 +18,14 @@ outline-offset: length|initial|inherit;
 *   **length**: It is the distance or space between the outline and the border i.e it is the distance the outline is outset from the border edge. It can also have negative value. If length is negative then the outline is placed inside the element. If length is 0 then there is no space between the outline and the element.
     **syntax**:
 
-    ```html
+    ```css
     outline-offset: 5px;
 
     ```
 
     **例 1:**
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
     <head>
@@ -54,7 +54,7 @@ outline-offset: length|initial|inherit;
     ![](img/256d4d8c0d931b888e154be84ec2a8a8.png)
     **例 2:**
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
     <head>
@@ -85,14 +85,14 @@ outline-offset: length|initial|inherit;
 *   **initial**: It sets the outline-offset property to its default value.
     **syntax**:
 
-    ```html
+    ```css
     outline-offset: initial;
 
     ```
 
     **示例:**
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -126,7 +126,7 @@ outline-offset: length|initial|inherit;
 
     **语法**:
 
-    ```html
+    ```css
     outline-offset: inherit;
 
     ```

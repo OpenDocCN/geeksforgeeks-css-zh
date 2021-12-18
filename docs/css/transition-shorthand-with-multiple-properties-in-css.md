@@ -12,7 +12,7 @@ CSS 中的 transition 属性用于在元素中创建一些转换。此属性平�
 
 **语法:**
 
-```html
+```css
 div {
     transition: <property> <duration> <timing-function> <delay>;
 }
@@ -21,7 +21,7 @@ div {
 
 **例 1:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -56,7 +56,7 @@ div {
 
 **例 2:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>

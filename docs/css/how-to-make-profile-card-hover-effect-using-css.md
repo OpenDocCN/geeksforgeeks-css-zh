@@ -14,7 +14,7 @@
 *   We have included "style.css" in the "index.html" file containing all css styles.
 *   We need to import the following Google fonts website for *font series: [meriwether], serif* **;**
 
-```
+```css
 @import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap");
 ```
 
@@ -22,7 +22,7 @@
 
 ## HTML
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>

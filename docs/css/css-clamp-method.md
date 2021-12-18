@@ -14,7 +14,7 @@ clamp()函数可用于各种元素，如字体大小、宽度等。让我们构�
 
 **语法:**
 
-```
+```css
 clamp(value1, value2, value3)
 ```
 
@@ -24,7 +24,7 @@ clamp(value1, value2, value3)
 
 **示例:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

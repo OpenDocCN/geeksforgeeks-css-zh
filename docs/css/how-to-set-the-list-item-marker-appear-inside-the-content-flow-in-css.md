@@ -9,7 +9,7 @@
 
 **语法–**
 
-```
+```css
 list-style-position: value;
 ```
 
@@ -29,7 +29,7 @@ list-style-position: value;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

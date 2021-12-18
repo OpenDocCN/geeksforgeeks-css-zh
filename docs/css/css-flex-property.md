@@ -6,7 +6,7 @@ flex CSS [简写属性](https://www.geeksforgeeks.org/css-shorthand-properties/)
 
 **语法:**
 
-```
+```css
 flex: flex-grow flex-shrink flex-basis|auto|initial|inherit;
 ```
 
@@ -36,7 +36,7 @@ flex: flex-grow flex-shrink flex-basis|auto|initial|inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -88,7 +88,7 @@ flex: flex-grow flex-shrink flex-basis|auto|initial|inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

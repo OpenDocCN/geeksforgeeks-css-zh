@@ -10,7 +10,7 @@
 
 **标题:**物化 CSS 提供了用于标题标签的基本样式。下面的标签显示了由物化 CSS 样式化的可用标题标签:
 
-```
+```css
 <h1>Heading 1</h1>  
 <h2>Heading 2</h2>  
 <h3>Heading 3</h3>  
@@ -22,7 +22,7 @@
 
 **区块引用:**区块引用用于强调引用或引文。它也可以用于额外的文本层次和强调。
 
-```
+```css
 <blockquote>
     This is an example quotation using blockquote tag.
 </blockquote>
@@ -31,14 +31,14 @@
 
 **流文本:**流文本类可用于流畅地调整需要缩放的文本的字体大小和行高。要使用流文本，需要将类**流文本**添加到所需的标签中。下面的例子显示了这个类的用法。
 
-```
+```css
 <p class="flow-text">I am Flow Text</p>
 
 ```
 
 **注意:**物化 CSS 使用的标准字体是 **Roboto 2.0** 字体。这种字体可以通过简单地改变字体堆栈来替换。这可以通过修改下面的代码来完成，以包含所需的字体并添加到自定义 CSS 中。
 
-```
+```css
 html {
    font-family: GillSans, Calibri, Trebuchet, sans-serif;
 }
@@ -48,7 +48,7 @@ html {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

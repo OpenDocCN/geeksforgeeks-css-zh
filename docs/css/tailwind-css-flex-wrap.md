@@ -16,7 +16,7 @@ CSS [flexbox](https://www.geeksforgeeks.org/introduction-to-css-flexbox/) 是开
 
 **语法:**
 
-```
+```css
 <element class="flex flex-wrap"> Contents... </element>
 ```
 
@@ -24,7 +24,7 @@ CSS [flexbox](https://www.geeksforgeeks.org/introduction-to-css-flexbox/) 是开
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <html>
 
@@ -66,7 +66,7 @@ CSS [flexbox](https://www.geeksforgeeks.org/introduction-to-css-flexbox/) 是开
 
 **语法:**
 
-```
+```css
 <element class="flex flex-nowrap"> Contents... </element>
 ```
 
@@ -74,7 +74,7 @@ CSS [flexbox](https://www.geeksforgeeks.org/introduction-to-css-flexbox/) 是开
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <html>
 
@@ -116,7 +116,7 @@ CSS [flexbox](https://www.geeksforgeeks.org/introduction-to-css-flexbox/) 是开
 
 **语法:**
 
-```
+```css
 <element class="flex flex-wrap-reverse"> Contents... </element>
 ```
 
@@ -124,7 +124,7 @@ CSS [flexbox](https://www.geeksforgeeks.org/introduction-to-css-flexbox/) 是开
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <html>
 

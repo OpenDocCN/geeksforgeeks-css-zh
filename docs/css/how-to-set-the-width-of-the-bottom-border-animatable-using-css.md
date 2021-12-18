@@ -10,7 +10,7 @@
 
     **语法:**
 
-    ```
+    ```css
     @keyframe myFun
     {
     100%{
@@ -24,7 +24,7 @@
 
     **语法:**
 
-    ```
+    ```css
     animation: animation_name animation_duration animation_count
     ```
 
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
   <head>

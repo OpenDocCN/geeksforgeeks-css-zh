@@ -14,7 +14,7 @@
 
 **语法:**
 
-```
+```css
 <element class="break-normal">...</element>
 ```
 
@@ -22,7 +22,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -54,7 +54,7 @@
 
 **语法:**
 
-```
+```css
 <element class="break-words">...</element>
 ```
 
@@ -62,7 +62,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -94,7 +94,7 @@
 
 **语法:**
 
-```
+```css
 <element class="break-all">...</element>
 ```
 
@@ -102,7 +102,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head> 
     <link href=

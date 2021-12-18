@@ -10,7 +10,7 @@
 
 **1。定制光标:**有没有觉得每次用同样的普通光标很无聊？如果可以根据自己的意愿定制光标呢？想象一个光标，上面有你的图像或一些独特的东西？听起来很酷，对吧？这可以简单地通过在一行代码中使用 CSS 来实现。在下面的例子中，我们为光标使用了三种不同的图像:GeeksforGeeks 徽标、奶酪图像和火箭，您可以使用您选择的任何图像。
 
-```html
+```css
 cursor: url("anyimage.png"), pointer;
 ```
 
@@ -18,7 +18,7 @@ cursor: url("anyimage.png"), pointer;
 
 ## index.html
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -40,7 +40,7 @@ cursor: url("anyimage.png"), pointer;
 
 ## style.css
 
-```html
+```css
 body {
     background-color: pink;
     padding: 0;
@@ -90,7 +90,7 @@ cursor: url("rocket.png"),pointer;
 
 **2。阴影效果:**阴影效果是一种非常简单但令人惊叹的效果，它给我们的文本带来了 3D 的感觉。
 
-```html
+```css
 h1 {
     font-size: 5rem;
     text-shadow: 5px 5px 0px green;
@@ -101,7 +101,7 @@ h1 {
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -132,7 +132,7 @@ h1 {
 
 ## index.html
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -156,7 +156,7 @@ h1 {
 
 ## style.css
 
-```html
+```css
 .image img {
   max-width: 300px;
 }
@@ -185,7 +185,7 @@ h1 {
 **属性提示:**任何图像的颜色都可以更改为多种颜色，只需更改度数的值即可。
 例:
 
-```html
+```css
 filter: invert(1) hue-rotate(90deg);
 filter: invert(1) hue-rotate(150deg);
 ```
@@ -193,7 +193,7 @@ filter: invert(1) hue-rotate(150deg);
 **4。背景剪贴文字:**几乎我们每个人都尝试过给自己的文字加上花哨的背景，非常简单。“背景剪裁文本”是指将背景图像修剪为文本，使其看起来更有吸引力和更酷。
 我们可以简单地通过下面一行代码来实现，其中“任何图像”是您想要剪辑的您选择的理想图像。
 
-```html
+```css
 background-image: url('anyimage.jpg');
 -webkit-background-clip: text;
 color: transparent;
@@ -203,7 +203,7 @@ color: transparent;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -239,7 +239,7 @@ color: transparent;
 
 **5。Drop Caps Text:**“Drop Caps”是一种文字效果，将第一段的第一个字母放大，以产生醒目的效果，常用于报纸、杂志和小说。
 
-```html
+```css
 p::first-letter {               
     color:green;           
     font-size: 3.9rem;
@@ -252,7 +252,7 @@ p::first-letter {
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

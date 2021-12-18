@@ -11,7 +11,7 @@
     This method adds one or more event handlers for the selected elements and child elements.
     **Syntax:**
 
-    ```
+    ```css
     $(selector).on(event, childSel, data, fun, map)
 
     ```
@@ -31,21 +31,21 @@
     **语法:**
     *   **返回文字内容:**
 
-```
+```css
 $(selector).text()
 
 ```
 
 *   **设置文字内容:**
 
-    ```
+    ```css
     $(selector).text(content)
 
     ```
 
     *   **使用功能设置文本内容:**
 
-    ```
+    ```css
     $(selector).text(function(index, curContent))
 
     ```
@@ -62,21 +62,21 @@ $(selector).text()
     **Syntax:**
     *   **返回 CSS 属性:**
 
-        ```
+        ```css
         css("propertyname")
 
         ```
 
     *   **设置 CSS 属性:**
 
-        ```
+        ```css
         css("propertyname", "value")
 
         ```
 
     *   **设置多个 CSS 属性:**
 
-        ```
+        ```css
         css({"propertyname":"value", "propertyname":"value", ...});
 
         ```
@@ -88,7 +88,7 @@ $(selector).text()
     This method searches for strings for a defined value, or a regular expression, and returns a new string with the replaced defined value.
     **Syntax:**
 
-    ```
+    ```css
     string.replace(searchVal, newvalue)
 
     ```
@@ -103,7 +103,7 @@ $(selector).text()
 
     **示例 1:** 本示例选择元素，然后使用**提取其属性。css()方法**，一个**正则表达式**和**替换()方法**。
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -163,7 +163,7 @@ $(selector).text()
 
     **示例 2:** 本示例选择具有[id = 'GFG_UP']的元素，然后使用**提取其 fontSize 属性。css()方法**，一个**正则表达式**和**替换()方法**。
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 

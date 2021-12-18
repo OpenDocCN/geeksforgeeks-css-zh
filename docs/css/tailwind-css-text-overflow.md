@@ -14,7 +14,7 @@
 
 **语法:**
 
-```
+```css
 <element class="truncate">...</element>
 ```
 
@@ -22,7 +22,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <html>
 <head> 
@@ -57,7 +57,7 @@
 
 **语法:**
 
-```
+```css
 <element class="overflow-ellipsis">...</element>
 ```
 
@@ -65,7 +65,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <html>
 <head> 
@@ -100,7 +100,7 @@
 
 **语法:**
 
-```
+```css
 <element class="overflow-clip">...</element>
 ```
 
@@ -108,7 +108,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <html>
 <head> 

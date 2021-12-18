@@ -6,13 +6,13 @@ HTML 中的[只读属性](https://www.geeksforgeeks.org/html-readonly-attribute/
 
 **语法:**
 
-```
+```css
 pointer-events: none;
 ```
 
 **示例 1:** 本示例显示两个输入文本，其中一个不可编辑。
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
     <head> 
@@ -49,7 +49,7 @@ pointer-events: none;
 
 **示例 2:** 本示例创建两个输入文本，两个文本都不可编辑。
 
-```
+```css
 <!DOCTYPE html> 
 <html>
    <head>

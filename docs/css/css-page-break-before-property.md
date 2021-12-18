@@ -10,7 +10,7 @@ CSS 中的分页符属性用于在指定元素之前添加分页符。
 
 **语法:**
 
-```html
+```css
 page-break-before: auto|always|avoid|left|right|initial|inherit;
 
 ```
@@ -19,12 +19,12 @@ page-break-before: auto|always|avoid|left|right|initial|inherit;
 
 *   **自动:**指自动分页。
 
-    ```html
+    ```css
     page-break-before: auto;
 
     ```
 
-    ```html
+    ```css
     <!DOCTYPE html> 
     <html> 
     <head> 
@@ -61,12 +61,12 @@ page-break-before: auto|always|avoid|left|right|initial|inherit;
 
 *   **始终:**分页符始终插入指定元素框之后。
 
-    ```html
+    ```css
     page-break-before:always;
 
     ```
 
-    ```html
+    ```css
     <!DOCTYPE html> 
     <html> 
     <head> 
@@ -100,12 +100,12 @@ page-break-before: auto|always|avoid|left|right|initial|inherit;
 
 *   **避免:**尽可能避免分页符。
 
-    ```html
+    ```css
     page-break-before:avoid;
 
     ```
 
-    ```html
+    ```css
     <!DOCTYPE html> 
     <html> 
     <head> 
@@ -142,12 +142,12 @@ page-break-before: auto|always|avoid|left|right|initial|inherit;
 
 *   **左:**插入分页符，使得下一页被描绘为左页。
 
-    ```html
+    ```css
     page-break-before:left;
 
     ```
 
-    ```html
+    ```css
     <!DOCTYPE html> 
     <html> 
     <head> 
@@ -184,12 +184,12 @@ page-break-before: auto|always|avoid|left|right|initial|inherit;
 
 *   **右:**插入分页符，使得下一页被描绘为右页。
 
-    ```html
+    ```css
     page-break-before:right;
 
     ```
 
-    ```html
+    ```css
     <!DOCTYPE html> 
     <html> 
     <head> 
@@ -226,12 +226,12 @@ page-break-before: auto|always|avoid|left|right|initial|inherit;
 
 *   **初始:**属性设为默认
 
-    ```html
+    ```css
     page-break-before:initial
 
     ```
 
-    ```html
+    ```css
     <!DOCTYPE html> 
     <html> 
     <head> 
@@ -268,12 +268,12 @@ page-break-before: auto|always|avoid|left|right|initial|inherit;
 
 *   **继承:**属性继承自父元素
 
-    ```html
+    ```css
     page-break-before:inherit;
 
     ```
 
-    ```html
+    ```css
     <!DOCTYPE html> 
     <html> 
     <head> 

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 border-inline-start-style: border-style;
 ```
 
@@ -18,7 +18,7 @@ border-inline-start-style: border-style;
 
 **例 1:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -59,7 +59,7 @@ border-inline-start-style: border-style;
 
 **例 2:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

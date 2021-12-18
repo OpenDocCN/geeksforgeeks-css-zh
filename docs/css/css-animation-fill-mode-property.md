@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 animation-fill-mode: none | forwards | backwards | both | initial | 
 inherit;
 ```
@@ -22,7 +22,7 @@ inherit;
 
 **示例:**
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
     <head> 

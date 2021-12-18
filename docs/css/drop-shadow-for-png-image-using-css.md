@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```css
 filter: drop-shadow();
 ```
 
 **示例 1:** 本示例使用 filter: drop-shadow()属性在 pngimage 上添加阴影效果。
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -42,7 +42,7 @@ filter: drop-shadow();
 
 **示例 2:** 本示例区分**滤镜:投影()；**、**文-影()；**和**框影:()；**属性。
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 

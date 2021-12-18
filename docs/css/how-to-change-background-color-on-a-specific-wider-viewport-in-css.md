@@ -8,7 +8,7 @@
 
 **语法–**
 
-```
+```css
 @media not|only mediatype and (mediafeature) {
   Some CSS-Code;
 }
@@ -24,7 +24,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

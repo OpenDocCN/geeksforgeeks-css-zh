@@ -6,13 +6,13 @@
 
 **语法:**
 
-```html
+```css
 backface-visibility: visible | hidden | initial | inherit;
 ```
 
 **示例:**下面的代码用来显示旋转了 180 度的< div >元素的背面。
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -57,7 +57,7 @@ backface-visibility: visible | hidden | initial | inherit;
 
 **例 2:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

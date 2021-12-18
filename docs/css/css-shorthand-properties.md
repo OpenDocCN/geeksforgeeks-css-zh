@@ -18,7 +18,7 @@
 
 *   **龙兰道:**
 
-    ```
+    ```css
     background-color:#000;
     background-image: url(images/bg.png);
     background-repeat: no-repeat;
@@ -27,13 +27,13 @@
 
 *   **简写方式:**
 
-    ```
+    ```css
     background:#000 url(images/bg.png) no-repeat left top;
     ```
 
 *   **例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html lang="en">
 
@@ -62,7 +62,7 @@
 
 *   **龙兰道:**
 
-    ```
+    ```css
     font-style:italic;
     font-weight:bold;
     font-size:18px;
@@ -72,13 +72,13 @@
 
 *   **简写方式:**
 
-    ```
+    ```css
     font: italic bold 18px/150% Arial, sans-serif;
     ```
 
 *   **例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html lang="en">
 
@@ -110,7 +110,7 @@
 
 *   **龙兰道:**
 
-    ```
+    ```css
     border-width: 1px;
     border-style: solid;
     border-color: #000; 
@@ -118,13 +118,13 @@
 
 *   **简写方式:**
 
-    ```
+    ```css
     border: 1px solid #000;
     ```
 
 *   **例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html lang="en">
 
@@ -155,7 +155,7 @@
 
 *   **龙兰道:**
 
-    ```
+    ```css
     outline-width: 1px;
     outline-style: solid;
     outline-color: #000;
@@ -163,13 +163,13 @@
 
 *   **简写方式:**
 
-    ```
+    ```css
     outline: 1px solid #000;
     ```
 
 *   **例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html lang="en">
 
@@ -200,7 +200,7 @@
 
 *   **龙兰道:**
 
-    ```
+    ```css
     margin-top: 10px;
     margin-right: 5px;
     margin-bottom: 10px;
@@ -209,13 +209,13 @@
 
 *   **简写方式:**
 
-    ```
+    ```css
     margin : 10px 5px 10px 5px;
     ```
 
 *   **例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html lang="en">
 
@@ -246,7 +246,7 @@
 
 *   **龙兰道:**
 
-    ```
+    ```css
     padding-top: 10px;
     padding-right: 5px;
     padding-bottom: 10px;
@@ -255,13 +255,13 @@
 
 *   **简写方式:**
 
-    ```
+    ```css
     padding : 10px 5px 10px 5px;
     ```
 
 *   **例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html lang="en">
 
@@ -295,7 +295,7 @@
 
 *   **龙兰道:**
 
-    ```
+    ```css
     list-style-type: disc;
     list-style-position: inside;
     list-style-image: url(disc.png);
@@ -303,13 +303,13 @@
 
 *   **简写方式:**
 
-    ```
+    ```css
     list-style: disc inside url(disc.png);
     ```
 
 *   **例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html lang="en">
 

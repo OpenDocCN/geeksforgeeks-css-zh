@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 shape-margin: <length> | <percentage>
 ```
 
@@ -16,7 +16,7 @@ shape-margin: <length> | <percentage>
 
     **示例:**本示例以像素为单位设置边距。
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -81,7 +81,7 @@ shape-margin: <length> | <percentage>
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 

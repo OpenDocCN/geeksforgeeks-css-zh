@@ -6,7 +6,7 @@
 
 **语法:**用于返回 parentRule 属性。
 
-```
+```css
 object.parentRule
 ```
 
@@ -14,7 +14,7 @@ object.parentRule
 
 **示例:**要返回**父规则属性**:
 
-```
+```css
 <html>
 
 <head>

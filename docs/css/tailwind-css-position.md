@@ -16,7 +16,7 @@
 
 **语法:**
 
-```
+```css
 <element class="static">...</element>
 ```
 
@@ -24,7 +24,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <head>
     <link href=
@@ -62,7 +62,7 @@
 
 **语法:**
 
-```
+```css
 <element class="fixed">...</element>
 ```
 
@@ -70,7 +70,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <head>
     <link href=
@@ -125,7 +125,7 @@
 
 **语法:**
 
-```
+```css
 <element class="absolute">...</element>
 ```
 
@@ -133,7 +133,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <head>
     <link href=
@@ -171,7 +171,7 @@
 
 **语法:**
 
-```
+```css
 <element class="relative">...</element>
 ```
 
@@ -179,7 +179,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <head>
     <link href=
@@ -223,7 +223,7 @@
 
 **语法:**
 
-```
+```css
 <element class="sticky">...</element>
 ```
 
@@ -231,7 +231,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <head>
     <link href=

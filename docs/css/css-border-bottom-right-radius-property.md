@@ -6,7 +6,7 @@ CSS 中的边框右下角半径属性用于定义给定元素边框右下角的�
 
 **语法:**
 
-```
+```css
 border-bottom-right-radius:length|[value%]|initial|inherit;
 ```
 
@@ -19,7 +19,7 @@ border-bottom-right-radius:length|[value%]|initial|inherit;
 
 **示例:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>

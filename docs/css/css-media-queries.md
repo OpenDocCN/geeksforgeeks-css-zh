@@ -15,7 +15,7 @@ CSS 中的**媒体查询**用于创建响应性网页设计。这意味着基于
 
 **语法:**
 
-```html
+```css
 @media not | only mediatype and (expression) {
     // Code content
 }
@@ -25,7 +25,7 @@ CSS 中的**媒体查询**用于创建响应性网页设计。这意味着基于
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

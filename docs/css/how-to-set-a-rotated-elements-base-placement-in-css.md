@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```css
 transform-origin: position
 ```
 
@@ -16,7 +16,7 @@ transform-origin: position
 
 ## HTML
 
-```
+```css
 <html>
 <head>
   <style>

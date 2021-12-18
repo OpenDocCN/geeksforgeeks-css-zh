@@ -6,7 +6,7 @@ CSS 中的**动画-延迟**属性用于指定动画开始的延迟。动画延�
 
 **语法:**
 
-```html
+```css
 animation-delay: time|initial|inherit;
 ```
 
@@ -18,7 +18,7 @@ animation-delay: time|initial|inherit;
 
 **示例:** HTML 程序来说明 CSS 的动画-延迟属性。
 
-```html
+```css
 <!DOCTYPE html> 
 <html> 
     <head> 

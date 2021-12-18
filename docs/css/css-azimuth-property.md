@@ -8,7 +8,7 @@
 
 ## 超文本标记语言
 
-```html
+```css
 <style type="text/css">
     html tag {
         azimuth: 70deg;
@@ -27,7 +27,7 @@
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -59,7 +59,7 @@
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

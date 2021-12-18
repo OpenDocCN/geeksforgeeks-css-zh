@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 class/id { attribute: rgba(val1, val2, val3, val4) }
 ```
 
@@ -14,7 +14,7 @@ class/id { attribute: rgba(val1, val2, val3, val4) }
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

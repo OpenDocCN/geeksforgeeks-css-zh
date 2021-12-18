@@ -7,13 +7,13 @@ CSS 属性可以以多种不同的方式包含在 HTML 页面中。HTML 文档�
 
 *   **外部样式表(使用 HTML <链接>标签):**外部 CSS 包含单独的 CSS 文件，借助标签属性(例如类、id、标题等)仅包含样式属性。属性编写在一个单独的文件中。css 扩展，应该使用链接标签链接到 HTML 文档。这意味着对于每个元素，样式只能设置一次，并且将跨网页应用。链接标签用于链接外部样式表和 html 网页。
 
-```
+```css
 <link rel="stylesheet" href="style.css">
 ```
 
 *   **外部样式表(使用@import At-Rule):** At-rule 方法必须包含在<样式>标签中，或者包含在样式表中。
 
-```
+```css
 <style>
 @import url(style.css);
 </style>
@@ -21,7 +21,7 @@ CSS 属性可以以多种不同的方式包含在 HTML 页面中。HTML 文档�
 
 *   **内部样式表(使用<样式>元素):**这可以在单个 HTML 文档必须唯一设置样式时使用。CSS 规则集应该在标题部分的 HTML 文件中，即 CSS 嵌入在 HTML 文件中。
 
-```
+```css
 <style>
 element {
     // CSS property
@@ -31,14 +31,14 @@ element {
 
 *   **内联样式**内联 CSS 包含的 CSS 属性在正文部分附带的元素被称为内联 CSS。这种样式是使用样式属性在 HTML 标记中指定的。它用于为单个元素应用独特的样式。
 
-```
+```css
 <h1 style="style property">Geeksforgeeks</h1>
 ```
 
 **最佳方法:**外部样式表(使用 HTML <链接>标签)是用于链接元素的最佳方法。跨不同页面维护和重用 CSS 文件既简单又高效。<链接>标签放置在 HTML <头>元素中。要为级联样式表<指定媒体类型=“文本/css”，请键入>属性，该属性用于忽略浏览器中不支持的样式表类型。
 **例 1:** 下面给出的文件包含 CSS 属性。此文件与一起保存。css 扩展。例如:极客
 
-```
+```css
 body {
     background-color:powderblue;
 }
@@ -58,7 +58,7 @@ body {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -82,7 +82,7 @@ body {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -120,7 +120,7 @@ body {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -151,7 +151,7 @@ body {
 
 **语法:**
 
-```
+```css
 @import url|string list-of-mediaqueries;
 ```
 
@@ -164,7 +164,7 @@ body {
 
 *   **icss.css**
 
-```
+```css
 @import url("i1css.css");
 h1 {
     color: #00ff00;
@@ -173,7 +173,7 @@ h1 {
 
 *   **CSS . CSS**
 
-```
+```css
 h1 {
    text-decoration: underline;
    font-size:60px;
@@ -187,7 +187,7 @@ p {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -212,7 +212,7 @@ p {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

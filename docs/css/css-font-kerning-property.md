@@ -6,7 +6,7 @@
 
 **语法:**
 
-```html
+```css
 font-kerning: auto|normal|none;
 ```
 
@@ -24,7 +24,7 @@ font-kerning: auto|normal|none;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>

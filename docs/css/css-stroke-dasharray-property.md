@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 stroke-dasharray: <dasharray> | none
 ```
 
@@ -16,7 +16,7 @@ stroke-dasharray: <dasharray> | none
 
     **示例 1:** 设置线中虚线的密度。
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
     <head>
@@ -75,7 +75,7 @@ stroke-dasharray: <dasharray> | none
 
     **示例 2:** 设置圆圈中虚线的密度。
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
     <head>
@@ -133,7 +133,7 @@ stroke-dasharray: <dasharray> | none
 
     **示例 3:** 设置破折号的图案。
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
     <head>

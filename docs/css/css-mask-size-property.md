@@ -6,7 +6,7 @@ CSS **蒙版大小**属性设置蒙版绘画区域上蒙版图像的大小。
 
 **语法:**
 
-```
+```css
 mask-size: Keyword values
 /* Or */
 mask-size: One-values
@@ -29,7 +29,7 @@ mask-size: Global values
 
 **示例 1:** 以下示例使用单值说明了**遮罩大小**属性
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -70,7 +70,7 @@ mask-size: Global values
 
 **示例 2:** 以下示例使用双值说明了**遮罩大小**属性
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

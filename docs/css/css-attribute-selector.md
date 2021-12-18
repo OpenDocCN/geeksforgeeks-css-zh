@@ -9,7 +9,7 @@ CSS 属性选择器用于选择具有特定属性或属性值的元素。根据�
 
     **示例:**
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
         <head>
@@ -39,7 +39,7 @@ CSS 属性选择器用于选择具有特定属性或属性值的元素。根据�
     这个选择器用于限制某些特定的元素，那么它需要在属性选择器之前指定那个元素。
     **例:**
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
         <head>
@@ -70,7 +70,7 @@ CSS 属性选择器用于选择具有特定属性或属性值的元素。根据�
 
     可以使用逗号运算符选择多个元素
 
-    ```html
+    ```css
     h2, p[style] {
         background-color: #00b93e;
     }
@@ -80,7 +80,7 @@ CSS 属性选择器用于选择具有特定属性或属性值的元素。根据�
 
     **示例:**
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
         <head>
@@ -113,7 +113,7 @@ CSS 属性选择器用于选择具有特定属性或属性值的元素。根据�
 
     **示例:**
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
         <head>
@@ -149,7 +149,7 @@ CSS 属性选择器用于选择具有特定属性或属性值的元素。根据�
 
     **示例:**
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
         <head>
@@ -185,7 +185,7 @@ CSS 属性选择器用于选择具有特定属性或属性值的元素。根据�
 
     **示例:**
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
         <head>
@@ -221,7 +221,7 @@ CSS 属性选择器用于选择具有特定属性或属性值的元素。根据�
 
     **示例:**
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
         <head>
@@ -257,7 +257,7 @@ CSS 属性选择器用于选择具有特定属性或属性值的元素。根据�
 
     **示例:**
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
         <head>

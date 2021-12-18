@@ -14,7 +14,7 @@
 
 **语法:**
 
-```
+```css
 font: font-style font-variant 
            font-weight font-size 
            font-family
@@ -24,7 +24,7 @@ font: font-style font-variant
 
 ## 超文本标记语言
 
-```
+```css
 <html>
 <head>
   <style>

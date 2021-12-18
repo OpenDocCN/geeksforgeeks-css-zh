@@ -8,7 +8,7 @@ CSS 中的**边框半径属性**用于圆化元素外边框边缘的角。该属
 
 **语法:**
 
-```html
+```css
 border-radius: 1-4 length|% / 1-4 length|%|initial|inherit;
 ```
 
@@ -29,7 +29,7 @@ border-radius: 1-4 length|% / 1-4 length|%|initial|inherit;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -67,7 +67,7 @@ border-radius: 1-4 length|% / 1-4 length|%|initial|inherit;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -107,7 +107,7 @@ border-radius: 1-4 length|% / 1-4 length|%|initial|inherit;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -145,7 +145,7 @@ border-radius: 1-4 length|% / 1-4 length|%|initial|inherit;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -185,7 +185,7 @@ border-radius: 1-4 length|% / 1-4 length|%|initial|inherit;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -223,7 +223,7 @@ border-radius: 1-4 length|% / 1-4 length|%|initial|inherit;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -261,7 +261,7 @@ border-radius: 1-4 length|% / 1-4 length|%|initial|inherit;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -299,7 +299,7 @@ border-radius: 1-4 length|% / 1-4 length|%|initial|inherit;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -337,7 +337,7 @@ border-radius: 1-4 length|% / 1-4 length|%|initial|inherit;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -379,25 +379,25 @@ border-radius: 1-4 length|% / 1-4 length|%|initial|inherit;
 
 *   **将半径值应用于所有四个角:**
 
-```html
+```css
 border-radius: value; 
 ```
 
 *   **在左上角和右下角应用值 1，在右上角和左下角应用值 2:**
 
-```html
+```css
 border-radius: value1 value2; 
 ```
 
 *   **在左上角应用值 1，在右上角和左下角应用值 2，在右下角应用值 3:**
 
-```html
+```css
 border-radius: value1 value2 value3; 
 ```
 
 *   **在左上角应用值 1，在右上角应用值 2，在右下角应用值 3，在左下角应用值 4:**
 
-```html
+```css
 border-radius: value1 value2 value3 value4;
 ```
 

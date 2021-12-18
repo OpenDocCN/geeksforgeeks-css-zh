@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```css
 column-gap: value;
 ```
 
@@ -16,7 +16,7 @@ column-gap: value;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 
@@ -62,7 +62,7 @@ column-gap: value;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 

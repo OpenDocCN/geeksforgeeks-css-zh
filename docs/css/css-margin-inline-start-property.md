@@ -6,7 +6,7 @@ CSS 中的**边距内联开始属性**用于定义元素的逻辑内联开始边
 
 **语法:**
 
-```
+```css
 margin-inline-start: length | auto | initial | inherit | unset;
 ```
 
@@ -24,7 +24,7 @@ margin-inline-start: length | auto | initial | inherit | unset;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -69,7 +69,7 @@ margin-inline-start: length | auto | initial | inherit | unset;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

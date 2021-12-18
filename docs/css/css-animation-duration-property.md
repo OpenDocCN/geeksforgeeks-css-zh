@@ -6,7 +6,7 @@ CSS 中的**动画持续时间**属性用于定义动画完成一个周期需要
 
 **语法:**
 
-```html
+```css
 animation-duration: time|initial|inherit;
 ```
 
@@ -18,7 +18,7 @@ animation-duration: time|initial|inherit;
 
 **示例:** HTML 程序，说明 CSS 中的动画时长属性。
 
-```html
+```css
 <!DOCTYPR html>
 <html>
 

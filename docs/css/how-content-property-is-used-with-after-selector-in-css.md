@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```css
 element::after{
     content : value;
     css-properties...
@@ -19,7 +19,7 @@ element::after{
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

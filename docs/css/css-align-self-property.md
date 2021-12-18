@@ -6,7 +6,7 @@ CSS 中的 **align-self 属性**用于以多种不同的方式对齐柔性容器
 
 **语法:**
 
-```html
+```css
 align-self: auto|stretch|center|flex-start|flex-end|baseline|
 initial;
 ```
@@ -16,7 +16,7 @@ initial;
 
 *   **语法:**
 
-    ```html
+    ```css
     align-self: auto;
     ```
 
@@ -24,7 +24,7 @@ initial;
 
     ## Hypertext Markup Language
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

@@ -8,7 +8,7 @@
 
 1.  使用 span 元素创建几个容器，如下所示:
 
-    ```html
+    ```css
     <div class="dot">
         <span></span>
         <span></span>
@@ -25,7 +25,7 @@
 
 **示例:**该示例实现了上述方法。
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

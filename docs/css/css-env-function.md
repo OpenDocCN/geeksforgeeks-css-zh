@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 env( <custom-ident> , <declaration-value> )
 
 ```
@@ -19,7 +19,7 @@ env( <custom-ident> , <declaration-value> )
 
     **语法:**
 
-    ```
+    ```css
     env(SAFE-AREA-INSET-TOP,Integer_value)
 
     ```
@@ -28,7 +28,7 @@ env( <custom-ident> , <declaration-value> )
 
     ## 超文本标记语言
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html lang="en">
 
@@ -71,7 +71,7 @@ env( <custom-ident> , <declaration-value> )
 
     **语法:**
 
-    ```
+    ```css
     env(SAFE-AREA-INSET-RIGHT,Integer_value);
     ```
 
@@ -79,7 +79,7 @@ env( <custom-ident> , <declaration-value> )
 
     ## 超文本标记语言
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html lang="en">
 
@@ -122,7 +122,7 @@ env( <custom-ident> , <declaration-value> )
 
     **语法:**
 
-    ```
+    ```css
     env(SAFE-AREA-INSET-LEFT,Integer_value);
 
     ```
@@ -131,7 +131,7 @@ env( <custom-ident> , <declaration-value> )
 
     ## 超文本标记语言
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html lang="en">
 
@@ -174,7 +174,7 @@ env( <custom-ident> , <declaration-value> )
 
     **语法:**
 
-    ```
+    ```css
     env(SAFE-AREA-INSET-BOTTOM,Integer_value);
     ```
 
@@ -182,7 +182,7 @@ env( <custom-ident> , <declaration-value> )
 
     ## 超文本标记语言
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html lang="en">
 

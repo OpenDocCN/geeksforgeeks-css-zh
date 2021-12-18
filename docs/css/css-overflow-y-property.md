@@ -6,7 +6,7 @@ CSS 的 **overflow-y** 属性指定内容溢出块级元素的上下边缘时的
 
 **语法:**
 
-```
+```css
 overflow-y: scroll | hidden | visible | auto
 ```
 
@@ -16,7 +16,7 @@ overflow-y: scroll | hidden | visible | auto
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
     <head>
@@ -70,7 +70,7 @@ overflow-y: scroll | hidden | visible | auto
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
     <head>
@@ -122,7 +122,7 @@ overflow-y: scroll | hidden | visible | auto
 *   **Visible:** If the value assigned to the “overflow-y” property is “visible” then the content is not clipped and may overflow out to the top or bottom of the containing element.
     **Example:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
     <head>
@@ -175,7 +175,7 @@ overflow-y: scroll | hidden | visible | auto
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
     <head>

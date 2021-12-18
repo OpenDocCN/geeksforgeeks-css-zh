@@ -28,7 +28,7 @@
 
     *   **变量:**变量可以用来存储可以重用的 CSS 值。它们用 *@* 初始化。
 
-        ```
+        ```css
         @lt-gray: #ddd;
         @background-dark: #512DA8;
         @carousel-item-height: 300px;
@@ -36,7 +36,7 @@
 
     *   **混合:T2 混合是一种将一组属性从一个规则集包含到另一个规则集的方式。
 
-        ```
+        ```css
         zero-margin {
             margin:0px auto;
             background:@white;
@@ -56,7 +56,7 @@
         ```** 
     *   **筑巢:** LESS 给你使用筑巢的能力。
 
-        ```
+        ```css
         .carousel {
             background:@background-dark;
 
@@ -74,7 +74,7 @@
 
     *   **数学运算:**算术运算+、-、*、/可以对任意数字、颜色或变量进行运算。
 
-        ```
+        ```css
         .carousel-item {
             height: @carousel-item-height;
         }
@@ -86,7 +86,7 @@
 
     *   **功能:** LESS 提供数学、列表、字符串、颜色运算、颜色混合等多种功能。
 
-        ```
+        ```css
         @width: 0.8;
 
         .class {
@@ -98,7 +98,7 @@
 
     **示例:**文件名*gfg.html*
 
-    ```
+    ```css
     <!DOCTYPE html> 
     <html> 
         <head> 
@@ -128,7 +128,7 @@
 
     文件名*无样式*
 
-    ```
+    ```css
     @color-primary: #009900;
     @font-pri: Sans-Serif;
     @font-sec: Helvetica;
@@ -150,7 +150,7 @@
 
     文件名 *style.css* 我们在传送 *style.less* 后得到
 
-    ```
+    ```css
     body {
       color: #009900;
       font-size: 40px;

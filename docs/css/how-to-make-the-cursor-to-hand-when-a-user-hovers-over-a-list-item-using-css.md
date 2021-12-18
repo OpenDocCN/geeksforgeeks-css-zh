@@ -8,7 +8,7 @@
 
 **语法:**
 
-```html
+```css
 element:hover {
     cursor:grab/pointer;
 }
@@ -16,7 +16,7 @@ element:hover {
 
 **例 1:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -55,7 +55,7 @@ element:hover {
 
 **示例 2:** 本示例包含更改光标指针替代的 CSS 属性。在这个例子中，使用第 n 个子(2n+1)作为光标:抓取；并使用第 n 个子(2n+2)作为光标:指针；。
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>

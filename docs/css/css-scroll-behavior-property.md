@@ -6,7 +6,7 @@
 
 **语法:**
 
-```html
+```css
 scroll-behavior: auto|smooth|initial|inherit;
 ```
 
@@ -20,13 +20,13 @@ scroll-behavior: auto|smooth|initial|inherit;
 
     **语法:**
 
-    ```html
+    ```css
     scroll-behavior:smooth;
     ```
 
     **示例:**
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
         <head>
@@ -86,13 +86,13 @@ scroll-behavior: auto|smooth|initial|inherit;
 
     **语法:**
 
-    ```html
+    ```css
     scroll-behavior:auto;
     ```
 
     **示例:**
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
         <head>

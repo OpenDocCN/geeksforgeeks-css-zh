@@ -24,7 +24,7 @@
 
 **语法:**
 
-```
+```css
 <element class="border-opacity-{amount}">...</element>
 ```
 
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 
 <head>

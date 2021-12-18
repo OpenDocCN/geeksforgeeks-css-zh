@@ -14,7 +14,7 @@
 
 ## **超文本标记语言**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <body>
@@ -44,7 +44,7 @@
 
 ## **超文本标记语言**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>

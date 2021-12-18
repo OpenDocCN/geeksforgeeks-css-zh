@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 @font-face {
   font-family: fontName;
   src: url(fontFile path);
@@ -35,7 +35,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -81,7 +81,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 

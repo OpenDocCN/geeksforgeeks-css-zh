@@ -6,7 +6,7 @@
 
 **语法:**
 
-```html
+```css
 object.getPropertyValue(propertyname)
 ```
 
@@ -18,7 +18,7 @@ object.getPropertyValue(propertyname)
 
 **示例:**要展示 getPropertyValue()方法的工作原理:
 
-```html
+```css
 <html>
 
 <head>

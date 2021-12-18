@@ -16,7 +16,7 @@
 
 **语法:**
 
-```
+```css
 <element class="grid grid-cols-number"> Contents... </element>
 ```
 
@@ -24,7 +24,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -78,7 +78,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

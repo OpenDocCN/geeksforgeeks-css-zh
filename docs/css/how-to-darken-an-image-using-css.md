@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```css
 filter: brightness(50%)
 ```
 
 **示例:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -71,14 +71,14 @@ filter: brightness(50%)
 
 **语法:**
 
-```
+```css
 background-image: linear-gradient(rgba(0, 0, 0, 0.5),
                        rgba(0, 0, 0, 0.5)), url("url_of_image"))
 ```
 
 **示例:**使用不透明度为 0.5 的背景渐变使图像变暗。
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

@@ -6,7 +6,7 @@ CSS 中的 **resize** 属性用于根据用户需求调整元素大小。它不�
 
 **语法:**
 
-```html
+```css
 resize: none|both|horizontal|vertical|initial;
 ```
 
@@ -22,7 +22,7 @@ resize: none|both|horizontal|vertical|initial;
 
     **示例:**
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
         <head>
@@ -72,7 +72,7 @@ resize: none|both|horizontal|vertical|initial;
 
     **示例:**
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
         <head>
@@ -122,7 +122,7 @@ resize: none|both|horizontal|vertical|initial;
 
     **示例:**
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
         <head>
@@ -172,7 +172,7 @@ resize: none|both|horizontal|vertical|initial;
 
     **示例:**
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
         <head>
@@ -222,7 +222,7 @@ resize: none|both|horizontal|vertical|initial;
 
     **例；**
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
         <head>

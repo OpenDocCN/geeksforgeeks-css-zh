@@ -6,7 +6,7 @@ CSS 中的 grid-auto-rows 属性用于指定隐式生成的网格容器的行的
 
 **语法:**
 
-```
+```css
 grid-auto-rows: auto|max-content|min-content|length|
 percentage|minmax(min, max)|initial|inherit;
 ```
@@ -17,7 +17,7 @@ percentage|minmax(min, max)|initial|inherit;
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html> 
     <html> 
         <head> 
@@ -63,7 +63,7 @@ percentage|minmax(min, max)|initial|inherit;
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html> 
     <html> 
         <head> 
@@ -108,7 +108,7 @@ percentage|minmax(min, max)|initial|inherit;
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html> 
     <html> 
         <head> 
@@ -155,7 +155,7 @@ percentage|minmax(min, max)|initial|inherit;
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html> 
     <html> 
         <head> 
@@ -200,7 +200,7 @@ percentage|minmax(min, max)|initial|inherit;
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html> 
     <html> 
         <head> 
@@ -245,7 +245,7 @@ percentage|minmax(min, max)|initial|inherit;
 
     **示例:**
 
-    ```
+    ```css
                             <!DOCTYPE html> 
     <html> 
         <head> 

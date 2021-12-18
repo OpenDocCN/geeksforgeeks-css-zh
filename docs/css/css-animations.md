@@ -10,7 +10,7 @@
 
 ## **超文本标记语言**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -70,7 +70,7 @@
 
 **[**动画-名称**](https://www.geeksforgeeks.org/css-animation-name-property/) **:用于指定描述动画的@关键帧的名称。****
 
-```html
+```css
 animation-name: animation_name;
 ```
 
@@ -80,7 +80,7 @@ animation-name: animation_name;
 
 ## **超文本标记语言**
 
-```html
+```css
 <html>
 
 <head>
@@ -146,7 +146,7 @@ animation-name: animation_name;
 
 ## **超文本标记语言**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -230,7 +230,7 @@ animation-name: animation_name;
 
 ## **超文本标记语言**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -293,7 +293,7 @@ animation-name: animation_name;
 
 ## **超文本标记语言**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -363,7 +363,7 @@ animation-name: animation_name;
 
 ## **超文本标记语言**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -446,7 +446,7 @@ animation-name: animation_name;
 
 ## **超文本标记语言**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -526,7 +526,7 @@ animation-name: animation_name;
 
 ****动画简写属性:**这是一种简写方式，暗示动画属性，以获得更快的代码。属性应该按以下顺序排列:**
 
-```html
+```css
 animation: [animation-name] [animation-duration] [animation-timing-function] [animation-delay] 
           [animation-iteration-count] [animation-direction] [animation-fill-mode] 
           [animation-play-state];
@@ -538,7 +538,7 @@ animation: [animation-name] [animation-duration] [animation-timing-function] [an
 
 ## **超文本标记语言**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -599,7 +599,7 @@ animation: [animation-name] [animation-duration] [animation-timing-function] [an
 
 ## **超文本标记语言**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

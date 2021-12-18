@@ -8,7 +8,7 @@
 
 **Global.css:** 在下面的代码中，整个主体被包装成一个选择器。通过使用类根或 id 根来选择整个主体。
 
-```
+```css
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -25,7 +25,7 @@
 
 ## ****java 描述语言****
 
-```
+```css
 **module.exports = {
   theme: {
     extend: {
@@ -47,7 +47,7 @@
 
 ## ****超文本标记语言****
 
-```
+```css
 **<!DOCTYPE html>
 <head>
 

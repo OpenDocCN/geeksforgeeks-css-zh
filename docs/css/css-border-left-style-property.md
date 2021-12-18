@@ -10,7 +10,7 @@
 
 **语法:**
 
-```
+```css
 border-left-style: none| hidden| dotted| dashed| solid| double |
 groove| ridge| inset| outset| initial| inherit;
 ```
@@ -41,7 +41,7 @@ groove| ridge| inset| outset| initial| inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -78,7 +78,7 @@ groove| ridge| inset| outset| initial| inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -115,7 +115,7 @@ groove| ridge| inset| outset| initial| inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

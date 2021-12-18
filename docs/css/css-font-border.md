@@ -10,7 +10,7 @@
 **方法一:使用文字-阴影属性:**文字-阴影属性用于给文字添加字体边框或阴影。
 **语法:**
 
-```
+```css
 text-shadow: h-shadow v-shadow blur-radius color|none|initial|inherit;
 ```
 
@@ -29,7 +29,7 @@ text-shadow: h-shadow v-shadow blur-radius color|none|initial|inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -60,7 +60,7 @@ text-shadow: h-shadow v-shadow blur-radius color|none|initial|inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -99,7 +99,7 @@ text-shadow: h-shadow v-shadow blur-radius color|none|initial|inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

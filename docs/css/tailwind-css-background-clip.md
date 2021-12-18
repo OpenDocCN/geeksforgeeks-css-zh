@@ -13,7 +13,7 @@
 
 **语法:**
 
-```
+```css
 <element class="bg-clip-{Clip type}">...</element>
 ```
 
@@ -21,7 +21,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head> 
     <link href=

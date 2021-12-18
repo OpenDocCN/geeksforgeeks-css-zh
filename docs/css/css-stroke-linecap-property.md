@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 stroke-linecap: butt | round | square | initial | inherit
 ```
 
@@ -16,7 +16,7 @@ stroke-linecap: butt | round | square | initial | inherit
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
     <head>
@@ -70,7 +70,7 @@ stroke-linecap: butt | round | square | initial | inherit
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
     <head>
@@ -123,7 +123,7 @@ stroke-linecap: butt | round | square | initial | inherit
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
     <head>
@@ -176,7 +176,7 @@ stroke-linecap: butt | round | square | initial | inherit
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
     <head>

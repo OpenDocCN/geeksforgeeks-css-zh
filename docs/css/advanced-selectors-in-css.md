@@ -9,7 +9,7 @@
 
 ## 超文本标记语言
 
-```html
+```css
 h4+ul{
     border: 4px solid red;
 }           
@@ -19,7 +19,7 @@ h4+ul{
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
    <head>

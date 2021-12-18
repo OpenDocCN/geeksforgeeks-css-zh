@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```css
 background-origin: border-box | padding-box
 ```
 
@@ -16,7 +16,7 @@ background-origin: border-box | padding-box
 
 ## HTML
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
   <head>

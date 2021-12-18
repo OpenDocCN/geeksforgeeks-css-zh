@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 border-left-width: medium|thin|thick|length|initial|inherit;
 ```
 
@@ -16,13 +16,13 @@ border-left-width: medium|thin|thick|length|initial|inherit;
 
 *   **语法:**
 
-    ```
+    ```css
     border-left-width:medium;
     ```
 
 *   **例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -67,13 +67,13 @@ border-left-width: medium|thin|thick|length|initial|inherit;
 
 *   **语法:**
 
-    ```
+    ```css
     border-left-width:thin;
     ```
 
 *   **例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -118,13 +118,13 @@ border-left-width: medium|thin|thick|length|initial|inherit;
 
 *   **语法:**
 
-    ```
+    ```css
     border-left-width:thick;
     ```
 
 *   **例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -169,14 +169,14 @@ border-left-width: medium|thin|thick|length|initial|inherit;
 
 *   **语法:**
 
-    ```
+    ```css
     border-left-width: length;
 
     ```
 
 *   **例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -221,13 +221,13 @@ border-left-width: medium|thin|thick|length|initial|inherit;
 
 *   **语法:**
 
-    ```
+    ```css
     border-left-width:initial;
     ```
 
 *   **例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 

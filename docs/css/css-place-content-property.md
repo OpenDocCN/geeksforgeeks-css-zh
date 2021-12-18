@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 place-content: align-content-property-value justify-content-property-value
 ```
 
@@ -28,7 +28,7 @@ place-content: align-content-property-value justify-content-property-value
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -98,7 +98,7 @@ place-content: align-content-property-value justify-content-property-value
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -171,7 +171,7 @@ place-content: align-content-property-value justify-content-property-value
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>

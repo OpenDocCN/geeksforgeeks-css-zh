@@ -13,7 +13,7 @@
 
 **语法:**
 
-```
+```css
 <element class="select-{effect}">...</element>
 ```
 
@@ -21,7 +21,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 <head> 

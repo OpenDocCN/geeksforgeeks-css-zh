@@ -53,7 +53,7 @@
 
 **语法:**
 
-```
+```css
 <element class="col-span-number"> Contents... </element>
 ```
 
@@ -65,7 +65,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 
 <head>
@@ -106,7 +106,7 @@
 
 **语法:**
 
-```
+```css
 <element class="col-start|end-number">..</element>
 ```
 
@@ -118,7 +118,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 
 <head>

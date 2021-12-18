@@ -6,7 +6,7 @@ CSS 的一个简单而常见的任务是将文本或图像对齐到任何容器�
 
 **语法:**
 
-```
+```css
 .container{
           text-align: center;
 }
@@ -17,7 +17,7 @@ CSS 的一个简单而常见的任务是将文本或图像对齐到任何容器�
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -50,7 +50,7 @@ CSS 的一个简单而常见的任务是将文本或图像对齐到任何容器�
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>

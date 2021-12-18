@@ -8,13 +8,13 @@ CSS 中的**阴影效果属性**用于在 HTML 文档中添加文本和图像阴
 
 **语法:**
 
-```html
+```css
 Text-shadow: 3px 3px 3px green;
 ```
 
 **示例:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -39,13 +39,13 @@ Text-shadow: 3px 3px 3px green;
 
 **语法:**
 
-```html
+```css
 boxShadow: 3px 3px 3px green;
 ```
 
 **示例:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
      <head>

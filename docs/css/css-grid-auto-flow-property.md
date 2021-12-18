@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 grid-auto-flow: row|column|row dense|column dense;
 
 ```
@@ -15,14 +15,14 @@ grid-auto-flow: row|column|row dense|column dense;
 
     **语法:**
 
-    ```
+    ```css
     grid-auto-flow: row; 
 
     ```
 
     **示例-1:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -82,14 +82,14 @@ grid-auto-flow: row|column|row dense|column dense;
 
     **语法:**
 
-    ```
+    ```css
         grid-auto-flow: column; 
 
     ```
 
     **示例-2:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -149,14 +149,14 @@ grid-auto-flow: row|column|row dense|column dense;
 
     **语法:**
 
-    ```
+    ```css
        grid-auto-flow: column dense; 
 
     ```
 
     **示例-3:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -215,14 +215,14 @@ grid-auto-flow: row|column|row dense|column dense;
 4.  **Row Dense:** specifying that the auto-placement algorithm uses a “dense” packing algorithm for rows.
     **Syntax:**
 
-    ```
+    ```css
        grid-auto-flow: row dense; 
 
     ```
 
     **示例-4:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 

@@ -8,7 +8,7 @@
 
 *   假设我们想根据行号改变文本的颜色，那么 if-else 条件将是:
 
-```
+```css
 if(line1){
    color : red;
 }else{
@@ -18,7 +18,7 @@ if(line1){
 
 *   通过使用上面讨论的方法，我们将创建类，然后在其中应用 CSS:
 
-```
+```css
 .color-line1{
    color : red;
 }
@@ -32,7 +32,7 @@ if(line1){
 
 ## 超文本标记语言
 
-```
+```css
 <html> 
 
 <head> 
@@ -80,7 +80,7 @@ if(line1){
 **方法 2:** 我们可以使用像 [SASS](https://sass-lang.com/) 这样的 CSS 预处理程序，它允许我们在其中编写条件语句。即使使用了 SASS，也必须预处理样式表，这意味着条件是在编译时评估的，而不是在运行时。
 **语法:**
 
-```
+```css
 $type: line;
 p {
   @if $type == line1 {

@@ -6,13 +6,13 @@
 
 **语法:**
 
-```html
+```css
 position: relative;
 ```
 
 [**绝对位置:**](https://www.geeksforgeeks.org/css-positioning-elements/#:~:text=An%20element%20with%20position%3A%20absolute, which%20are%20at%20same%20level.) 一个带*位置的元素:绝对；*将使其调整相对于其父对象的位置。如果没有父级，则它使用文档正文作为父级。
 
-```html
+```css
 position: absolute;
 ```
 
@@ -22,7 +22,7 @@ position: absolute;
 
 **语法:**
 
-```html
+```css
 position: fixed;
 ```
 
@@ -32,7 +32,7 @@ position: fixed;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -65,7 +65,7 @@ position: fixed;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -111,7 +111,7 @@ position: fixed;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

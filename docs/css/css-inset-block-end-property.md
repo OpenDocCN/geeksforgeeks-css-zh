@@ -6,7 +6,7 @@ CSS 中的**嵌入块结束属性**用于定义逻辑块结束偏移量，而不
 
 **语法:**
 
-```
+```css
 inset-block-end: length | percentage | auto | inherit | initial | unset;
 ```
 
@@ -23,7 +23,7 @@ inset-block-end: length | percentage | auto | inherit | initial | unset;
 
 **例 1:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -70,7 +70,7 @@ inset-block-end: length | percentage | auto | inherit | initial | unset;
 
 **例 2:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

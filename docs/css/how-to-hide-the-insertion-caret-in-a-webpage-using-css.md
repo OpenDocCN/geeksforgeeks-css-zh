@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```css
 caret-color: transparent;
 ```
 
@@ -16,7 +16,7 @@ caret-color: transparent;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

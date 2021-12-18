@@ -9,7 +9,7 @@
 
 **语法:**
 
-```html
+```css
 element {
     background: rgba(red, green, blue, alpha);
     // CSS property
@@ -21,7 +21,7 @@ element {
 
 **示例:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>

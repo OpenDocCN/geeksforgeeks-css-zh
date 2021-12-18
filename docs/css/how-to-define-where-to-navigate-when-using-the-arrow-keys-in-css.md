@@ -11,7 +11,7 @@
 
 **语法:**
 
-```
+```css
 nav-up: auto | id | target-name | initial | inherit;
 nav-down: auto | id | target-name | initial | inherit;
 nav-right: auto | id | target-name | initial | inherit;
@@ -24,7 +24,7 @@ nav-left: auto | id | target-name | initial | inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

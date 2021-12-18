@@ -15,7 +15,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 
@@ -48,7 +48,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <style>
     /* Adding color to first section */
     #one{
@@ -100,7 +100,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 

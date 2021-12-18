@@ -6,7 +6,7 @@ CSS 伪元素用于为元素的指定部分设置样式，并用于为一些选�
 
 **语法:**
 
-```html
+```css
 selector::pseudo-element {
   property: value;
 }
@@ -29,7 +29,7 @@ selector::pseudo-element {
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 
@@ -64,7 +64,7 @@ selector::pseudo-element {
 
 ## main . CSS-主文件
 
-```html
+```css
 /* Write CSS Here */
 p::first-line{
   color: blue;

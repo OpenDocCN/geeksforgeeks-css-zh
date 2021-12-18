@@ -10,7 +10,7 @@ CSS 中的隔离属性用于定义元素是否必须创建新的堆叠内容。�
 
 **语法:**
 
-```
+```css
 isolation: auto|isolate|initial|inherit;
 ```
 
@@ -29,7 +29,7 @@ isolation: auto|isolate|initial|inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>

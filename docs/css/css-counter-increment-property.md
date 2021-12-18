@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 counter-increment: none | identifier | initial | inherit;
 ```
 
@@ -17,7 +17,7 @@ counter-increment: none | identifier | initial | inherit;
 **无:**这是默认值，此时不会增加计数器。
 **语法:**
 
-```
+```css
 counter-increment: none;
 ```
 
@@ -25,7 +25,7 @@ counter-increment: none;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -70,7 +70,7 @@ counter-increment: none;
 **标识符:**标识符值用于定义要递增的计数器。该值还采用一个数字，该数字定义了增量的大小。该增量值的默认值为 1(如果选择器尚未复位，则默认值为 0)。该值也采用负值。
 **语法:**
 
-```
+```css
 counter-increment: identifier;
 ```
 
@@ -78,7 +78,7 @@ counter-increment: identifier;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -128,7 +128,7 @@ counter-increment: identifier;
 **初始值:**该值将属性设置为默认值。
 **语法:**
 
-```
+```css
 counter-increment: initial;
 ```
 
@@ -136,7 +136,7 @@ counter-increment: initial;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -177,7 +177,7 @@ counter-increment: initial;
 **inherit:** 该值从其父元素继承该属性。
 **语法:**
 
-```
+```css
 counter-increment: inherit;
 ```
 
@@ -185,7 +185,7 @@ counter-increment: inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

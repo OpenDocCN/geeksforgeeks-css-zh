@@ -6,7 +6,7 @@ CSS 中的右边距属性用于设置元素的右边距。它设置元素右侧�
 
 **语法:**
 
-```
+```css
 margin-right: length|auto|initial|inherit;
 ```
 
@@ -16,13 +16,13 @@ margin-right: length|auto|initial|inherit;
 
     **语法:**
 
-    ```
+    ```css
     margin-right: length;
     ```
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
         <head>
@@ -57,13 +57,13 @@ margin-right: length|auto|initial|inherit;
 
     **语法:**
 
-    ```
+    ```css
     margin-right: auto;
     ```
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
         <head>
@@ -98,13 +98,13 @@ margin-right: length|auto|initial|inherit;
 
     **语法:**
 
-    ```
+    ```css
     margin-right: initial;
     ```
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
         <head>

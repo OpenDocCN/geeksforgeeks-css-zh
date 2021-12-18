@@ -8,7 +8,7 @@
 
 **语法:**
 
-```html
+```css
 transform: rotate(90deg);
 ```
 
@@ -16,7 +16,7 @@ transform: rotate(90deg);
 
 ## 超文本标记语言
 
-```html
+```css
 
  <!DOCTYPE html> 
 <html> 

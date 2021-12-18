@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```css
 color:value;
 ```
 
@@ -18,7 +18,7 @@ color:value;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
   <head>

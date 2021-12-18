@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```css
 scroll-padding: [  length percentage | auto ]
 ```
 
@@ -19,7 +19,7 @@ scroll-padding: [  length percentage | auto ]
 
 **示例:**以下示例说明了滚动填充属性:
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```css
 align-content: normal;
 ```
 
@@ -18,7 +18,7 @@ align-content: normal;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

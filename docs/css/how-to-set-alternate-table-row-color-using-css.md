@@ -5,7 +5,7 @@
 CSS 中的:n-child()选择器用于根据元素在一组同级元素中的位置来匹配元素。它匹配第 n 个子元素的每个元素。
 **语法:**
 
-```
+```css
 :nth-child(number) {
     // CSS Property
 }
@@ -16,14 +16,14 @@ CSS 中的:n-child()选择器用于根据元素在一组同级元素中的位置
 *   **奇数:**表示一系列中位置为奇数的元素:1、3、5 等。
     **语法:**
 
-```
+```css
 element:nth-child(even)
 ```
 
 *   **偶:**表示位置在 2、4、6 等数列中偶的元素。
     **语法:**
 
-```
+```css
 element:nth-child(odd)
 ```
 
@@ -31,7 +31,7 @@ element:nth-child(odd)
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -107,7 +107,7 @@ element:nth-child(odd)
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

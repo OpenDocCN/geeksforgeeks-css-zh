@@ -6,13 +6,13 @@
 
 对于这个项目，在 HTML 页面中需要一个简单的 **div** 和类 **ball** :
 
-```html
+```css
 <div class="ball"></div>
 ```
 
 我们将切换到 CSS 进行动画编程。现在用 Flexbox 把球放在页面中间，把球**做成 70px 乘 70px** 的大小。它可以采取任何大小的用户选择，因为它决定了球的大小。
 
-```html
+```css
 body {
   display: flex;              
   justify-content: center;   
@@ -32,7 +32,7 @@ body {
 
 **关键帧创建:**CSS 动画中的关键帧可以完全控制动画。简单使用关键字**@关键帧**后跟动画名称，即平滑反弹球:
 
-```html
+```css
 @keyframes smoothbounceball{
     statements
 }
@@ -40,7 +40,7 @@ body {
 
 在关键帧内，使用从到<font color="green">到</font>的关键词<font color="green">来制作动画的起点和终点。</font>
 
-```html
+```css
 @keyframes smoothbounceball{
     from {/*starting*/}
     to {/*ending*/}
@@ -49,7 +49,7 @@ body {
 
 据我们了解，我们可以在动画中添加起始值和结束值。为了创建弹跳效果，我们需要变换球的位置。<font color="green">变换</font>允许修改给定元素的坐标。因此，最后一个关键帧:
 
-```html
+```css
 @keyframes smoothbounceball{
     from { transform: translate3d(0, 0, 0);}
     to { transform: translate3d(0, 200px, 0);}
@@ -60,7 +60,7 @@ body {
 
 **运行关键帧:**由于**@关键帧**已经创建，现在需要运行。在上述**法典中。球{ }** ，一个接一个的线必须加:
 
-```html
+```css
 .ball{
     Given statements...
 
@@ -80,7 +80,7 @@ body {
 
 因此**贝塞尔曲线**用于自定义动画计时。因此，代码:
 
-```html
+```css
 .ball{
     Given statements..
 
@@ -90,7 +90,7 @@ body {
 
 之后，球显示出弹跳效果。以下是最终代码:
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

@@ -14,7 +14,7 @@ Trello 布局
 
 ## 超文本标记语言
 
-```html
+```css
 <body>
     <div class="trello">
         <div class="trello__list">

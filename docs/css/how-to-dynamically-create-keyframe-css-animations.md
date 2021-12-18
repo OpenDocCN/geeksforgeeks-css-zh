@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```css
 stylesheet.insertRule(rule [, index])
 ```
 
@@ -24,7 +24,7 @@ stylesheet.insertRule(rule [, index])
 
     ## 超文本标记语言
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -56,7 +56,7 @@ stylesheet.insertRule(rule [, index])
 
     ## 爪哇描述语言
 
-    ```
+    ```css
     // Javascript code to add keyframes
     let styleSheet = null;
     dynamicAnimation = (name,styles) => {
@@ -92,7 +92,7 @@ stylesheet.insertRule(rule [, index])
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -150,7 +150,7 @@ CSS:现在，我们将向文本框元素添加以下关键帧规则集。
 
 ## 半铸钢ˌ钢性铸铁(Cast Semi-Steel)
 
-```
+```css
 25%{
     transform : translateX(25%);
     border-radius : 25%;

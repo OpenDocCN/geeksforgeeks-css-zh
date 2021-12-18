@@ -8,7 +8,7 @@
 
 ****语法:****
 
-```
+```css
 align-items : initial;
 ```
 
@@ -16,7 +16,7 @@ align-items : initial;
 
 ## **超文本标记语言**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 element [attribute*="str"] {
     // CSS Property
 } 
@@ -14,7 +14,7 @@ element [attribute*="str"] {
 
 **示例:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>

@@ -6,7 +6,7 @@ CSS 暂停后属性用于定义元素后的暂停时间。这个属性可以看�
 
 **语法:**
 
-```
+```css
 pause-after: time | percentage;
 
 ```
@@ -20,7 +20,7 @@ pause-after: time | percentage;
 
 ## HTML
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>

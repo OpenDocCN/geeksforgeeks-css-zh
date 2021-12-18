@@ -6,7 +6,7 @@ CSS 中的列规则宽度属性用于更改列规则的宽度，即列之间的�
 
 **语法:**
 
-```
+```css
 column-rule-width: length|thin|medium|thick|initial|inherit;
 ```
 
@@ -27,7 +27,7 @@ column-rule-width: length|thin|medium|thick|initial|inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>

@@ -8,7 +8,7 @@ CSS [伪元素](https://www.geeksforgeeks.org/css-pseudo-elements/)中的**占�
 
 **语法:**
 
-```
+```css
 ::placeholder {
     // CSS property
 }
@@ -20,7 +20,7 @@ CSS [伪元素](https://www.geeksforgeeks.org/css-pseudo-elements/)中的**占�
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -62,7 +62,7 @@ CSS [伪元素](https://www.geeksforgeeks.org/css-pseudo-elements/)中的**占�
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>

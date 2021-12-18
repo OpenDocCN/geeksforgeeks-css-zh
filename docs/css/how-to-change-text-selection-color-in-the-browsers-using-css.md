@@ -8,7 +8,7 @@
 
 **语法:**
 
-```html
+```css
 ::selection {
     // Supported CSS Propertyies
 }
@@ -18,7 +18,7 @@
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

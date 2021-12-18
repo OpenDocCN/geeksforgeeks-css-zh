@@ -10,7 +10,7 @@
 
 **语法:**
 
-```
+```css
 /* parent div */
 perspective: perspective_distance;
 
@@ -24,7 +24,7 @@ transform: value;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -73,7 +73,7 @@ transform: value;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 

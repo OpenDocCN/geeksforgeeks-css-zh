@@ -13,13 +13,13 @@ jQuery 有各种 CSS 操作方法，如下所示:
 
     **语法:**
 
-    ```
+    ```css
     $(content).addClass(target)
     ```
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -77,13 +77,13 @@ jQuery 有各种 CSS 操作方法，如下所示:
 
     **语法:**
 
-    ```
+    ```css
     $(content).removeClass(target)
     ```
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -135,13 +135,13 @@ jQuery 有各种 CSS 操作方法，如下所示:
 
     **语法:**
 
-    ```
+    ```css
     $(content).toggleClass(target)
     ```
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -188,13 +188,13 @@ jQuery 有各种 CSS 操作方法，如下所示:
 *   **jQuery css() Method:** This method sets or returns one or more style properties for selected elements.
     **Syntax:**
 
-    ```
+    ```css
     $(content).css(target)
     ```
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 

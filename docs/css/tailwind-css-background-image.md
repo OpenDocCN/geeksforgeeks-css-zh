@@ -18,7 +18,7 @@
 
 **语法:**
 
-```
+```css
 <element class="bg-gradient-to-{direction}">...</element>
 ```
 
@@ -26,7 +26,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 <head> 

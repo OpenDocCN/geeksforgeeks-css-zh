@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 bleed: auto | length;
 ```
 
@@ -18,7 +18,7 @@ bleed: auto | length;
 下面的例子说明了 **CSS 出血属性。**
 **例:**
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 

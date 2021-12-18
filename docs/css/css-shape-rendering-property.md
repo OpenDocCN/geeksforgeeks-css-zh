@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 shape-rendering: auto | optimizeSpeed | crispEdges | geometricPrecision | initial | inherit
 ```
 
@@ -16,7 +16,7 @@ shape-rendering: auto | optimizeSpeed | crispEdges | geometricPrecision | initia
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
     <head>
@@ -67,7 +67,7 @@ shape-rendering: auto | optimizeSpeed | crispEdges | geometricPrecision | initia
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
     <head>
@@ -118,7 +118,7 @@ shape-rendering: auto | optimizeSpeed | crispEdges | geometricPrecision | initia
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
     <head>
@@ -169,7 +169,7 @@ shape-rendering: auto | optimizeSpeed | crispEdges | geometricPrecision | initia
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -226,7 +226,7 @@ shape-rendering: auto | optimizeSpeed | crispEdges | geometricPrecision | initia
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 

@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```css
 translate( tx )
 ```
 
 或者
 
-```
+```css
 translate( tx, ty )
 ```
 
@@ -25,7 +25,7 @@ translate( tx, ty )
 
 **例 1:**
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 
@@ -69,7 +69,7 @@ translate( tx, ty )
 
 **例 2:**
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 

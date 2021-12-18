@@ -8,7 +8,7 @@
 
 **语法:**
 
-```html
+```css
 box-shadow: h-offset v-offset blur color;
 ```
 
@@ -22,7 +22,7 @@ box-shadow: h-offset v-offset blur color;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -63,7 +63,7 @@ box-shadow: h-offset v-offset blur color;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

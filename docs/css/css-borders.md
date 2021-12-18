@@ -22,7 +22,7 @@ CSS 边框属性允许我们设置边框的样式、颜色和宽度。
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -74,7 +74,7 @@ T3】例:
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -110,7 +110,7 @@ T3】例:
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -143,7 +143,7 @@ T3】例:
 **4。边框单边:**单边可以设置不同的属性。
 **语法:**如果边框属性有 4 个值，那么。
 
-```
+```css
 border-style: solid dashed dotted double
 Solid: top border
 Dashed: right border
@@ -155,7 +155,7 @@ Double: left border
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -187,7 +187,7 @@ Double: left border
 
 **语法:**如果边框属性有 3 个值，则:
 
-```
+```css
 border-style: solid dotted double
 Solid:top border
 Dotted: Left and right border
@@ -198,7 +198,7 @@ Double: bottom border
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -230,7 +230,7 @@ Double: bottom border
 
 **语法:**如果边框属性有 2 个值
 
-```
+```css
 border-style:solid dotted
 Solid:top and bottom border
 Dotted: right and left border
@@ -240,7 +240,7 @@ Dotted: right and left border
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -272,7 +272,7 @@ Dotted: right and left border
 
 **语法:**如果边框属性有 1 个值
 
-```
+```css
 border-style:dotted
 Dotted:top, bottom, left and right border
 ```
@@ -281,7 +281,7 @@ Dotted:top, bottom, left and right border
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

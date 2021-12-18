@@ -18,7 +18,7 @@
 
 **语法:**
 
-```
+```css
 <element class="place-content-center">...</element>
 ```
 
@@ -26,7 +26,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -63,7 +63,7 @@
 
 **语法:**
 
-```
+```css
 <element class="place-content-start">...</element>
 ```
 
@@ -71,7 +71,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -108,7 +108,7 @@
 
 **语法:**
 
-```
+```css
 <element class="place-content-end">...</element>
 ```
 
@@ -116,7 +116,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -153,7 +153,7 @@
 
 **语法:**
 
-```
+```css
 <element class="place-content-between">...</element>
 ```
 
@@ -161,7 +161,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -198,7 +198,7 @@
 
 **语法:**
 
-```
+```css
 <element class="place-content-around">...</element>
 ```
 
@@ -206,7 +206,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -243,7 +243,7 @@
 
 **语法:**
 
-```
+```css
 <element class="place-content-evenly">...</element>
 ```
 
@@ -251,7 +251,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -288,7 +288,7 @@
 
 **语法:**
 
-```
+```css
 <element class="place-content-evenly">...</element>
 ```
 
@@ -296,7 +296,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head> 
     <link href=

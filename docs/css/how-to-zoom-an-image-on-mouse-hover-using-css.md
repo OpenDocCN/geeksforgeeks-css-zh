@@ -13,7 +13,7 @@
 
 **HTML 代码:**在本节中，我们将使用 HTML 创建悬停效果上的图像缩放的基本结构。
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -41,7 +41,7 @@
 
 **CSS 代码:**在本节中，我们将使用一些 CSS 属性来缩放鼠标悬停时的图像。为了创建缩放效果，我们将使用过渡和变换属性。
 
-```html
+```css
 <style>
     .geeks {
         width: 300px;
@@ -65,7 +65,7 @@
 
 **示例:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

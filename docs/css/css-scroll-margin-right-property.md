@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```css
 scroll-margin-right: length
 /* Or */
 scroll-margin-right: Global_Value
@@ -24,7 +24,7 @@ scroll-margin-right: Global_Value
 
 **示例:**在本例中，您可以通过滚动到示例内容的两个“界面”中间的点来查看**向右滚动边距**的效果。
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

@@ -14,7 +14,7 @@ CSS 中有 5 个位置属性:
 
 **语法:**
 
-```html
+```css
 selector{
     position: value;
 }
@@ -31,7 +31,7 @@ value = static, relative, absolute, fixed, sticky
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 
@@ -79,7 +79,7 @@ value = static, relative, absolute, fixed, sticky
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 
@@ -133,7 +133,7 @@ value = static, relative, absolute, fixed, sticky
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 
@@ -182,7 +182,7 @@ value = static, relative, absolute, fixed, sticky
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 
@@ -233,7 +233,7 @@ value = static, relative, absolute, fixed, sticky
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 
@@ -288,7 +288,7 @@ value = static, relative, absolute, fixed, sticky
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 

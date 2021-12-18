@@ -7,7 +7,7 @@
 *   Regular width and height that squeeze the image to fit in that pre-defined position.
     **Example:**
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -40,7 +40,7 @@
 *   Regular width, height and background position using the image as a background image that fit in that pre-defined position (randomly cropped).
     **Example:**
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -73,7 +73,7 @@
 
     **示例:**
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
 

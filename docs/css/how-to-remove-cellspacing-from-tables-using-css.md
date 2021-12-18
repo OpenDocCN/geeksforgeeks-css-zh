@@ -6,13 +6,13 @@
 
 **语法:**
 
-```html
+```css
 border-collapse: collapse; 
 ```
 
 **示例:**
 
-```html
+```css
 <!DOCTYPE html> 
 <html> 
     <head> 

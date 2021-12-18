@@ -8,13 +8,13 @@
 
 *   **内联**的** CSS 样式，如下代码所示:**
 
-    ```
+    ```css
     <h1 style="color: green;">GeeksforGeeks</h1>
     ```
 
 *   **内部**的** CSS 样式看起来会像下面的代码:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
       <head>
@@ -34,7 +34,7 @@
 
 *   **外部**的** CSS 样式，如下图代码所示:**
 
-    ```
+    ```css
     /* this will be separate file */
     <style>
     h1 {

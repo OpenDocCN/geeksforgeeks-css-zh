@@ -6,7 +6,7 @@ CSS 的**变换原点**属性用于指定元素的旋转原点。它是元素旋
 
 **语法:**
 
-```
+```css
 transform-origin: position | initial | inherit
 ```
 
@@ -18,7 +18,7 @@ transform-origin: position | initial | inherit
 
     **示例 1:** 以长度单位指定位置
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -66,7 +66,7 @@ transform-origin: position | initial | inherit
 
     **示例 2:** 以百分比指定位置
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -115,7 +115,7 @@ transform-origin: position | initial | inherit
 
     **示例 3:** 指定关键字中的位置
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -166,7 +166,7 @@ transform-origin: position | initial | inherit
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -217,7 +217,7 @@ transform-origin: position | initial | inherit
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 

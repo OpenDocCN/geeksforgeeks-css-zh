@@ -8,7 +8,7 @@
 
 **HTML 代码:**本节设计了代码的基本结构。
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 
@@ -35,11 +35,11 @@
 
 **语法:**
 
-```html
+```css
 @keyframes animationname {keyframes-selector {css-styles;}}
 ```
 
-```html
+```css
 body{
     display: flex;
     justify-content: center;
@@ -144,7 +144,7 @@ p{
 
 **完整代码:**是以上两个代码段的组合。
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 

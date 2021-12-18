@@ -36,7 +36,7 @@
 
 **语法:**
 
-```
+```css
 <element class="border-{number}">...</element>
 ```
 
@@ -44,7 +44,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -102,7 +102,7 @@
 
 **语法:**
 
-```
+```css
 <element class="border-{side}-{number}">...</element>
 ```
 
@@ -110,7 +110,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

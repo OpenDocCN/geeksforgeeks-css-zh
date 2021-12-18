@@ -5,7 +5,7 @@
 增加或减少单词之间的空白是 CSS 属性。该属性只能有两个值，即正常值和长度值。
 **语法:**
 
-```
+```css
 word-spacing: normal|length|initial|inherit;
 
 ```
@@ -15,7 +15,7 @@ word-spacing: normal|length|initial|inherit;
 *   **Normal:** It defines normal space between words which is 0.25em. This is *default* value.
     **Example:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
     <head>
@@ -44,7 +44,7 @@ word-spacing: normal|length|initial|inherit;
 *   **Length:** It defines an additional space between words (in px, pt, cm, em, etc). Negative values are also allowed.
     **Example:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
     <head>
@@ -72,7 +72,7 @@ word-spacing: normal|length|initial|inherit;
 
     **示例:**长度为负值
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
     <head>

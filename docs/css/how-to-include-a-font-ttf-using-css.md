@@ -12,7 +12,7 @@
 
 ## **超文本标记语言**
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -29,7 +29,7 @@
 
 ****3。创建一个 CSS 文件:**对于通过 CSS 添加外部字体，我们使用@Font-face 属性属性手动定义字体名称并给出源文件。之后，我们可以在字体系列属性所需的任何元素中访问我们定义的字体。** 
 
-```html
+```css
 @font-face {
     font-family: myFirstFont;
     src: url(ArianaVioleta-dz2K.ttf);
@@ -53,7 +53,7 @@ h2 {
 
 ## **超文本标记语言**
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -72,7 +72,7 @@ h2 {
 
 ****CSS 文件:**T2]**
 
-```html
+```css
 @font-face {
    font-family: myFirstFont;
    src: url(ChrustyRock-ORLA.ttf);

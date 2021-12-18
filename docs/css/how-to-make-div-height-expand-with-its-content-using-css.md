@@ -6,7 +6,7 @@ height 属性用于设置元素的高度。height 属性不包含元素的填充
 
 **语法:**
 
-```
+```css
 height: length|percentage|auto|initial|inherit;
 ```
 
@@ -19,7 +19,7 @@ height: length|percentage|auto|initial|inherit;
 
 **例 1:** 本例使用高度:auto 属性来显示内容。
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -103,7 +103,7 @@ height: length|percentage|auto|initial|inherit;
 
 **示例 2:** 蒂耶示例使用 height: inherit 属性显示内容。
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

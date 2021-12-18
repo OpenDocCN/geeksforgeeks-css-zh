@@ -15,7 +15,7 @@
 
 **语法:**
 
-```
+```css
 <element class="grid-flow-row"> Contents... </element>
 ```
 
@@ -23,7 +23,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <html>
 
@@ -60,7 +60,7 @@
 
 **语法:**
 
-```
+```css
 <element class="grid-flow-col"> Contents... </element>
 ```
 
@@ -68,7 +68,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <html>
 
@@ -105,7 +105,7 @@
 
 **语法:**
 
-```
+```css
 <element class="grid-flow-row-dense"> Contents... </element>
 ```
 
@@ -113,7 +113,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -150,7 +150,7 @@
 
 **语法:**
 
-```
+```css
 <element class="grid-flow-col-dense">..</element>
 ```
 
@@ -158,7 +158,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <html>
 

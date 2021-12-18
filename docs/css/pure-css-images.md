@@ -8,7 +8,7 @@
 
 **语法：**
 
-```
+```css
 <img class="pure-img" src="image_source" />
 ```
 
@@ -16,7 +16,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 
@@ -63,7 +63,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 
@@ -112,7 +112,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 

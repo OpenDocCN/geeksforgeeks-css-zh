@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 translateZ( t )
 ```
 
@@ -16,7 +16,7 @@ translateZ( t )
 
 **例 1:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -64,7 +64,7 @@ translateZ( t )
 
 **例 2:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

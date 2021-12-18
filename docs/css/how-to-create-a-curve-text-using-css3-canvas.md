@@ -8,7 +8,7 @@
 
 **例 1:**
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 
@@ -113,7 +113,7 @@
 
 **例 2:**
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 

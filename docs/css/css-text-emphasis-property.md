@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 text-emphasis: text-emphasis-style text-emphasis-color;
 ```
 
@@ -19,7 +19,7 @@ text-emphasis: text-emphasis-style text-emphasis-color;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

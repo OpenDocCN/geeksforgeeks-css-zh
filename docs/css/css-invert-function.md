@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 invert( amount )
 ```
 
@@ -14,7 +14,7 @@ invert( amount )
 
 **反演()**函数在内部使用以下公式来计算图像的反演:
 
-```
+```css
 amount * (255 - value) + (1 - amount) * value
 ```
 
@@ -30,7 +30,7 @@ amount * (255 - value) + (1 - amount) * value
 下面的例子说明了 **CSS invert()函数**在 CSS 中:
 T3】例子:
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 

@@ -6,7 +6,7 @@ CSS **导航-右侧**属性用于从键盘导航导航键。此属性定义用�
 
 **语法:**
 
-```
+```css
  nav-right: auto | id | target-name | initial | inherit;
 ```
 
@@ -23,7 +23,7 @@ CSS **导航-右侧**属性用于从键盘导航导航键。此属性定义用�
 以下示例说明了属性:
 **示例 1:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

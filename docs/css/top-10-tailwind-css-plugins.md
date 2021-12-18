@@ -13,7 +13,7 @@
 
 可以通过以下命令下载:
 
-```
+```css
 // Using npm
 npm install @tailwindcss/typography
 
@@ -28,7 +28,7 @@ yarn add @tailwindcss/typography.
 
 可以通过以下命令下载:
 
-```
+```css
 // Using npm
 npm install @tailwindcss/custom-forms --save-dev
 
@@ -43,7 +43,7 @@ yarn add @tailwindcss/custom-forms -D
 
 可以通过以下命令下载:
 
-```
+```css
 // With using NPM
 npm install tailwindcss-tables --save
 
@@ -58,7 +58,7 @@ yarn add tailwindcss-tables
 
 可以通过以下命令下载:
 
-```
+```css
 $ yarn add tailwindcss-theming@next --dev
 ```
 
@@ -69,7 +69,7 @@ $ yarn add tailwindcss-theming@next --dev
 
 您可以通过以下命令下载它:
 
-```
+```css
 // With using npm
 npm install tailwindcss-truncate-multiline --save
 
@@ -85,7 +85,7 @@ yarn add tailwindcss-truncate-multiline
 
 可以通过以下命令下载:
 
-```
+```css
 npm install tailwindcss-elevation
 ```
 
@@ -97,7 +97,7 @@ npm install tailwindcss-elevation
 
 可以通过以下命令下载:
 
-```
+```css
 npm install tailwindcss-aspect-ratio
 ```
 
@@ -108,7 +108,7 @@ npm install tailwindcss-aspect-ratio
 
 可以通过以下命令下载:
 
-```
+```css
 npm install tailwindcss-gradients
 ```
 
@@ -120,7 +120,7 @@ npm install tailwindcss-gradients
 
 可以通过以下命令下载:
 
-```
+```css
 npm install tailwindcss-debug-screens --save-dev
 ```
 
@@ -129,7 +129,7 @@ npm install tailwindcss-debug-screens --save-dev
 *   All network applications need an old one to load data, so the downwind CSS Spinner is a loader that can be easily customized according to user's needs. You can also change its color, size, width and so on according to your requirements.
 *   Can be used with a single utility class.
 
-```
+```css
 // With using yarn
 yarn add -D tailwindcss-spinner
 

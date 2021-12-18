@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```css
 class1_selector class2_selector id_selector  {
   property: value;
 }
@@ -16,7 +16,7 @@ class1_selector class2_selector id_selector  {
 
 **示例:**
 
-```
+```css
 table tr th {
   background-color: beige;
 }
@@ -33,7 +33,7 @@ table tr th {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -90,7 +90,7 @@ table tr th {
 
 与其编写这么长的代码，不如为不同的选择器指定相同的属性:
 
-```
+```css
 h1 {
   padding: 5px;
   color: grey;
@@ -103,7 +103,7 @@ p {
 
 我们可以对它们进行分组并这样写&我们需要逗号(**、**)来对各种选择器进行分组。
 
-```
+```css
 h1, p {
  padding: 5px;
  color: grey;
@@ -120,7 +120,7 @@ h1, p {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

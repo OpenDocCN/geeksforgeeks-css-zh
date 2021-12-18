@@ -8,7 +8,7 @@ W3。CSS 提供了一系列的类，可以用来对表格应用各种样式，�
 
 **语法:**
 
-```
+```css
 <table class="w3-table"> Table Contents... <table>
 ```
 
@@ -16,7 +16,7 @@ W3。CSS 提供了一系列的类，可以用来对表格应用各种样式，�
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -89,7 +89,7 @@ W3。CSS 提供了一系列的类，可以用来对表格应用各种样式，�
 
 **语法:**
 
-```
+```css
 <table class="w3-table w3-stripped"> Table Contents... <table>
 ```
 
@@ -97,7 +97,7 @@ W3。CSS 提供了一系列的类，可以用来对表格应用各种样式，�
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -167,7 +167,7 @@ W3。CSS 提供了一系列的类，可以用来对表格应用各种样式，�
 
 **语法:**
 
-```
+```css
 <table class="w3-table w3-border"> Table Contents... <table>
 ```
 
@@ -175,7 +175,7 @@ W3。CSS 提供了一系列的类，可以用来对表格应用各种样式，�
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -245,7 +245,7 @@ W3。CSS 提供了一系列的类，可以用来对表格应用各种样式，�
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -314,7 +314,7 @@ W3。CSS 提供了一系列的类，可以用来对表格应用各种样式，�
 
 **语法:**
 
-```
+```css
 <table class="w3-table w3-hoverable"> Table Contents... <table>
 ```
 
@@ -322,7 +322,7 @@ W3。CSS 提供了一系列的类，可以用来对表格应用各种样式，�
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -390,7 +390,7 @@ W3。CSS 提供了一系列的类，可以用来对表格应用各种样式，�
 
 **语法:**
 
-```
+```css
 <table class="w3-table w3-centered"> Table Contents... <table>
 ```
 
@@ -398,7 +398,7 @@ W3。CSS 提供了一系列的类，可以用来对表格应用各种样式，�
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -466,7 +466,7 @@ W3。CSS 提供了一系列的类，可以用来对表格应用各种样式，�
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>

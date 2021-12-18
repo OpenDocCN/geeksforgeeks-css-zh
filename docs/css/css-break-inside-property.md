@@ -10,7 +10,7 @@
 
 **语法:**
 
-```
+```css
 break-inside: Keywor_values;
 /* Or */
 break-inside: Global_values;
@@ -25,7 +25,7 @@ break-inside: Global_values;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 
 <html lang="en">

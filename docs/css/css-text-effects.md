@@ -17,7 +17,7 @@ CSS 是在各种网络文档中添加样式的机制。文本效果允许我们�
 
     **语法:**
 
-    ```
+    ```css
     element {
         text-overflow: clip | ellipsis;
         //CSS Property
@@ -29,7 +29,7 @@ CSS 是在各种网络文档中添加样式的机制。文本效果允许我们�
 
     *   **clip:** This is the default value for this property. This keyword value will truncate the text at the limit of the content area, therefore the truncation can happen in the middle of a character.
 
-        ```
+        ```css
         <!DOCTYPE html>
         <html>
             <head>
@@ -69,7 +69,7 @@ CSS 是在各种网络文档中添加样式的机制。文本效果允许我们�
 
     *   **ellipsis:** This will display an ellipsis (‘…’) to represent clipped text. The ellipsis is displayed inside the content area, decreasing the amount of text displayed. If there is not enough space to display the ellipsis, it is clipped.
 
-        ```
+        ```css
         <!DOCTYPE html>
         <html>
             <head>
@@ -110,7 +110,7 @@ CSS 是在各种网络文档中添加样式的机制。文本效果允许我们�
 2.  **Word wrap:** The CSS word-wrap property defines whether the browser is allowed to line break within words when a word is too long to fit within its parent container. If a word is too long to fit within an area, it expands outside:
     **Syntax:**
 
-    ```
+    ```css
     element {
         word-wrap: break-word;
         //CSS Property
@@ -120,7 +120,7 @@ CSS 是在各种网络文档中添加样式的机制。文本效果允许我们�
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
         <head>
@@ -161,7 +161,7 @@ CSS 是在各种网络文档中添加样式的机制。文本效果允许我们�
 3.  **断字:**断字 CSS 属性设置是否在文本溢出内容框的地方出现换行符。它指定了换行规则。
     **语法:**
 
-    ```
+    ```css
     element {
         word-break: keep-all | break-all;
         //CSS Property
@@ -172,7 +172,7 @@ CSS 是在各种网络文档中添加样式的机制。文本效果允许我们�
     *   **break-all:** It is used to insert word break between any two characters to prevent word overflow.
         **Example:**
 
-        ```
+        ```css
         <!DOCTYPE html>
         <html>
             <head>
@@ -204,7 +204,7 @@ CSS 是在各种网络文档中添加样式的机制。文本效果允许我们�
     *   **keep-all:** It is used to break word in default style.
         **Example:**
 
-        ```
+        ```css
         <!DOCTYPE html>
         <html>
             <head>
@@ -237,7 +237,7 @@ CSS 是在各种网络文档中添加样式的机制。文本效果允许我们�
 
     **语法:**
 
-    ```
+    ```css
     element {
          writing-mode: horizontal-tb | vertical-rl;
         //CSS Property
@@ -248,7 +248,7 @@ CSS 是在各种网络文档中添加样式的机制。文本效果允许我们�
     *   **horizontal-tb:** This is the default value of the property i.e text is read from left to right and top to bottom. The next horizontal line is positioned below the previous line.
         **Example:**
 
-        ```
+        ```css
         <!DOCTYPE html>
         <html>
             <head>
@@ -277,7 +277,7 @@ CSS 是在各种网络文档中添加样式的机制。文本效果允许我们�
     *   **vertical-rl:** In this property the text is read from right to left and top to bottom. The next vertical line is positioned to the left of the previous line.
         **Example:**
 
-        ```
+        ```css
         <!DOCTYPE html>
         <html>
             <head>

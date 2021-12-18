@@ -6,7 +6,7 @@ CSS 中的**边框-图像属性**用于设置元素的边框。
 
 **语法:**
 
-```
+```css
 border-image: source slice width outset repeat|initial|inherit;
 ```
 
@@ -23,7 +23,7 @@ border-image: source slice width outset repeat|initial|inherit;
 *   **边框-图像-来源:**该属性用于设置边框图像的来源位置。
     **语法:**
 
-```
+```css
 border-image-source: url(image source location);
 ```
 
@@ -36,7 +36,7 @@ border-image-source: url(image source location);
 
     **语法:**
 
-    ```
+    ```css
     border-image-slice: value;
     ```
 
@@ -44,21 +44,21 @@ border-image-source: url(image source location);
 
     **语法:**
 
-    ```
+    ```css
     border-image-width: value;
     ```
 
     *   **边界图像开始:**边界图像开始属性设置元素边界图像从其边界框开始的距离。
     **语法:**
 
-    ```
+    ```css
     border-image-outset: value;
     ```
 
     *   **边框-图像-重复:**边框-图像-重复属性定义如何调整源图像的边缘区域以适合元素边框图像的尺寸。
     **语法:**
 
-    ```
+    ```css
     border-image-repeat: value;
     ```
 
@@ -66,7 +66,7 @@ border-image-source: url(image source location);
 
     **例 1:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
         <head>
@@ -119,7 +119,7 @@ border-image-source: url(image source location);
 
     **例 2:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
         <head>

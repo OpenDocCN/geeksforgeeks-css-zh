@@ -11,7 +11,7 @@
 
 **语法:**
 
-```
+```css
 button:hover {
     animation-name: background-color;
     animation-duration: 500ms;
@@ -28,7 +28,7 @@ button:hover {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -84,7 +84,7 @@ button:hover {
 
 **语法:**
 
-```
+```css
  img:hover {
        animation-name: breadth;
        animation-duration: 500ms;
@@ -102,7 +102,7 @@ button:hover {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

@@ -6,7 +6,7 @@ CSS 中的:only-of-type 选择器只表示那些没有给定类型的同级的�
 
 **语法:**
 
-```
+```css
 :only-of-type {
     // CSS property
 }
@@ -15,7 +15,7 @@ CSS 中的:only-of-type 选择器只表示那些没有给定类型的同级的�
 
 **例 1:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -50,7 +50,7 @@ CSS 中的:only-of-type 选择器只表示那些没有给定类型的同级的�
 
 **例 2:**
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
     <head> 

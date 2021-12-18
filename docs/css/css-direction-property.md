@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 element_selector {
     direction: rtl|ltr|initial|inherit;
 } 
@@ -27,7 +27,7 @@ element_selector {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

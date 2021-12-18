@@ -11,7 +11,7 @@
 
 **语法:**
 
-```
+```css
 element_selector {
     font-family: family-name|generic-family|initial|inherit;
 } 
@@ -32,7 +32,7 @@ element_selector {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>

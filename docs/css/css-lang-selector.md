@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 :lang(lang-code) {
   //property
 }
@@ -24,7 +24,7 @@
 
 **示例-1:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -50,7 +50,7 @@
 
 **示例-2:** 语言代码应用于根元素。
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

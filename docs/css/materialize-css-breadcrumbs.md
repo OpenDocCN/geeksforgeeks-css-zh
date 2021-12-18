@@ -8,7 +8,7 @@
 
 **面包屑**用于将锚点元素设置为面包屑。最后一个锚点元素处于活动状态，而其余元素显示为灰色。
 
-```
+```css
 <nav>
     <div class="nav-wrapper">
       <div class="col s12">
@@ -23,7 +23,7 @@
 
 **示例:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

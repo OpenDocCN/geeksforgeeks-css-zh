@@ -14,7 +14,7 @@ CSS 中有四种组合子，下面讨论:
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -61,7 +61,7 @@ CSS 中有四种组合子，下面讨论:
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -111,7 +111,7 @@ CSS 中有四种组合子，下面讨论:
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -161,7 +161,7 @@ CSS 中有四种组合子，下面讨论:
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 <head>

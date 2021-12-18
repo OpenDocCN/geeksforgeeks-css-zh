@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 style.item(index)
 ```
 
@@ -18,7 +18,7 @@ style.item(index)
 
 **例:**展示**工作项()方法**:
 
-```
+```css
 <html>
 
 <head>

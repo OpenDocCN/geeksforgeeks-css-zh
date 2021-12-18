@@ -11,7 +11,7 @@
 
 **例 1:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -83,7 +83,7 @@
 
 **例 2:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -145,7 +145,7 @@
 
 **示例 3:** 同样的实现也可以用于将两个元素堆叠在父元素的顶部。
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -219,7 +219,7 @@
 
 **使用 CSS 网格:**堆叠元素的另一种方式是使用 CSS 网格。网格可用于根据需要放置元素。使用下面的代码将一个元素简单地堆叠在另一个之上。
 
-```html
+```css
 .parentClass {
     grid-template-rows: 150px 1fr;
     grid-template-columns: 250px 1fr;
@@ -233,7 +233,7 @@
 
 **完整代码:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -323,7 +323,7 @@
 
 如果需要一个子元素堆叠在另一个之上，并且两个子元素都堆叠在父元素之上。
 
-```html
+```css
 .parentClass {
     display: grid;
     grid-template-columns: 250px 1fr;
@@ -341,7 +341,7 @@
 
 **完整代码示例:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

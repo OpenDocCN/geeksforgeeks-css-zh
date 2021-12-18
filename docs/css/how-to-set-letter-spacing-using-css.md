@@ -8,7 +8,7 @@
 
 **语法:**
 
-```html
+```css
 /* Keyword value */
 letter-spacing: normal;
 
@@ -27,7 +27,7 @@ letter-spacing: unset;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

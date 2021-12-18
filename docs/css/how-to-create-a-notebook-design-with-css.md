@@ -8,7 +8,7 @@
 
 **HTML 代码:**HTML 代码用于创建身体的基本结构。为了创建笔记本设计，我们使用无序列表项在行内添加文本。之后，我们使用一些 CSS 属性来调整笔记本行内的无序项目列表。
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -38,7 +38,7 @@
 
 **CSS 代码:** CSS 属性用于创建笔记本设计。
 
-```html
+```css
 body { 
     width: 480px;
     height: 450px;
@@ -78,7 +78,7 @@ h2 {
 
 **组合完整代码:**本节我们将结合以上两段代码(HTML 和 CSS 代码)来设计笔记本。
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

@@ -8,13 +8,13 @@ CSS 中的布局用于控制元素在另一个元素中的流动。它设置元�
 
 **语法:**
 
-```
+```css
 position: absolute;
 ```
 
 **示例:**
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
     <head> 
@@ -53,13 +53,13 @@ position: absolute;
 
 **语法:**
 
-```
+```css
 text-align: center;
 ```
 
 **示例:**
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
     <head> 
@@ -98,13 +98,13 @@ text-align: center;
 
 **语法:**
 
-```
+```css
 float: right;
 ```
 
 **示例:**
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
     <head> 
@@ -143,13 +143,13 @@ float: right;
 
 **语法:**
 
-```
+```css
 padding: 0 100px;
 ```
 
 **示例:**
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
     <head> 
@@ -188,13 +188,13 @@ padding: 0 100px;
 
 **语法:**
 
-```
+```css
 padding: 15px 0;
 ```
 
 **示例:**
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
     <head> 
@@ -234,13 +234,13 @@ padding: 15px 0;
 
 **语法:**
 
-```
+```css
 line-height: 40px;
 ```
 
 **示例:**
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
     <head> 
@@ -279,13 +279,13 @@ line-height: 40px;
 
 **语法:**
 
-```
+```css
 margin: auto;
 ```
 
 **示例:**
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
     <head> 
@@ -326,13 +326,13 @@ margin: auto;
 
 **语法:**
 
-```
+```css
 overflow: auto;
 ```
 
 **示例:**
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
     <head> 
@@ -371,14 +371,14 @@ overflow: auto;
 
 **语法:**
 
-```
+```css
 position: absolute;
 transform: translate(X%, Y%);
 ```
 
 **示例:**
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
     <head> 

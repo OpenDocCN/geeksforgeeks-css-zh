@@ -7,7 +7,7 @@
 
 **语法:**
 
-```html
+```css
  Background image: conic-gradient(color degree, color degree, ...)  
 ```
 
@@ -27,7 +27,7 @@
 
 **程序 1:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -61,7 +61,7 @@
 
 **程序 2:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -95,7 +95,7 @@
 
 **程序 3:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -129,7 +129,7 @@
 
 **程序 4:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -164,7 +164,7 @@
 
 **程序 5:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 <head>

@@ -10,7 +10,7 @@ CSS 中的**背景剪辑属性**用于定义如何在元素中扩展背景(颜�
 
 **语法:**
 
-```
+```css
 background-clip: border-box|padding-box|content-box|initial|inherit;
 ```
 
@@ -19,7 +19,7 @@ background-clip: border-box|padding-box|content-box|initial|inherit;
 
 *   **语法:**
 
-```
+```css
 background-clip: border-box;
 ```
 
@@ -27,7 +27,7 @@ background-clip: border-box;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -65,7 +65,7 @@ background-clip: border-box;
 
 *   **语法:**
 
-```
+```css
 background-clip:padding-box;
 ```
 
@@ -73,7 +73,7 @@ background-clip:padding-box;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -112,7 +112,7 @@ background-clip:padding-box;
 
 *   **语法:**
 
-```
+```css
 background-clip:content-box;
 ```
 
@@ -120,7 +120,7 @@ background-clip:content-box;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -159,7 +159,7 @@ background-clip:content-box;
 
 *   **语法:**
 
-```
+```css
 background-clip:initial-box;
 ```
 
@@ -167,7 +167,7 @@ background-clip:initial-box;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 first-sequence ~ second-sequence {
     /* property:value; */
 }
@@ -15,7 +15,7 @@ first-sequence ~ second-sequence {
 
 **示例:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 border-image-source: url(image-path.png)| none| initial| inherit;
 ```
 
@@ -24,7 +24,7 @@ border-image-source: url(image-path.png)| none| initial| inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
     <head> 

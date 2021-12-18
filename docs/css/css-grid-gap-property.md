@@ -10,7 +10,7 @@
 
 **语法:**
 
-```
+```css
 grid-gap: grid-row-gap grid-column-gap;
 ```
 
@@ -23,7 +23,7 @@ grid-gap: grid-row-gap grid-column-gap;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -86,7 +86,7 @@ grid-gap: grid-row-gap grid-column-gap;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

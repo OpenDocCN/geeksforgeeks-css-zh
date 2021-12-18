@@ -6,13 +6,13 @@
 
 **语法:**
 
-```html
+```css
 white-space: normal|nowrap|pre|pre-wrap|pre-line;
 ```
 
 **示例 1:** 本示例使用空白属性来防止使用 CSS 进行单元格换行。
 
-```html
+```css
 <!DOCTYPE html>
 <html>
    <head>
@@ -59,7 +59,7 @@ white-space: normal|nowrap|pre|pre-wrap|pre-line;
 
 **示例 2:** 本示例使用内联空白属性。
 
-```html
+```css
 <!DOCTYPE html>
 <html>
    <head>

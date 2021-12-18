@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 cursor: all-scroll;
 ```
 
@@ -14,7 +14,7 @@ cursor: all-scroll;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -48,7 +48,7 @@ cursor: all-scroll;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

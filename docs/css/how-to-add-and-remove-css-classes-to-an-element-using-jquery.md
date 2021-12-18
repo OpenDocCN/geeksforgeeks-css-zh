@@ -8,13 +8,13 @@
 
 *   **向元素添加 CSS 类的语法:**
 
-    ```html
+    ```css
     $('selector').addClass(class_name);
     ```
 
 *   **移除元素的 CSS 类的语法:**
 
-    ```html
+    ```css
     $('selector').removeClass(class_name);
     ```
 
@@ -22,7 +22,7 @@
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 

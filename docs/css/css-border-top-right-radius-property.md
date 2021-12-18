@@ -5,7 +5,7 @@
 CSS 中的边框右上角半径属性用于定义给定元素边框右上角的半径。右上角的边框半径用于在容器的右上角绘制圆角。边框半径用于一次性设置半径值相同的容器所有半径角，边框-右上角-半径专门设置右上角边框。
 **语法:**
 
-```
+```css
 border-top-right-radius:length|[value%]|initial|inherit;
 ```
 
@@ -22,7 +22,7 @@ border-top-right-radius:length|[value%]|initial|inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>

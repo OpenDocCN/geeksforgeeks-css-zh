@@ -116,7 +116,7 @@
 
 **语法:**
 
-```
+```css
 <element class="gap-number"> Contents... </element>
 ```
 
@@ -128,7 +128,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -168,7 +168,7 @@
 
 **语法:**
 
-```
+```css
 <element class="gap-x-number"> Contents... </element>
 ```
 
@@ -176,7 +176,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -216,7 +216,7 @@
 
 **语法:**
 
-```
+```css
 <element class="gap-y-number"> Contents... </element>
 ```
 
@@ -224,7 +224,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

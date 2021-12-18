@@ -6,7 +6,7 @@ CSS 中的最小高度属性用于设置元素的最小高度。当元素的内�
 
 **语法:**
 
-```
+```css
 min-height: length|initial|inherit; 
 ```
 
@@ -16,13 +16,13 @@ min-height: length|initial|inherit;
 
     **语法:**
 
-    ```
+    ```css
     min-height: length;
     ```
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
         <head>
@@ -58,13 +58,13 @@ min-height: length|initial|inherit;
 
     **语法:**
 
-    ```
+    ```css
     min-height: initial;
     ```
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
         <head>

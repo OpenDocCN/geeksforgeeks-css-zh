@@ -11,7 +11,7 @@
 
 **语法:**
 
-```
+```css
 bottom: auto| length| %| initial| inherit;
 ```
 
@@ -21,7 +21,7 @@ bottom: auto| length| %| initial| inherit;
 
 **语法:**
 
-```
+```css
 bottom: auto;
 ```
 
@@ -29,7 +29,7 @@ bottom: auto;
 
 ## 超文本标记语言
 
-```
+```css
 <html>
 <head>
     <title> Bottom Property</title>
@@ -54,7 +54,7 @@ bottom: auto;
 
 **语法:**
 
-```
+```css
 bottom: 5px;
 ```
 
@@ -62,7 +62,7 @@ bottom: 5px;
 
 ## 超文本标记语言
 
-```
+```css
 <html>
 <head>
     <title> Bottom Property</title>
@@ -94,7 +94,7 @@ bottom: 5px;
 
 **语法:**
 
-```
+```css
 bottom: 10%;
 ```
 
@@ -102,7 +102,7 @@ bottom: 10%;
 
 ## 超文本标记语言
 
-```
+```css
 <html>
 <head>
     <title> Bottom Property</title>
@@ -134,7 +134,7 @@ bottom: 10%;
 
 **语法:**
 
-```
+```css
 bottom: initial;
 ```
 
@@ -142,7 +142,7 @@ bottom: initial;
 
 ## 超文本标记语言
 
-```
+```css
 <html>
 <head>
     <title> Bottom </title>
@@ -168,7 +168,7 @@ bottom: initial;
 
 **语法:**
 
-```
+```css
 bottom: inherit;
 ```
 
@@ -176,7 +176,7 @@ bottom: inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <html>
 <head>
     <title> Bottom </title>

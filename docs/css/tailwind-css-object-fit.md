@@ -16,7 +16,7 @@
 
 **语法:**
 
-```
+```css
 <element class="object-contain">...</element>
 ```
 
@@ -24,7 +24,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head>    
     <link href=
@@ -57,7 +57,7 @@
 
 **语法:**
 
-```
+```css
 <element class="object-cover">...</element>
 ```
 
@@ -65,7 +65,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head>     
     <link href=
@@ -98,7 +98,7 @@
 
 **语法:**
 
-```
+```css
 <element class="object-fill">...</element>
 ```
 
@@ -106,7 +106,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head>    
     <link href=
@@ -139,7 +139,7 @@
 
 **语法:**
 
-```
+```css
 <element class="object-none">...</element>
 ```
 
@@ -147,7 +147,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head>    
     <link href=
@@ -180,7 +180,7 @@
 
 **语法:**
 
-```
+```css
 <element class="object-scale-down">...</element>
 ```
 
@@ -188,7 +188,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head>    
     <link href=

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 cue: <cue-before> <cue-after>?
 ```
 
@@ -16,13 +16,13 @@ cue: <cue-before> <cue-after>?
 
     **语法:**
 
-    ```
+    ```css
     cue-before: url|none;
     ```
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html> 
     <html> 
 
@@ -56,13 +56,13 @@ cue: <cue-before> <cue-after>?
 
     **语法:**
 
-    ```
+    ```css
     cue-after: url | none ;
     ```
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html> 
     <html> 
 

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```css
 background-size: auto; 
 ```
 
@@ -16,7 +16,7 @@ background-size: auto;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
   <head>

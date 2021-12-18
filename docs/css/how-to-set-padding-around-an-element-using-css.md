@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```css
 padding: top_padding right_padding bottom_padding left_padding;
 ```
 
@@ -16,7 +16,7 @@ padding: top_padding right_padding bottom_padding left_padding;
 
 **语法:**
 
-```
+```css
 padding-top: value;
 padding-right: value;
 padding-left: value;
@@ -27,7 +27,7 @@ padding-bottom: value;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -60,7 +60,7 @@ padding-bottom: value;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 <head>

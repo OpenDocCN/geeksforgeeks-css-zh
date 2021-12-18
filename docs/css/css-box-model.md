@@ -22,7 +22,7 @@
 
 **在用 CSS 设置元素的宽度和高度属性时，我们只设置了内容区域的宽度和高度。我们需要添加填充、边框和边距，以便计算元素的完整大小。考虑下面的例子。**
 
-```html
+```css
 p {
  width: 80px;
  height: 70px;
@@ -54,7 +54,7 @@ p {
 
 ## **超文本标记语言**
 
-```html
+```css
 <!DOCTYPE html>
 <head>
     <title>CSS Box Model</title>
@@ -110,7 +110,7 @@ p {
 
 ## **超文本标记语言**
 
-```html
+```css
 <!DOCTYPE html>
 <head>
     <style>

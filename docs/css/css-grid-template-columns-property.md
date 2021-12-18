@@ -6,7 +6,7 @@ CSS 中的 grid-template-columns 属性用于设置网格的列数和列大小�
 
 **语法:**
 
-```
+```css
 grid-template-columns: none|auto|max-content|min-content|length|
 initial|inherit;
 ```
@@ -16,55 +16,55 @@ initial|inherit;
 *   **无:**是网格-模板-列属性的默认值。除非需要，否则网格不包含任何列。
     **语法:**
 
-    ```
+    ```css
     grid-template-columns: none;
     ```
 
 *   **长度:**设置网格-模板-列属性的长度。长度可以设置为 px、em、百分比等形式，指定列的大小。
     **语法:**
 
-```
+```css
 grid-template-columns: length;
 ```
 
 *   **自动:**列的大小是根据内容和元素大小自动设置的。
     **语法:**
 
-    ```
+    ```css
     grid-template-columns: auto;
     ```
 
     *   **最小内容:**根据最大最小内容大小设置栏目大小。
     **语法:**
 
-    ```
+    ```css
     grid-template-columns: min-content;
     ```
 
     *   **最大内容:**根据最大最大内容大小设置栏目大小。
     **语法:**
 
-    ```
+    ```css
     grid-template-columns: max-content;
     ```
 
     *   **初始值:**将网格-模板-列属性设置为默认值。
     **语法:**
 
-    ```
+    ```css
     grid-template-columns: initial;
     ```
 
     *   **inherit:** It sets the grid-template-columns property from its parent element.
     **Syntax:**
 
-    ```
+    ```css
     grid-template-columns: inherit;
     ```
 
     **例 1:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
         <head>
@@ -109,7 +109,7 @@ grid-template-columns: length;
 
     **例 2:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
         <head>

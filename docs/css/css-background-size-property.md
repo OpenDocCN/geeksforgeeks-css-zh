@@ -6,7 +6,7 @@ CSS 中的**背景大小**属性用于设置背景图像的大小。图像可以
 
 **语法:**
 
-```
+```css
 background-size: auto|length|cover|contain|initial|inherit; 
 ```
 
@@ -25,7 +25,7 @@ background-size: auto|length|cover|contain|initial|inherit;
 
 **语法:**
 
-```
+```css
 background-size: auto;
 ```
 
@@ -33,7 +33,7 @@ background-size: auto;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -62,7 +62,7 @@ background-size: auto;
 
 **语法:**
 
-```
+```css
 background-size: length;
 ```
 
@@ -70,7 +70,7 @@ background-size: length;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -99,7 +99,7 @@ background-size: length;
 
 **语法:**
 
-```
+```css
 background-size: percentage;
 ```
 
@@ -107,7 +107,7 @@ background-size: percentage;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -136,7 +136,7 @@ background-size: percentage;
 
 **语法:**
 
-```
+```css
 background-size: cover;
 ```
 
@@ -144,7 +144,7 @@ background-size: cover;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>

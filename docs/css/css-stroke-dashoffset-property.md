@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 stroke-dasharray: <length> | <percentage>
 ```
 
@@ -16,7 +16,7 @@ stroke-dasharray: <length> | <percentage>
 
     **示例 1:** 设置线中虚线的偏移量。
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
     <head>
@@ -77,7 +77,7 @@ stroke-dasharray: <length> | <percentage>
 
     **示例 2:** 设置圆圈中虚线的偏移量。
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
     <head>
@@ -140,7 +140,7 @@ stroke-dasharray: <length> | <percentage>
 
     **示例:**设置线中虚线的偏移量。
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
     <head>

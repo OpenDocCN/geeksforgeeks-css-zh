@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 speak: auto | normal | spell-out | none 
         | never | always| initial | inherit;
 
@@ -25,7 +25,7 @@ speak: auto | normal | spell-out | none
 
 ## HTML
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

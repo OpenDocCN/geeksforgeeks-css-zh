@@ -6,7 +6,7 @@ CSS 中的 grid-column-gap 属性用于设置网格布局中各列之间的间�
 
 **语法:**
 
-```
+```css
 grid-column-gap: none|length|initial|inherit;
 ```
 
@@ -19,7 +19,7 @@ grid-column-gap: none|length|initial|inherit;
 
 **例 1:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -65,7 +65,7 @@ grid-column-gap: none|length|initial|inherit;
 
 **示例 2:** 本示例描述了默认的网格-列-间隙属性。
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>

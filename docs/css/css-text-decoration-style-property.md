@@ -6,7 +6,7 @@ CSS 中的文本装饰样式属性用于设置元素的文本装饰。文字装�
 
 **语法:**
 
-```
+```css
 text-decoration-style: solid|double|dotted|dashed|wavy|initial|
 inherit;
 ```
@@ -17,13 +17,13 @@ inherit;
 
     **风格:**
 
-    ```
+    ```css
     text-decoration-style: solid;
     ```
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
         <head>
@@ -75,13 +75,13 @@ inherit;
 
     **风格:**
 
-    ```
+    ```css
     text-decoration-style: double;
     ```
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
         <head>
@@ -133,13 +133,13 @@ inherit;
 
     **风格:**
 
-    ```
+    ```css
     text-decoration-style: dotted;
     ```
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
         <head>
@@ -191,13 +191,13 @@ inherit;
 
     **风格:**
 
-    ```
+    ```css
     text-decoration-style: dashed;
     ```
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
         <head>
@@ -249,13 +249,13 @@ inherit;
 
     **风格:**
 
-    ```
+    ```css
     text-decoration-style: wavy;
     ```
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
         <head>
@@ -307,13 +307,13 @@ inherit;
 
     **风格:**
 
-    ```
+    ```css
     text-decoration-style: initial;
     ```
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
         <head>
@@ -365,13 +365,13 @@ inherit;
 
     **风格:**
 
-    ```
+    ```css
     text-decoration-style: inherit;
     ```
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
         <head>

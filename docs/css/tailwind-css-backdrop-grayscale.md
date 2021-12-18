@@ -11,7 +11,7 @@
 
 **语法:**
 
-```
+```css
 <element class="filter backdrop-grayscale | 
          backdrop-grayscale-0">
     /* ... */
@@ -22,7 +22,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>

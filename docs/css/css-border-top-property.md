@@ -5,7 +5,7 @@
 CSS 中的顶部边框属性用于在一行中设置所有顶部边框属性。此属性用于设置上边框的宽度、样式和颜色。
 **语法:**
 
-```
+```css
 border-top: border-width border-style border-color|initial|inherit;
 ```
 
@@ -25,7 +25,7 @@ border-top: border-width border-style border-color|initial|inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <!-- HTML code to illustrates
 border-top property -->
 <!DOCTYPE html>

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```css
 align-self: auto
 ```
 
@@ -18,7 +18,7 @@ align-self: auto
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -78,7 +78,7 @@ align-self: auto
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

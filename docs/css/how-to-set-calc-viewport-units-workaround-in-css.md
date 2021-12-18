@@ -6,7 +6,7 @@
 
 **语法:**
 
-```html
+```css
 element {
 
     // CSS property
@@ -29,7 +29,7 @@ element {
 
 **例 1:**
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 
@@ -77,7 +77,7 @@ element {
 
 **例 2:**
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 

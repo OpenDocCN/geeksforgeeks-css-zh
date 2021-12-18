@@ -5,7 +5,7 @@
 CSS 中的列宽属性用于定义列的宽度。显示元素内容所需的最小列数。这是一种灵活的特性。如果浏览器在给定的列宽下不能容纳至少两列，那么这两列将放入一列中。
 **语法:**
 
-```
+```css
 column-width: auto|length|initial|inherit; 
 ```
 
@@ -14,7 +14,7 @@ column-width: auto|length|initial|inherit;
 *   **自动:**为默认值。浏览器决定列的宽度。
     **语法:**
 
-```
+```css
 column-width: auto;
 ```
 
@@ -22,7 +22,7 @@ column-width: auto;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -68,7 +68,7 @@ column-width: auto;
 *   **长度:**用于以长度表示列的宽度。长度可以设置为 px、cm 等形式。
     **语法:**
 
-```
+```css
 column-width: length;
 ```
 
@@ -76,7 +76,7 @@ column-width: length;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -122,7 +122,7 @@ column-width: length;
 *   **初始值:**用于将列宽属性设置为默认值。
     **语法:**
 
-```
+```css
 column-width: initial;
 ```
 
@@ -130,7 +130,7 @@ column-width: initial;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>

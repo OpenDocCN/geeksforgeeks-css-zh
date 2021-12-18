@@ -14,7 +14,7 @@ T3】例:
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -40,7 +40,7 @@ T3】例:
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -79,7 +79,7 @@ T3】例:
 **外部 CSS:** 外部 CSS 包含单独的 CSS 文件，借助标签属性(如类、id、标题、…等)只包含样式属性。属性编写在一个单独的文件中。css 扩展，应该使用**链接**标签链接到 HTML 文档。这意味着对于每个元素，样式只能设置一次，并且将跨网页应用。
 **示例:**下面给出的文件包含 CSS 属性。此文件与一起保存。css 扩展。例如:**极客. css**
 
-```html
+```css
 body {
     background-color:powderblue;
 }
@@ -104,7 +104,7 @@ body {
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>

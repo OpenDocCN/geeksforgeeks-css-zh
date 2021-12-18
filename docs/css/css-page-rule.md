@@ -14,7 +14,7 @@
 
 **语法:**
 
-```
+```css
 @page [:left | :right | :first] {
     /* print-specific rules */
 } 
@@ -24,7 +24,7 @@
 
 *   **大小:**指定页面框包含块的大小。
 
-    ```
+    ```css
     @page {
           size: A4;
      }
@@ -32,7 +32,7 @@
 
 *   **标记:**修剪想要打印的页面很有帮助。
 
-    ```
+    ```css
     @page {
           marks: crop cross;
      }
@@ -40,7 +40,7 @@
 
 *   **出血:**它扩展了方块
 
-    ```
+    ```css
     @page {
           bleed: 7pt;
      }
@@ -50,7 +50,7 @@
 
 **示例:**
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 <head>

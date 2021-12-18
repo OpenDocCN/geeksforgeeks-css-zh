@@ -9,7 +9,7 @@
 *   每个图库包含多个分区。
 *   每个 div 部分包含一个图像及其描述。
 
-```
+```css
 <div class="gallery">
   <div class="box"> 
     <div class="image"> Image Added Here </div>
@@ -22,7 +22,7 @@
 
 *   **设计画廊容器:**
 
-    ```
+    ```css
     .gallery {
       width:100%;
       display:flex;
@@ -35,7 +35,7 @@
     *   将 flex-flow 属性设置为行换行。它设置伸缩方向和伸缩环绕样式。
 *   **盒子造型:**
 
-    ```
+    ```css
     .box {
         flex-basis: 20%;
         width: 100%;
@@ -50,7 +50,7 @@
 
 **步骤 3:** 使用@media 查询创建响应性的图库。
 
-```
+```css
 @media only screen and (max-width: 300px) { 
 .box {
     flex-basis: 100%;
@@ -60,7 +60,7 @@
 
 **示例:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

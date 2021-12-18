@@ -5,7 +5,7 @@
 css right 属性主要影响元素的水平位置，css 属性对未定位的元素没有影响。
 **语法:**
 
-```
+```css
 right: auto|length|initial|inherit;
 ```
 
@@ -14,13 +14,13 @@ right: auto|length|initial|inherit;
 *   **auto:** This is a default property in which browser will calculate the right edge position.
     **Syntax:**
 
-    ```
+    ```css
     right:auto;
     ```
 
     **示例-1:**
 
-    ```
+    ```css
     <!Doctype html>
     <html>
 
@@ -70,13 +70,13 @@ right: auto|length|initial|inherit;
 
     **语法:**
 
-    ```
+    ```css
     right:length;
     ```
 
     **示例-2:**
 
-    ```
+    ```css
     <!Doctype html>
     <html>
 
@@ -127,13 +127,13 @@ right: auto|length|initial|inherit;
 
     **语法:**
 
-    ```
+    ```css
     right:initial;
     ```
 
     **示例-3:**
 
-    ```
+    ```css
     <!Doctype html>
     <html>
 
@@ -183,13 +183,13 @@ right: auto|length|initial|inherit;
     *   **inherit:** Inherit keyword is also used to set default value of CSS property.Here default value is the set value of previous element.
     **Syntax:**
 
-    ```
+    ```css
     right:inherit;
     ```
 
     **示例-4:**
 
-    ```
+    ```css
     <!Doctype html>
     <html>
 

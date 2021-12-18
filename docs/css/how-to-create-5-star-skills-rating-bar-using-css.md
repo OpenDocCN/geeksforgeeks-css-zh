@@ -18,7 +18,7 @@
 
 **语法:**要使用星形图标，请使用以下语法。
 
-```html
+```css
 <i class="fas fa-star"></i>
 ```
 
@@ -28,7 +28,7 @@
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 

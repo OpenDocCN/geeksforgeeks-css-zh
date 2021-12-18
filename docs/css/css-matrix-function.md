@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 matrix( a, b, c, d, tx, ty )
 ```
 
@@ -19,7 +19,7 @@ matrix( a, b, c, d, tx, ty )
 下面的例子说明了**矩阵()函数**在 CSS 中:
 **例子:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

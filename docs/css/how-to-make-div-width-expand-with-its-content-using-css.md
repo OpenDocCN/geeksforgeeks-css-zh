@@ -6,7 +6,7 @@
 
 **语法:**
 
-```html
+```css
 width: length|percentage|auto|initial|inherit;
 
 ```
@@ -22,7 +22,7 @@ width: length|percentage|auto|initial|inherit;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -118,7 +118,7 @@ width: length|percentage|auto|initial|inherit;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

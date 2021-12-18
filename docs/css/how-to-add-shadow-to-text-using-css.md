@@ -6,7 +6,7 @@
 
 **语法:**
 
-```html
+```css
 text-shadow: h-shadow v-shadow blur-radius color|none|initial|
 ```
 
@@ -14,7 +14,7 @@ text-shadow: h-shadow v-shadow blur-radius color|none|initial|
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

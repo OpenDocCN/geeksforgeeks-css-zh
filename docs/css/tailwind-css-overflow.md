@@ -25,7 +25,7 @@
 
 ****语法:****
 
-```
+```css
 <element class="overflow-auto">...</element>
 ```
 
@@ -33,7 +33,7 @@
 
 ## **超文本标记语言**
 
-```
+```css
 <!DOCTYPE html>
 
 <head>
@@ -85,7 +85,7 @@
 
 ****语法:****
 
-```
+```css
 <element class="overflow-hidden">...</element>
 ```
 
@@ -93,7 +93,7 @@
 
 ## **超文本标记语言**
 
-```
+```css
 <!DOCTYPE html>
 
 <head>
@@ -143,7 +143,7 @@
 
 ****语法:****
 
-```
+```css
 <element class="overflow-visible">...</element>
 ```
 
@@ -151,7 +151,7 @@
 
 ## **超文本标记语言**
 
-```
+```css
 <!DOCTYPE html>
 
 <head>
@@ -201,7 +201,7 @@
 
 ****语法:****
 
-```
+```css
 <element class="overflow-scroll">...</element>
 ```
 
@@ -209,7 +209,7 @@
 
 ## **超文本标记语言**
 
-```
+```css
 <!DOCTYPE html>
 
 <head>
@@ -247,7 +247,7 @@
 
 ****语法:****
 
-```
+```css
 <element class="overflow-x-auto">...</element>
 ```
 
@@ -255,7 +255,7 @@
 
 ## **超文本标记语言**
 
-```
+```css
 <!DOCTYPE html>
 
 <head>
@@ -293,7 +293,7 @@
 
 ****语法:****
 
-```
+```css
 <element class="overflow-x-hidden">...</element>
 ```
 
@@ -301,7 +301,7 @@
 
 ## **超文本标记语言**
 
-```
+```css
 <!DOCTYPE html>
 
 <head>
@@ -339,7 +339,7 @@
 
 ****语法:****
 
-```
+```css
 <element class="overflow-x-visible">...</element>
 ```
 
@@ -347,7 +347,7 @@
 
 ## **超文本标记语言**
 
-```
+```css
 <!DOCTYPE html>
 
 <head>
@@ -385,7 +385,7 @@
 
 ****语法:****
 
-```
+```css
 <element class="overflow-x-scroll">...</element>
 ```
 
@@ -393,7 +393,7 @@
 
 ## **超文本标记语言**
 
-```
+```css
 <!DOCTYPE html>
 
 <head>
@@ -433,7 +433,7 @@
 
 ****语法:****
 
-```
+```css
 <element class="overflow-y-auto">...</element>
 ```
 
@@ -441,7 +441,7 @@
 
 ## **超文本标记语言**
 
-```
+```css
 <!DOCTYPE html>
 
 <head>
@@ -479,7 +479,7 @@
 
 ****语法:****
 
-```
+```css
 <element class="overflow-y-hidden">...</element>
 ```
 
@@ -487,7 +487,7 @@
 
 ## **超文本标记语言**
 
-```
+```css
 <!DOCTYPE html>
 
 <head>
@@ -525,7 +525,7 @@
 
 ****语法:****
 
-```
+```css
 <element class="overflow-y-visible">...</element>
 ```
 
@@ -533,7 +533,7 @@
 
 ## **超文本标记语言**
 
-```
+```css
 <!DOCTYPE html>
 
 <head>
@@ -569,7 +569,7 @@
 
 ****语法:****
 
-```
+```css
 <element class="overflow-y-scroll">...</element>
 ```
 
@@ -577,7 +577,7 @@
 
 ## **超文本标记语言**
 
-```
+```css
 <!DOCTYPE html>
 
 <head>

@@ -8,7 +8,7 @@ CSS 中的高度和宽度用于设置框的高度和宽度。它的值可以使�
 
 **示例:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
    <head>
@@ -41,7 +41,7 @@ CSS 中的高度和宽度用于设置框的高度和宽度。它的值可以使�
 **图像的高度和宽度:**用于设置图像的高度和宽度。它的值可以是像素、厘米、百分比等。
 T3】例:
 
-```html
+```css
 <!DOCTYPE html>
 <html>
    <head>
@@ -69,7 +69,7 @@ T3】例:
 
 *   **max-width:** It is used to set the maximum width of the box. It’s effect can be seen by resizing the browsers.
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
        <head>
@@ -101,7 +101,7 @@ T3】例:
 *   **最小宽度:**用于设置盒子的最小宽度。它的效果可以通过调整浏览器的大小来看到。
     T3】例:
 
-```html
+```css
 <!DOCTYPE html>
 <html>
    <head>
@@ -135,7 +135,7 @@ T3】例:
 *   **max-height:** It is used to set the maxumum height of the box. It’s effect can be seen by resizing the browsers.
     **Example:**
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
        <head>
@@ -167,7 +167,7 @@ T3】例:
 *   **min-height:** It is used to set the minimum height of the box. It’s effect can be seen by resizing the browsers.
     **Example:**
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
        <head>

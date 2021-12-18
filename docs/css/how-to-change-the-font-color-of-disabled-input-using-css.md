@@ -10,13 +10,13 @@
 **语法:**
 **HTML:**
 
-```html
+```css
 <input disabled>
 ```
 
 CSS:
 
-```html
+```css
 input:disabled {
     color: black;
 }
@@ -25,7 +25,7 @@ input:disabled {
 
 **示例:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

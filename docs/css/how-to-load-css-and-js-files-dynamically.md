@@ -18,7 +18,7 @@
 
 ## ****index.html****
 
-```
+```css
 **<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -80,7 +80,7 @@
 
 ## ****app.js****
 
-```
+```css
 **// The string stores the name of files added till now
 var filesAdded = ''; 
 
@@ -132,7 +132,7 @@ function loadCSS() { 
 
 ## ****styles.css****
 
-```
+```css
 **#upper{
     border: 2px solid red;
     margin: 10px;
@@ -154,7 +154,7 @@ function loadCSS() { 
 
 ## ****script.js****
 
-```
+```css
 **function message() {
 
     // Get the h3 element

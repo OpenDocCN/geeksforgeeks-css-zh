@@ -11,7 +11,7 @@
 
 **语法:**
 
-```
+```css
 <element class="filter backdrop-sepia |
     backdrop-sepia-0">
 </element>
@@ -21,7 +21,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

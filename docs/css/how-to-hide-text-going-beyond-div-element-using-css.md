@@ -17,7 +17,7 @@
 
 示例:
 
-```html
+```css
 .gfg{
     height: 50px;
     width: 100px;
@@ -29,7 +29,7 @@
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 

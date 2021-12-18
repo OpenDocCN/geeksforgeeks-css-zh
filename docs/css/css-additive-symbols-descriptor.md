@@ -6,7 +6,7 @@
 
 **语法:**
 
-```html
+```css
 additive-symbols : positiveIntegerCounter identifier(s)/string(s)/image(s);
 ```
 
@@ -22,7 +22,7 @@ additive-symbols : positiveIntegerCounter identifier(s)/string(s)/image(s);
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE HTML>
 <html>
 
@@ -67,7 +67,7 @@ additive-symbols : positiveIntegerCounter identifier(s)/string(s)/image(s);
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE HTML>
 <html>
 

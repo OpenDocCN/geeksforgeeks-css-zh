@@ -6,7 +6,7 @@
 
 **语法:**
 
-```html
+```css
 :in-range {
     // CSS property
 } 
@@ -15,7 +15,7 @@
 
 **示例:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>

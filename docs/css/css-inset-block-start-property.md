@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 inset-block-start: length|percentage|auto|inherit|initial|unset;
 ```
 
@@ -23,7 +23,7 @@ inset-block-start: length|percentage|auto|inherit|initial|unset;
 
 **例 1:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -70,7 +70,7 @@ inset-block-start: length|percentage|auto|inherit|initial|unset;
 
 **例 2:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

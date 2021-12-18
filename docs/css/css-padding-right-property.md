@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 padding-right: length | percentage | initial | inherit;
 ```
 
@@ -15,7 +15,7 @@ padding-right: length | percentage | initial | inherit;
 *   **长度:**此模式用于将填充的大小指定为固定值。默认值为 0。它必须是非负的。
     **语法:**
 
-```
+```css
 padding-right: length;
 ```
 
@@ -23,7 +23,7 @@ padding-right: length;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -67,7 +67,7 @@ padding-right: length;
 *   **百分比:**该模式用于设置元素宽度的右填充百分比。它必须是非负的。
     **语法:**
 
-```
+```css
 padding-right: percentage;
 ```
 
@@ -75,7 +75,7 @@ padding-right: percentage;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -117,7 +117,7 @@ padding-right: percentage;
 *   **初始值:**该属性用于设置默认值。
     **语法:**
 
-```
+```css
 padding-right: initial;
 ```
 
@@ -125,7 +125,7 @@ padding-right: initial;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>

@@ -6,7 +6,7 @@ CSS 中的**行高**属性用于设置用于行的空间量，例如在文本中
 
 **语法:**
 
-```html
+```css
 line-height: normal|number|length|percentage|initial|inherit;
 
 ```
@@ -15,14 +15,14 @@ line-height: normal|number|length|percentage|initial|inherit;
 
 *   **normal:** This mode represents the normal line height. This is the default value.
 
-    ```html
+    ```css
     line-height: normal;
 
     ```
 
     **示例:**
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
         <head>
@@ -57,14 +57,14 @@ line-height: normal|number|length|percentage|initial|inherit;
 
 *   **number:** This value is a unitless number multiplied with the current font-size to set the line height. In most cases, this is the preferred way to set line-height and avoid unexpected results due to inheritance.
 
-    ```html
+    ```css
     line-height: number;
 
     ```
 
     **示例:**
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
         <head>
@@ -99,14 +99,14 @@ line-height: normal|number|length|percentage|initial|inherit;
 
 *   **length:** In this mode a fixed line height is specified.
 
-    ```html
+    ```css
     line-height: length;
 
     ```
 
     **示例:**
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
         <head>
@@ -141,14 +141,14 @@ line-height: normal|number|length|percentage|initial|inherit;
 
 *   **percentage:** This mode is used to set line height in percent of the current font size.
 
-    ```html
+    ```css
     line-height: percentage;
 
     ```
 
     **例:**
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
         <head>
@@ -184,7 +184,7 @@ line-height: normal|number|length|percentage|initial|inherit;
 *   **初始:**该模式用于将该属性设置为默认值。
     **语法:**
 
-    ```html
+    ```css
     line-height: initial;
 
     ```

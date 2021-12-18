@@ -6,7 +6,7 @@ CSS 中的**边框-块-结束-宽度属性**用于在样式表的一个地方定
 
 **语法:**
 
-```
+```css
 border-block-end-width: border-width;
 ```
 
@@ -18,7 +18,7 @@ border-block-end-width: border-width;
 
 **例 1:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -59,7 +59,7 @@ border-block-end-width: border-width;
 
 **例 2:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

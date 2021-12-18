@@ -10,7 +10,7 @@ CSS 中的**边框右宽属性**用于设置元素右边框的宽度。必须在
 
 **语法:**
 
-```
+```css
 border-right-width: medium|thin|thick|length|initial|inherit; 
 ```
 
@@ -19,7 +19,7 @@ border-right-width: medium|thin|thick|length|initial|inherit;
 
 *   **语法:**
 
-```
+```css
 border-right-width: medium;
 ```
 
@@ -27,7 +27,7 @@ border-right-width: medium;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -79,7 +79,7 @@ border-right-width: medium;
 
 *   **语法:**
 
-```
+```css
 border-right-width: thin;
 ```
 
@@ -87,7 +87,7 @@ border-right-width: thin;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -139,7 +139,7 @@ border-right-width: thin;
 
 *   **语法:**
 
-```
+```css
 border-right-width: thick;
 ```
 
@@ -147,7 +147,7 @@ border-right-width: thick;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -199,7 +199,7 @@ border-right-width: thick;
 
 *   **语法:**
 
-```
+```css
 border-right-width: length;
 ```
 
@@ -207,7 +207,7 @@ border-right-width: length;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -259,7 +259,7 @@ border-right-width: length;
 
 *   **语法:**
 
-```
+```css
 border-right-width: initial;
 ```
 
@@ -267,7 +267,7 @@ border-right-width: initial;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>

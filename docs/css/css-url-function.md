@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```css
 url( <string> <url-modifier>* )
 ```
 
 **参数:**该函数接受单参数**网址**，该网址以字符串形式保存网址。网址的例子有:
 
-```
+```css
 <css_property>: url("https://geeksforgeeks.org/image.png")
 <css_property>: url('https://geeksforgeeks.org/image.png')
 <css_property>: url(https://geeksforgeeks.org/image.png)
@@ -23,7 +23,7 @@ url( <string> <url-modifier>* )
 
 **示例:**
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 

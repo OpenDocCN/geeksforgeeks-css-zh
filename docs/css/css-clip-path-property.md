@@ -6,7 +6,7 @@ CSS 的**剪辑路径**属性用于剪辑图像的特定部分，使得部分内
 
 **语法:**
 
-```
+```css
 clip-path: <clip-source> | <basic-shape> | none;
 ```
 
@@ -18,7 +18,7 @@ clip-path: <clip-source> | <basic-shape> | none;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -100,7 +100,7 @@ clip-path: <clip-source> | <basic-shape> | none;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -150,7 +150,7 @@ clip-path: <clip-source> | <basic-shape> | none;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 <head>

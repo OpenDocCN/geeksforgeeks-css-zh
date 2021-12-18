@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 :any-link{
   /*css properties*/
 }
@@ -17,7 +17,7 @@
 
 **例 1:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
   <head>
@@ -63,7 +63,7 @@
 
 **例 2:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
   <head>

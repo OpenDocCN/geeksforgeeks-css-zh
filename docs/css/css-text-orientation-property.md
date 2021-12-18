@@ -6,7 +6,7 @@ CSS 中的**文本方向属性**用于设置一行中字符的方向。这个属
 
 **语法:**
 
-```
+```css
 text-orientation: mixed|upright|sideways;
 ```
 
@@ -16,7 +16,7 @@ text-orientation: mixed|upright|sideways;
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <head>
         <title>
@@ -49,7 +49,7 @@ text-orientation: mixed|upright|sideways;
 *   **直立:**该值从屏幕右侧向下开始文本。
     T3】例:
 
-```
+```css
 <!DOCTYPE html>
 <head>
     <title>
@@ -83,7 +83,7 @@ text-orientation: mixed|upright|sideways;
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <head>
         <title>

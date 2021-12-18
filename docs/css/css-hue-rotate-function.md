@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 hue-rotate( angle )
 ```
 
@@ -16,7 +16,7 @@ hue-rotate( angle )
 
 **示例:**
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 

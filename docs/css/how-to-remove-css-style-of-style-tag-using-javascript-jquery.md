@@ -8,7 +8,7 @@
 
 **示例 1:** 本示例使用 **[remove()方法](https://www.geeksforgeeks.org/jquery-remove/)** 移除<样式>元素的 CSS 样式。
 
-```
+```css
 <!DOCTYPE HTML>  
 <html>  
 
@@ -87,7 +87,7 @@
 
 **示例 2:** 本示例使用 **jQuery [empty()方法](https://www.geeksforgeeks.org/jquery-empty-with-examples/)** 移除<样式>元素的 CSS 样式。
 
-```
+```css
 <!DOCTYPE HTML>  
 <html>  
 

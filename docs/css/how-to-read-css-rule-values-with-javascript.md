@@ -12,7 +12,7 @@ CSS 规则可以使用 [DOM(文档对象模型)](https://www.geeksforgeeks.org/d
 
 **示例:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -98,7 +98,7 @@ CSS 规则可以使用 [DOM(文档对象模型)](https://www.geeksforgeeks.org/d
 
 **示例:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

@@ -7,7 +7,7 @@ CSS 渐变允许我们显示两种或多种颜色之间的平滑过渡。它们�
 
 *   对于背景图像顶部的线性渐变:
 
-    ```
+    ```css
     element {
         background-image: linear-gradient(direction, 
          color-stop1, color-stop2, ...), url('url');
@@ -16,7 +16,7 @@ CSS 渐变允许我们显示两种或多种颜色之间的平滑过渡。它们�
 
 *   背景图像顶部的径向渐变:
 
-    ```
+    ```css
     element {
         background-image: radial-gradient(direction, 
         color-stop1, color-stop2, ...), url('url');
@@ -26,7 +26,7 @@ CSS 渐变允许我们显示两种或多种颜色之间的平滑过渡。它们�
 以下示例说明了上述方法:
 **示例 1:** 具有线性渐变的背景图像。
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 
@@ -66,7 +66,7 @@ CSS 渐变允许我们显示两种或多种颜色之间的平滑过渡。它们�
 
 **示例 2:** 具有径向梯度的背景图像。
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 

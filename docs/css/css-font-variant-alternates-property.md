@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```css
 font-variant-alternates: normal | historical-forms | stylistic() |
                          styleset() | character-variant() |
                          swash() | ornaments() | annotation();
@@ -25,7 +25,7 @@ font-variant-alternates: normal | historical-forms | stylistic() |
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

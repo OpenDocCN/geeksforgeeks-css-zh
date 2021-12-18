@@ -6,7 +6,7 @@
 
 **语法:**
 
-```html
+```css
 z-index: auto | integer | initial | inherit;
 ```
 
@@ -25,7 +25,7 @@ z-index: auto | integer | initial | inherit;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 
@@ -68,7 +68,7 @@ z-index: auto | integer | initial | inherit;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 
@@ -112,7 +112,7 @@ z-index: auto | integer | initial | inherit;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 

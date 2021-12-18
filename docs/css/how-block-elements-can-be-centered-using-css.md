@@ -12,7 +12,7 @@
 
 **语法:**
 
-```html
+```css
 element {
     width:200px;
     margin: auto;
@@ -25,7 +25,7 @@ element {
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 
@@ -72,7 +72,7 @@ element {
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 

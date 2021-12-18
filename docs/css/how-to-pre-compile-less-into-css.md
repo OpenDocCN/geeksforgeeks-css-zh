@@ -10,7 +10,7 @@
 
 **语法:**
 
-```
+```css
 npm install less -g
 ```
 
@@ -20,7 +20,7 @@ npm install less -g
 
 **语法:**
 
-```
+```css
 lessc <source> [destination]
 ```
 
@@ -31,7 +31,7 @@ lessc <source> [destination]
 
 **示例 1:** 如果我们在当前工作目录中有一个文件 *style.less* ，并且我们想将其编译成一个 CSS 文件作为同一目录中的 *style.css* 。我们使用以下命令:
 
-```
+```css
 lessc style.less style.css
 ```
 
@@ -39,7 +39,7 @@ lessc style.less style.css
 
 **LESS 文件:**
 
-```
+```css
 .container {
    .base-container {
        font-size: 24px;
@@ -52,7 +52,7 @@ lessc style.less style.css
 
 **CSS 文件:**
 
-```
+```css
 .container .base-container {
  font-size: 24px;
 }
@@ -69,7 +69,7 @@ lessc style.less style.css
 
 **示例 2:** 如果我们在另一个目录中有一个文件 *style.less* (在这种情况下，它在“D:\Geeksforgeeks”中)，而不是在当前目录中，我们希望将其编译成一个 CSS 文件，作为同一目录中的 *style.css* 。我们使用以下命令:
 
-```
+```css
 lessc D:\Geeksforgeeks\style.less D:\Geeksforgeeks\style.css
 ```
 
@@ -77,7 +77,7 @@ lessc D:\Geeksforgeeks\style.less D:\Geeksforgeeks\style.css
 
 **LESS 文件:**
 
-```
+```css
 @primary-color: #0000ff;
 @padding: 4px;
 .container {
@@ -96,7 +96,7 @@ lessc D:\Geeksforgeeks\style.less D:\Geeksforgeeks\style.css
 
 **CSS 文件:**
 
-```
+```css
 .container .base-container {
  font-size: 24px;
  padding-right: 4px;
@@ -119,7 +119,7 @@ lessc D:\Geeksforgeeks\style.less D:\Geeksforgeeks\style.css
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

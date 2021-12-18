@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```css
 #textButton{
        background:none; 
        border:none;     
@@ -22,7 +22,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <body>

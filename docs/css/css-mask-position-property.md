@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 mask-position: Keyword values
 /* Or */
 mask-position: position values
@@ -25,7 +25,7 @@ mask-position: Global values
 
 **示例 1:** 以下示例使用位置值说明了**遮罩位置**属性
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -69,7 +69,7 @@ mask-position: Global values
 
 **示例 2:** 以下示例使用关键字值说明了**遮罩位置**属性
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

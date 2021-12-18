@@ -6,19 +6,19 @@
 
 *   -webkit- (Chrome、Safari、新版 Opera):
 
-    ```html
+    ```css
     .element::-webkit-scrollbar { width: 0 !important }
     ```
 
 *   -moz- （火狐）：
 
-    ```html
+    ```css
     .element { overflow: -moz-scrollbars-none; }
     ```
 
 *   -ms- (Internet Explorer +10):
 
-    ```html
+    ```css
     .element { -ms-overflow-style: none; }
     ```
 
@@ -32,7 +32,7 @@
 
     **示例:**
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
         <head>
@@ -85,7 +85,7 @@
 
     **示例:**
 
-    ```html
+    ```css
     <!DOCTYPE html>
     <html>
         <head>

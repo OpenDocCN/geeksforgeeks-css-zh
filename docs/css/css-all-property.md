@@ -5,7 +5,7 @@
 CSS 中的 **all 属性**是一个简写属性，用于将所有元素的值设置为它们的初始值或继承值，或者在某些情况下用于将这些值设置为另一个电子表格原点。此属性用于重置文档中的所有 CSS 属性。
 **语法:**
 
-```
+```css
 all: initial|inherit|unset|revert;
 ```
 
@@ -16,7 +16,7 @@ all: initial|inherit|unset|revert;
 
 *   **语法:**
 
-```
+```css
 all: initial;
 ```
 
@@ -24,7 +24,7 @@ all: initial;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
     <head> 
@@ -55,13 +55,13 @@ all: initial;
 
 *   **输出:**
 
-```
+```css
 GeeksforGeeks all property
 ```
 
 *   **语法:**
 
-```
+```css
 all: inherit;
 ```
 
@@ -69,7 +69,7 @@ all: inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
     <head> 
@@ -96,13 +96,13 @@ all: inherit;
 
 *   **输出:**
 
-```
+```css
 GeeksforGeeks all property
 ```
 
 *   **语法:**
 
-```
+```css
 all: unset;
 ```
 
@@ -110,7 +110,7 @@ all: unset;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
     <head> 
@@ -140,13 +140,13 @@ all: unset;
 
 *   **输出:**
 
-```
+```css
 GeeksforGeeks all property
 ```
 
 *   **语法:**
 
-```
+```css
 all: revert;
 ```
 
@@ -154,7 +154,7 @@ all: revert;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
     <head> 

@@ -13,7 +13,7 @@
 **@ supports:**[@ supports 条件式规则](https://www.geeksforgeeks.org/css-supports-rule/)是检查浏览器对特定 CSS 属性的支持，并基于此应用样式。
 **语法:**
 
-```
+```css
 @supports ("*condition*") {
    /*  Style to apply  */
 }
@@ -23,7 +23,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -55,7 +55,7 @@
 **@媒体:**[@媒体条件规则](https://www.geeksforgeeks.org/css-media-rule/)是用于基于媒体查询应用样式的规则。它可用于检查设备宽度和/或高度，并应用基于此指定的样式。
 **语法:**
 
-```
+```css
 @media screen and ("*condition*") {
    /*  Style to apply  */
 }
@@ -65,7 +65,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -102,7 +102,7 @@
 **@文档:**[@文档条件规则](https://www.geeksforgeeks.org/css-document-rule/)用于对指定的网址应用样式，即样式仅应用于指定的网址。
 **语法:**
 
-```
+```css
 @document url(“*YOUR-URL*”) {
    /*  Style to apply  */
 }
@@ -113,7 +113,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>

@@ -15,7 +15,7 @@
 
 **语法:**
 
-```
+```css
 <element class="clear-left">...</element>
 ```
 
@@ -23,7 +23,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head>    
     <link href=
@@ -74,7 +74,7 @@
 
 **语法:**
 
-```
+```css
 <element class="clear-right">...</element>
 ```
 
@@ -82,7 +82,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head>     
     <link href=
@@ -133,7 +133,7 @@
 
 **语法:**
 
-```
+```css
 <element class="clear-both">...</element>
 ```
 
@@ -141,7 +141,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head>     
     <link href=
@@ -192,7 +192,7 @@
 
 **语法:**
 
-```
+```css
 <element class="clear-none">...</element>
 ```
 
@@ -200,7 +200,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head>    
     <link href=

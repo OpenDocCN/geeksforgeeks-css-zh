@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 @import url|string list-of-mediaqueries;
 
 ```
@@ -20,7 +20,7 @@
 
 *   **icss.css**
 
-    ```
+    ```css
     @import url("i1css.css");
     h1 {
         color: #00ff00;
@@ -30,7 +30,7 @@
 
 *   **CSS . CSS**
 
-    ```
+    ```css
     h1 {
        text-decoration: underline;
        font-size:60px;
@@ -45,7 +45,7 @@
 
 链接下面 HTML 文件中的第一个 CSS 文件 icss.css，查看输出。
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>

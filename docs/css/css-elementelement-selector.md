@@ -6,7 +6,7 @@ CSS 中的元素，元素选择器用于为所有逗号分隔的元素设置相�
 
 **语法:**
 
-```
+```css
 element, element {
     // CSS Property
 }
@@ -15,7 +15,7 @@ element, element {
 
 **例 1:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -58,7 +58,7 @@ element, element {
 
 **例 2:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>

@@ -10,7 +10,7 @@ CSS 中的**边框右样式属性**用于更改元素边框右线段的外观。
 
 **语法:**
 
-```
+```css
 border-right-style: none|hidden|dotted|dashed|solid|double|groove|
 ridge|inset|outset|inherit; 
 ```
@@ -21,7 +21,7 @@ ridge|inset|outset|inherit;
 
 *   **语法:**
 
-```
+```css
 border-right-style: none;
 ```
 
@@ -29,7 +29,7 @@ border-right-style: none;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -66,7 +66,7 @@ border-right-style: none;
 
 *   **语法:**
 
-```
+```css
 border-right-style: hidden;
 ```
 
@@ -74,7 +74,7 @@ border-right-style: hidden;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -111,7 +111,7 @@ border-right-style: hidden;
 
 *   **语法:**
 
-```
+```css
 border-right-style: dotted;
 ```
 
@@ -119,7 +119,7 @@ border-right-style: dotted;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -156,7 +156,7 @@ border-right-style: dotted;
 
 *   **语法:**
 
-```
+```css
 border-right-style: dashed;
 ```
 
@@ -164,7 +164,7 @@ border-right-style: dashed;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -201,7 +201,7 @@ border-right-style: dashed;
 
 *   **语法:**
 
-```
+```css
 border-right-style: solid;
 ```
 
@@ -209,7 +209,7 @@ border-right-style: solid;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -246,7 +246,7 @@ border-right-style: solid;
 
 *   **语法:**
 
-```
+```css
 border-right-style: double;
 ```
 
@@ -254,7 +254,7 @@ border-right-style: double;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -291,7 +291,7 @@ border-right-style: double;
 
 *   **语法:**
 
-```
+```css
 border-right-style: groove;
 ```
 
@@ -299,7 +299,7 @@ border-right-style: groove;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -335,7 +335,7 @@ border-right-style: groove;
 
 *   **语法:**
 
-```
+```css
 border-right-style: inset;
 ```
 
@@ -343,7 +343,7 @@ border-right-style: inset;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -379,7 +379,7 @@ border-right-style: inset;
 
 *   **语法:**
 
-```
+```css
 border-right-style: outset;
 ```
 
@@ -387,7 +387,7 @@ border-right-style: outset;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -423,7 +423,7 @@ border-right-style: outset;
 
 *   **语法:**
 
-```
+```css
 border-right-style: inherit;
 ```
 
@@ -431,7 +431,7 @@ border-right-style: inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>

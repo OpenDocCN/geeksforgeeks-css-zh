@@ -6,7 +6,7 @@ CSS 中的**边框-块-结束-样式属性**用于在样式表中的一个位置
 
 **语法:**
 
-```
+```css
 border-block-end-style: border-style;
 ```
 
@@ -18,7 +18,7 @@ border-block-end-style: border-style;
 
 **例 1:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -59,7 +59,7 @@ border-block-end-style: border-style;
 
 **例 2:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

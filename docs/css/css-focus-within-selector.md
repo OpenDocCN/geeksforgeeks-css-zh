@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 :focus {
     /* CSS Properties */
 }
@@ -16,7 +16,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 

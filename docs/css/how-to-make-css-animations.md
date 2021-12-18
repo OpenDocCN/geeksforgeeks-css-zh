@@ -22,7 +22,7 @@
 
     ## 半铸钢ˌ钢性铸铁(Cast Semi-Steel)
 
-    ```
+    ```css
     @keyframes animation_example1{
       /* animation results in change of opacity*/
       from{opacity:0.3;}
@@ -34,7 +34,7 @@
 
     ## 半铸钢ˌ钢性铸铁(Cast Semi-Steel)
 
-    ```
+    ```css
     @keyframes animation_example2{
       /* here the amount of total time is divided */
       0%{height:220px;
@@ -50,7 +50,7 @@
 
     ## 半铸钢ˌ钢性铸铁(Cast Semi-Steel)
 
-    ```
+    ```css
     #pic1{
     animation-name:animation_example2;
       animation-duration:2s;
@@ -64,7 +64,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <html>
 
 <head>

@@ -5,7 +5,7 @@
 要禁用多点触控手势的缩放选项，我们可以使用 **surefox** 浏览器，但用户仍然可以通过双击屏幕来放大或缩小。我们可以使用< meta >标签来禁用移动网页的放大和缩小。
 **语法:**
 
-```html
+```css
 <meta name="viewport" content= "width=device-width, user-scalable=no">
 ```
 
@@ -28,7 +28,7 @@
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -102,7 +102,7 @@
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

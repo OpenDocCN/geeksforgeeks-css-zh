@@ -6,7 +6,7 @@ CSS 中的**填充块结束属性**用于定义元素的逻辑块结束填充。
 
 **语法:**
 
-```
+```css
 padding-block-end: length|percentage|auto|inherit|initial|unset;
 ```
 
@@ -22,7 +22,7 @@ padding-block-end: length|percentage|auto|inherit|initial|unset;
 以下示例说明了 CSS 中的**填充块结束属性**:
 **示例 1:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -65,7 +65,7 @@ padding-block-end: length|percentage|auto|inherit|initial|unset;
 
 **例 2:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

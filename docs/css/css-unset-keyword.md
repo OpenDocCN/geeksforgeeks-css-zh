@@ -5,7 +5,7 @@
 **CSS 未设置**关键字是 CSS 中的一个内置关键字。CSS unset 关键字是 CSS 中的一个内置关键字，用于将层叠样式取消设置到其父元素。它的行为类似于第一种情况下的 inherit 关键字，类似于第二种情况下的初始关键字
 **语法:**
 
-```
+```css
 property: unset;
 ```
 
@@ -14,7 +14,7 @@ property: unset;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>

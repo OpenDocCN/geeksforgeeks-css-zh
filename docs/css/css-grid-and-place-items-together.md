@@ -16,7 +16,7 @@
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <body>
@@ -52,7 +52,7 @@
 
 ## 超文本标记语言
 
-```html
+```css
 <style>
     h1 {
         text-align: center;
@@ -90,7 +90,7 @@
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>

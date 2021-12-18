@@ -13,7 +13,7 @@ position 属性以及属性，如左、右、上和下，可以用来显示适�
 
 **例 1:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -52,7 +52,7 @@ position 属性以及属性，如左、右、上和下，可以用来显示适�
 
 **示例 2:** 在本例中，使用表格在正文底部显示内容。top 和 bottom 属性用于将内容设置在顶部和底部位置。
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>

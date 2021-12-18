@@ -8,7 +8,7 @@ CSS 中的 display 属性是一个非常有用且常用的属性，它包含很�
 
 **语法:**
 
-```html
+```css
 element {
     display: inline;
     // CSS property
@@ -18,7 +18,7 @@ element {
 
 **例 1:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -66,7 +66,7 @@ element {
 
 **语法:**
 
-```html
+```css
 element {
     display: inline-block;
     // CSS property
@@ -76,7 +76,7 @@ element {
 
 **例 2:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>

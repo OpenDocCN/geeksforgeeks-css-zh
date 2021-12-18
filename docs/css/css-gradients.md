@@ -14,7 +14,7 @@ CSS 中的**渐变**是一种特殊类型的图像，由两种或多种颜色之
 
 **语法:**
 
-```
+```css
 background-image: linear-gradient(direction, color-stop1, color-stop2, ...);
 ```
 
@@ -26,7 +26,7 @@ background-image: linear-gradient(direction, color-stop1, color-stop2, ...);
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -73,7 +73,7 @@ background-image: linear-gradient(direction, color-stop1, color-stop2, ...);
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -120,7 +120,7 @@ background-image: linear-gradient(direction, color-stop1, color-stop2, ...);
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -168,7 +168,7 @@ background-image: linear-gradient(direction, color-stop1, color-stop2, ...);
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -216,7 +216,7 @@ background-image: linear-gradient(direction, color-stop1, color-stop2, ...);
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -262,7 +262,7 @@ background-image: linear-gradient(direction, color-stop1, color-stop2, ...);
 
 **语法:**
 
-```
+```css
 background-image: radial-gradient(shape size at position, start-color, ..., last-color);
 ```
 
@@ -276,7 +276,7 @@ background-image: radial-gradient(shape size at position, start-color, ..., last
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -325,7 +325,7 @@ background-image: radial-gradient(shape size at position, start-color, ..., last
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>

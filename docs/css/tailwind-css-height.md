@@ -23,7 +23,7 @@
 
 **语法:**
 
-```
+```css
 <element class="h-0">...</element>
 ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -78,7 +78,7 @@
 
 **语法:**
 
-```
+```css
 <element class="h-auto">...</element>
 ```
 
@@ -86,7 +86,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -116,7 +116,7 @@
 
 **语法:**
 
-```
+```css
 <element class="h-screen">...</element>
 ```
 
@@ -124,7 +124,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head> 
     <link href=
@@ -154,7 +154,7 @@
 
 **语法:**
 
-```
+```css
 <element class="h-full">...</element>
 ```
 
@@ -162,7 +162,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <head> 
     <link href=

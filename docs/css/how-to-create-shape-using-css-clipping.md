@@ -10,7 +10,7 @@
 
 **语法:**
 
-```
+```css
 clip-path: <basic-shape> 
 ```
 
@@ -22,7 +22,7 @@ clip-path: <basic-shape>
 
 **语法:**
 
-```
+```css
 clip-path: polygon(pairs of X and Y coordinates)
 ```
 
@@ -30,13 +30,13 @@ clip-path: polygon(pairs of X and Y coordinates)
 
 **语法:**
 
-```
+```css
 clip-path: circle(radius);
 ```
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -96,13 +96,13 @@ clip-path: circle(radius);
 
 **语法:**
 
-```
+```css
  clip-path: ellipse(radiusX radiusY at posX posY)
 ```
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 
@@ -158,13 +158,13 @@ clip-path: circle(radius);
 
 **圆的语法:**
 
-```
+```css
 clip-path: circle(radius, shifted center by X, shifted center by Y)
 ```
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 
@@ -224,19 +224,19 @@ clip-path: circle(radius, shifted center by X, shifted center by Y)
 
 **椭圆语法:**
 
-```
+```css
 clip-path: ellipse(x, y) 
 ```
 
 **插图语法:**
 
-```
+```css
 clipt-path: inset(top, right, bottom, left)
 ```
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 

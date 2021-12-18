@@ -20,7 +20,7 @@
 
 **语法:**
 
-```
+```css
 <element class="z-0">....</element>
 ```
 
@@ -28,7 +28,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <head>
     <link 
@@ -69,7 +69,7 @@
 
 **语法:**
 
-```
+```css
 <element class="z-10">....</element>
 ```
 
@@ -77,7 +77,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <head>
     <link 
@@ -112,7 +112,7 @@
 
 **语法:**
 
-```
+```css
 <element class="z-20">....</element>
 ```
 
@@ -120,7 +120,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <head>
     <link 
@@ -155,7 +155,7 @@
 
 **语法:**
 
-```
+```css
 <element class="z-30">....</element>
 ```
 
@@ -163,7 +163,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <head>
     <link 
@@ -198,7 +198,7 @@
 
 **语法:**
 
-```
+```css
 <element class="z-40">....</element>
 ```
 
@@ -206,7 +206,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <head>
     <link 
@@ -241,7 +241,7 @@
 
 **语法:**
 
-```
+```css
 <element class="z-50">....</element>
 ```
 
@@ -249,7 +249,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <head>
     <link 

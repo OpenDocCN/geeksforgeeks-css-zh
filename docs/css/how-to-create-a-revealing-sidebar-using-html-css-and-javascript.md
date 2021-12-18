@@ -19,7 +19,7 @@
 
 ## index.html
 
-```
+```css
 <html>
 <head>
   <link rel="stylesheet" 

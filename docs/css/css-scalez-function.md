@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 scaleZ( z )
 ```
 
@@ -16,7 +16,7 @@ scaleZ( z )
 
 **例 1:**
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 
@@ -53,7 +53,7 @@ scaleZ( z )
 
 **例 2:**
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 

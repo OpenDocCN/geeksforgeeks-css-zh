@@ -5,14 +5,14 @@
 CSS **currentcolor** 关键字用于定义颜色，但使用当前使用的颜色属性。如果你想在多个地方使用相同的颜色，那么你可以很容易地使用 **currentcolor** 关键字。只需要设置一个颜色属性，之后你就可以很容易地使用 **currentcolor** 来设置你想要设置的所有其他地方的颜色。所以在未来，如果你想改变所有的颜色，那么你需要在一个地方改变颜色。
 **语法:**
 
-```
+```css
 background-color: currentcolor;
 
 ```
 
 **示例 1:** 在本例中，我们将使用 currentcolor 进行框阴影。
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -52,7 +52,7 @@ background-color: currentcolor;
 
 **示例 2:** 当前颜色背景上的文本颜色。
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <title>CSS currentcolor keyword</title>

@@ -8,13 +8,13 @@
 
 **语法:**
 
-```
+```css
 *property_name*: initial;
 ```
 
 **示例 1:** 设置字体大小
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <meta charset="utf-8">
@@ -47,7 +47,7 @@ span {
 
 **示例 2:** 将字体颜色取消设置为等效的父元素值。
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <meta charset="utf-8">

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 font-style: normal|italic|oblique|initial|inherit;
 ```
 
@@ -24,7 +24,7 @@ font-style: normal|italic|oblique|initial|inherit;
 
 **语法:**
 
-```
+```css
 font-style: normal;
 ```
 
@@ -32,7 +32,7 @@ font-style: normal;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -61,7 +61,7 @@ font-style: normal;
 
 **语法:**
 
-```
+```css
 font-style: italic;
 ```
 
@@ -69,7 +69,7 @@ font-style: italic;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -98,7 +98,7 @@ font-style: italic;
 
 **语法:**
 
-```
+```css
 font-style: oblique;
 ```
 
@@ -106,7 +106,7 @@ font-style: oblique;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -135,7 +135,7 @@ font-style: oblique;
 
 **语法:**
 
-```
+```css
 font-style: initial;
 ```
 
@@ -143,7 +143,7 @@ font-style: initial;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -174,7 +174,7 @@ font-style: initial;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>

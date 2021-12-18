@@ -6,7 +6,7 @@ CSS 中的 grid-row-end 属性用于通过指定网格区域的内联边缘来�
 
 **语法:**
 
-```
+```css
 grid-row-end: value;
 ```
 
@@ -27,7 +27,7 @@ grid-row-end: value;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -73,7 +73,7 @@ grid-row-end: value;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>

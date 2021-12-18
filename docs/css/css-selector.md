@@ -6,7 +6,7 @@ CSS 中的*选择器用于选择 HTML 文档中的所有元素。它还会选择
 
 **语法:**
 
-```
+```css
 * {
     // CSS property
 } 
@@ -16,7 +16,7 @@ CSS 中的*选择器用于选择 HTML 文档中的所有元素。它还会选择
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -56,7 +56,7 @@ CSS 中的*选择器用于选择 HTML 文档中的所有元素。它还会选择
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>

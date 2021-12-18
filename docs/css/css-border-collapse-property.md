@@ -5,7 +5,7 @@
 CSS 中的**边框折叠属性**用于设置表格内部单元格的边框，并告知这些单元格是否共享一个公共边框。
 **语法:**
 
-```
+```css
 border-collapse: separate|collapse|initial|inherit;
 ```
 
@@ -22,7 +22,7 @@ border-collapse: separate|collapse|initial|inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -94,7 +94,7 @@ border-collapse: separate|collapse|initial|inherit;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>

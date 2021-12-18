@@ -5,7 +5,7 @@
 **多边形()函数**是 CSS 中的一个内置函数，它与 filter 属性一起用于创建图像或文本的多边形。
 **语法:**
 
-```
+```css
 polygon( percentage | length);
 ```
 
@@ -15,7 +15,7 @@ polygon( percentage | length);
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

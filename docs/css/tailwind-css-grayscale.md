@@ -11,7 +11,7 @@
 
 **语法:**
 
-```
+```css
 <element class="filter grayscale | grayscale-0">..</element>
 ```
 
@@ -19,7 +19,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>

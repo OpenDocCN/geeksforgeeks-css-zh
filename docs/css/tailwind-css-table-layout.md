@@ -13,7 +13,7 @@
 
 **语法:**
 
-```
+```css
 <element class="table-auto">...</element>
 ```
 
@@ -21,7 +21,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <html>
 <head> 
@@ -86,7 +86,7 @@
 
 **语法:**
 
-```
+```css
 <element class="table-fixed">...</element>
 ```
 
@@ -94,7 +94,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <html>
 <head> 

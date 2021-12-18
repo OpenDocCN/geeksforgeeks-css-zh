@@ -8,7 +8,7 @@
 
 **语法:**
 
-```html
+```css
 column-rule: width style color;
 ```
 
@@ -16,7 +16,7 @@ column-rule: width style color;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 
@@ -57,7 +57,7 @@ column-rule: width style color;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
   <head>

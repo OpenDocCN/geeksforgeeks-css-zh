@@ -5,7 +5,7 @@
 Sass 支持作为适当 CSS 一部分的每个 at 规则。为了保持灵活性并与即将到来的 CSS 版本兼容，Sass 提供了通用支持，几乎涵盖了所有 at-rules。
 **语法:**
 
-```
+```css
 @<rule> <value>, @<rule> {
    ... 
 }
@@ -13,7 +13,7 @@ Sass 支持作为适当 CSS 一部分的每个 at 规则。为了保持灵活性
 
 运筹学
 
-```
+```css
 @<rule> <value> {
    ... 
 }
@@ -23,7 +23,7 @@ Sass 支持作为适当 CSS 一部分的每个 at 规则。为了保持灵活性
 
 **示例:**
 
-```
+```css
 .gfg {
   margin: 4px;
 
@@ -33,7 +33,7 @@ Sass 支持作为适当 CSS 一部分的每个 at 规则。为了保持灵活性
 
 **输出:**
 
-```
+```css
 .gfg {
   margin: 4px;
 }
@@ -49,7 +49,7 @@ Sass 支持作为适当 CSS 一部分的每个 at 规则。为了保持灵活性
 
 **示例:**
 
-```
+```css
 @media (hover: hover) {
   .gfg:hover {
     border: 4px solid green;
@@ -63,7 +63,7 @@ Sass 支持作为适当 CSS 一部分的每个 at 规则。为了保持灵活性
 
 **输出:**
 
-```
+```css
 @media (hover: hover) {
   .gfg:hover {
     border: 4px solid green;
@@ -81,7 +81,7 @@ Sass 支持作为适当 CSS 一部分的每个 at 规则。为了保持灵活性
 **@支持规则:***@支持*规则也允许在声明查询中使用萨斯脚本表达式。
 **例:**
 
-```
+```css
 @mixin gfg {
   font-family: arial;
   @supports (font-family: geeks ) {
@@ -96,7 +96,7 @@ Sass 支持作为适当 CSS 一部分的每个 at 规则。为了保持灵活性
 
 **输出:**
 
-```
+```css
 .header {
   font-family: arial;
 }
@@ -111,7 +111,7 @@ Sass 支持作为适当 CSS 一部分的每个 at 规则。为了保持灵活性
 **@关键帧规则:**@关键帧规则的工作原理与任何其他常规 at 规则一样。唯一不同的是，它的子规则应该是一些有效的关键帧规则(%、from 或 to)，而不是任何普通的选择器。
 T3】例:
 
-```
+```css
 @keyframes font-change {
   from {
     font-family: arial;
@@ -132,7 +132,7 @@ T3】例:
 
 **输出:**
 
-```
+```css
 @keyframes font-change {
   from {
     font-family: arial;

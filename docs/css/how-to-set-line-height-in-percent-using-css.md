@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```css
 line-height: percent
 ```
 
@@ -16,7 +16,7 @@ line-height: percent
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -70,7 +70,7 @@ line-height: percent
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

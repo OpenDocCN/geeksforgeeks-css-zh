@@ -38,7 +38,7 @@ Tailwind CSS 基本上是一个实用程序优先的 CSS 框架，用于快速�
 
 ## 超文本标记语言
 
-```html
+```css
 <!-- add it to the head section of the html file -->
 <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css"
       rel="stylesheet">
@@ -54,7 +54,7 @@ Tailwind CSS 基本上是一个实用程序优先的 CSS 框架，用于快速�
 
 ## 超文本标记语言
 
-```html
+```css
 <!-- Write HTML code here -->
 <!DOCTYPE html>
 <html lang="en" dir="ltr">

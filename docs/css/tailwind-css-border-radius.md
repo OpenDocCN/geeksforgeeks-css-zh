@@ -92,7 +92,7 @@
 
 **语法:**
 
-```
+```css
 <element class="rounded-{Border-Radius}">...</element>
 ```
 
@@ -100,7 +100,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -146,7 +146,7 @@
 
 **语法:**
 
-```
+```css
 <element class="rounded-full">...</element>
 ```
 
@@ -154,7 +154,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -193,7 +193,7 @@
 
 **语法:**
 
-```
+```css
 <element class="rounded-{t|r|b|l}{-size?}">...</element>
 ```
 
@@ -201,7 +201,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -243,7 +243,7 @@
 
 **语法:**
 
-```
+```css
 <element class="rounded-{tl|tr|br|bl}{-size?}">...</element>
 ```
 
@@ -251,7 +251,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

@@ -14,7 +14,7 @@
 
 ## 钢性铸铁
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 <head>

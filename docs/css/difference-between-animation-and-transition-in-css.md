@@ -33,7 +33,7 @@ CSS **[动画](https://www.geeksforgeeks.org/css-animations/)** 允许 HTML 元�
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 
@@ -73,7 +73,7 @@ CSS **[动画](https://www.geeksforgeeks.org/css-animations/)** 允许 HTML 元�
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

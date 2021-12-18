@@ -6,7 +6,7 @@ scaleX()函数是一个内置函数，用于在 2D 平面中沿 x 轴调整元�
 
 **语法:**
 
-```
+```css
 scaleX() = scaleX( number )
 ```
 
@@ -16,7 +16,7 @@ scaleX() = scaleX( number )
 
 **例 1:**
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 
@@ -55,7 +55,7 @@ scaleX() = scaleX( number )
 
 **例 2:**
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 

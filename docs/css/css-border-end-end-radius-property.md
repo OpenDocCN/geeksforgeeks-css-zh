@@ -6,7 +6,7 @@ CSS 中的**边界-结束-结束-半径**属性用于指定块结束边界处的
 
 **语法:**
 
-```
+```css
 border-end-end-radius: length | percentage;
 ```
 
@@ -19,7 +19,7 @@ border-end-end-radius: length | percentage;
 
     **例 1:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -61,7 +61,7 @@ border-end-end-radius: length | percentage;
 
     **例 2:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 

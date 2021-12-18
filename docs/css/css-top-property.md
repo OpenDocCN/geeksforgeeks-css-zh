@@ -10,7 +10,7 @@ CSS 中的 top 属性用于描述元素的顶部位置。top 属性随元素的�
 
 **语法:**
 
-```
+```css
 top: length| initial| inherit| auto;
 ```
 
@@ -22,7 +22,7 @@ top: length| initial| inherit| auto;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -76,7 +76,7 @@ top: length| initial| inherit| auto;
 
 ## **超文本标记语言**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -129,7 +129,7 @@ top: length| initial| inherit| auto;
 
 ## **超文本标记语言**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>

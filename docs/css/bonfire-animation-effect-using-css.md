@@ -15,7 +15,7 @@
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 
@@ -51,7 +51,7 @@
 
 **CSS 代码:**以下是上述代码中使用的“styles.css”文件的内容。
 
-```html
+```css
 * {
     margin: 0;
     padding: 0;

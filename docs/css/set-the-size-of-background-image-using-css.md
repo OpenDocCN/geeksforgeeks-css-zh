@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 background-size: width height;
 ```
 
@@ -17,7 +17,7 @@ background-size: width height;
 
 **示例 1:** 本示例将背景尺寸设置为宽度和高度。
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
     <head> 
@@ -48,7 +48,7 @@ url("https://media.geeksforgeeks.org/wp-content/uploads/gfgbg.png");
 
 **示例 2:** 本示例将背景大小设置为百分比。
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
     <head> 

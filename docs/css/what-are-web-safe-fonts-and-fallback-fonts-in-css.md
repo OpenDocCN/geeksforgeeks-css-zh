@@ -28,7 +28,7 @@
 
 **语法:**
 
-```
+```css
 Selector {
   font-family: font-1, font-2, font-3;
 }
@@ -45,7 +45,7 @@ Selector {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -82,7 +82,7 @@ Selector {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
     <head>

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```html
+```css
 :out-of-range {
     // CSS property
 } 
@@ -18,7 +18,7 @@
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>

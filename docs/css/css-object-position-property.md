@@ -6,7 +6,7 @@ CSS 的**对象位置**属性指定图像或视频元素如何在其内容框内
 
 **语法:**
 
-```
+```css
 object-position: <position> | initial | inherit 
 ```
 
@@ -16,7 +16,7 @@ object-position: <position> | initial | inherit
 
     **示例#1:**
 
-    ```
+    ```css
     <!DOCTYPE html>
 
     <head>
@@ -51,7 +51,7 @@ object-position: <position> | initial | inherit
 
     **例 2:**
 
-    ```
+    ```css
     <!DOCTYPE html>
 
     <head>
@@ -86,7 +86,7 @@ object-position: <position> | initial | inherit
 
     **示例#3:**
 
-    ```
+    ```css
     <!DOCTYPE html>
 
     <head>
@@ -121,7 +121,7 @@ object-position: <position> | initial | inherit
 
     **示例#4:**
 
-    ```
+    ```css
     <!DOCTYPE html>
 
     <head>
@@ -158,7 +158,7 @@ object-position: <position> | initial | inherit
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
 
     <head>
@@ -194,7 +194,7 @@ object-position: <position> | initial | inherit
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
 
     <head>

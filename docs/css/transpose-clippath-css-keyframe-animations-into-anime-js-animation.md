@@ -12,7 +12,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
   <head>
@@ -86,13 +86,13 @@
 
 我们的起点是
 
-```
+```css
 clip-path: circle(100%);
 ```
 
 我们的结尾框架是
 
-```
+```css
 clip-path:circle(0);
 ```
 
@@ -102,7 +102,7 @@ clip-path:circle(0);
 
 ## java 描述语言
 
-```
+```css
   anime({
   targets: ".circle",
   easing: "easeInOutExpo",
@@ -123,7 +123,7 @@ clip-path:circle(0);
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
   <head>

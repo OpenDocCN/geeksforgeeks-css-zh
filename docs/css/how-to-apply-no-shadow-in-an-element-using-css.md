@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```css
 box-shadow: none;
 ```
 
@@ -16,7 +16,7 @@ box-shadow: none;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -47,7 +47,7 @@ box-shadow: none;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

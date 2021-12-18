@@ -6,7 +6,7 @@ CSS 中的透视原点属性用于定义用户查看 3D 对象的位置，即 3D
 
 **语法:**
 
-```
+```css
 perspective-origin: x-axis y-axis|initial|inherit;
 ```
 
@@ -29,7 +29,7 @@ perspective-origin: x-axis y-axis|initial|inherit;
 
 **示例:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

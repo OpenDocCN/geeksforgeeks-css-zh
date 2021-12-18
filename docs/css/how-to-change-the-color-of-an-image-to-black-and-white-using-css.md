@@ -8,7 +8,7 @@
 
 **语法:**
 
-```html
+```css
 filter: grayscale(100%)
 ```
 
@@ -16,7 +16,7 @@ filter: grayscale(100%)
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

@@ -9,7 +9,7 @@ CSS 中的左边距属性用于设置所需元素左边距的宽度。允许该�
 
 **语法**:
 
-```
+```css
 margin-left: length|auto|initial|inherit;
 ```
 
@@ -19,14 +19,14 @@ margin-left: length|auto|initial|inherit;
 
 *   **length :** Sets a fixed value defined in px, cm, pt. Negative values as mentioned earlier are allowed. 0 px is the default value.
 
-    ```
+    ```css
     margin-left: 15px;
 
     ```
 
     **例 1** :
 
-    ```
+    ```css
     <html>
        <head>
           <title>
@@ -45,7 +45,7 @@ margin-left: length|auto|initial|inherit;
 
     **例 2** :
 
-    ```
+    ```css
     <html>
        <head>
           <title>
@@ -64,14 +64,14 @@ margin-left: length|auto|initial|inherit;
 
 *   **auto :**It is used when it is desired that the browser determines the width of the left margin.
 
-    ```
+    ```css
     margin-left: auto;
 
     ```
 
     **例**:
 
-    ```
+    ```css
     <html>
        <head>
           <title>
@@ -90,14 +90,14 @@ margin-left: length|auto|initial|inherit;
 
 *   **initial :**It is used to set the value of the margin-left property to its default value.
 
-    ```
+    ```css
     margin-left: initial;
 
     ```
 
     **例**:
 
-    ```
+    ```css
     <html>
        <head>
           <title>
@@ -116,14 +116,14 @@ margin-left: length|auto|initial|inherit;
 
 *   **inherit :**It is used when it is desired that the element inherit the margin-left property of its parent as its own.
 
-    ```
+    ```css
     margin-left: inherit; 
 
     ```
 
     **例 1** :
 
-    ```
+    ```css
     <html>
        <head>
           <title>
@@ -144,7 +144,7 @@ margin-left: length|auto|initial|inherit;
 
     **例 2** :
 
-    ```
+    ```css
     <html>
        <head>
           <title>

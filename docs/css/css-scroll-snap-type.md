@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```css
 scroll-snap-type: none | [ x | y | block | inline | both ] [ mandatory | proximity ]
 
 ```
@@ -26,7 +26,7 @@ scroll-snap-type: none | [ x | y | block | inline | both ] [ mandatory | proximi
 
 **示例:**以下示例将说明滚动捕捉类型属性:
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

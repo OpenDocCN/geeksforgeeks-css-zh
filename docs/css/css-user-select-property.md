@@ -7,7 +7,7 @@
 
 **语法:**
 
-```html
+```css
 user-select: auto|none|text|all;
 ```
 
@@ -18,7 +18,7 @@ user-select: auto|none|text|all;
 **自动:**有默认值，即用户可以选择文本。
 **语法:**
 
-```html
+```css
 user-select: auto;
 ```
 
@@ -26,7 +26,7 @@ user-select: auto;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -64,7 +64,7 @@ user-select: auto;
 **无:**用于阻止用户选择文本，表示用户无法自行选择文本。
 **语法:**
 
-```html
+```css
 user-select: none;
 ```
 
@@ -72,7 +72,7 @@ user-select: none;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -110,7 +110,7 @@ user-select: none;
 **文本:**该属性允许用户选择文本。它不提供阻止用户选择文本。
 **语法:**
 
-```html
+```css
 user-select: text;
 ```
 
@@ -118,7 +118,7 @@ user-select: text;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>
@@ -156,7 +156,7 @@ user-select: text;
 **all:** 用于鼠标一击选择文本，而不是双击。
 **语法:**
 
-```html
+```css
 user-select: all;
 ```
 
@@ -164,7 +164,7 @@ user-select: all;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>

@@ -6,7 +6,7 @@ CSS 中的**文本对齐**属性用于指定元素 ie 中文本的水平对齐�
 
 **语法:**
 
-```
+```css
 text-align: left|right|center|justify|initial|inherit;
 ```
 
@@ -27,7 +27,7 @@ text-align: left|right|center|justify|initial|inherit;
 
 ## **超文本标记语言**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>

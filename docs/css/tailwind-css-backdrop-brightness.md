@@ -20,7 +20,7 @@
 
 **语法:**
 
-```
+```css
 <element class="backdrop-filter 
                 backdrop-brightness-{amount}">
 ..
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>

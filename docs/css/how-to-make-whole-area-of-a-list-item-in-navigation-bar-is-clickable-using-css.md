@@ -10,7 +10,7 @@
 
 **示例:**
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 
@@ -66,7 +66,7 @@
 
 **示例:**
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 

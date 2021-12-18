@@ -6,7 +6,7 @@
 
 **语法:**用于移除指定的 CSS 属性。
 
-```html
+```css
 object.removeProperty(propertyname)
 ```
 
@@ -18,7 +18,7 @@ object.removeProperty(propertyname)
 
 **示例:**展示 **removeProperty()方法**的工作原理:
 
-```html
+```css
 <html>
 
 <head>

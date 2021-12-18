@@ -8,7 +8,7 @@
 
 **语法:**
 
-```html
+```css
 :valid {
     // CSS property
 } 
@@ -17,7 +17,7 @@
 
 **示例:**
 
-```html
+```css
 <!DOCTYPE html>
 <html>
     <head>

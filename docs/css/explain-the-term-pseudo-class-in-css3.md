@@ -16,7 +16,7 @@
 
 **语法**:CSS 包含样式规则，样式规则包含一个[选择器](https://www.geeksforgeeks.org/css-syntax-and-selectors/)，后跟一个声明块。这些样式规则由浏览器解释。
 
-```
+```css
 h1 {
      font-size: 20px;
      background-color: blue;
@@ -30,7 +30,7 @@ h1 {
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -82,7 +82,7 @@ h1 {
 
 **语法:**
 
-```
+```css
 selector : pseudo-class{
          CSS property : value;
 }
@@ -90,7 +90,7 @@ selector : pseudo-class{
 
 **示例:**当鼠标悬停在所有“h1”元素上时，字体大小变为 30px。
 
-```
+```css
 h1 : hover{
    font-size:30px;
 }
@@ -110,7 +110,7 @@ h1 : hover{
 
 ## **超文本标记语言**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>
@@ -141,7 +141,7 @@ h1 : hover{
 
 ## **超文本标记语言**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 <head>

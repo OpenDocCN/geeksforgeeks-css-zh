@@ -6,7 +6,7 @@ CSS 中的**网格-模板-行**属性用于设置网格中的行数和行高。�
 
 **语法:**
 
-```
+```css
 grid-template-rows: none|auto|max-content|min-content|length|
 initial|inherit;
 ```
@@ -16,38 +16,38 @@ initial|inherit;
 *   **无:**不设置网格-模板-行属性的高度。它在需要时创建行。
     **语法:**
 
-    ```
+    ```css
     grid-template-rows: none;
     ```
 
 *   **自动:**用于自动设置行的大小，即取决于容器的大小&行中的内容。
     **语法:**
 
-```
+```css
 grid-template-rows: auto;
 ```
 
 *   **最大内容:**代表网格中项目的最大内容。
 
-    ```
+    ```css
     grid-template-rows: max-content;
     ```
 
     *   **最小内容:**它代表网格中项目的最小内容。
 
-    ```
+    ```css
     grid-template-rows: min-content;
     ```
 
     *   **length:** The size of row is set according to the specified length.
 
-    ```
+    ```css
     grid-template-rows: length;
     ```
 
     **例 1:**
 
-    ```
+    ```css
     <!DOCTYPE html> 
     <html> 
         <head> 
@@ -93,7 +93,7 @@ grid-template-rows: auto;
 
     **例 2:**
 
-    ```
+    ```css
     <!DOCTYPE html> 
     <html> 
         <head> 

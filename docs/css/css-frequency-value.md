@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 frequency: number Hz | kHz
 ```
 
@@ -21,7 +21,7 @@ frequency: number Hz | kHz
 
 **例:**
 
-```
+```css
 Valid: 120Hz
          14.44kHz or 14440 Hz
          160Khz (It is case insensitive)
@@ -36,7 +36,7 @@ Invalid: 180 (Unit is missing)
 
 ## HTML
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

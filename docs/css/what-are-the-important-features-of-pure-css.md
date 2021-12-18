@@ -32,7 +32,7 @@
 
 **语法:**
 
-```
+```css
 <link rel = "stylesheet" href: "downloaded_pure_css_file"/> 
 ```
 
@@ -40,7 +40,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -125,7 +125,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

@@ -32,7 +32,7 @@ CSS 为最常用的无序和有序列表的样式和格式提供了几个属性�
 
 **语法:**
 
-```html
+```css
 list-style: list-style-type list-style-position list-style-image|
 initial|inherit;
 ```
@@ -41,7 +41,7 @@ initial|inherit;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 
@@ -83,7 +83,7 @@ initial|inherit;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html lang="en">
 

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```css
 max-inline-size: length | percentage | auto | none | min-content |
            max-content | fit-content | inherit | initial | unset;
 ```
@@ -27,7 +27,7 @@ max-inline-size: length | percentage | auto | none | min-content |
 以下示例说明了 CSS 中的**最大内联尺寸属性**:
 **示例 1:**
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 
@@ -74,7 +74,7 @@ max-inline-size: length | percentage | auto | none | min-content |
 
 **例 2:**
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 

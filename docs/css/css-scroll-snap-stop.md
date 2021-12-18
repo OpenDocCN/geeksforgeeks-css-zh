@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```css
 scroll-snap-stop: normal | always;
 ```
 
@@ -21,7 +21,7 @@ scroll-snap-stop: normal | always;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

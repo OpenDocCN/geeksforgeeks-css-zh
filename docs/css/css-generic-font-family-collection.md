@@ -16,7 +16,7 @@
 
     **语法:**
 
-    ```
+    ```css
     element {
         font-family:serif;
     }
@@ -24,7 +24,7 @@
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -58,7 +58,7 @@
 
 *   **sans-serif:** Its style is modern, formal and simple in appearance. Unlike “Serif” It does not have a stroke at the ends. It has a wide range of use but most often in the digital form of text. The example of sans-serif is Verdana, Arial, Calibri, Helvetica, Futura, Impact, Lato, Optima, Skia, etc.
 
-    ```
+    ```css
     element {
         font-family: sans-serif;
     }
@@ -66,7 +66,7 @@
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -102,7 +102,7 @@
 
     **语法:**
 
-    ```
+    ```css
     element {
         font-family:cursive;
     }
@@ -110,7 +110,7 @@
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -146,7 +146,7 @@
 
     **语法:**
 
-    ```
+    ```css
     element {
         font-family:monospace;
     }
@@ -154,7 +154,7 @@
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -190,7 +190,7 @@
 
     **语法:**
 
-    ```
+    ```css
     element {
         font-family:fantasy;
     }
@@ -198,7 +198,7 @@
 
     **示例:**
 
-    ```
+    ```css
     <!DOCTYPE html>
     <html>
 
@@ -279,7 +279,7 @@
 
 **示例:**本示例使用不同类型的字体系列。
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

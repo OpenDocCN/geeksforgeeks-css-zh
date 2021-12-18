@@ -6,19 +6,19 @@
 
 **语法:**
 
-```
+```css
 scroll-padding-block-end: keyword_values
 ```
 
 或者
 
-```
+```css
 scroll-padding-block-end: length_values
 ```
 
 或者
 
-```
+```css
 scroll-padding-block-end: Global_Values
 ```
 
@@ -32,7 +32,7 @@ scroll-padding-block-end: Global_Values
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

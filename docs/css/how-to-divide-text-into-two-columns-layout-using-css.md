@@ -6,7 +6,7 @@
 
 **语法:**
 
-```html
+```css
 columns: column-width columns-count | auto | initial | inherit;
 ```
 
@@ -14,7 +14,7 @@ columns: column-width columns-count | auto | initial | inherit;
 
 ## 超文本标记语言
 
-```html
+```css
 
 <!DOCTYPE html>
 <html>

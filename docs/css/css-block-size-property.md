@@ -5,7 +5,7 @@
 CSS 中的**块大小属性**用于定义元素块的水平或垂直大小。根据[书写模式 p](https://www.geeksforgeeks.org/css-writing-mode-property/) 属性的值，它与宽度或高度属性一致。它会在元素文本的左边留下空白。
 **语法:**
 
-```
+```css
 block-size: length|percentage|auto|inherit|initial|unset
 ```
 
@@ -23,7 +23,7 @@ block-size: length|percentage|auto|inherit|initial|unset
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -64,7 +64,7 @@ block-size: length|percentage|auto|inherit|initial|unset
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

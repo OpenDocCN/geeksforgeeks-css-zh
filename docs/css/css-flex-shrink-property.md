@@ -8,7 +8,7 @@
 
 **语法:**
 
-```html
+```css
 flex-shrink: number| initial| inherit;
 ```
 
@@ -26,7 +26,7 @@ flex-shrink: number| initial| inherit;
 
 ## 超文本标记语言
 
-```html
+```css
 <!DOCTYPE html>
 <html>
 

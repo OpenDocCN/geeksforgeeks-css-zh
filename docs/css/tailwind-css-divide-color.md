@@ -23,7 +23,7 @@
 
 **语法:**
 
-```
+```css
 <element class="divide-{color}">...</element>
 ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html> 
 <html> 
 <head> 

@@ -16,7 +16,7 @@
 
 **语法:**
 
-```
+```css
 background-attachment: fixed;
 ```
 
@@ -24,7 +24,7 @@ background-attachment: fixed;
 
 ## 超文本标记语言
 
-```
+```css
 <!DOCTYPE html>
 <html>
 

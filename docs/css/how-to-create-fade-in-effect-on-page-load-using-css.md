@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```css
 body {
     animation: fadeInAnimation ease 3s
     animation-iteration-count: 1;
@@ -27,7 +27,7 @@ body {
 
 **示例:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
@@ -80,7 +80,7 @@ body {
 
 **语法:**
 
-```
+```css
 body {
     opacity: 0;
     transition: opacity 5s;
@@ -89,7 +89,7 @@ body {
 
 **示例:**
 
-```
+```css
 <!DOCTYPE html>
 <html>
 
